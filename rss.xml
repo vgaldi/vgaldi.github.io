@@ -1,0 +1,1907 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>Fields & Waves Lab</title>
+        <description>Fields & Waves Lab - Vincenzo Galdi</description>
+        <link>http://people.ing.unisannio.it/vgaldi</link>
+        <link>http://people.ing.unisannio.it/vgaldi</link>
+        <lastBuildDate>2017-02-14T11:14:01+01:00</lastBuildDate>
+        <pubDate>2017-02-14T11:14:01+01:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>Metamaterial-based analog computing</title>
+                <description>
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“It’s a very imaginative application of metamaterials – it takes things off in a completely new direction.&lt;/em&gt;
+&lt;em&gt;Although image-processing is the obvious application, the basic mathematical tools could also be used to solve equations.&lt;/em&gt;
+&lt;em&gt;These techniques could be adapted to do that.”&lt;/em&gt;&lt;/p&gt;
+  &lt;p style=&quot;text-align: right;&quot;&gt; Professor Sir John Pendry, Imperial College &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In collaboration with the Groups led by Profs. &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/)&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania) 
+and &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt; (University of Texas at Austin), our Group 
+has put forward a general paradigm of “metamaterial analog computing” [&lt;a href=&quot;#IJ109_Science_343_160_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], 
+in which properly designed metamaterial blocks may perform ubiquitous mathematical operations, 
+such as spatial differentiation, integration or convolution, on the profile of the impinging light as 
+it propagates through them (see the conceptual schematic in the figure).&lt;/p&gt;
+
+&lt;p&gt;Our idea is inspired by the earlier “calculating machines” in the form of mechanical, electronic, and hybrid analog computers, 
+which have been designed in the past to perform prescribed mathematical computations. 
+These solutions suffered from substantial limitations, including relatively large size and slow response, 
+and were quickly dropped with the advances on digital computers.&lt;/p&gt;
+
+&lt;p&gt;The bottom panel of the figure illustrates a possible application of our proposed 
+“computational metamaterials” as a Laplace filter for edge detection, 
+an increasingly common image processing technique that helps software find faces and identify objects in pictures.&lt;/p&gt;
+
+&lt;p&gt;These structures may be of subwavelength size, and several orders of magnitude smaller than conventional 
+lens-based optical signal processing systems.&lt;/p&gt;
+
+&lt;p&gt;These results (included as one of the Highlights in Optics in 2014 in &lt;a href=&quot;http://www.osa-opn.org/home/articles/volume_25/december_2014/extras/doing_math_with_light/&quot;&gt;“Optics &amp;amp; Photonics News”&lt;/a&gt;) may pave 
+the way to a re-birth of optical analog computers, but at the nanoscale, 
+entirely wave-based, integrable with nanophotonics and electronic, with potentially disruptive applications 
+to several fields of science and engineering.&lt;/p&gt;
+
+&lt;p&gt;A particularly intriguing follow-up would be the design of metadevices capable of solving
+ differential and/or integral equations.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ109_Science_343_160_2014&quot;&gt;Silva, A., Monticone, F., Castaldi, G., Galdi, V., Alù, A., &amp;amp; Engheta, N. (2014). Performing mathematical operations with metamaterials. &lt;i&gt;Science&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;343&lt;/i&gt;&lt;/span&gt;(6167), 160–163.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ109_Science_343_160_2014-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ109_Science_343_160_2014-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ109_Science_343_160_2014-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1126/science.1242818&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ109_Science_343_160_2014.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ109_Science_343_160_2014_SM.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ109_Science_343_160_2014-abstract&quot; class=&quot;collapse&quot;&gt;We introduce the concept of metamaterial analog computing, based on suitably designed metamaterial blocks that can perform mathematical operations (such as spatial differentiation, integration, or convolution) on the profile of an impinging wave as it propagates through these blocks. Two approaches are presented to achieve such functionality: (i) subwavelength structured metascreens combined with graded-index waveguides and (ii) multilayered slabs designed to achieve a desired spatial Green’s function. Both techniques offer the possibility of miniaturized, potentially integrable, wave-based computing systems that are thinner than conventional lens-based optical signal and data processors by several orders of magnitude.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ109_Science_343_160_2014-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ109_Science_343_160_2014,
+  author = {Silva, Alexandre and Monticone, Francesco and Castaldi, Giuseppe and Galdi, Vincenzo and Al{\`u}, Andrea and Engheta, Nader},
+  title = {{Performing mathematical operations with metamaterials}},
+  journal = {Science},
+  doi = {10.1126/science.1242818},
+  year = {2014},
+  volume = {343},
+  number = {6167},
+  pages = {160--163},
+  month = jan,
+  note = {/assets/papers/IJ109_Science_343_160_2014_SM.pdf}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://people.ing.unisannio.it/vgaldi/projects/computational-MTM</link>
+                <guid>http://people.ing.unisannio.it/vgaldi/projects/computational-MTM</guid>
+                <pubDate>2017-02-11T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Ray-chaotic “billiard” enclosures</title>
+                <description>
+&lt;p&gt;Ray chaos, i.e., exponential sensitivity of ray trajectories to launching conditions, 
+could intuitively be expected in very complex and cluttered propagation scenarios 
+(e.g., urban areas). Remarkably, it can also be observed in relatively simple (but coordinate-non-separable) 
+structures that give  rise to multiple reflections, focusing, and defocusing, such as 
+homogeneously filled “billiard-shaped” enclosures.&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ30_IEEE_APMAG_47_62_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], by revisiting a body of results from quantum physics (classical vs. quantum chaos),
+we emphasized possible implications of internal ray chaos for high-frequency wave dynamics (“ray-chaotic footprints”).
+In the time-harmonic high-frequency limit, ray-chaotically-inclined systems tend to exhibit behaviors that differ fundamentally 
+from those observed in ray-regular geometries.
+For instance, in connection with the eigenvalues, in regular billiards 
+the normalized neighboring spacing statistics follow a Poisson probability density function (PDF), 
+whereas in completely ray-chaotic billiards, they turn out to be accurately modeled by a Wigner-Rayleigh PDF.
+In connection with the eigenfunctions, in regular billiards, 
+the wavefield at each point results from the superposition of plane waves (rays) from a finite number of 
+possible directions, whereas in completely ray-chaotic billiards it is expected to be a superposition of 
+a multitude of plane waves, with fixed wavevector amplitude, and uniform direction and phase distribution.&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ100_IEEE_TAP_60_3827_2012&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], we carried out a full-wave investigation of 
+short-pulse electromagnetic wavepacket propagation in ray-chaotic enclosures, 
+via a numerical approach based on the finite difference time domain (FDTD) method.&lt;/p&gt;
+
+&lt;p&gt;The figure (top panel) shows the quarter-Sinai-stadium configuration considered, with a 
+typical space-filling ray trajectory (after 250 reflections), and a map illustrating 
+the uniform filling of the phase-space (reflection position vs. direction).&lt;/p&gt;
+
+&lt;p&gt;The bottom panels show instead the temporal evolution of a short-pulsed wavepacket launched in the cavity.
+While bouncing around the walls, along the ray path skeleton, the wavepacket undergoes focusing at the concave 
+curved wall and natural spreading elsewhere (including straight-wall reflection), 
+progressively losing its initial space-time localization. 
+At a sufficiently long time, the wavepacket has already uniformly covered the entire enclosure, and the initially localized energy 
+is spread across the mode spectrum.&lt;/p&gt;
+
+&lt;p&gt;Results from statistical analysis of the late-time spatial field distributions are 
+consistent with the assumption of a random pulsed plane-wave model.&lt;/p&gt;
+
+&lt;p&gt;These results may find important applications
+to wideband electromagnetic interference and/or compatibility testbeds
+(whereby an equipment under test may be subjected to a “pulse
+shower” illumination with characteristics largely independent
+of its location, orientation, shape and constitutive properties),
+as well as the synthetic emulation of multi-path wireless channels.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ30_IEEE_APMAG_47_62_2005&quot;&gt;Galdi, V., Pinto, I. M., &amp;amp; Felsen, L. B. (2005). Wave propagation in ray-chaotic enclosures: paradigms, oddities and examples. &lt;i&gt;IEEE Antennas and Propagation Magazine&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;47&lt;/i&gt;&lt;/span&gt;(1), 62–81.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ30_IEEE_APMAG_47_62_2005-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ30_IEEE_APMAG_47_62_2005-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ30_IEEE_APMAG_47_62_2005-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/MAP.2005.1436220&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ30_IEEE_APMAG_47_62_2005.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ30_IEEE_APMAG_47_62_2005-abstract&quot; class=&quot;collapse&quot;&gt;Ray chaos, characterized by eventual exponential divergence of originally nearby multi-bounce ray trajectories, is an intriguing phenomenon. It can be observed in several electromagnetic wave propagation scenarios: both very complex (e.g., urban areas) and very simple (e.g., a stadium-shaped cavity) scenarios. This paper contains a compact review of known results on wave propagation in ray-chaotic scenarios. Attention is focused principally on two-dimensional simple paradigms of internal ray chaos (“ray-chaotic billiards”), with emphasis on possible implications for high-frequency wave dynamics (“ray-chaotic footprints”). General concepts, tools, and numerical examples are discussed, and their potential relevance to current challenges in electromagnetic engineering is noted.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ30_IEEE_APMAG_47_62_2005-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ30_IEEE_APMAG_47_62_2005,
+  author = {Galdi, V. and Pinto, I. M. and Felsen, L. B.},
+  journal = {IEEE Antennas and Propagation Magazine},
+  title = {Wave propagation in ray-chaotic enclosures: paradigms, oddities and examples},
+  year = {2005},
+  volume = {47},
+  number = {1},
+  pages = {62--81},
+  keywords = {chaos;electromagnetic wave propagation;electromagnetic engineering;electromagnetic wave propagation;exponential divergence;high-frequency wave dynamics;internal ray chaos;multi-bounce ray trajectory;ray-chaotic enclosure;wave propagation;Aerodynamics;Aerospace engineering;Chaos;Electromagnetic propagation;Fluid dynamics;Geometrical optics;Laser cavity resonators;Mechanical engineering;Optical propagation;Urban areas},
+  doi = {10.1109/MAP.2005.1436220},
+  issn = {1045-9243},
+  month = feb
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ100_IEEE_TAP_60_3827_2012&quot;&gt;Castaldi, G., Galdi, V., &amp;amp; Pinto, I. M. (2012). Short-pulsed wavepacket propagation in ray-chaotic enclosures. &lt;i&gt;IEEE Transactions on Antennas and Propagation&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;60&lt;/i&gt;&lt;/span&gt;(8), 3827–3837.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ100_IEEE_TAP_60_3827_2012-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ100_IEEE_TAP_60_3827_2012-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ100_IEEE_TAP_60_3827_2012-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/TAP.2012.2201126&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ100_IEEE_TAP_60_3827_2012.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ100_IEEE_TAP_60_3827_2012-abstract&quot; class=&quot;collapse&quot;&gt;Wave propagation in ray-chaotic scenarios, characterized by exponential sensitivity to ray-launching conditions, is a topic of significant interest, with deep phenomenological implications and important applications, ranging from optical components and devices to time-reversal focusing/sensing schemes. Against a background of available results that are largely focused on the time-harmonic regime, we deal here with short-pulsed wavepacket propagation in a ray-chaotic enclosure. For this regime, we propose a rigorous analytical framework based on a short-pulsed random-plane-wave statistical representation, and check its predictions against the results from finite-difference-time-domain numerical simulations.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ100_IEEE_TAP_60_3827_2012-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ100_IEEE_TAP_60_3827_2012,
+  author = {Castaldi, G. and Galdi, V. and Pinto, I. M.},
+  journal = {IEEE Transactions on Antennas and Propagation},
+  title = {Short-pulsed wavepacket propagation in ray-chaotic enclosures},
+  year = {2012},
+  volume = {60},
+  number = {8},
+  pages = {3827--3837},
+  keywords = {chaos;electromagnetic wave propagation;statistical analysis;ray launching condition;ray-chaotic enclosures;short pulsed random plane wave statistical representation;short pulsed wavepacket propagation;time reversal focusing;time reversal sensing;time-harmonic regime;Apertures;Finite difference methods;Geometry;Numerical models;Time domain analysis;Trajectory;Vectors;Plane waves;random fields;ray chaos;short pulses},
+  doi = {10.1109/TAP.2012.2201126},
+  issn = {0018-926X},
+  month = aug
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://people.ing.unisannio.it/vgaldi/projects/billiard-cavities</link>
+                <guid>http://people.ing.unisannio.it/vgaldi/projects/billiard-cavities</guid>
+                <pubDate>2017-02-11T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Aperiodic-tiling antenna arrays</title>
+                <description>
+&lt;p&gt;Our Group has been among the pioneers in the application of aperiodically ordered structures in electromagnetics.&lt;/p&gt;
+
+&lt;p&gt;More specifically, in [&lt;a href=&quot;#IJ28_IEEE_TAP_53_635_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we first introduced the concept of “aperiodic tiling” in the theory of antenna arrays. 
+This study clarifies some fundamental theoretical aspects related to the effects of “order” and “symmetry” 
+in the radiation characteristics. Moreover, it identifies certain aperiodic configurations particularly 
+interesting in terms of bandwidth and sidelobe level.&lt;/p&gt;
+
+&lt;p&gt;The figure illustrates the inflection rule to generate a particular (Danzer) aperiodic tiling (top), and the 
+corresponding radiation spectrum (bottom), from which it can be observed a 14-fold rotational symmetry and the absence of grating lobes.&lt;/p&gt;
+
+&lt;p&gt;A major complication that arises when dealing with aperiodic structures, is the lack of the typical 
+analytical tools available for periodic geometries.
+In [&lt;a href=&quot;#IJ32_IEEE_TAP_53_2044_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], with specific reference to a 
+“modified-Fibonacci” &lt;em&gt;quasi-periodic&lt;/em&gt; sequence, we showed a
+two-scale generalization of the standard Poisson summation formula for periodic arrays. 
+This allows for a “quasi-Floquet” analytic parameterization of the radiated field, 
+which provides instructive insights into some of the basic wave mechanisms associated with quasi-periodic order. 
+These results were also extended to account for the presence of a dielectric substrate [&lt;a href=&quot;#IJ42_JEWA_21_1231_2007&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ33_IEEE_TAP_53_3568_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;], we explored various configurations 
+generated by Rudin-Shapiro sequences, which constitute one of the simplest conceivable 
+examples of deterministic aperiodic geometries featuring random-like (dis)order. 
+In particular, we showed that these might find interesting applications to the synthesis of
+&lt;em&gt;omnidirectional&lt;/em&gt; and &lt;em&gt;thinned&lt;/em&gt; arrays.&lt;/p&gt;
+
+&lt;p&gt;Finally, in [&lt;a href=&quot;#IJ39_IEEE_TAP_55_1554_2007&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;], we studied 
+the plane-wave scattering from general one-dimensional aperiodically ordered 
+strip-array geometries based on two-symbol substitution rules. By exploiting theoretical results from solid-state physics 
+and discrete geometry, we showed that a wealth of scattering signatures, 
+with (sometime counter-intuitive) spectral characteristics ranging from quasiperiodic to quasirandom, 
+can be obtained via judicious exploitation of the additional geometrical and/or constitutive degrees of 
+freedom available in aperiodic configurations. In particular, we highlighted the role played by the substitution 
+rule (and, specifically, the arithmetical properties of the associated substitution matrix), the scale-ratio, 
+the element scattering responde, and the array size.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ28_IEEE_TAP_53_635_2005&quot;&gt;Pierro, V., Galdi, V., Castaldi, G., Pinto, I. M., &amp;amp; Felsen, L. B. (2005). Radiation properties of planar antenna arrays based on certain categories of aperiodic tilings. &lt;i&gt;IEEE Transactions on Antennas and Propagation&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;53&lt;/i&gt;&lt;/span&gt;(2), 635–644.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ28_IEEE_TAP_53_635_2005-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ28_IEEE_TAP_53_635_2005-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ28_IEEE_TAP_53_635_2005-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/TAP.2004.841287&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ28_IEEE_TAP_53_635_2005.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ28_IEEE_TAP_53_635_2005-abstract&quot; class=&quot;collapse&quot;&gt;Two-dimensional aperiodic tilings are collections of polygons, devoid of any translational symmetries, capable of covering a plane without gaps and overlaps. Although aperiodic, these structures can exhibit order and symmetry in an extended sense. In this paper, we study the radiation properties of planar antenna arrays based on certain categories of two-dimensional aperiodic tilings that illustrate diverse aspects of aperiodic order. Background material on aperiodic tilings and their known electromagnetic properties is reviewed. Results are illustrated to highlight the effects of aperiodic order in the antenna array radiation properties. Potential applications are also envisaged&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ28_IEEE_TAP_53_635_2005-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ28_IEEE_TAP_53_635_2005,
+  author = {Pierro, V. and Galdi, V. and Castaldi, G. and Pinto, I. M. and Felsen, L. B.},
+  journal = {IEEE Transactions on Antennas and Propagation},
+  title = {Radiation properties of planar antenna arrays based on certain categories of aperiodic tilings},
+  year = {2005},
+  volume = {53},
+  number = {2},
+  pages = {635--644},
+  keywords = {antenna radiation patterns;electromagnetic waves;periodic structures;planar antenna arrays;quasicrystals;diverse aspect;electromagnetic property;planar antenna array;potential application;radiation property;translational symmetry;two-dimensional aperiodic tiling;Antenna arrays;Design engineering;Electromagnetic radiation;Electromagnetic scattering;Geometry;Periodic structures;Physics computing;Planar arrays;Power engineering and energy;Power engineering computing;Antenna arrays;aperiodic tilings;quasi-crystals;radiation},
+  doi = {10.1109/TAP.2004.841287},
+  issn = {0018-926X},
+  month = feb
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ32_IEEE_TAP_53_2044_2005&quot;&gt;Galdi, V., Castaldi, G., Pierro, V., Pinto, I. M., &amp;amp; Felsen, L. B. (2005). Parameterizing quasi-periodicity: generalized Poisson summation and its application to modified-Fibonacci antenna arrays. &lt;i&gt;IEEE Transactions on Antennas and Propagation&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;53&lt;/i&gt;&lt;/span&gt;(6), 2044–2053.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ32_IEEE_TAP_53_2044_2005-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ32_IEEE_TAP_53_2044_2005-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ32_IEEE_TAP_53_2044_2005-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/TAP.2005.848514&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ32_IEEE_TAP_53_2044_2005.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ32_IEEE_TAP_53_2044_2005-abstract&quot; class=&quot;collapse&quot;&gt;The fairly recent discovery of “quasi-crystals”, whose X-ray diffraction patterns reveal certain peculiar features which do not conform with spatial periodicity, has motivated studies of the wave-dynamical implications of &quot;aperiodic order&quot;. Within the context of the radiation properties of antenna arrays, an instructive novel (canonical) example of wave interactions with quasi-periodic order is illustrated here for one-dimensional array configurations based on the “modified-Fibonacci” sequence, with utilization of a two-scale generalization of the standard Poisson summation formula for periodic arrays. This allows for a “quasi-Floquet” analytic parameterization of the radiated field, which provides instructive insights into some of the basic wave mechanisms associated with quasi-periodic order, highlighting similarities and differences with the periodic case. Examples are shown for quasi-periodic infinite and spatially-truncated arrays, with brief discussion of computational issues and potential applications.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ32_IEEE_TAP_53_2044_2005-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ32_IEEE_TAP_53_2044_2005,
+  author = {Galdi, V. and Castaldi, G. and Pierro, V. and Pinto, I. M. and Felsen, L. B.},
+  journal = {IEEE Transactions on Antennas and Propagation},
+  title = {Parameterizing quasi-periodicity: generalized Poisson summation and its application to modified-Fibonacci antenna arrays},
+  year = {2005},
+  volume = {53},
+  number = {6},
+  pages = {2044--2053},
+  keywords = {Fibonacci sequences;antenna arrays;antenna radiation patterns;quasicrystals;stochastic processes;antenna arrays;modified-Fibonacci sequence;one-dimensional array configuration;periodic arrays;quasiFloquet analytic parameterization;quasicrystals;quasiperiodic order;standard Poisson summation formula;Antenna arrays;Electromagnetic devices;Electromagnetic diffraction;Frequency selective surfaces;Geometry;Helium;Passband;Photonic band gap;Two dimensional displays;X-ray diffraction;Antenna arrays;Fibonacci sequence;aperiodic order;generalized Poisson summation},
+  doi = {10.1109/TAP.2005.848514},
+  issn = {0018-926X},
+  month = jun
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ42_JEWA_21_1231_2007&quot;&gt;Castaldi, G., Galdi, V., Pierro, V., &amp;amp; Pinto, I. M. (2007). Radiation from Fibonacci-type quasiperiodic arrays on dielectric substrates. &lt;i&gt;Journal of Electromagnetic Waves and Applications&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;21&lt;/i&gt;&lt;/span&gt;(9), 1231–1245.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ42_JEWA_21_1231_2007-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ42_JEWA_21_1231_2007-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ42_JEWA_21_1231_2007-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1163/156939307794731187&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ42_JEWA_21_1231_2007.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ42_JEWA_21_1231_2007-abstract&quot; class=&quot;collapse&quot;&gt; We present a simple prototype study of electromagnetic radiation by a one-dimensional quasiperiodic Fibonacci-type array laid on a grounded dielectric slab, extending our previous free-space studies. Analytic parameterization of the interaction between aperiodic-order-induced &quot;quasi-Floquet&quot; waves and slab-induced surface/leaky-waves is addressed, for infinite and truncated arrays, via generalized Poisson summation and uniform asymptotics. Accuracy and computational effectiveness of the proposed parameterizations are assessed via numerical comparisons against an independently-generated reference solution (element-by-element synthesis). &lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ42_JEWA_21_1231_2007-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ42_JEWA_21_1231_2007,
+  author = {Castaldi, G. and Galdi, V. and Pierro, V. and Pinto, I. M.},
+  title = {Radiation from Fibonacci-type quasiperiodic arrays on dielectric substrates},
+  journal = {Journal of Electromagnetic Waves and Applications},
+  volume = {21},
+  number = {9},
+  pages = {1231--1245},
+  year = {2007},
+  month = sep,
+  doi = {10.1163/156939307794731187},
+  url = { http://www.tandfonline.com/doi/abs/10.1163/156939307794731187}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ33_IEEE_TAP_53_3568_2005&quot;&gt;Galdi, V., Pierro, V., Castaldi, G., Pinto, I. M., &amp;amp; Felsen, L. B. (2005). Radiation properties of one-dimensional random-like antenna arrays based on Rudin-Shapiro sequences. &lt;i&gt;IEEE Transactions on Antennas and Propagation&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;53&lt;/i&gt;&lt;/span&gt;(11), 3568–3575.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ33_IEEE_TAP_53_3568_2005-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ33_IEEE_TAP_53_3568_2005-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ33_IEEE_TAP_53_3568_2005-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/TAP.2005.858863&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ33_IEEE_TAP_53_3568_2005.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ33_IEEE_TAP_53_3568_2005-abstract&quot; class=&quot;collapse&quot;&gt;The development of exotic new materials, such as metamaterials, has created strong interest within the electromagnetics (EM) community for possible new phenomenologies and device applications, with particular attention to periodicity-induced phenomena, such as photonic bandgaps. Within this context, motivated by the fairly recent discovery in X-ray crystallography of “quasi-crystals”, whose diffraction patterns display unusual characteristics that are associated with “aperiodic order”, we have undertaken a systematic study of how these exotic effects manifest themselves in the radiation properties of aperiodically configured antenna arrays. The background for these studies, with promising example configurations, has been reported in a previous publication [V. Pierro et al., IEEE Trans. Antennas Propag., vol. 53, pp. 635-644, Feb. 2005]. In this paper, we pay attention to various configurations generated by Rudin-Shapiro (RS) sequences, which constitute one of the simplest conceivable examples of deterministic aperiodic geometries featuring random-like (dis)order. After presentation and review of relevant background material, the radiation properties of one-dimensional RS-based antenna arrays are analyzed, followed by illustrative numerical parametric studies to validate the theoretical models. Design parameters and potential practical applications are also given attention.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ33_IEEE_TAP_53_3568_2005-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ33_IEEE_TAP_53_3568_2005,
+  author = {Galdi, V. and Pierro, V. and Castaldi, G. and Pinto, I. M. and Felsen, L. B.},
+  journal = {IEEE Transactions on Antennas and Propagation},
+  title = {Radiation properties of one-dimensional random-like antenna arrays based on Rudin-Shapiro sequences},
+  year = {2005},
+  volume = {53},
+  number = {11},
+  pages = {3568--3575},
+  doi = {10.1109/TAP.2005.858863},
+  issn = {0018-926X},
+  month = nov
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ39_IEEE_TAP_55_1554_2007&quot;&gt;Galdi, V., Castaldi, G., Pierro, V., Pinto, I. M., &amp;amp; Felsen, L. B. (2007). Scattering properties of one-dimensional aperiodically-ordered strip arrays based on two-symbol substitutional sequences. &lt;i&gt;IEEE Transactions on Antennas and Propagation&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;55&lt;/i&gt;&lt;/span&gt;(6), 1554–1563.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ39_IEEE_TAP_55_1554_2007-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ39_IEEE_TAP_55_1554_2007-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ39_IEEE_TAP_55_1554_2007-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/TAP.2007.897228&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ39_IEEE_TAP_55_1554_2007.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ39_IEEE_TAP_55_1554_2007-abstract&quot; class=&quot;collapse&quot;&gt;This paper is concerned with a study of the two-dimensional (2-D) time-harmonic scattering by aperiodically-ordered 1-D planar strip arrays based on two-symbol substitutional sequences, under Kirchhoff physical-optics approximation. In this connection, theoretical results from solid-state physics, dwelling on concepts from discrete geometry and number theory, are briefly reviewed and applied to the characterization of the scattering signatures of the above physical configuration. Parametric studies are presented in order to flesh out some of the above concepts and to highlight wave-features which are thought as being representative of a fairly broad class of regular non-periodic scatterers. Potential applications are also envisaged.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ39_IEEE_TAP_55_1554_2007-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ39_IEEE_TAP_55_1554_2007,
+  author = {Galdi, V. and Castaldi, G. and Pierro, V. and Pinto, I. M. and Felsen, L. B.},
+  journal = {IEEE Transactions on Antennas and Propagation},
+  title = {Scattering properties of one-dimensional aperiodically-ordered strip arrays based on two-symbol substitutional sequences},
+  year = {2007},
+  volume = {55},
+  number = {6},
+  pages = {1554--1563},
+  keywords = {electromagnetic wave scattering;quasicrystals;symbolic substitution;1D aperiodically-ordered strip arrays;1D planar strip arrays;2D time-harmonic scattering;Kirchhoff physical-optics approximation;nonperiodic scatterers;scattering properties;solid-state physics;two-symbol substitutional sequences;wave-features;Electrodynamics;Electromagnetic scattering;Geometry;Helium;Parametric study;Particle scattering;Periodic structures;Physics;Solid state circuits;Two dimensional displays;Aperiodic order;quasicrystals;scattering;substitutional sequences},
+  doi = {10.1109/TAP.2007.897228},
+  issn = {0018-926X},
+  month = jun
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://people.ing.unisannio.it/vgaldi/projects/aperiodic-tiling_arrays</link>
+                <guid>http://people.ing.unisannio.it/vgaldi/projects/aperiodic-tiling_arrays</guid>
+                <pubDate>2017-02-11T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Optimized mirror coatings</title>
+                <description>
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/share&quot; class=&quot;twitter-share-button&quot;&gt;Tweet&lt;/a&gt;
+&lt;script&gt;
+	!function(d,s,id){
+		var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+		if(!d.getElementById(id)){
+			js=d.createElement(s);
+			js.id=id;
+			js.src=p+'://platform.twitter.com/widgets.js';
+			fjs.parentNode.insertBefore(js,fjs);
+		}
+	}(document, 'script', 'twitter-wjs');
+&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://plus.google.com/share?url=http://goharsha.com&amp;amp;hl=en-US&quot; onclick=&quot;javascript:window.open(this.href,'',   'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;&quot;&gt;
+    &lt;kbd&gt;
+        &lt;!-- use the google+ logo for the link --&gt;
+        &lt;img alt=&quot;...&quot; class=&quot;footer-icon&quot; width=&quot;28px&quot; src=&quot;/assets/social-icons/g+icon.png&quot; /&gt;
+        &amp;lt;/img&amp;gt;&lt;/kbd&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Google+
+&amp;lt;/kbd&amp;gt; &amp;lt;/a&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;For second-generation gravitational-wave interferometric detectors such as &lt;a href=&quot;https://www.advancedligo.mit.edu&quot;&gt;Advanced LIGO&lt;/a&gt;, 
+the thermal noise of the test mass mirror coatings is a significant limit in a critical midband around 100 Hz.&lt;/p&gt;
+
+&lt;p&gt;The optical cavities at the heart of the length-sensing mechanism of gravitational wave interferometers 
+use mirrors made with multilayer dielectric coatings to produce the high reflectivities that are required.
+The conventional design of high-reflectivity multilayer dielectric coating consists of quarter-wavelength alternating layers 
+made of silica (low-index) and tantala (high-index) materials. Such design, though optimal from the reflectivity viewpoint, 
+does not minimize the thermal noise since there is a substantial difference in the mechanical loss of 
+the two material constituents.&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#ISI-000241947200007&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we proposed a systematic procedure for designing minimal-noise 
+coatings featuring a prescribed reflectivity. Such design is based on a periodic stack of 
+identical high/low index ‘‘doublets,’’ with total thickness of half-wavelength and optimized material fractions, 
+with the exception of the terminal (top/bottom) layers.&lt;/p&gt;
+
+&lt;p&gt;Mirrors based on such a design were fabricated 
+at the Laboratoire des Matériaux Avancés (Lyon, France) and experimentally characterized by measuring 
+the broadband noise floor of the Thermal Noise
+Interferometer (TNI) at the California Institute of Technology [&lt;a href=&quot;#IJ86_PRD_81_122001_2010&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
+
+&lt;p&gt;The figure shows the optimized design (top), and the measured thermal noise (bottom) 
+compared with the standard quarter-wavelength design.
+The measurements indicated a reduction in thermal noise in line with modeling predictions.&lt;/p&gt;
+
+&lt;p&gt;Our optimized mirror coatings have been implemented in Advanced LIGO [&lt;a href=&quot;#IJ119_PRD_93_112004_2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], and have contributed 
+to attain the required strain sensitivity for the direct detection of gravitational waves.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;ISI-000241947200007&quot;&gt;Agresti, J., Castaldi, G., DeSalvo, R., Galdi, V., Pierro, V., &amp;amp; Pinto, I. M. (2006). Optimized multilayer dielectric mirror coatings for gravitational wave
+   interferometers. In M. J. Ellison (Ed.), &lt;i&gt;Proceedings of SPIE&lt;/i&gt; (Vol. 6286, p. 628608). Advances in Thin-Film Coatings for Optical Applications
+   III, SPIE Photonics West, San Diego, CA, USA, Aug. 13-14, 2006.&lt;/span&gt;
+
+
+&lt;div id=&quot;ISI-000241947200007-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#ISI-000241947200007-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1117/12.678977&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;ISI-000241947200007-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{ISI-000241947200007,
+  author = {Agresti, Juri and Castaldi, Giuseppe and DeSalvo, Riccardo and Galdi, Vincenzo and Pierro, Vincenzo and Pinto, Innocenzo M.},
+  editor = {Ellison, MJ},
+  title = {Optimized multilayer dielectric mirror coatings for gravitational wave
+     interferometers},
+  booktitle = {Proceedings of SPIE},
+  year = {2006},
+  month = aug,
+  volume = {6286},
+  organization = {Advances in Thin-Film Coatings for Optical Applications
+     III, SPIE Photonics West, San Diego, CA, USA, Aug. 13-14, 2006},
+  doi = {10.1117/12.678977},
+  pages = {628608}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ86_PRD_81_122001_2010&quot;&gt;Villar, A. E., Black, E. D., DeSalvo, R., Libbrecht, K. G., Michel, C., Morgado, N., … Taurasi, I. (2010). Measurement of thermal noise in multilayer coatings with optimized layer thickness. &lt;i&gt;Physical Review D&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;81&lt;/i&gt;&lt;/span&gt;(12), 122001.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ86_PRD_81_122001_2010-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ86_PRD_81_122001_2010-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ86_PRD_81_122001_2010-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevD.81.122001&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ86_PRD_81_122001_2010.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ86_PRD_81_122001_2010-abstract&quot; class=&quot;collapse&quot;&gt;A standard quarter-wavelength multilayer optical coating will produce the highest reflectivity for a given number of coating layers, but in general it will not yield the lowest thermal noise for a prescribed reflectivity. Coatings with the layer thicknesses optimized to minimize thermal noise could be useful in future generation interferometric gravitational wave detectors where coating thermal noise is expected to limit the sensitivity of the instrument. We present the results of direct measurements of the thermal noise of a standard quarter-wavelength coating and a low noise optimized coating. The measurements indicate a reduction in thermal noise in line with modeling predictions.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ86_PRD_81_122001_2010-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ86_PRD_81_122001_2010,
+  title = {Measurement of thermal noise in multilayer coatings with optimized layer thickness},
+  author = {Villar, Akira E. and Black, Eric D. and DeSalvo, Riccardo and Libbrecht, Kenneth G. and Michel, Christophe and Morgado, Nazario and Pinard, Laurent and Pinto, Innocenzo M. and Pierro, Vincenzo and Galdi, Vincenzo and Principe, Maria and Taurasi, Ilaria},
+  journal = {Physical Review D},
+  volume = {81},
+  issue = {12},
+  pages = {122001},
+  numpages = {8},
+  year = {2010},
+  month = jun,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.81.122001},
+  url = {http://link.aps.org/doi/10.1103/PhysRevD.81.122001}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ119_PRD_93_112004_2016&quot;&gt;Martynov, D. V., Hall, E. D., Abbott, B. P., Abbott, R., Abbott, T. D., Adams, C., … Zweizig, J. (2016). Sensitivity of the Advanced LIGO detectors at the beginning of gravitational wave astronomy. &lt;i&gt;Physical Review D&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;93&lt;/i&gt;&lt;/span&gt;(11), 112004.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ119_PRD_93_112004_2016-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ119_PRD_93_112004_2016-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ119_PRD_93_112004_2016-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevD.93.112004&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ119_PRD_93_112004_2016.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ119_PRD_93_112004_2016-abstract&quot; class=&quot;collapse&quot;&gt;The Laser Interferometer Gravitational Wave Observatory (LIGO) consists of two widely separated 4 km laser interferometers designed to detect gravitational waves from distant astrophysical sources in the frequency range from 10 Hz to 10 kHz. The first observation run of the Advanced LIGO detectors started in September 2015 and ended in January 2016. A strain sensitivity of better than
+&amp;lt;img style=’vertical-align:middle;’ src=&quot;/assets/images/equations/imgtemp_x9wfkh-1.svg&quot; border=&quot;0&quot;/&amp;gt;  
+was achieved around 100 Hz. Understanding both the fundamental and the technical noise sources was critical for increasing the astrophysical strain sensitivity. The average distance at which coalescing binary black hole systems with individual masses of 30 
+  \(M_⊙\)could be detected above a signal-to-noise ratio (SNR) of 8 was 1.3 Gpc, and the range for binary neutron star inspirals was about 75 Mpc. With respect to the initial detectors, the observable volume of the Universe increased by a factor 69 and 43, respectively. These improvements helped Advanced LIGO to detect the gravitational wave signal from the binary black hole coalescence, known as GW150914.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ119_PRD_93_112004_2016-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ119_PRD_93_112004_2016,
+  title = {Sensitivity of the Advanced LIGO detectors at the beginning of gravitational wave astronomy},
+  author = {Martynov, D. V. and Hall, E. D. and Abbott, B. P. and Abbott, R. and Abbott, T. D. and Adams, C. and Adhikari, R. X. and Anderson, R. A. and Anderson, S. B. and Arai, K. and Arain, M. A. and Aston, S. M. and Austin, L. and Ballmer, S. W. and Barbet, M. and Barker, D. and Barr, B. and Barsotti, L. and Bartlett, J. and Barton, M. A. and Bartos, I. and Batch, J. C. and Bell, A. S. and Belopolski, I. and Bergman, J. and Betzwieser, J. and Billingsley, G. and Birch, J. and Biscans, S. and Biwer, C. and Black, E. and Blair, C. D. and Bogan, C. and Bork, R. and Bridges, D. O. and Brooks, A. F. and Celerier, C. and Ciani, G. and Clara, F. and Cook, D. and Countryman, S. T. and Cowart, M. J. and Coyne, D. C. and Cumming, A. and Cunningham, L. and Damjanic, M. and Dannenberg, R. and Danzmann, K. and Costa, C. F. Da Silva and Daw, E. J. and DeBra, D. and DeRosa, R. T. and DeSalvo, R. and Dooley, K. L. and Doravari, S. and Driggers, J. C. and Dwyer, S. E. and Effler, A. and Etzel, T. and Evans, M. and Evans, T. M. and Factourovich, M. and Fair, H. and Feldbaum, D. and Fisher, R. P. and Foley, S. and Frede, M. and Fritschel, P. and Frolov, V. V. and Fulda, P. and Fyffe, M. and Galdi, V. and Giaime, J. A. and Giardina, K. D. and Gleason, J. R. and Goetz, R. and Gras, S. and Gray, C. and Greenhalgh, R. J. S. and Grote, H. and Guido, C. J. and Gushwa, K. E. and Gustafson, E. K. and Gustafson, R. and Hammond, G. and Hanks, J. and Hanson, J. and Hardwick, T. and Harry, G. M. and Heefner, J. and Heintze, M. C. and Heptonstall, A. W. and Hoak, D. and Hough, J. and Ivanov, A. and Izumi, K. and Jacobson, M. and James, E. and Jones, R. and Kandhasamy, S. and Karki, S. and Kasprzack, M. and Kaufer, S. and Kawabe, K. and Kells, W. and Kijbunchoo, N. and King, E. J. and King, P. J. and Kinzel, D. L. and Kissel, J. S. and Kokeyama, K. and Korth, W. Z. and Kuehn, G. and Kwee, P. and Landry, M. and Lantz, B. and Le Roux, A. and Levine, B. M. and Lewis, J. B. and Lhuillier, V. and Lockerbie, N. A. and Lormand, M. and Lubinski, M. J. and Lundgren, A. P. and MacDonald, T. and MacInnis, M. and Macleod, D. M. and Mageswaran, M. and Mailand, K. and M\'arka, S. and M\'arka, Z. and Markosyan, A. S. and Maros, E. and Martin, I. W. and Martin, R. M. and Marx, J. N. and Mason, K. and Massinger, T. J. and Matichard, F. and Mavalvala, N. and McCarthy, R. and McClelland, D. E. and McCormick, S. and McIntyre, G. and McIver, J. and Merilh, E. L. and Meyer, M. S. and Meyers, P. M. and Miller, J. and Mittleman, R. and Moreno, G. and Mueller, C. L. and Mueller, G. and Mullavey, A. and Munch, J. and Nuttall, L. K. and Oberling, J. and O'Dell, J. and Oppermann, P. and Oram, Richard J. and O'Reilly, B. and Osthelder, C. and Ottaway, D. J. and Overmier, H. and Palamos, J. R. and Paris, H. R. and Parker, W. and Patrick, Z. and Pele, A. and Penn, S. and Phelps, M. and Pickenpack, M. and Pierro, V. and Pinto, I. and Poeld, J. and Principe, M. and Prokhorov, L. and Puncken, O. and Quetschke, V. and Quintero, E. A. and Raab, F. J. and Radkins, H. and Raffai, P. and Ramet, C. R. and Reed, C. M. and Reid, S. and Reitze, D. H. and Robertson, N. A. and Rollins, J. G. and Roma, V. J. and Romie, J. H. and Rowan, S. and Ryan, K. and Sadecki, T. and Sanchez, E. J. and Sandberg, V. and Sannibale, V. and Savage, R. L. and Schofield, R. M. S. and Schultz, B. and Schwinberg, P. and Sellers, D. and Sevigny, A. and Shaddock, D. A. and Shao, Z. and Shapiro, B. and Shawhan, P. and Shoemaker, D. H. and Sigg, D. and Slagmolen, B. J. J. and Smith, J. R. and Smith, M. R. and Smith-Lefebvre, N. D. and Sorazu, B. and Staley, A. and Stein, A. J. and Stochino, A. and Strain, K. A. and Taylor, R. and Thomas, M. and Thomas, P. and Thorne, K. A. and Thrane, E. and Torrie, C. I. and Traylor, G. and Vajente, G. and Valdes, G. and van Veggel, A. A. and Vargas, M. and Vecchio, A. and Veitch, P. J. and Venkateswara, K. and Vo, T. and Vorvick, C. and Waldman, S. J. and Walker, M. and Ward, R. L. and Warner, J. and Weaver, B. and Weiss, R. and Welborn, T. and We\ss{}els, P. and Wilkinson, C. and Willems, P. A. and Williams, L. and Willke, B. and Winkelmann, L. and Wipf, C. C. and Worden, J. and Wu, G. and Yamamoto, H. and Yancey, C. C. and Yu, H. and Zhang, L. and Zucker, M. E. and Zweizig, J.},
+  journal = {Physical Review D},
+  volume = {93},
+  issue = {11},
+  pages = {112004},
+  numpages = {19},
+  year = {2016},
+  month = jun,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.93.112004},
+  url = {http://link.aps.org/doi/10.1103/PhysRevD.93.112004}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://people.ing.unisannio.it/vgaldi/projects/GW-coating</link>
+                <guid>http://people.ing.unisannio.it/vgaldi/projects/GW-coating</guid>
+                <pubDate>2017-02-11T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Multiphysics metamaterials</title>
+                <description>
+&lt;p&gt;During the past few years, the transformation-optics approach has been also successfully applied 
+to the manipulation of a variety of other different physical quantities like acoustic and elastic waves, 
+static magnetic and electric fields, and heat flux, in view of the mounting interest towards metamaterials 
+beyond electromagnetics.&lt;/p&gt;
+
+&lt;p&gt;Although it seems suggestive to coherently exploit these various approaches to design 
+multifunctional devices capable of performing multiple functions in different physical domains, 
+most studies available in the literature deal with the design of a single functionality in a given physical domain.&lt;/p&gt;
+
+&lt;p&gt;In collaboration with Dr. &lt;a href=&quot;http://www2.rowland.harvard.edu/people/yuki-sato&quot;&gt;Yuki Sato&lt;/a&gt;’s Group (Harvard University), 
+our Group has recently introduced an approach to the design of metamaterial shells 
+capable of governing different physicals phenomena in an independent fashion [&lt;a href=&quot;#IJ112_PRX_4_021025_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
+
+&lt;p&gt;From the mathematical viewpoint, our relies on the well-known coordinate-transformation framework. 
+Viewing the rerouting of energy flow as a distortion of space from a coordinate transformation, t
+his technique provides a powerful and systematic recipe for designing and fabricating artificial 
+structures that can mold the flow of a given physical quantity in a desired fashion.&lt;/p&gt;
+
+&lt;p&gt;Conventionally, this theory is applied to a single physical domain. 
+In our approach, we instead exploit separate but intertwined coordinate transformations to 
+simultaneously manipulate multiple physical phenomena in independent fashions. 
+Thus, for instance, a material may be designed to exhibit a particular thermal functionality while 
+its electrical functionality is made drastically different.&lt;/p&gt;
+
+&lt;p&gt;As a proof-of-concept example, we have synthesized and designed
+ a metamaterial shell that behaves simultaneously as a thermal concentrator and an electrical invisibility 
+ cloak. In such a shell, the thermal and electrical currents follow markedly different paths, 
+ with the former concentrating in the inner region and the latter circumventing that region, as schematized
+ in the figure top panel. The bottom panel shows instead the thermal and electrical responses, which exhibit 
+ the expected behaviors.&lt;/p&gt;
+
+&lt;p&gt;Although the results of this study are based on theory and numerical simulations, 
+they do indicate that practical realization of these metamaterials should be within 
+reach of current fabrication technologies. Our numerical simulations indeed show that they 
+can be fabricated by means of small sub-blocks made of realistic materials, 
+such as aluminum nitride and silver conductive epoxies.&lt;/p&gt;
+
+&lt;p&gt;Such design may be considered as a first step towards a more general 
+ framework that could be defined as “transformation-multiphysics”, which may be in principle extended and applied 
+ to a variety of electrical, magnetic, acoustic, and thermal systems in various combinations, 
+ and may be integrated in advanced materials, spanning multiple orders of magnitude in material scales.&lt;/p&gt;
+
+&lt;p&gt;Besides serving as a proof-of-principle, the independent manipulation of electrical and thermal currents 
+ is also very important from the application viewpoint.
+ One particularly intriguing application is the engineering of thermoelectric materials, 
+ which hold great promises for energy recycling, by converting waste heat 
+ (e.g., generated by the CPU of a computer) into additional electrical power. 
+ For these materials, the independent control of electrical and thermal conductivities is of paramount importance, 
+ and it may affect the figure of merit in ways unexplored in the past.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ112_PRX_4_021025_2014&quot;&gt;Moccia, M., Castaldi, G., Savo, S., Sato, Y., &amp;amp; Galdi, V. (2014). Independent manipulation of heat and electrical current via bifunctional metamaterials. &lt;i&gt;Physical Review X&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;4&lt;/i&gt;&lt;/span&gt;(2), 021025.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ112_PRX_4_021025_2014-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ112_PRX_4_021025_2014-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ112_PRX_4_021025_2014-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevX.4.021025&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ112_PRX_4_021025_2014.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ112_PRX_4_021025_2014-abstract&quot; class=&quot;collapse&quot;&gt;Spatial tailoring of the material constitutive properties is a well-known strategy to mold the local flow of given observables in different physical domains. Coordinate-transformation-based methods (e.g., transformation optics) offer a powerful and systematic approach to design anisotropic, spatially inhomogeneous artificial materials (metamaterials) capable of precisely manipulating wave-based (electromagnetic, acoustic, elastic) as well as diffusion-based (heat) phenomena in a desired fashion. However, as versatile as these approaches have been, most designs have thus far been limited to serving single-target functionalities in a given physical domain. Here, we present a step towards a “transformation multiphysics” framework that allows independent and simultaneous manipulation of multiple physical phenomena. As a proof of principle of this new scheme, we design and synthesize (in terms of realistic material constituents) a metamaterial shell that simultaneously behaves as a thermal concentrator and an electrical “invisibility cloak.” Our numerical results open up intriguing possibilities in the largely unexplored phase space of multifunctional metadevices, with a wide variety of potential applications to electrical, magnetic, acoustic, and thermal scenarios.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ112_PRX_4_021025_2014-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ112_PRX_4_021025_2014,
+  title = {Independent manipulation of heat and electrical current via bifunctional metamaterials},
+  author = {Moccia, Massimo and Castaldi, Giuseppe and Savo, Salvatore and Sato, Yuki and Galdi, Vincenzo},
+  journal = {Physical Review X},
+  volume = {4},
+  issue = {2},
+  pages = {021025},
+  numpages = {14},
+  year = {2014},
+  month = may,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevX.4.021025},
+  url = {http://link.aps.org/doi/10.1103/PhysRevX.4.021025}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://people.ing.unisannio.it/vgaldi/projects/multiphysics-MTM</link>
+                <guid>http://people.ing.unisannio.it/vgaldi/projects/multiphysics-MTM</guid>
+                <pubDate>2017-02-10T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Michele Scaravilli</title>
+                <description>&lt;p&gt;&lt;strong&gt;Michele Scaravilli&lt;/strong&gt; was born in Caserta, Italy, on December 9, 1988.&lt;/p&gt;
+
+&lt;p&gt;He received his M.E. degree in Electrical Engineering (&lt;em&gt;summa cum laude&lt;/em&gt;) from the
+&lt;a href=&quot;http://www.unina.it/en_GB/home&quot;&gt;“Federico II” University of Naples&lt;/a&gt;, Italy, with a thesis project 
+dealing with the design and optimization of an anti-intrusion microwave sensor based on a 
+parallel-plate waveguide with deformable walls.&lt;/p&gt;
+
+&lt;p&gt;Since June 2014, he has been a Ph.D. student in Information Technologies for Engineering​at the 
+&lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, working in 
+the Fields &amp;amp; Waves Lab and the &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it&quot;&gt;Optoelectronics Group&lt;/a&gt;, 
+under the joint supervision of Proff. &lt;a href=&quot;/people/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; 
+and &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;His current research activity is focused on the design, numerical modeling and fabrication of novel 
+label-free optical fiber nanoprobes based on the excitation of Bloch surface waves, as well as SERS probes.
+More generally, his scientific interests include: plasmonics, photonic crystals, bio-photonics and optical fiber sensors.&lt;/p&gt;
+
+</description>
+                <link>http://people.ing.unisannio.it/vgaldi/people/michele-scaravilli</link>
+                <guid>http://people.ing.unisannio.it/vgaldi/people/michele-scaravilli</guid>
+                <pubDate>2017-02-10T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Massimo Moccia</title>
+                <description>&lt;p&gt;&lt;strong&gt;Massimo Moccia&lt;/strong&gt; was born in Benevento, Italy on February 11, 1982.&lt;/p&gt;
+
+&lt;p&gt;He received the B.S. and M.S. degree in Telecommunications Engineering (&lt;em&gt;summa cum laude&lt;/em&gt;) from the 
+&lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;,
+Benevento, Italy, in 2005 and 2007 respectively. During his study program, he was a visiting student at the 
+&lt;a href=&quot;https://www.upv.es/index-en.html&quot;&gt;Polytechnic University of Valencia&lt;/a&gt; (2003-2004) and the &lt;a href=&quot;http://www.upc.edu/?set_language=en&quot;&gt;Polytechnic 
+University of Catalonia&lt;/a&gt; (2007). 
+In 2008, he attended a postgraduate specialization course in “Technologies for micro and nano electronics” at the 
+&lt;a href=&quot;http://en.uniroma1.it&quot;&gt;“Sapienza” University of Rome&lt;/a&gt;. In 2012, he received the Ph.D. Degree in Information Engineering from the 
+University of Sannio.&lt;/p&gt;
+
+&lt;p&gt;Since 2012, he has been working as a Postdoctoral Researcher at the University of Sannio.&lt;/p&gt;
+
+&lt;p&gt;His current research activity is focused on the areas of electromagnetic and multiphysics metamaterials, RF devices, and antenna design
+for satellite applications. In the past, he has also worked on superconductivity experiments, ferroelectric devices,
+fiber-optics sensors, and nanotechnologies.&lt;/p&gt;
+</description>
+                <link>http://people.ing.unisannio.it/vgaldi/people/massimo-moccia</link>
+                <guid>http://people.ing.unisannio.it/vgaldi/people/massimo-moccia</guid>
+                <pubDate>2017-02-10T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Our paper on non-Hermitian photonic chains accepted in PRB</title>
+                <description>&lt;p&gt;Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers”, 
+in collaboration with &lt;a href=&quot;http://capolino.eng.uci.edu&quot;&gt;Filippo Capolino&lt;/a&gt;’s Group (University of California at Irvine),
+has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/1610.00414&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;
+
+</description>
+                <link>http://people.ing.unisannio.it/vgaldi/news/PRB-paper-EPD-accepted</link>
+                <guid>http://people.ing.unisannio.it/vgaldi/news/PRB-paper-EPD-accepted</guid>
+                <pubDate>2017-02-10T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Dispersion engineering via nonlocal transformation optics</title>
+                <description>
+&lt;p&gt;Transformation optics has established itself as a powerful and versatile tool for the systematic design of artificial media. 
+By properly tailoring the spatial profile of materials, it is possible to bend light propagation at will, 
+so as to locally follow a given coordinate-distorted reference frame and to re-route the illumination around an object, 
+making it &lt;em&gt;effectively invisible&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ98_PRL_108_063902_2012&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we have extended the potential of this approach by enabling the manipulation and control of 
+&lt;em&gt;nonlocal&lt;/em&gt; light-matter interactions, which are becoming increasingly relevant in a variety of metamaterial applications, 
+including artificial magnetism and ultrafast nonlinear optics. 
+Instead of spatially-changing refractive properties, we proposed a framework of “transformation media” 
+that can tailor the wave interaction in the reciprocal space of spatial wave-numbers, 
+so as to produce desired nonlocal effects.&lt;/p&gt;
+
+&lt;p&gt;Subsequently, in [&lt;a href=&quot;#IJ117_Optica_3_179_2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;] and [&lt;a href=&quot;#IJ120_EPJAM_3_2_2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], we further generalized this approach 
+in the frequency-wavenumber reciprocal phase space, so as to engineer a broad variety of nonlocal interactions 
+and spatial dispersion effects, including including “one-way” (nonreciprocal) propagation, 
+“frozen-mode” and “degenerate-band-edge” regimes, and Dirac-point conical singularities&lt;/p&gt;
+
+&lt;p&gt;For instance, the figure top panel illustrates a desired dispersion effect, namely, a degenerate-band-edge condition 
+at a prescribed frequency. Such exotic dispersion effect (manifested by 
+the appearance of a higher-order stationary point in the dispersion relationship)
+is eliciting a growing attention in view of its potential relevance to diverse applications 
+including slow light, solid-state lasers, quantum-cascade lasers, sensors, optical delay lines, 
+traveling-wave tubes, distributed solid-state amplifiers, and switches.&lt;/p&gt;
+
+&lt;p&gt;The figure bottom panel shows the corresponding field distribution in a unit cell of a 
+multilayered metamaterial synthesized with our approach.&lt;br /&gt;
+As it can be observed, the field is transmitted (with small reflection) in the metamaterial half-space, 
+where it gets converted into an extended mode with growing amplitude. 
+At a distance of about five wavelengths from the vacuum-metamaterial interface, 
+the amplitude reaches a maximum value that is over a factor 1000 larger than the incident one, and 
+then it starts decreasing.&lt;/p&gt;
+
+&lt;p&gt;A key attribute of our approach, 
+similar to conventional transformation optics, 
+is the separation of the conceptual design (based on intuitive geometrical considerations) 
+from the actual metamaterial synthesis (based on a suitable approximation of analytically derived 
+constitutive “blueprints”.&lt;/p&gt;
+
+&lt;p&gt;Our approach may open up new perspectives in the systematic design of metamaterials with broad field-manipulation capabilities as well as complex spatiotemporal dispersion effects, 
+with potential applications to nonreciprocal optics, topological photonics, and “&lt;a href=&quot;/projects/computational-MTM&quot;&gt;computational metamaterials&lt;/a&gt;.”&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ98_PRL_108_063902_2012&quot;&gt;Castaldi, G., Galdi, V., Alù, A., &amp;amp; Engheta, N. (2012). Nonlocal transformation optics. &lt;i&gt;Physical Review Letters&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;108&lt;/i&gt;&lt;/span&gt;(6), 063902.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ98_PRL_108_063902_2012-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ98_PRL_108_063902_2012-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ98_PRL_108_063902_2012-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevLett.108.063902&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ98_PRL_108_063902_2012.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ98_PRL_108_063902_2012_SM.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ98_PRL_108_063902_2012-abstract&quot; class=&quot;collapse&quot;&gt;We show that the powerful framework of transformation optics may be exploited for engineering the nonlocal response of artificial electromagnetic materials. Relying on the form-invariant properties of coordinate-transformed Maxwell’s equations in the spectral domain, we derive the general constitutive “blueprints” of transformation media yielding prescribed nonlocal field-manipulation effects and provide a physically incisive and powerful geometrical interpretation in terms of deformation of the equifrequency contours. In order to illustrate the potentials of our approach, we present an example of application to a wave-splitting refraction scenario, which may be implemented via a simple class of artificial materials. Our results provide a systematic and versatile framework which may open intriguing venues in dispersion engineering of artificial materials.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ98_PRL_108_063902_2012-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ98_PRL_108_063902_2012,
+  title = {Nonlocal transformation optics},
+  author = {Castaldi, Giuseppe and Galdi, Vincenzo and Al\`u, Andrea and Engheta, Nader},
+  journal = {Physical Review Letters},
+  volume = {108},
+  issue = {6},
+  pages = {063902},
+  numpages = {5},
+  year = {2012},
+  month = feb,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.108.063902},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.108.063902},
+  note = {/assets/papers/IJ98_PRL_108_063902_2012_SM.pdf}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ117_Optica_3_179_2016&quot;&gt;Moccia, M., Castaldi, G., Galdi, V., Alù, A., &amp;amp; Engheta, N. (2016). Dispersion engineering via nonlocal transformation optics. &lt;i&gt;Optica&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;3&lt;/i&gt;&lt;/span&gt;(2), 179–188.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ117_Optica_3_179_2016-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ117_Optica_3_179_2016-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ117_Optica_3_179_2016-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1364/OPTICA.3.000179&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ117_Optica_3_179_2016.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ117_Optica_3_179_2016_SM.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ117_Optica_3_179_2016-abstract&quot; class=&quot;collapse&quot;&gt;Transformation optics (TO) has established itself as a powerful and versatile approach to the synthesis of metamaterials with prescribed field-manipulation capabilities, via suitable spatial modulation of their constitutive properties inspired by local distortions of the spatial coordinate reference frame. From the mathematical viewpoint, this approach can be reformulated in the frequency-wavenumber reciprocal phase space so as to engineer nonlocal interactions and spatial dispersion effects, which are becoming increasingly relevant in electrodynamics and optics. Here, we present a general nonlocal-TO framework, based on complex-valued, frequency-dependent wavenumber coordinate transformations, and explore its possible applications to scenarios of interest for dispersion engineering. A key attribute of our approach, similar to conventional TO, is the separation of the conceptual design (based on intuitive geometrical considerations) from the actual metamaterial synthesis (based on a suitable approximation of analytically derived constitutive “blueprints”. To illustrate the capabilities and potential of the proposed approach, we address the engineering (from the conceptual design to the actual synthesis) of multilayered metamaterials exhibiting various exotic dispersion effects, including “one-way” (nonreciprocal) propagation, “frozen-mode” regime, and Dirac-point conical singularities. Our approach may open up new perspectives in the systematic design of metamaterials with broad field-manipulation capabilities as well as complex spatiotemporal dispersion effects, with potential applications to nonreciprocal optics, topological photonics, and “computational metamaterials.”&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ117_Optica_3_179_2016-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ117_Optica_3_179_2016,
+  author = {Moccia, Massimo and Castaldi, Giuseppe and Galdi, Vincenzo and Al\`{u}, Andrea and Engheta, Nader},
+  journal = {Optica},
+  keywords = {Dispersion; Effective medium theory ; Metamaterials},
+  number = {2},
+  pages = {179--188},
+  publisher = {OSA},
+  title = {Dispersion engineering via nonlocal transformation optics},
+  volume = {3},
+  month = feb,
+  year = {2016},
+  url = {http://www.osapublishing.org/optica/abstract.cfm?URI=optica-3-2-179},
+  doi = {10.1364/OPTICA.3.000179},
+  note = {/assets/papers/IJ117_Optica_3_179_2016_SM.pdf}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ120_EPJAM_3_2_2016&quot;&gt;Moccia, M., Castaldi, G., &amp;amp; Galdi, V. (2016). Degenerate-band-edge engineering inspired by nonlocal transformation optics. &lt;i&gt;EPJ Applied Metamaterials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;3&lt;/i&gt;&lt;/span&gt;, 2.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ120_EPJAM_3_2_2016-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ120_EPJAM_3_2_2016-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ120_EPJAM_3_2_2016-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1051/epjam/2016003&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ120_EPJAM_3_2_2016.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ120_EPJAM_3_2_2016-abstract&quot; class=&quot;collapse&quot;&gt;We address the engineering of degenerate-band-edge effects in nonlocal metamaterials. Our approach, inspired by nonlocal-transformation-optics concepts, is based on the approximation of analytically-derived nonlocal constitutive “blueprints”. We illustrate the synthesis procedure, and present and validate a possible implementation based on multilayered metamaterials featuring anisotropic constituents. We also elucidate the physical mechanisms underlying our approach and proposed configuration, and highlight the substantial differences with respect to other examples available in the topical literature.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ120_EPJAM_3_2_2016-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ120_EPJAM_3_2_2016,
+  author = {Moccia, Massimo and Castaldi, Giuseppe and Galdi, Vincenzo},
+  title = {Degenerate-band-edge engineering inspired by nonlocal transformation optics},
+  doi = {10.1051/epjam/2016003},
+  journal = {EPJ Applied Metamaterials},
+  year = {2016},
+  volume = {3},
+  pages = {2},
+  month = jul
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://people.ing.unisannio.it/vgaldi/projects/dispersion-enegineering</link>
+                <guid>http://people.ing.unisannio.it/vgaldi/projects/dispersion-enegineering</guid>
+                <pubDate>2017-02-09T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>New website</title>
+                <description>&lt;p&gt;&lt;strong&gt;The new website is on!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Details on the design and implementation can be found &lt;a href=&quot;/about.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+                <link>http://people.ing.unisannio.it/vgaldi/news/new-website</link>
+                <guid>http://people.ing.unisannio.it/vgaldi/news/new-website</guid>
+                <pubDate>2017-02-09T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Non-Hermitian metamaterials</title>
+                <description>
+&lt;p&gt;&lt;em&gt;Parity-time&lt;/em&gt; (PT) symmetry is a fascinating concept introduced in quantum physics in order to make sense of &lt;em&gt;non-Hermitian&lt;/em&gt; Hamiltonians.
+This concept, however, is rather general and pervasive, and has resonated in several research communities, triggering a surge of interest
+in the study of more general non-Hermitian systems.&lt;/p&gt;
+
+&lt;p&gt;In particular, thanks to the well-known formal analogies between quantum mechanics and (paraxial) optics,
+non-Hermitian concepts can be translated to electromagnetic structures by means
+of spatial modulation of loss and gain, which is becoming technologically viable
+in artificial materials and metamaterials. In fact, in metamaterial engineering, the
+introduction of material constituents featuring gain is a well-established strategy
+to overcome the inevitable presence of losses. Nonetheless, the above ideas have
+inspired novel, unconventional ways of mixing material constituents featuring loss
+and gain, so as to attain a wealth of anomalous light-matter interactions that extend
+well beyond the mere loss-compensation effects.&lt;/p&gt;
+
+&lt;p&gt;In a series of recent investigations, we have been concerned
+with the study of field-manipulation and wave-guiding properties of non-
+Hermitian metamaterials.&lt;/p&gt;
+
+&lt;p&gt;In particular, in [&lt;a href=&quot;#IJ104_PRL_110_173901_2013&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] and [&lt;a href=&quot;#IJ118_JO_18_044027_2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], 
+we proposed a complex-coordinate extension of the transformation-
+optics framework that allows to handle complex-valued constitutive parameters
+(typical of non-Hermitian metamaterials), while retaining an insightful geometrical
+interpretation in terms of the &lt;em&gt;complexification&lt;/em&gt; of geometrical objects.
+In particular, in conjunction with the complex source-point formalism, this approach can naturally handle
+the manipulation of beam-like wave objects in the presence of loss and gain. Moreover,
+it can also be applied to the manipulation of leaky waves.&lt;/p&gt;
+
+&lt;p&gt;In a series of subsequent studies, we have focused on some interesting &lt;em&gt;tunneling&lt;/em&gt; [&lt;a href=&quot;#IJ111_PRB_89_085105_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;] and 
+&lt;em&gt;wave-guiding&lt;/em&gt; [&lt;a href=&quot;#IJ114_PRB_91_115114_2015&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#IJ121_PRA_94_043838_2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;] phenomena that can be 
+induced in non-Hermitian bi-layer and tri-layer systems.
+More specifically, in connection with bi-layer systems (as schematized in the figure top panel), we showed that the PT-symmetry condition
+inherently yields &lt;em&gt;unattenuated propagation&lt;/em&gt; along the gain-loss interface, sustained
+by a transverse component of the power flux (from the gain to loss region).
+The figure bottom panels show the field distribution, exponentially localized at the gain-loss interface.
+In particular, we showed that in the &lt;em&gt;epsilon-near-zero&lt;/em&gt; regime (i.e., vanishingly small real part of the permittivities)
+the gain/loss level necessary to sustain the wave confinement and guiding effects can
+be significantly reduced.&lt;/p&gt;
+
+&lt;p&gt;Overall, such wave-guiding mechanism looks quite attractive in a perspective of
+wave-guiding on demand. For instance, one could envision the deploying of gain medium
+channels in a lossy background, and their selective enabling (and possibly
+reconfiguring) via optical pumping or other gain-inducing mechanisms.&lt;/p&gt;
+
+&lt;p&gt;In a related investigation [&lt;a href=&quot;#IJ113_SREP_5_8568_2015&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;6&lt;/span&gt;&lt;/a&gt;], 
+we applied the &lt;em&gt;supersymmetry&lt;/em&gt; concept to the design of non-Hermitian optical couplers with 
+higher-order mode-selection functionalities, 
+with potential applications to mode-division multiplexing in optical links.&lt;/p&gt;
+
+&lt;p&gt;Our results may find potentially intriguing applicability to a variety of exotic
+light-matter interaction effects (e.g., unidirectional invisibility, coherent
+perfect absorption, lasing, negative refraction and focusing, cloaking), and may set the stage for the development of novel
+optical components and devices.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ104_PRL_110_173901_2013&quot;&gt;Castaldi, G., Savoia, S., Galdi, V., Alù, A., &amp;amp; Engheta, N. (2013). PT metamaterials via complex-coordinate transformation optics. &lt;i&gt;Physical Review Letters&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;110&lt;/i&gt;&lt;/span&gt;(17), 173901.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ104_PRL_110_173901_2013-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ104_PRL_110_173901_2013-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ104_PRL_110_173901_2013-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevLett.110.173901&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ104_PRL_110_173901_2013.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ104_PRL_110_173901_2013_SM.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ104_PRL_110_173901_2013-abstract&quot; class=&quot;collapse&quot;&gt;We extend the transformation-optics paradigm to a complex spatial coordinate domain, in order to deal with electromagnetic metamaterials characterized by balanced loss and gain, giving special emphasis to parity-time (PT) symmetric metamaterials. We apply this general theory to complex-source-point radiation and anisotropic transmission resonances, illustrating the capability and potentials of our approach in terms of systematic design, analytical modeling, and physical insights into complex-coordinate wave objects and resonant states.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ104_PRL_110_173901_2013-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ104_PRL_110_173901_2013,
+  title = {PT metamaterials via complex-coordinate transformation optics},
+  author = {Castaldi, Giuseppe and Savoia, Silvio and Galdi, Vincenzo and Al\`u, Andrea and Engheta, Nader},
+  journal = {Physical Review Letters},
+  volume = {110},
+  issue = {17},
+  pages = {173901},
+  numpages = {5},
+  year = {2013},
+  month = apr,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.110.173901},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.110.173901},
+  note = {/assets/papers/IJ104_PRL_110_173901_2013_SM.pdf}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ118_JO_18_044027_2016&quot;&gt;Savoia, S., Castaldi, G., &amp;amp; Galdi, V. (2016). Complex-coordinate non-Hermitian transformation optics. &lt;i&gt;Journal of Optics&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;18&lt;/i&gt;&lt;/span&gt;(4), 044027.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ118_JO_18_044027_2016-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ118_JO_18_044027_2016-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ118_JO_18_044027_2016-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1088/2040-8978/18/4/044027&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ118_JO_18_044027_2016.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ118_JO_18_044027_2016-abstract&quot; class=&quot;collapse&quot;&gt;Transformation optics (TO) is conventionally based on real-valued coordinate transformations and, therefore, cannot naturally handle metamaterials featuring gain and/or losses. Motivated by the growing interest in non-Hermitian optical scenarios featuring spatial modulation of gain and loss, and building upon our previous studies, we explore here possible extensions of the TO framework relying on complex-valued coordinate transformations. We show that such extensions can be naturally combined with well-established powerful tools and formalisms in electromagnetics and optics, based on the ‘complexification’ of spatial and spectral quantities. This enables us to deal with rather general non-Hermitian optical scenarios, while retaining the attractive characteristics of conventional (real-valued) TO in terms of physically incisive modeling and geometry-driven intuitive design. As representative examples, we illustrate the manipulation of beam-like wave-objects (modeled in terms of ‘complex source points’) as well as radiating states (leaky waves’, modeled in terms of complex-valued propagation constants). Our analytical results, validated against full-wave numerical simulations, provide useful insight into the wave propagation in non-Hermitian scenarios, and may indicate new directions in the synthesis of active optical devices and antennas.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ118_JO_18_044027_2016-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ118_JO_18_044027_2016,
+  author = {Savoia, S and Castaldi, G and Galdi, V},
+  title = {Complex-coordinate non-Hermitian transformation optics},
+  journal = {Journal of Optics},
+  volume = {18},
+  number = {4},
+  pages = {044027},
+  year = {2016},
+  month = apr,
+  doi = {10.1088/2040-8978/18/4/044027}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ111_PRB_89_085105_2014&quot;&gt;Savoia, S., Castaldi, G., Galdi, V., Alù, A., &amp;amp; Engheta, N. (2014). Tunneling of obliquely incident waves through PT-symmetric epsilon-near-zero bilayers. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;89&lt;/i&gt;&lt;/span&gt;(8), 085105.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ111_PRB_89_085105_2014-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ111_PRB_89_085105_2014-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ111_PRB_89_085105_2014-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.89.085105&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ111_PRB_89_085105_2014.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ111_PRB_89_085105_2014-abstract&quot; class=&quot;collapse&quot;&gt;We show that obliquely incident, transversely magnetic-polarized plane waves can be totally transmitted (with zero reflection) through epsilon-near-zero (ENZ) bilayers characterized by balanced loss and gain with parity-time (PT) symmetry. This tunneling phenomenon is mediated by the excitation of a surface wave localized at the interface separating the loss and gain regions. We determine the parameter configurations for which the phenomenon may occur and, in particular, the relationship between the incidence direction and the electrical thickness. We show that, below a critical threshold of gain and loss, there always exists a tunneling angle which, for moderately thick (wavelength-sized) structures, approaches a critical value dictated by the surface-wave phase-matching condition. We also investigate the unidirectional character of the tunneling phenomenon, as well as the possible onset of spontaneous symmetry breaking, typical of PT-symmetric systems. Our results constitute an interesting example of a PT-symmetry-induced tunneling phenomenon, and may open up intriguing venues in the applications of ENZ materials featuring loss and gain.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ111_PRB_89_085105_2014-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ111_PRB_89_085105_2014,
+  title = {Tunneling of obliquely incident waves through PT-symmetric epsilon-near-zero bilayers},
+  author = {Savoia, Silvio and Castaldi, Giuseppe and Galdi, Vincenzo and Al\`u, Andrea and Engheta, Nader},
+  journal = {Physical Review B},
+  volume = {89},
+  issue = {8},
+  pages = {085105},
+  numpages = {10},
+  year = {2014},
+  month = feb,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.89.085105},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.89.085105}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ114_PRB_91_115114_2015&quot;&gt;Savoia, S., Castaldi, G., Galdi, V., Alù, A., &amp;amp; Engheta, N. (2015). PT-symmetry-induced wave confinement and guiding in \(ε\)-near-zero metamaterials. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;91&lt;/i&gt;&lt;/span&gt;(11), 115114.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ114_PRB_91_115114_2015-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ114_PRB_91_115114_2015-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ114_PRB_91_115114_2015-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.91.115114&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ114_PRB_91_115114_2015.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ114_PRB_91_115114_2015-abstract&quot; class=&quot;collapse&quot;&gt;Inspired by the parity-time symmetry concept, we show that a judicious spatial modulation of gain and loss in \(ε\)-near-zero metamaterials can induce the propagation of exponentially bound interface modes characterized by zero attenuation. With specific reference to a bilayer configuration, via analytical studies and parametrization of the dispersion equation, we show that this waveguiding mechanism can be sustained in the presence of moderate gain/loss levels, and it becomes leaky (i.e., radiative) below a gain/loss threshold. Moreover, we explore a possible rod-based metamaterial implementation, based on realistic material constituents, which captures the essential features of the waveguiding mechanism, in good agreement with our theoretical predictions. Our results may open up possibilities for the design of optical devices and reconfigurable nanophotonics platforms.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ114_PRB_91_115114_2015-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ114_PRB_91_115114_2015,
+  title = {PT-symmetry-induced wave confinement and guiding in \(\epsilon\)-near-zero metamaterials},
+  author = {Savoia, Silvio and Castaldi, Giuseppe and Galdi, Vincenzo and Al\`u, Andrea and Engheta, Nader},
+  journal = {Physical Review B},
+  volume = {91},
+  issue = {11},
+  pages = {115114},
+  numpages = {10},
+  year = {2015},
+  month = mar,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.91.115114},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.91.115114}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ121_PRA_94_043838_2016&quot;&gt;Savoia, S., Castaldi, G., &amp;amp; Galdi, V. (2016). Non-Hermiticity-induced wave confinement and guiding in loss-gain-loss three-layer systems. &lt;i&gt;Physical Review A&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;94&lt;/i&gt;&lt;/span&gt;(4), 043838.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ121_PRA_94_043838_2016-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ121_PRA_94_043838_2016-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ121_PRA_94_043838_2016-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevA.94.043838&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ121_PRA_94_043838_2016.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ121_PRA_94_043838_2016-abstract&quot; class=&quot;collapse&quot;&gt;Following up on previous studies on parity-time-symmetric gain-loss bilayers, and inspired by formal analogies with plasmonic waveguides, we study non-Hermiticity-induced wave confinement and guiding phenomena that can occur in loss-gain-loss three-layers. By revisiting previous well-established “gain-guiding” concepts, we investigate analytically and numerically the dispersion and confinement properties of guided modes that can be supported by this type of structures, by assuming realistic dispersion models and parameters for the material constituents. As key outcomes, we identify certain modes with specific polarization and symmetry that exhibit particularly desirable characteristics, in terms of quasireal propagation constant and subwavelength confinement. Moreover, we elucidate the effects of material dispersion and parameters and highlight the potential advantages by comparison with the previously studied gain-loss bilayer configurations. Our results provide additional perspectives on light control in non-Hermitian optical systems and may find potentially intriguing applicability to reconfigurable nanophotonic platforms.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ121_PRA_94_043838_2016-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ121_PRA_94_043838_2016,
+  title = {Non-Hermiticity-induced wave confinement and guiding in loss-gain-loss three-layer systems},
+  author = {Savoia, Silvio and Castaldi, Giuseppe and Galdi, Vincenzo},
+  journal = {Physical Review A},
+  volume = {94},
+  issue = {4},
+  pages = {043838},
+  numpages = {10},
+  year = {2016},
+  month = oct,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevA.94.043838}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ113_SREP_5_8568_2015&quot;&gt;Principe, M., Castaldi, G., Consales, M., Cusano, A., &amp;amp; Galdi, V. (2015). Supersymmetry-inspired non-Hermitian optical couplers. &lt;i&gt;Scientific Reports&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;5&lt;/i&gt;&lt;/span&gt;, 8568.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ113_SREP_5_8568_2015-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ113_SREP_5_8568_2015-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ113_SREP_5_8568_2015-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1038/srep08568&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ113_SREP_5_8568_2015.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ113_SREP_5_8568_2015_SM.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ113_SREP_5_8568_2015-abstract&quot; class=&quot;collapse&quot;&gt;Supersymmetry has been shown to provide a systematic and effective framework for generating classes of isospectral optical structures featuring perfectly-phase-matched modes, with the exception of one (fundamental) mode which can be removed. More recently, this approach has been extended to non-Hermitian scenarios characterized by spatially-modulated distributions of optical loss and gain, in order to allow the removal of higher-order modes as well. In this paper, we apply this approach to the design of non-Hermitian optical couplers with higher-order mode-selection functionalities, with potential applications to mode-division multiplexing in optical links. In particular, we highlight the critical role of the coupling between non-Hermitian optical waveguides, which generally induces a phase transition to a complex eigenspectrum, thereby hindering the targeted mode-selection functionality. With the specific example of an optical coupler that selects the second-order mode of a given waveguide, we illustrate the aforementioned limitations and propose possible strategies to overcome them, bearing in mind the practical feasibility of the gain levels required.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ113_SREP_5_8568_2015-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ113_SREP_5_8568_2015,
+  author = {Principe, Maria and Castaldi, Giuseppe and Consales, Marco and Cusano, Andrea and Galdi, Vincenzo},
+  title = {{Supersymmetry-inspired non-Hermitian optical couplers}},
+  journal = {Scientific Reports},
+  year = {2015},
+  volume = {5},
+  pages = {8568},
+  month = feb,
+  doi = {10.1038/srep08568},
+  note = {/assets/papers/IJ113_SREP_5_8568_2015_SM.pdf}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://people.ing.unisannio.it/vgaldi/projects/non-Hermitian-MTM</link>
+                <guid>http://people.ing.unisannio.it/vgaldi/projects/non-Hermitian-MTM</guid>
+                <pubDate>2017-02-08T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Giuseppe Castaldi</title>
+                <description>&lt;p&gt;&lt;strong&gt;Giuseppe Castaldi&lt;/strong&gt; was born in Benevento, Italy, in 1968.&lt;/p&gt;
+
+&lt;p&gt;He received the Laurea degree (&lt;em&gt;summa cum laude&lt;/em&gt;) in electrical engineering from the 
+&lt;a href=&quot;http://www.unina.it/en_GB/home&quot;&gt;“Federico II” University of Naples&lt;/a&gt;, Italy, in 1993, and the Ph.D. degree in applied electromagnetics from the 
+&lt;a href=&quot;http://web.unisa.it/en&quot;&gt;University of Salerno&lt;/a&gt;, Italy, in 1999.&lt;/p&gt;
+
+&lt;p&gt;In 2001, he was a post-doctoral research fellow at the &lt;a href=&quot;https://www.tno.nl/en/&quot;&gt;TNO&lt;/a&gt; Physics and Electronics Laboratory, The Hague, The Netherlands. 
+In 2004, he was appointed Assistant Professor of Electromagnetics, and joined the &lt;a href=&quot;https://www.ding.unisannio.it/en/&quot;&gt;Department of Engineering&lt;/a&gt; 
+at the &lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, where is currently working as an Associate Professor.&lt;/p&gt;
+
+&lt;p&gt;He has co-authored over a hundred scientific papers in international journals and books. 
+His research interests include metamaterials, non-Hermitian optics, transformation electromagnetics, aperiodically ordered structures, 
+electromagnetic chaos, antenna array diagnostics, and phase retrieval.&lt;/p&gt;
+
+&lt;p&gt;He is the co-founder of MANTID srl, a spinoff company of the University of Sannio.&lt;/p&gt;
+</description>
+                <link>http://people.ing.unisannio.it/vgaldi/people/giuseppe-castaldi</link>
+                <guid>http://people.ing.unisannio.it/vgaldi/people/giuseppe-castaldi</guid>
+                <pubDate>2017-02-08T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Reconfigurable metamaterial electric circuits</title>
+                <description>
+&lt;p&gt;When designing an electronic system, the influence of the surrounding environment can be considered either 
+a nuisance (and hence something to be suppressed) or a convenient knob that can be turned to affect the material properties. 
+In the latter view, an ideal scenario would be to have the system designed in such a way that the external effect 
+could be amplified and not only the local material characteristics but also the collective device property 
+can be drastically manipulated with environmental stimuli&lt;/p&gt;
+
+&lt;p&gt;In a study [&lt;a href=&quot;#IJ115_PRB_91_134105_2015&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] in collaboration with the Groups led by Dr. &lt;a href=&quot;http://www2.rowland.harvard.edu/people/yuki-sato&quot;&gt;Yuki Sato&lt;/a&gt; and 
+Prof. &lt;a href=&quot;http://shriram-ramanathan.org&quot;&gt;Shriram Ramanathan&lt;/a&gt; (Harvard University), we demonstrated 
+for the first time a metamaterial electric circuit integrated onto a silicon wafer that can dynamically 
+reconfigure the preferred conduction paths. This is enabled by introducing a correlated electron oxide thin film that undergoes a 
+sharp thermally-induced insulator-metal transition in the circuit.&lt;/p&gt;
+
+&lt;p&gt;The tunable metamaterial is designed with the aid of two interwoven 
+coordinate-transformation equations and implemented with a network of thin-film resistors and vanadium dioxide (\(VO_2\)), as shown in the figure top panels. 
+The strong temperature dependence of \(VO_2\) electrical conductivity results in a significant modification of the resistor network behavior, 
+and we provided experimental evidence for a reconfigurable metamaterial electric circuit that not only mimics a continuous medium, 
+but is also capable of responding to thermal stimulation through dynamic variation of its spatial anisotropy.&lt;/p&gt;
+
+&lt;p&gt;As shown in the figure bottom panels, upon external temperature change, the overall effective functionality of the material switches between 
+a “truncated cloak” and a “concentrator” for electric currents.&lt;/p&gt;
+
+&lt;p&gt;These results suggest that the metamaterial paradigm may be used 
+to provide solutions for tangible compact electronics using thin-film technologies. 
+Traditionally, electronic systems comprise several blocks, each designed to play a specific role. 
+A smarter design approach could rely on a single unit capable of handling multiple functions, 
+such as carrying electric current and heat simultaneously but independently. 
+A potential first step in this direction has been shown recently, 
+by using metamaterial structures designed with the framework of &lt;a href=&quot;/projects/multiphysics-MTM&quot;&gt;multiphysics transformations&lt;/a&gt;. 
+The same goal may be approached through a different path of utilizing phase-change materials that have varying responses 
+in different physical domains.&lt;/p&gt;
+
+&lt;p&gt;Moreover, our demonstration paves the way for future high performance chips that can be environmentally responsive, 
+for instance moving heat away from hot spots in circuits to colder regions by simply being aware of local temperature. 
+This can overcome significant constraints that limit innovation in information processing today where heat dissipation is the primary bottleneck.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ115_PRB_91_134105_2015&quot;&gt;Savo, S., Zhou, Y., Castaldi, G., Moccia, M., Galdi, V., Ramanathan, S., &amp;amp; Sato, Y. (2015). Reconfigurable anisotropy and functional transformations with \(VO_2\)-based metamaterial electric circuits. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;91&lt;/i&gt;&lt;/span&gt;(13), 134105.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ115_PRB_91_134105_2015-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ115_PRB_91_134105_2015-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ115_PRB_91_134105_2015-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.91.134105&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ115_PRB_91_134105_2015.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ115_PRB_91_134105_2015-abstract&quot; class=&quot;collapse&quot;&gt;We demonstrate an innovative multifunctional artificial material that combines exotic metamaterial properties and the environmentally responsive nature of phase-change media. The tunable metamaterial is designed with the aid of two interwoven coordinate-transformation equations and implemented with a network of thin-film resistors and vanadium dioxide (\(VO_2\)). The strong temperature dependence of \(VO_2\)electrical conductivity results in a significant modification of the resistor network behavior, and we provide experimental evidence for a reconfigurable metamaterial electric circuit that not only mimics a continuous medium, but is also capable of responding to thermal stimulation through dynamic variation of its spatial anisotropy. Upon external temperature change, the overall effective functionality of the material switches between a “truncated cloak” and a “concentrator” for electric currents. Possible applications may include adaptive matching resistor networks, multifunctional electronic devices, and equivalent artificial materials in the magnetic domain. Additionally, the proposed technology could also be relevant for thermal management of integrated circuits.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ115_PRB_91_134105_2015-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ115_PRB_91_134105_2015,
+  title = {Reconfigurable anisotropy and functional transformations with \(VO_2\)-based metamaterial electric circuits},
+  author = {Savo, Salvatore and Zhou, You and Castaldi, Giuseppe and Moccia, Massimo and Galdi, Vincenzo and Ramanathan, Shriram and Sato, Yuki},
+  journal = {Physical Review B},
+  volume = {91},
+  issue = {13},
+  pages = {134105},
+  numpages = {10},
+  year = {2015},
+  month = apr,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.91.134105},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.91.134105}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://people.ing.unisannio.it/vgaldi/projects/reconfigurable-MTM</link>
+                <guid>http://people.ing.unisannio.it/vgaldi/projects/reconfigurable-MTM</guid>
+                <pubDate>2017-02-07T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Media</title>
+                <description>
+&lt;h2 id=&quot;selected-media-highlights-on-our-research&quot;&gt;Selected media highlights on our research&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.ansa.it/scienza/notizie/rubriche/ricerca_nel_sud/2016/02/16/onde-gravitazionali-sentite-da-specchi-progettati-in-italia_fea8e743-37c3-4784-8793-6d9ef3592741.html&quot;&gt;“Onde gravitazionali ‘sentite’ da specchi progettati in Italia,”&lt;/a&gt;
+&lt;em&gt;ANSA&lt;/em&gt;, Feb. 16, 2016.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.osa-opn.org/home/articles/volume_25/december_2014/extras/doing_math_with_light/&quot;&gt;“Doing math with light,”&lt;/a&gt;
+&lt;em&gt;Optics &amp;amp; Photonics News&lt;/em&gt;, Dec. 1, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;J. Gibson, &lt;a href=&quot;http://perfscience.com/content/metamaterials-can-be-used-perform-analog-computing&quot;&gt;“Metamaterials can be used to perform analog computing,”&lt;/a&gt;
+&lt;em&gt;PerfScience&lt;/em&gt;, Nov. 1, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;P. Reuell, &lt;a href=&quot;http://news.harvard.edu/gazette/story/2014/07/harvesting-energy-from-devices/&quot;&gt;“Harvesting energy from devices,”&lt;/a&gt;
+&lt;em&gt;Harvard Gazette&lt;/em&gt;, July 4, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://phys.org/news/2014-07-harvesting-energy-devices.html&quot;&gt;“Harvesting energy from devices,”&lt;/a&gt;
+&lt;em&gt;phys.org&lt;/em&gt;, July 4, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.energyharvestingjournal.com/articles/6683/harvesting-energy-from-devices&quot;&gt;“Harvesting energy from devices,”&lt;/a&gt;
+&lt;em&gt;Energy Harvesting Journal&lt;/em&gt;, July 4, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;S. Bland, &lt;a href=&quot;http://www.materialstoday.com/computation-theory/podcasts/metamaterials-and-analog-computing/&quot;&gt;“Metamaterials and analog computing,”&lt;/a&gt;
+&lt;em&gt;Materials Today&lt;/em&gt;, Apr. 14, 2014&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;D. Gevaux, &lt;a href=&quot;http://www.nature.com/nphys/journal/v10/n2/full/nphys2893.html&quot;&gt;“A mathematical metamaterial,”&lt;/a&gt;
+&lt;em&gt;Nature Physics&lt;/em&gt; &lt;em&gt;10&lt;/em&gt;(2), 86, Jan. 31, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;R. Suba, &lt;a href=&quot;http://www.techtimes.com/articles/2632/20140118/harry-potter-invisibility-cloak-can-do-analog-computing-claim-researchers.htm&quot;&gt;“Harry Potter’s invisibility cloak can do analog computing, claim researchers,”&lt;/a&gt; 
+&lt;em&gt;Tech Times&lt;/em&gt;, Jan. 18, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;D. Lung, &lt;a href=&quot;http://www.tvtechnology.com/expertise/0003/researchers-believe-metamaterials-can-function-as-analog-computers/223269&quot;&gt;“Researchers believe metamaterials can function as analog ‘computers’,”&lt;/a&gt;
+&lt;em&gt;TVTechnology&lt;/em&gt;, Jan. 17, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;E. Lerner,  &lt;a href=&quot;https://penncurrent.upenn.edu/2014-01-16/latest-news/metamaterials-do-math&quot;&gt;“Metamaterials that do math,”&lt;/a&gt; 
+&lt;em&gt;Penn Current&lt;/em&gt;, Jan. 16, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://gadgets.ndtv.com/others/news/metamaterials-can-be-used-to-perform-mathematical-operations-like-calculus-470636&quot;&gt;“Metamaterials can be used to perform mathematical operations like calculus,”&lt;/a&gt;
+&lt;em&gt;Gadgets 360° – NDTV&lt;/em&gt;, Jan. 13, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;J. Hecht, &lt;a href=&quot;http://www.laserfocusworld.com/articles/2014/01/analog-computing-with-metamaterials.html&quot;&gt;“Analog computing with metamaterials,”&lt;/a&gt; 
+&lt;em&gt;Laser Focus World&lt;/em&gt;, Jan. 12, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;J. Emspak, &lt;a href=&quot;http://www.nbcnews.com/id/54046820/ns/technology_and_science-science/t/invisibility-materials-could-do-computers-work/#.WJSIFrGZNE4&quot;&gt;“‘Invisibility’ materials could do computer’s work,”&lt;/a&gt; 
+&lt;em&gt;NBC News&lt;/em&gt;, Jan. 12, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;S. Zhang, &lt;a href=&quot;http://gizmodo.com/this-amazing-light-bending-metamaterial-can-do-calculu-1498877144&quot;&gt;“This amazing, light-bending metamaterial can do calculus,”&lt;/a&gt;
+&lt;em&gt;Gizmodo&lt;/em&gt;, Jan. 12, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;P. Beart, &lt;a href=&quot;http://frenchtribune.com/teneur/1421494-invisibility-materials-could-perform-calculations-well&quot;&gt;“‘Invisibility’ materials could perform calculations as well,”&lt;/a&gt; 
+&lt;em&gt;French Tribune&lt;/em&gt;, Jan. 11, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A. Sihvola, &lt;a href=&quot;http://science.sciencemag.org/content/343/6167/144&quot;&gt;“Enabling optical analog computing with metamaterials,”&lt;/a&gt;
+&lt;em&gt;Science&lt;/em&gt; &lt;em&gt;343&lt;/em&gt;(6167), 144–145, Jan. 10, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;J. Aron, &lt;a href=&quot;https://www.newscientist.com/article/dn24849-first-light-bending-calculator-designed-with-metamaterials/&quot;&gt;“First light-bending calculator designed with metamaterials,”&lt;/a&gt; 
+&lt;em&gt;New Scientist&lt;/em&gt;, Jan. 10, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.nanowerk.com/nanotechnology-news/newsid=33919.php&quot;&gt;“New study helps lay out theory for metamaterials that act as an analog computer,”&lt;/a&gt;
+ &lt;em&gt;NanoWerk&lt;/em&gt;, Jan. 10, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.azonano.com/news.aspx?newsID=29141&quot;&gt;“Metamaterials could be designed to do ‘photonic calculus’,”&lt;/a&gt;
+&lt;em&gt;AzoNano&lt;/em&gt;, Jan. 10, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.hngn.com/articles/21686/20140110/metamaterials-could-perform-calculus-bring-analog-computers-back-from-the-dead.htm&quot;&gt;“Metamaterials could perform calculus, bring analog computers back from the dead,”&lt;/a&gt;
+&lt;em&gt;Headlines &amp;amp; Global News&lt;/em&gt;, Jan. 10, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;J. Timmer, &lt;a href=&quot;https://arstechnica.com/science/2014/01/metamaterials-could-perform-calculus-with-light-waves/&quot;&gt;“Metamaterials could perform calculus with light waves,”&lt;/a&gt;
+&lt;em&gt;Ars Technica&lt;/em&gt;, Jan. 10, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.eurekalert.org/multimedia/pub/67074.php&quot;&gt;“Math performed with metamaterials,”&lt;/a&gt;
+&lt;em&gt;EurekAlert! – AAAS&lt;/em&gt;, Jan. 10, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;G. Popkin, &lt;a href=&quot;https://www.sciencenews.org/article/materials’-light-tricks-may-soon-extend-doing-math&quot;&gt;“Materials’ light tricks may soon extend to doing math,”&lt;/a&gt;
+&lt;em&gt;Science News&lt;/em&gt; Jan. 10, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://phys.org/news/2014-01-theory-metamaterials-analog.html&quot;&gt;“Researchers lay out theory for metamaterials that act as an analog computer,”&lt;/a&gt;
+&lt;em&gt;phys.org&lt;/em&gt;, Jan. 10, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.repubblica.it/tecnologia/2014/01/09/news/computer_analogici_dai_materiali_dei_mantelli_dell_invisibilit_una_tecnologia_per_elaborare_la_luce-75513423/&quot;&gt;“Computer analogici: dai materiali dei mantelli dell’invisibilità una tecnologia per elaborare la luce,”&lt;/a&gt; 
+&lt;em&gt;La Repubblica&lt;/em&gt;, Jan. 10, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.ansa.it/web/notizie/specializzati/scienza/2014/01/10/mantelli-invisibilita-nuovi-computer_9874922.html&quot;&gt;“Dai mantelli dell’invisibilità i nuovi computer,”&lt;/a&gt;
+&lt;em&gt;ANSA&lt;/em&gt;, Jan. 10, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+                <link>http://people.ing.unisannio.it/vgaldi/media/media</link>
+                <guid>http://people.ing.unisannio.it/vgaldi/media/media</guid>
+                <pubDate>2017-02-03T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Vincenzo Galdi</title>
+                <description>&lt;p&gt;&lt;strong&gt;Vincenzo Galdi&lt;/strong&gt; received the Laurea degree (&lt;em&gt;summa cum laude&lt;/em&gt;) in electrical engineering and the Ph.D. degree in applied electromagnetics from the &lt;a href=&quot;http://web.unisa.it/en&quot;&gt;University of Salerno&lt;/a&gt;, 
+Italy, in 1995 and 1999, respectively.&lt;/p&gt;
+
+&lt;p&gt;In 2002, he was appointed Associate Professor of Electromagnetics, and joined the &lt;a href=&quot;https://www.ding.unisannio.it/en/&quot;&gt;Department of Engineering&lt;/a&gt; 
+at the &lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, where is currently working. 
+He has served as Associate Chair for Undergraduate Studies in Telecommunication Engineering (2005-2010). In 2014, he received the National Scientific Qualification as a Full Professor.&lt;/p&gt;
+
+&lt;p&gt;He has held several visiting positions at abroad research institutions, including the &lt;a href=&quot;http://www.esa.int/About_Us/ESTEC&quot;&gt;European Space Research and Technology Centre&lt;/a&gt; (Noordwijk, NL), 
+&lt;a href=&quot;http://www.bu.edu&quot;&gt;Boston University&lt;/a&gt;, 
+&lt;a href=&quot;http://www.mit.edu&quot;&gt;Massachusetts Institute of Technology&lt;/a&gt;, and &lt;a href=&quot;http://www.caltech.edu&quot;&gt;California Institute of Technology&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;He has co-edited two books, and co-authored over 120 papers in peer-reviewed international journals, 4 book chapters, and 140 conference papers (50 invited).&lt;/p&gt;
+
+&lt;p&gt;He is currently serving as a Track Editor of the &lt;a href=&quot;http://www.ieeeaps.org/publications/ieee-transactions-on-antennas-and-propagations/ieee-tap-home&quot;&gt;&lt;em&gt;IEEE Transactions on Antennas and Propagation&lt;/em&gt;&lt;/a&gt;, 
+an Associate Editor of &lt;a href=&quot;http://www.heliyon.com/&quot;&gt;&lt;em&gt;Heliyon&lt;/em&gt;&lt;/a&gt; and of the &lt;a href=&quot;http://www.hindawi.com/journals/ijap/&quot;&gt;&lt;em&gt;International Journal of Antennas and Propagation&lt;/em&gt;&lt;/a&gt;, 
+and a regular reviewer for many journals, conferences and funding agencies.&lt;/p&gt;
+
+&lt;p&gt;His research interests encompass wave interactions with complex structures and media, multiphysics metamaterials, electromagnetic chaos, 
+inverse scattering, and gravitational interferometry.&lt;/p&gt;
+
+&lt;p&gt;Dr. Galdi is a &lt;em&gt;Fellow&lt;/em&gt; of the &lt;a href=&quot;http://www.ieee.org&quot;&gt;IEEE&lt;/a&gt;, a member of the &lt;a href=&quot;http://www.ligo.org/&quot;&gt;LIGO Scientific Collaboration&lt;/a&gt;, the &lt;a href=&quot;http://www.osa.org/en-us/home/&quot;&gt;Optical Society of America&lt;/a&gt;, and 
+&lt;a href=&quot;http://www.sigmaxi.org/&quot;&gt;Sigma Xi&lt;/a&gt;.
+He is also is the recipient of an &lt;em&gt;Outstanding Associate Editor Award&lt;/em&gt; (IEEE Transactions on Antennas and Propagation, 2014) and a &lt;a href=&quot;http://www.ursi.org&quot;&gt;URSI&lt;/a&gt; &lt;em&gt;Young Scientist Award&lt;/em&gt; (2001).&lt;/p&gt;
+
+&lt;p&gt;He is the co-founder of MANTID srl, a spinoff company of the University of Sannio.&lt;/p&gt;
+
+</description>
+                <link>http://people.ing.unisannio.it/vgaldi/people/vincenzo-galdi</link>
+                <guid>http://people.ing.unisannio.it/vgaldi/people/vincenzo-galdi</guid>
+                <pubDate>2017-01-30T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Field & Waves Lab</title>
+                <description>&lt;p&gt;The Fields &amp;amp; Waves Lab at the University of Sannio works at the boundary of physics and engineering. 
+We study fundamental physical aspects of &lt;strong&gt;wave propagation&lt;/strong&gt; in complex media and scenarios, 
+and explore engineering applications to &lt;strong&gt;communications and sensing&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;We are expecially interested in metamaterials, aperiodic order, ray chaos, and gravitational interferometry.&lt;/p&gt;
+</description>
+                <link>http://people.ing.unisannio.it/vgaldi/misc/home/home</link>
+                <guid>http://people.ing.unisannio.it/vgaldi/misc/home/home</guid>
+                <pubDate>2015-04-22T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>About</title>
+                <description>
+&lt;div class=&quot;bigspacer&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;head&quot;&gt; Purpose &lt;/div&gt;
+&lt;div class=&quot;spacer&quot;&gt;&lt;/div&gt;
+&lt;p&gt;This new website is intended to showcase the main research activities and results of our Lab. 
+Lay summaries are provided to describe our &lt;a href=&quot;/projects&quot;&gt;research topics&lt;/a&gt; in an accessible way.
+More technical details are given in the &lt;a href=&quot;/categories.html#projects-ref&quot;&gt;project pages&lt;/a&gt;, together with the relevant publications.&lt;/p&gt;
+
+&lt;div class=&quot;bigspacer&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;head&quot;&gt; Design and implementation &lt;/div&gt;
+&lt;div class=&quot;spacer&quot;&gt;&lt;/div&gt;
+&lt;p&gt;The website is built with &lt;a href=&quot;http://jekyllbootstrap.com/&quot;&gt;Jekyll Bootstrap&lt;/a&gt;. 
+Bibliographies and citations are automatically generated
+via the &lt;a href=&quot;https://github.com/inukshuk/jekyll-scholar&quot;&gt;Jekyll Scholar&lt;/a&gt; plugin.&lt;/p&gt;
+
+&lt;div class=&quot;bigspacer&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;head&quot;&gt; Credits &lt;/div&gt;
+&lt;div class=&quot;spacer&quot;&gt;&lt;/div&gt;
+&lt;p&gt;We forked the open source templates that were kindly made available by the &lt;a href=&quot;http://bedford.io&quot;&gt;Bedford Lab&lt;/a&gt; 
+and the &lt;a href=&quot;http://drummondlab.org/&quot;&gt;Drummond Lab&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The banner images appearing in the homepage are adaptations of:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;The great wave off Kanagawa&lt;/em&gt;, by Hokusai. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/File:Great_Wave_off_Kanagawa2.jpg&quot;&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Refraction 2.0&lt;/em&gt;, by Belem Lett. 
+Source: &lt;a href=&quot;http://www.abc.net.au/news/2010-08-27/belem-letts-painting-refraction-20/956554&quot;&gt;abc.net.au&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Symmetry E70 (butterflies)&lt;/em&gt;, by Maurits C. Escher. Source: &lt;a href=&quot;http://ayay.co.uk/arts/optical_illusion/m_c_escher/symmetry-watercolor-70-butterfly.jpg&quot;&gt;ayay&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;A chaotic system&lt;/em&gt;, by Annie Clavel. 
+Source: &lt;a href=&quot;http://www.annieclavel.com/galleries/ch/ch01&quot;&gt;annieclavel.com&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Gravitational waves&lt;/em&gt;, by Bahaar Dhawan Rohatgi. Source: &lt;a href=&quot;https://www.mojarto.com/artworks/bahaar-dhawan-rohatgi/gravitational-waves-195386&quot;&gt;Mojarto&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+                <link>http://people.ing.unisannio.it/vgaldi/misc/about</link>
+                <guid>http://people.ing.unisannio.it/vgaldi/misc/about</guid>
+                <pubDate>2013-10-28T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Join</title>
+                <description>
+&lt;p&gt;We are always interested in applications from highly 
+motivated students and postdocs with strong backgrounds in mathematics and physics and good computer-programming skills.&lt;/p&gt;
+&lt;div class=&quot;bigspacer&quot;&gt;&lt;/div&gt;
+
+&lt;div class=&quot;head&quot;&gt; PhD students &lt;/div&gt;
+&lt;div class=&quot;spacer&quot;&gt;&lt;/div&gt;
+&lt;p&gt;If you are interested in pursuing a PhD in our Group, you can apply to the program in 
+&lt;a href=&quot;http://www.unisannio.it/en/didattica/corsi-di-studio/dottorato-di-ricerca/dottorato-tecnologie-informazione-ingegneria&quot;&gt;Information Technology for Engineering&lt;/a&gt; 
+at the &lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;. Department calls for PhD openings are usually posted in July, and applications are comparatively reviewed. 
+For inquiries, please send an email to vgaldi&lt;span style=&quot;display:none&quot;&gt;obfuscate&lt;/span&gt;@unisannio.it.&lt;/p&gt;
+&lt;div class=&quot;bigspacer&quot;&gt;&lt;/div&gt;
+
+&lt;div class=&quot;head&quot;&gt; Postdoctoral fellows &lt;/div&gt;
+&lt;div class=&quot;spacer&quot;&gt;&lt;/div&gt;
+&lt;p&gt;If you are interested in a postdoc position, please send a current CV, a short statement of research interests, and
+a list of three academic references to vgaldi&lt;span style=&quot;display:none&quot;&gt;obfuscate&lt;/span&gt;@unisannio.it.&lt;/p&gt;
+</description>
+                <link>http://people.ing.unisannio.it/vgaldi/misc/join</link>
+                <guid>http://people.ing.unisannio.it/vgaldi/misc/join</guid>
+                <pubDate>2013-10-27T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>Contact</title>
+                <description>
+&lt;iframe class=&quot;pull-right&quot; src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3005.1750946569277!2d14.775529015533246!3d41.130703479288435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133a3a727fde0107%3A0xa21cf6c92083118e!2sUniversit%C3%A0+degli+Studi+del+Sannio+-+Dipartimento+di+Ingegneria!5e0!3m2!1sen!2sus!4v1486115015466&quot; width=&quot;400&quot; height=&quot;300&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;address&gt;
+	University of Sannio&lt;br /&gt;
+	Department of Engineering&lt;br /&gt;
+	Corso Garibaldi 107&lt;br /&gt;  
+	I-82100 Benevento, Italy&lt;br /&gt;
+	&lt;br /&gt;
+	Phone: +39 0824 305809&lt;br /&gt;
+	Fax: +39 0824 305840&lt;br /&gt;
+	Email: vgaldi&lt;span style=&quot;display:none&quot;&gt;obfuscate&lt;/span&gt;@unisannio.it&lt;br /&gt;
+&lt;div class=&quot;spacer&quot;&gt;&lt;/div&gt;
+&lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;
+&lt;img class=&quot;pull-left&quot; width=&quot;200&quot; src=&quot;/assets/images/various/UniSannio-DING_logo.png&quot; /&gt;
+&lt;/a&gt;
+&lt;/address&gt;
+
+</description>
+                <link>http://people.ing.unisannio.it/vgaldi/misc/contact</link>
+                <guid>http://people.ing.unisannio.it/vgaldi/misc/contact</guid>
+                <pubDate>2013-10-25T00:00:00+02:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>

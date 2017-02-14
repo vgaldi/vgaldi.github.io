@@ -1,0 +1,965 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Non-Hermitian metamaterials</title>
+    
+    <meta name="author" content="Vincenzo Galdi">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <!-- Bootstrap styles -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+    <!-- Optional theme -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet"/>
+    <!-- Sticky Footer -->
+    <link href="/assets/themes/lab/bootstrap/css/bs-sticky-footer.css" rel="stylesheet"/>
+    
+    <!-- Custom styles -->
+    <link href="/assets/themes/lab/css/style.css?body=1" rel="stylesheet" type="text/css" media="all"/>
+
+    <!-- icon -->
+    <link rel="shortcut icon" href="/assets/themes/lab/images/logo/favicon.ico"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/themes/lab/images/logo/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/themes/lab/images/logo/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/themes/lab/images/logo/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/themes/lab/images/logo/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/themes/lab/images/logo/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/themes/lab/images/logo/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/themes/lab/images/logo/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/themes/lab/images/logo/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/themes/lab/images/logo/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/assets/themes/lab/images/logo/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/themes/lab/images/logo/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/themes/lab/images/logo/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/themes/lab/images/logo/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+      
+      
+      
+      
+      
+    <!-- Custom fonts and icons via Font Awesome, http://fortawesome.github.io/Font-Awesome/ -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"/>
+
+      
+    <link rel="stylesheet" href="/assets/themes/lab/bootstrap/css/academicons.css"/>
+      
+    <!-- Fonts via Google -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700' rel='stylesheet' type='text/css'/>
+
+    <!-- Math via MathJax -->
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <!-- Update these with your own images
+      <link rel="shortcut icon" href="images/favicon.ico">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+    -->
+
+    <!-- atom & rss feed
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+    -->
+
+  </head>
+
+  <body>
+
+  <!-- Static top navbar -->
+
+  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class='container'>
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a href="/">
+        <img class="pull-left logo" src="/assets/themes/lab/images/logo/lab-logo.svg" type="image/svg+xml">
+        </a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-navbar-collapse">
+        <ul class="nav navbar-nav navbar-left hidden-sm">
+          <!-- Don't put site title on home page -- there's already a big title there. -->
+          
+          
+          
+          <a class="navbar-brand" href="/">Fields & Waves Lab</a>
+          
+        </ul>
+        <ul 
+            class="nav navbar-nav navbar-right pull-right">
+          
+          
+          
+
+
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+      	
+      	<li><a href="/projects/">Research</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/people/">People</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+
+        
+            <li class="dropdown nav navbar-nav">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+              Publications <span class="caret"></span>
+            </a>
+
+            <ul class="dropdown-menu nav navbar-nav" role="menu">
+              
+              
+              
+
+
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/journals/">Journals</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/books/">Books</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/conferences/">Conferences</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/preprints/">Preprints</a></li>
+      	
+      
+    
+  
+
+
+
+                </ul>     
+            </li>
+          
+          
+          
+
+
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/news/">News</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/media/">Media</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+                 
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </nav>
+   </div>
+
+   <!-- Content -->
+   <div class="container">
+      
+<div class="page-header">
+  <div class="head">
+      Non-Hermitian metamaterials
+</div>
+<div class="spacer"></div>
+<div class="row post-full">
+  <div class="col-xs-12">
+
+<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+<script>
+	!function(d,s,id){
+		var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+		if(!d.getElementById(id)){
+			js=d.createElement(s);
+			js.id=id;
+			js.src=p+'://platform.twitter.com/widgets.js';
+			fjs.parentNode.insertBefore(js,fjs);
+		}
+	}(document, 'script', 'twitter-wjs');
+</script>
+
+<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+<script type="IN/Share" data-url="http://localhost:4000/projects/non-Hermitian-MTM"></script>
+
+<g:plus action="share" annotation="none"></g:plus>
+<script type="text/javascript">
+	(function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	})();
+</script>
+
+<div class="spacer"></div>
+
+
+    <img width=400 class="media-object pull-right" src="/assets/images/projects/non-Hermitian_MTM1.png"/>
+      
+    <div class="content">
+      
+<p><em>Parity-time</em> (PT) symmetry is a fascinating concept introduced in quantum physics in order to make sense of <em>non-Hermitian</em> Hamiltonians.
+This concept, however, is rather general and pervasive, and has resonated in several research communities, triggering a surge of interest
+in the study of more general non-Hermitian systems.</p>
+
+<p>In particular, thanks to the well-known formal analogies between quantum mechanics and (paraxial) optics,
+non-Hermitian concepts can be translated to electromagnetic structures by means
+of spatial modulation of loss and gain, which is becoming technologically viable
+in artificial materials and metamaterials. In fact, in metamaterial engineering, the
+introduction of material constituents featuring gain is a well-established strategy
+to overcome the inevitable presence of losses. Nonetheless, the above ideas have
+inspired novel, unconventional ways of mixing material constituents featuring loss
+and gain, so as to attain a wealth of anomalous light-matter interactions that extend
+well beyond the mere loss-compensation effects.</p>
+
+<p>In a series of recent investigations, we have been concerned
+with the study of field-manipulation and wave-guiding properties of non-
+Hermitian metamaterials.</p>
+
+<p>In particular, in [<a href="#IJ104_PRL_110_173901_2013"><span style="vertical-align: baseline">1</span></a>] and [<a href="#IJ118_JO_18_044027_2016"><span style="vertical-align: baseline">2</span></a>], 
+we proposed a complex-coordinate extension of the transformation-
+optics framework that allows to handle complex-valued constitutive parameters
+(typical of non-Hermitian metamaterials), while retaining an insightful geometrical
+interpretation in terms of the <em>complexification</em> of geometrical objects.
+In particular, in conjunction with the complex source-point formalism, this approach can naturally handle
+the manipulation of beam-like wave objects in the presence of loss and gain. Moreover,
+it can also be applied to the manipulation of leaky waves.</p>
+
+<p>In a series of subsequent studies, we have focused on some interesting <em>tunneling</em> [<a href="#IJ111_PRB_89_085105_2014"><span style="vertical-align: baseline">3</span></a>] and 
+<em>wave-guiding</em> [<a href="#IJ114_PRB_91_115114_2015"><span style="vertical-align: baseline">4</span></a>, <a href="#IJ121_PRA_94_043838_2016"><span style="vertical-align: baseline">5</span></a>] phenomena that can be 
+induced in non-Hermitian bi-layer and tri-layer systems.
+More specifically, in connection with bi-layer systems (as schematized in the figure top panel), we showed that the PT-symmetry condition
+inherently yields <em>unattenuated propagation</em> along the gain-loss interface, sustained
+by a transverse component of the power flux (from the gain to loss region).
+The figure bottom panels show the field distribution, exponentially localized at the gain-loss interface.
+In particular, we showed that in the <em>epsilon-near-zero</em> regime (i.e., vanishingly small real part of the permittivities)
+the gain/loss level necessary to sustain the wave confinement and guiding effects can
+be significantly reduced.</p>
+
+<p>Overall, such wave-guiding mechanism looks quite attractive in a perspective of
+wave-guiding on demand. For instance, one could envision the deploying of gain medium
+channels in a lossy background, and their selective enabling (and possibly
+reconfiguring) via optical pumping or other gain-inducing mechanisms.</p>
+
+<p>In a related investigation [<a href="#IJ113_SREP_5_8568_2015"><span style="vertical-align: baseline">6</span></a>], 
+we applied the <em>supersymmetry</em> concept to the design of non-Hermitian optical couplers with 
+higher-order mode-selection functionalities, 
+with potential applications to mode-division multiplexing in optical links.</p>
+
+<p>Our results may find potentially intriguing applicability to a variety of exotic
+light-matter interaction effects (e.g., unidirectional invisibility, coherent
+perfect absorption, lasing, negative refraction and focusing, cloaking), and may set the stage for the development of novel
+optical components and devices.</p>
+
+<h2 id="relevant-papers">Relevant papers</h2>
+<ol class="bibliography"><li><span id="IJ104_PRL_110_173901_2013">Castaldi, G., Savoia, S., Galdi, V., Alù, A., &amp; Engheta, N. (2013). PT metamaterials via complex-coordinate transformation optics. <i>Physical Review Letters</i> <span style="font-weight: normal"><i>110</i></span>(17), 173901.</span>
+
+
+<div id="IJ104_PRL_110_173901_2013-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ104_PRL_110_173901_2013-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ104_PRL_110_173901_2013-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1103/PhysRevLett.110.173901">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ104_PRL_110_173901_2013.pdf">PDF</a></li>
+    
+
+    
+    <li><a href="/assets/papers/IJ104_PRL_110_173901_2013_SM.pdf">Supplements</a></li>
+    
+  
+  </ul>
+
+  
+  <p id="IJ104_PRL_110_173901_2013-abstract" class="collapse">We extend the transformation-optics paradigm to a complex spatial coordinate domain, in order to deal with electromagnetic metamaterials characterized by balanced loss and gain, giving special emphasis to parity-time (PT) symmetric metamaterials. We apply this general theory to complex-source-point radiation and anisotropic transmission resonances, illustrating the capability and potentials of our approach in terms of systematic design, analytical modeling, and physical insights into complex-coordinate wave objects and resonant states.</p>
+  
+
+  <pre id="IJ104_PRL_110_173901_2013-bibtex" class="pre pre-scrollable collapse">@article{IJ104_PRL_110_173901_2013,
+  title = {PT metamaterials via complex-coordinate transformation optics},
+  author = {Castaldi, Giuseppe and Savoia, Silvio and Galdi, Vincenzo and Al\`u, Andrea and Engheta, Nader},
+  journal = {Physical Review Letters},
+  volume = {110},
+  issue = {17},
+  pages = {173901},
+  numpages = {5},
+  year = {2013},
+  month = apr,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.110.173901},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.110.173901},
+  note = {/assets/papers/IJ104_PRL_110_173901_2013_SM.pdf}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ118_JO_18_044027_2016">Savoia, S., Castaldi, G., &amp; Galdi, V. (2016). Complex-coordinate non-Hermitian transformation optics. <i>Journal of Optics</i> <span style="font-weight: normal"><i>18</i></span>(4), 044027.</span>
+
+
+<div id="IJ118_JO_18_044027_2016-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ118_JO_18_044027_2016-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ118_JO_18_044027_2016-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1088/2040-8978/18/4/044027">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ118_JO_18_044027_2016.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ118_JO_18_044027_2016-abstract" class="collapse">Transformation optics (TO) is conventionally based on real-valued coordinate transformations and, therefore, cannot naturally handle metamaterials featuring gain and/or losses. Motivated by the growing interest in non-Hermitian optical scenarios featuring spatial modulation of gain and loss, and building upon our previous studies, we explore here possible extensions of the TO framework relying on complex-valued coordinate transformations. We show that such extensions can be naturally combined with well-established powerful tools and formalisms in electromagnetics and optics, based on the ‘complexification’ of spatial and spectral quantities. This enables us to deal with rather general non-Hermitian optical scenarios, while retaining the attractive characteristics of conventional (real-valued) TO in terms of physically incisive modeling and geometry-driven intuitive design. As representative examples, we illustrate the manipulation of beam-like wave-objects (modeled in terms of ‘complex source points’) as well as radiating states (leaky waves’, modeled in terms of complex-valued propagation constants). Our analytical results, validated against full-wave numerical simulations, provide useful insight into the wave propagation in non-Hermitian scenarios, and may indicate new directions in the synthesis of active optical devices and antennas.</p>
+  
+
+  <pre id="IJ118_JO_18_044027_2016-bibtex" class="pre pre-scrollable collapse">@article{IJ118_JO_18_044027_2016,
+  author = {Savoia, S and Castaldi, G and Galdi, V},
+  title = {Complex-coordinate non-Hermitian transformation optics},
+  journal = {Journal of Optics},
+  volume = {18},
+  number = {4},
+  pages = {044027},
+  year = {2016},
+  month = apr,
+  doi = {10.1088/2040-8978/18/4/044027}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ111_PRB_89_085105_2014">Savoia, S., Castaldi, G., Galdi, V., Alù, A., &amp; Engheta, N. (2014). Tunneling of obliquely incident waves through PT-symmetric epsilon-near-zero bilayers. <i>Physical Review B</i> <span style="font-weight: normal"><i>89</i></span>(8), 085105.</span>
+
+
+<div id="IJ111_PRB_89_085105_2014-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ111_PRB_89_085105_2014-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ111_PRB_89_085105_2014-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1103/PhysRevB.89.085105">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ111_PRB_89_085105_2014.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ111_PRB_89_085105_2014-abstract" class="collapse">We show that obliquely incident, transversely magnetic-polarized plane waves can be totally transmitted (with zero reflection) through epsilon-near-zero (ENZ) bilayers characterized by balanced loss and gain with parity-time (PT) symmetry. This tunneling phenomenon is mediated by the excitation of a surface wave localized at the interface separating the loss and gain regions. We determine the parameter configurations for which the phenomenon may occur and, in particular, the relationship between the incidence direction and the electrical thickness. We show that, below a critical threshold of gain and loss, there always exists a tunneling angle which, for moderately thick (wavelength-sized) structures, approaches a critical value dictated by the surface-wave phase-matching condition. We also investigate the unidirectional character of the tunneling phenomenon, as well as the possible onset of spontaneous symmetry breaking, typical of PT-symmetric systems. Our results constitute an interesting example of a PT-symmetry-induced tunneling phenomenon, and may open up intriguing venues in the applications of ENZ materials featuring loss and gain.</p>
+  
+
+  <pre id="IJ111_PRB_89_085105_2014-bibtex" class="pre pre-scrollable collapse">@article{IJ111_PRB_89_085105_2014,
+  title = {Tunneling of obliquely incident waves through PT-symmetric epsilon-near-zero bilayers},
+  author = {Savoia, Silvio and Castaldi, Giuseppe and Galdi, Vincenzo and Al\`u, Andrea and Engheta, Nader},
+  journal = {Physical Review B},
+  volume = {89},
+  issue = {8},
+  pages = {085105},
+  numpages = {10},
+  year = {2014},
+  month = feb,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.89.085105},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.89.085105}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ114_PRB_91_115114_2015">Savoia, S., Castaldi, G., Galdi, V., Alù, A., &amp; Engheta, N. (2015). PT-symmetry-induced wave confinement and guiding in \(ε\)-near-zero metamaterials. <i>Physical Review B</i> <span style="font-weight: normal"><i>91</i></span>(11), 115114.</span>
+
+
+<div id="IJ114_PRB_91_115114_2015-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ114_PRB_91_115114_2015-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ114_PRB_91_115114_2015-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1103/PhysRevB.91.115114">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ114_PRB_91_115114_2015.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ114_PRB_91_115114_2015-abstract" class="collapse">Inspired by the parity-time symmetry concept, we show that a judicious spatial modulation of gain and loss in \(ε\)-near-zero metamaterials can induce the propagation of exponentially bound interface modes characterized by zero attenuation. With specific reference to a bilayer configuration, via analytical studies and parametrization of the dispersion equation, we show that this waveguiding mechanism can be sustained in the presence of moderate gain/loss levels, and it becomes leaky (i.e., radiative) below a gain/loss threshold. Moreover, we explore a possible rod-based metamaterial implementation, based on realistic material constituents, which captures the essential features of the waveguiding mechanism, in good agreement with our theoretical predictions. Our results may open up possibilities for the design of optical devices and reconfigurable nanophotonics platforms.</p>
+  
+
+  <pre id="IJ114_PRB_91_115114_2015-bibtex" class="pre pre-scrollable collapse">@article{IJ114_PRB_91_115114_2015,
+  title = {PT-symmetry-induced wave confinement and guiding in \(\epsilon\)-near-zero metamaterials},
+  author = {Savoia, Silvio and Castaldi, Giuseppe and Galdi, Vincenzo and Al\`u, Andrea and Engheta, Nader},
+  journal = {Physical Review B},
+  volume = {91},
+  issue = {11},
+  pages = {115114},
+  numpages = {10},
+  year = {2015},
+  month = mar,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.91.115114},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.91.115114}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ121_PRA_94_043838_2016">Savoia, S., Castaldi, G., &amp; Galdi, V. (2016). Non-Hermiticity-induced wave confinement and guiding in loss-gain-loss three-layer systems. <i>Physical Review A</i> <span style="font-weight: normal"><i>94</i></span>(4), 043838.</span>
+
+
+<div id="IJ121_PRA_94_043838_2016-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ121_PRA_94_043838_2016-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ121_PRA_94_043838_2016-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1103/PhysRevA.94.043838">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ121_PRA_94_043838_2016.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ121_PRA_94_043838_2016-abstract" class="collapse">Following up on previous studies on parity-time-symmetric gain-loss bilayers, and inspired by formal analogies with plasmonic waveguides, we study non-Hermiticity-induced wave confinement and guiding phenomena that can occur in loss-gain-loss three-layers. By revisiting previous well-established “gain-guiding” concepts, we investigate analytically and numerically the dispersion and confinement properties of guided modes that can be supported by this type of structures, by assuming realistic dispersion models and parameters for the material constituents. As key outcomes, we identify certain modes with specific polarization and symmetry that exhibit particularly desirable characteristics, in terms of quasireal propagation constant and subwavelength confinement. Moreover, we elucidate the effects of material dispersion and parameters and highlight the potential advantages by comparison with the previously studied gain-loss bilayer configurations. Our results provide additional perspectives on light control in non-Hermitian optical systems and may find potentially intriguing applicability to reconfigurable nanophotonic platforms.</p>
+  
+
+  <pre id="IJ121_PRA_94_043838_2016-bibtex" class="pre pre-scrollable collapse">@article{IJ121_PRA_94_043838_2016,
+  title = {Non-Hermiticity-induced wave confinement and guiding in loss-gain-loss three-layer systems},
+  author = {Savoia, Silvio and Castaldi, Giuseppe and Galdi, Vincenzo},
+  journal = {Physical Review A},
+  volume = {94},
+  issue = {4},
+  pages = {043838},
+  numpages = {10},
+  year = {2016},
+  month = oct,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevA.94.043838}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ113_SREP_5_8568_2015">Principe, M., Castaldi, G., Consales, M., Cusano, A., &amp; Galdi, V. (2015). Supersymmetry-inspired non-Hermitian optical couplers. <i>Scientific Reports</i> <span style="font-weight: normal"><i>5</i></span>, 8568.</span>
+
+
+<div id="IJ113_SREP_5_8568_2015-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ113_SREP_5_8568_2015-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ113_SREP_5_8568_2015-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1038/srep08568">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ113_SREP_5_8568_2015.pdf">PDF</a></li>
+    
+
+    
+    <li><a href="/assets/papers/IJ113_SREP_5_8568_2015_SM.pdf">Supplements</a></li>
+    
+  
+  </ul>
+
+  
+  <p id="IJ113_SREP_5_8568_2015-abstract" class="collapse">Supersymmetry has been shown to provide a systematic and effective framework for generating classes of isospectral optical structures featuring perfectly-phase-matched modes, with the exception of one (fundamental) mode which can be removed. More recently, this approach has been extended to non-Hermitian scenarios characterized by spatially-modulated distributions of optical loss and gain, in order to allow the removal of higher-order modes as well. In this paper, we apply this approach to the design of non-Hermitian optical couplers with higher-order mode-selection functionalities, with potential applications to mode-division multiplexing in optical links. In particular, we highlight the critical role of the coupling between non-Hermitian optical waveguides, which generally induces a phase transition to a complex eigenspectrum, thereby hindering the targeted mode-selection functionality. With the specific example of an optical coupler that selects the second-order mode of a given waveguide, we illustrate the aforementioned limitations and propose possible strategies to overcome them, bearing in mind the practical feasibility of the gain levels required.</p>
+  
+
+  <pre id="IJ113_SREP_5_8568_2015-bibtex" class="pre pre-scrollable collapse">@article{IJ113_SREP_5_8568_2015,
+  author = {Principe, Maria and Castaldi, Giuseppe and Consales, Marco and Cusano, Andrea and Galdi, Vincenzo},
+  title = {{Supersymmetry-inspired non-Hermitian optical couplers}},
+  journal = {Scientific Reports},
+  year = {2015},
+  volume = {5},
+  pages = {8568},
+  month = feb,
+  doi = {10.1038/srep08568},
+  note = {/assets/papers/IJ113_SREP_5_8568_2015_SM.pdf}
+}
+</pre>
+
+  
+    
+</div></li></ol>
+
+    </div>
+<div class="spacer"></div>
+  
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-open"></i></li>
+      
+      
+
+
+  
+     
+    	<li><a href="/categories.html#projects-ref">
+    		projects <span>8</span>
+    	</a></li>
+    
+  
+
+
+    </ul>
+    
+
+  
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-tags"></i></li>
+      
+      
+
+
+  
+     
+    	<li><a href="/tags.html#metamaterials-ref">metamaterials <span>5</span></a></li>
+     
+    	<li><a href="/tags.html#non-Hermitian-ref">non-Hermitian <span>2</span></a></li>
+     
+    	<li><a href="/tags.html#transformation optics-ref">transformation optics <span>1</span></a></li>
+     
+    	<li><a href="/tags.html#beams-ref">beams <span>1</span></a></li>
+     
+    	<li><a href="/tags.html#leaky waves-ref">leaky waves <span>1</span></a></li>
+    
+  
+
+
+
+    </ul>
+    
+  
+    
+  </div>
+</div>
+
+
+   </div>
+
+
+  <!-- Static bottom navbar -->
+  <nav class="navbar navbar-default navbar-fixed-bottom">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-bottom-collapse"> <!-- NOTE! data-target was changed to jb-bottom-collapse -->
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-bottom-collapse">
+        <ul class="nav navbar-nav navbar-left navbar-small">
+          <li><a href=http://www.ding.unisannio.it>Department of Engineering</a></li>
+          <li><a href=http://www.unisannio.it/en>University of Sannio</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right navbar-small">
+          <li><a href='/about.html'>About</a></li>
+          <li><a href='/join.html'>Join</a></li>
+          <li><a href='/contact.html'>Contact</a></li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div>
+  </nav>
+ 
+
+
+    
+
+
+
+
+    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="/assets/themes/lab/bootstrap/js/bootstrap.min.js"></script>
+  </body>
+</html>
+

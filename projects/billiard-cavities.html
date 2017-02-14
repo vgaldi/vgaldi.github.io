@@ -1,0 +1,749 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Ray-chaotic “billiard” enclosures</title>
+    
+    <meta name="author" content="Vincenzo Galdi">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <!-- Bootstrap styles -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+    <!-- Optional theme -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet"/>
+    <!-- Sticky Footer -->
+    <link href="/assets/themes/lab/bootstrap/css/bs-sticky-footer.css" rel="stylesheet"/>
+    
+    <!-- Custom styles -->
+    <link href="/assets/themes/lab/css/style.css?body=1" rel="stylesheet" type="text/css" media="all"/>
+
+    <!-- icon -->
+    <link rel="shortcut icon" href="/assets/themes/lab/images/logo/favicon.ico"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/themes/lab/images/logo/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/themes/lab/images/logo/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/themes/lab/images/logo/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/themes/lab/images/logo/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/themes/lab/images/logo/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/themes/lab/images/logo/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/themes/lab/images/logo/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/themes/lab/images/logo/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/themes/lab/images/logo/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/assets/themes/lab/images/logo/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/themes/lab/images/logo/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/themes/lab/images/logo/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/themes/lab/images/logo/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+      
+      
+      
+      
+      
+    <!-- Custom fonts and icons via Font Awesome, http://fortawesome.github.io/Font-Awesome/ -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"/>
+
+      
+    <link rel="stylesheet" href="/assets/themes/lab/bootstrap/css/academicons.css"/>
+      
+    <!-- Fonts via Google -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700' rel='stylesheet' type='text/css'/>
+
+    <!-- Math via MathJax -->
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <!-- Update these with your own images
+      <link rel="shortcut icon" href="images/favicon.ico">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+    -->
+
+    <!-- atom & rss feed
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+    -->
+
+  </head>
+
+  <body>
+
+  <!-- Static top navbar -->
+
+  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class='container'>
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a href="/">
+        <img class="pull-left logo" src="/assets/themes/lab/images/logo/lab-logo.svg" type="image/svg+xml">
+        </a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-navbar-collapse">
+        <ul class="nav navbar-nav navbar-left hidden-sm">
+          <!-- Don't put site title on home page -- there's already a big title there. -->
+          
+          
+          
+          <a class="navbar-brand" href="/">Fields & Waves Lab</a>
+          
+        </ul>
+        <ul 
+            class="nav navbar-nav navbar-right pull-right">
+          
+          
+          
+
+
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+      	
+      	<li><a href="/projects/">Research</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/people/">People</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+
+        
+            <li class="dropdown nav navbar-nav">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+              Publications <span class="caret"></span>
+            </a>
+
+            <ul class="dropdown-menu nav navbar-nav" role="menu">
+              
+              
+              
+
+
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/journals/">Journals</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/books/">Books</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/conferences/">Conferences</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/preprints/">Preprints</a></li>
+      	
+      
+    
+  
+
+
+
+                </ul>     
+            </li>
+          
+          
+          
+
+
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/news/">News</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/media/">Media</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+                 
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </nav>
+   </div>
+
+   <!-- Content -->
+   <div class="container">
+      
+<div class="page-header">
+  <div class="head">
+      Ray-chaotic “billiard” enclosures
+</div>
+<div class="spacer"></div>
+<div class="row post-full">
+  <div class="col-xs-12">
+
+<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+<script>
+	!function(d,s,id){
+		var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+		if(!d.getElementById(id)){
+			js=d.createElement(s);
+			js.id=id;
+			js.src=p+'://platform.twitter.com/widgets.js';
+			fjs.parentNode.insertBefore(js,fjs);
+		}
+	}(document, 'script', 'twitter-wjs');
+</script>
+
+<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+<script type="IN/Share" data-url="http://localhost:4000/projects/billiard-cavities"></script>
+
+<g:plus action="share" annotation="none"></g:plus>
+<script type="text/javascript">
+	(function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	})();
+</script>
+
+<div class="spacer"></div>
+
+
+    <img width=400 class="media-object pull-right" src="/assets/images/projects/billiard_cavity1.png"/>
+      
+    <div class="content">
+      
+<p>Ray chaos, i.e., exponential sensitivity of ray trajectories to launching conditions, 
+could intuitively be expected in very complex and cluttered propagation scenarios 
+(e.g., urban areas). Remarkably, it can also be observed in relatively simple (but coordinate-non-separable) 
+structures that give  rise to multiple reflections, focusing, and defocusing, such as 
+homogeneously filled “billiard-shaped” enclosures.</p>
+
+<p>In [<a href="#IJ30_IEEE_APMAG_47_62_2005"><span style="vertical-align: baseline">1</span></a>], by revisiting a body of results from quantum physics (classical vs. quantum chaos),
+we emphasized possible implications of internal ray chaos for high-frequency wave dynamics (“ray-chaotic footprints”).
+In the time-harmonic high-frequency limit, ray-chaotically-inclined systems tend to exhibit behaviors that differ fundamentally 
+from those observed in ray-regular geometries.
+For instance, in connection with the eigenvalues, in regular billiards 
+the normalized neighboring spacing statistics follow a Poisson probability density function (PDF), 
+whereas in completely ray-chaotic billiards, they turn out to be accurately modeled by a Wigner-Rayleigh PDF.
+In connection with the eigenfunctions, in regular billiards, 
+the wavefield at each point results from the superposition of plane waves (rays) from a finite number of 
+possible directions, whereas in completely ray-chaotic billiards it is expected to be a superposition of 
+a multitude of plane waves, with fixed wavevector amplitude, and uniform direction and phase distribution.</p>
+
+<p>In [<a href="#IJ100_IEEE_TAP_60_3827_2012"><span style="vertical-align: baseline">2</span></a>], we carried out a full-wave investigation of 
+short-pulse electromagnetic wavepacket propagation in ray-chaotic enclosures, 
+via a numerical approach based on the finite difference time domain (FDTD) method.</p>
+
+<p>The figure (top panel) shows the quarter-Sinai-stadium configuration considered, with a 
+typical space-filling ray trajectory (after 250 reflections), and a map illustrating 
+the uniform filling of the phase-space (reflection position vs. direction).</p>
+
+<p>The bottom panels show instead the temporal evolution of a short-pulsed wavepacket launched in the cavity.
+While bouncing around the walls, along the ray path skeleton, the wavepacket undergoes focusing at the concave 
+curved wall and natural spreading elsewhere (including straight-wall reflection), 
+progressively losing its initial space-time localization. 
+At a sufficiently long time, the wavepacket has already uniformly covered the entire enclosure, and the initially localized energy 
+is spread across the mode spectrum.</p>
+
+<p>Results from statistical analysis of the late-time spatial field distributions are 
+consistent with the assumption of a random pulsed plane-wave model.</p>
+
+<p>These results may find important applications
+to wideband electromagnetic interference and/or compatibility testbeds
+(whereby an equipment under test may be subjected to a “pulse
+shower” illumination with characteristics largely independent
+of its location, orientation, shape and constitutive properties),
+as well as the synthetic emulation of multi-path wireless channels.</p>
+
+<h2 id="relevant-papers">Relevant papers</h2>
+<ol class="bibliography"><li><span id="IJ30_IEEE_APMAG_47_62_2005">Galdi, V., Pinto, I. M., &amp; Felsen, L. B. (2005). Wave propagation in ray-chaotic enclosures: paradigms, oddities and examples. <i>IEEE Antennas and Propagation Magazine</i> <span style="font-weight: normal"><i>47</i></span>(1), 62–81.</span>
+
+
+<div id="IJ30_IEEE_APMAG_47_62_2005-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ30_IEEE_APMAG_47_62_2005-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ30_IEEE_APMAG_47_62_2005-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1109/MAP.2005.1436220">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ30_IEEE_APMAG_47_62_2005.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ30_IEEE_APMAG_47_62_2005-abstract" class="collapse">Ray chaos, characterized by eventual exponential divergence of originally nearby multi-bounce ray trajectories, is an intriguing phenomenon. It can be observed in several electromagnetic wave propagation scenarios: both very complex (e.g., urban areas) and very simple (e.g., a stadium-shaped cavity) scenarios. This paper contains a compact review of known results on wave propagation in ray-chaotic scenarios. Attention is focused principally on two-dimensional simple paradigms of internal ray chaos (“ray-chaotic billiards”), with emphasis on possible implications for high-frequency wave dynamics (“ray-chaotic footprints”). General concepts, tools, and numerical examples are discussed, and their potential relevance to current challenges in electromagnetic engineering is noted.</p>
+  
+
+  <pre id="IJ30_IEEE_APMAG_47_62_2005-bibtex" class="pre pre-scrollable collapse">@article{IJ30_IEEE_APMAG_47_62_2005,
+  author = {Galdi, V. and Pinto, I. M. and Felsen, L. B.},
+  journal = {IEEE Antennas and Propagation Magazine},
+  title = {Wave propagation in ray-chaotic enclosures: paradigms, oddities and examples},
+  year = {2005},
+  volume = {47},
+  number = {1},
+  pages = {62--81},
+  keywords = {chaos;electromagnetic wave propagation;electromagnetic engineering;electromagnetic wave propagation;exponential divergence;high-frequency wave dynamics;internal ray chaos;multi-bounce ray trajectory;ray-chaotic enclosure;wave propagation;Aerodynamics;Aerospace engineering;Chaos;Electromagnetic propagation;Fluid dynamics;Geometrical optics;Laser cavity resonators;Mechanical engineering;Optical propagation;Urban areas},
+  doi = {10.1109/MAP.2005.1436220},
+  issn = {1045-9243},
+  month = feb
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ100_IEEE_TAP_60_3827_2012">Castaldi, G., Galdi, V., &amp; Pinto, I. M. (2012). Short-pulsed wavepacket propagation in ray-chaotic enclosures. <i>IEEE Transactions on Antennas and Propagation</i> <span style="font-weight: normal"><i>60</i></span>(8), 3827–3837.</span>
+
+
+<div id="IJ100_IEEE_TAP_60_3827_2012-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ100_IEEE_TAP_60_3827_2012-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ100_IEEE_TAP_60_3827_2012-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1109/TAP.2012.2201126">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ100_IEEE_TAP_60_3827_2012.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ100_IEEE_TAP_60_3827_2012-abstract" class="collapse">Wave propagation in ray-chaotic scenarios, characterized by exponential sensitivity to ray-launching conditions, is a topic of significant interest, with deep phenomenological implications and important applications, ranging from optical components and devices to time-reversal focusing/sensing schemes. Against a background of available results that are largely focused on the time-harmonic regime, we deal here with short-pulsed wavepacket propagation in a ray-chaotic enclosure. For this regime, we propose a rigorous analytical framework based on a short-pulsed random-plane-wave statistical representation, and check its predictions against the results from finite-difference-time-domain numerical simulations.</p>
+  
+
+  <pre id="IJ100_IEEE_TAP_60_3827_2012-bibtex" class="pre pre-scrollable collapse">@article{IJ100_IEEE_TAP_60_3827_2012,
+  author = {Castaldi, G. and Galdi, V. and Pinto, I. M.},
+  journal = {IEEE Transactions on Antennas and Propagation},
+  title = {Short-pulsed wavepacket propagation in ray-chaotic enclosures},
+  year = {2012},
+  volume = {60},
+  number = {8},
+  pages = {3827--3837},
+  keywords = {chaos;electromagnetic wave propagation;statistical analysis;ray launching condition;ray-chaotic enclosures;short pulsed random plane wave statistical representation;short pulsed wavepacket propagation;time reversal focusing;time reversal sensing;time-harmonic regime;Apertures;Finite difference methods;Geometry;Numerical models;Time domain analysis;Trajectory;Vectors;Plane waves;random fields;ray chaos;short pulses},
+  doi = {10.1109/TAP.2012.2201126},
+  issn = {0018-926X},
+  month = aug
+}
+</pre>
+
+  
+    
+</div></li></ol>
+
+    </div>
+<div class="spacer"></div>
+  
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-open"></i></li>
+      
+      
+
+
+  
+     
+    	<li><a href="/categories.html#projects-ref">
+    		projects <span>8</span>
+    	</a></li>
+    
+  
+
+
+    </ul>
+    
+
+  
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-tags"></i></li>
+      
+      
+
+
+  
+     
+    	<li><a href="/tags.html#ray chaos-ref">ray chaos <span>1</span></a></li>
+     
+    	<li><a href="/tags.html#cavities-ref">cavities <span>1</span></a></li>
+     
+    	<li><a href="/tags.html#high-frequency-ref">high-frequency <span>1</span></a></li>
+     
+    	<li><a href="/tags.html#short-pulse-ref">short-pulse <span>1</span></a></li>
+    
+  
+
+
+
+    </ul>
+    
+  
+    
+  </div>
+</div>
+
+
+   </div>
+
+
+  <!-- Static bottom navbar -->
+  <nav class="navbar navbar-default navbar-fixed-bottom">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-bottom-collapse"> <!-- NOTE! data-target was changed to jb-bottom-collapse -->
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-bottom-collapse">
+        <ul class="nav navbar-nav navbar-left navbar-small">
+          <li><a href=http://www.ding.unisannio.it>Department of Engineering</a></li>
+          <li><a href=http://www.unisannio.it/en>University of Sannio</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right navbar-small">
+          <li><a href='/about.html'>About</a></li>
+          <li><a href='/join.html'>Join</a></li>
+          <li><a href='/contact.html'>Contact</a></li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div>
+  </nav>
+ 
+
+
+    
+
+
+
+
+    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="/assets/themes/lab/bootstrap/js/bootstrap.min.js"></script>
+  </body>
+</html>
+

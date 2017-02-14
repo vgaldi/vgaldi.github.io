@@ -1,0 +1,885 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Aperiodic-tiling antenna arrays</title>
+    
+    <meta name="author" content="Vincenzo Galdi">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <!-- Bootstrap styles -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+    <!-- Optional theme -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet"/>
+    <!-- Sticky Footer -->
+    <link href="/assets/themes/lab/bootstrap/css/bs-sticky-footer.css" rel="stylesheet"/>
+    
+    <!-- Custom styles -->
+    <link href="/assets/themes/lab/css/style.css?body=1" rel="stylesheet" type="text/css" media="all"/>
+
+    <!-- icon -->
+    <link rel="shortcut icon" href="/assets/themes/lab/images/logo/favicon.ico"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/themes/lab/images/logo/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/themes/lab/images/logo/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/themes/lab/images/logo/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/themes/lab/images/logo/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/themes/lab/images/logo/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/themes/lab/images/logo/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/themes/lab/images/logo/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/themes/lab/images/logo/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/themes/lab/images/logo/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/assets/themes/lab/images/logo/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/themes/lab/images/logo/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/themes/lab/images/logo/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/themes/lab/images/logo/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+      
+      
+      
+      
+      
+    <!-- Custom fonts and icons via Font Awesome, http://fortawesome.github.io/Font-Awesome/ -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"/>
+
+      
+    <link rel="stylesheet" href="/assets/themes/lab/bootstrap/css/academicons.css"/>
+      
+    <!-- Fonts via Google -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700' rel='stylesheet' type='text/css'/>
+
+    <!-- Math via MathJax -->
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <!-- Update these with your own images
+      <link rel="shortcut icon" href="images/favicon.ico">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+    -->
+
+    <!-- atom & rss feed
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+    -->
+
+  </head>
+
+  <body>
+
+  <!-- Static top navbar -->
+
+  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class='container'>
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a href="/">
+        <img class="pull-left logo" src="/assets/themes/lab/images/logo/lab-logo.svg" type="image/svg+xml">
+        </a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-navbar-collapse">
+        <ul class="nav navbar-nav navbar-left hidden-sm">
+          <!-- Don't put site title on home page -- there's already a big title there. -->
+          
+          
+          
+          <a class="navbar-brand" href="/">Fields & Waves Lab</a>
+          
+        </ul>
+        <ul 
+            class="nav navbar-nav navbar-right pull-right">
+          
+          
+          
+
+
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+      	
+      	<li><a href="/projects/">Research</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/people/">People</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+
+        
+            <li class="dropdown nav navbar-nav">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+              Publications <span class="caret"></span>
+            </a>
+
+            <ul class="dropdown-menu nav navbar-nav" role="menu">
+              
+              
+              
+
+
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/journals/">Journals</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/books/">Books</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/conferences/">Conferences</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/preprints/">Preprints</a></li>
+      	
+      
+    
+  
+
+
+
+                </ul>     
+            </li>
+          
+          
+          
+
+
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/news/">News</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/media/">Media</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+                 
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </nav>
+   </div>
+
+   <!-- Content -->
+   <div class="container">
+      
+<div class="page-header">
+  <div class="head">
+      Aperiodic-tiling antenna arrays
+</div>
+<div class="spacer"></div>
+<div class="row post-full">
+  <div class="col-xs-12">
+
+<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+<script>
+	!function(d,s,id){
+		var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+		if(!d.getElementById(id)){
+			js=d.createElement(s);
+			js.id=id;
+			js.src=p+'://platform.twitter.com/widgets.js';
+			fjs.parentNode.insertBefore(js,fjs);
+		}
+	}(document, 'script', 'twitter-wjs');
+</script>
+
+<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+<script type="IN/Share" data-url="http://localhost:4000/projects/aperiodic-tiling_arrays"></script>
+
+<g:plus action="share" annotation="none"></g:plus>
+<script type="text/javascript">
+	(function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	})();
+</script>
+
+<div class="spacer"></div>
+
+
+    <img width=400 class="media-object pull-right" src="/assets/images/projects/aperiodic_AA1.png"/>
+      
+    <div class="content">
+      
+<p>Our Group has been among the pioneers in the application of aperiodically ordered structures in electromagnetics.</p>
+
+<p>More specifically, in [<a href="#IJ28_IEEE_TAP_53_635_2005"><span style="vertical-align: baseline">1</span></a>], we first introduced the concept of “aperiodic tiling” in the theory of antenna arrays. 
+This study clarifies some fundamental theoretical aspects related to the effects of “order” and “symmetry” 
+in the radiation characteristics. Moreover, it identifies certain aperiodic configurations particularly 
+interesting in terms of bandwidth and sidelobe level.</p>
+
+<p>The figure illustrates the inflection rule to generate a particular (Danzer) aperiodic tiling (top), and the 
+corresponding radiation spectrum (bottom), from which it can be observed a 14-fold rotational symmetry and the absence of grating lobes.</p>
+
+<p>A major complication that arises when dealing with aperiodic structures, is the lack of the typical 
+analytical tools available for periodic geometries.
+In [<a href="#IJ32_IEEE_TAP_53_2044_2005"><span style="vertical-align: baseline">2</span></a>], with specific reference to a 
+“modified-Fibonacci” <em>quasi-periodic</em> sequence, we showed a
+two-scale generalization of the standard Poisson summation formula for periodic arrays. 
+This allows for a “quasi-Floquet” analytic parameterization of the radiated field, 
+which provides instructive insights into some of the basic wave mechanisms associated with quasi-periodic order. 
+These results were also extended to account for the presence of a dielectric substrate [<a href="#IJ42_JEWA_21_1231_2007"><span style="vertical-align: baseline">3</span></a>].</p>
+
+<p>In [<a href="#IJ33_IEEE_TAP_53_3568_2005"><span style="vertical-align: baseline">4</span></a>], we explored various configurations 
+generated by Rudin-Shapiro sequences, which constitute one of the simplest conceivable 
+examples of deterministic aperiodic geometries featuring random-like (dis)order. 
+In particular, we showed that these might find interesting applications to the synthesis of
+<em>omnidirectional</em> and <em>thinned</em> arrays.</p>
+
+<p>Finally, in [<a href="#IJ39_IEEE_TAP_55_1554_2007"><span style="vertical-align: baseline">5</span></a>], we studied 
+the plane-wave scattering from general one-dimensional aperiodically ordered 
+strip-array geometries based on two-symbol substitution rules. By exploiting theoretical results from solid-state physics 
+and discrete geometry, we showed that a wealth of scattering signatures, 
+with (sometime counter-intuitive) spectral characteristics ranging from quasiperiodic to quasirandom, 
+can be obtained via judicious exploitation of the additional geometrical and/or constitutive degrees of 
+freedom available in aperiodic configurations. In particular, we highlighted the role played by the substitution 
+rule (and, specifically, the arithmetical properties of the associated substitution matrix), the scale-ratio, 
+the element scattering responde, and the array size.</p>
+
+<h2 id="relevant-papers">Relevant papers</h2>
+<ol class="bibliography"><li><span id="IJ28_IEEE_TAP_53_635_2005">Pierro, V., Galdi, V., Castaldi, G., Pinto, I. M., &amp; Felsen, L. B. (2005). Radiation properties of planar antenna arrays based on certain categories of aperiodic tilings. <i>IEEE Transactions on Antennas and Propagation</i> <span style="font-weight: normal"><i>53</i></span>(2), 635–644.</span>
+
+
+<div id="IJ28_IEEE_TAP_53_635_2005-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ28_IEEE_TAP_53_635_2005-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ28_IEEE_TAP_53_635_2005-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1109/TAP.2004.841287">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ28_IEEE_TAP_53_635_2005.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ28_IEEE_TAP_53_635_2005-abstract" class="collapse">Two-dimensional aperiodic tilings are collections of polygons, devoid of any translational symmetries, capable of covering a plane without gaps and overlaps. Although aperiodic, these structures can exhibit order and symmetry in an extended sense. In this paper, we study the radiation properties of planar antenna arrays based on certain categories of two-dimensional aperiodic tilings that illustrate diverse aspects of aperiodic order. Background material on aperiodic tilings and their known electromagnetic properties is reviewed. Results are illustrated to highlight the effects of aperiodic order in the antenna array radiation properties. Potential applications are also envisaged</p>
+  
+
+  <pre id="IJ28_IEEE_TAP_53_635_2005-bibtex" class="pre pre-scrollable collapse">@article{IJ28_IEEE_TAP_53_635_2005,
+  author = {Pierro, V. and Galdi, V. and Castaldi, G. and Pinto, I. M. and Felsen, L. B.},
+  journal = {IEEE Transactions on Antennas and Propagation},
+  title = {Radiation properties of planar antenna arrays based on certain categories of aperiodic tilings},
+  year = {2005},
+  volume = {53},
+  number = {2},
+  pages = {635--644},
+  keywords = {antenna radiation patterns;electromagnetic waves;periodic structures;planar antenna arrays;quasicrystals;diverse aspect;electromagnetic property;planar antenna array;potential application;radiation property;translational symmetry;two-dimensional aperiodic tiling;Antenna arrays;Design engineering;Electromagnetic radiation;Electromagnetic scattering;Geometry;Periodic structures;Physics computing;Planar arrays;Power engineering and energy;Power engineering computing;Antenna arrays;aperiodic tilings;quasi-crystals;radiation},
+  doi = {10.1109/TAP.2004.841287},
+  issn = {0018-926X},
+  month = feb
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ32_IEEE_TAP_53_2044_2005">Galdi, V., Castaldi, G., Pierro, V., Pinto, I. M., &amp; Felsen, L. B. (2005). Parameterizing quasi-periodicity: generalized Poisson summation and its application to modified-Fibonacci antenna arrays. <i>IEEE Transactions on Antennas and Propagation</i> <span style="font-weight: normal"><i>53</i></span>(6), 2044–2053.</span>
+
+
+<div id="IJ32_IEEE_TAP_53_2044_2005-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ32_IEEE_TAP_53_2044_2005-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ32_IEEE_TAP_53_2044_2005-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1109/TAP.2005.848514">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ32_IEEE_TAP_53_2044_2005.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ32_IEEE_TAP_53_2044_2005-abstract" class="collapse">The fairly recent discovery of “quasi-crystals”, whose X-ray diffraction patterns reveal certain peculiar features which do not conform with spatial periodicity, has motivated studies of the wave-dynamical implications of "aperiodic order". Within the context of the radiation properties of antenna arrays, an instructive novel (canonical) example of wave interactions with quasi-periodic order is illustrated here for one-dimensional array configurations based on the “modified-Fibonacci” sequence, with utilization of a two-scale generalization of the standard Poisson summation formula for periodic arrays. This allows for a “quasi-Floquet” analytic parameterization of the radiated field, which provides instructive insights into some of the basic wave mechanisms associated with quasi-periodic order, highlighting similarities and differences with the periodic case. Examples are shown for quasi-periodic infinite and spatially-truncated arrays, with brief discussion of computational issues and potential applications.</p>
+  
+
+  <pre id="IJ32_IEEE_TAP_53_2044_2005-bibtex" class="pre pre-scrollable collapse">@article{IJ32_IEEE_TAP_53_2044_2005,
+  author = {Galdi, V. and Castaldi, G. and Pierro, V. and Pinto, I. M. and Felsen, L. B.},
+  journal = {IEEE Transactions on Antennas and Propagation},
+  title = {Parameterizing quasi-periodicity: generalized Poisson summation and its application to modified-Fibonacci antenna arrays},
+  year = {2005},
+  volume = {53},
+  number = {6},
+  pages = {2044--2053},
+  keywords = {Fibonacci sequences;antenna arrays;antenna radiation patterns;quasicrystals;stochastic processes;antenna arrays;modified-Fibonacci sequence;one-dimensional array configuration;periodic arrays;quasiFloquet analytic parameterization;quasicrystals;quasiperiodic order;standard Poisson summation formula;Antenna arrays;Electromagnetic devices;Electromagnetic diffraction;Frequency selective surfaces;Geometry;Helium;Passband;Photonic band gap;Two dimensional displays;X-ray diffraction;Antenna arrays;Fibonacci sequence;aperiodic order;generalized Poisson summation},
+  doi = {10.1109/TAP.2005.848514},
+  issn = {0018-926X},
+  month = jun
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ42_JEWA_21_1231_2007">Castaldi, G., Galdi, V., Pierro, V., &amp; Pinto, I. M. (2007). Radiation from Fibonacci-type quasiperiodic arrays on dielectric substrates. <i>Journal of Electromagnetic Waves and Applications</i> <span style="font-weight: normal"><i>21</i></span>(9), 1231–1245.</span>
+
+
+<div id="IJ42_JEWA_21_1231_2007-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ42_JEWA_21_1231_2007-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ42_JEWA_21_1231_2007-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1163/156939307794731187">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ42_JEWA_21_1231_2007.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ42_JEWA_21_1231_2007-abstract" class="collapse"> We present a simple prototype study of electromagnetic radiation by a one-dimensional quasiperiodic Fibonacci-type array laid on a grounded dielectric slab, extending our previous free-space studies. Analytic parameterization of the interaction between aperiodic-order-induced "quasi-Floquet" waves and slab-induced surface/leaky-waves is addressed, for infinite and truncated arrays, via generalized Poisson summation and uniform asymptotics. Accuracy and computational effectiveness of the proposed parameterizations are assessed via numerical comparisons against an independently-generated reference solution (element-by-element synthesis). </p>
+  
+
+  <pre id="IJ42_JEWA_21_1231_2007-bibtex" class="pre pre-scrollable collapse">@article{IJ42_JEWA_21_1231_2007,
+  author = {Castaldi, G. and Galdi, V. and Pierro, V. and Pinto, I. M.},
+  title = {Radiation from Fibonacci-type quasiperiodic arrays on dielectric substrates},
+  journal = {Journal of Electromagnetic Waves and Applications},
+  volume = {21},
+  number = {9},
+  pages = {1231--1245},
+  year = {2007},
+  month = sep,
+  doi = {10.1163/156939307794731187},
+  url = { http://www.tandfonline.com/doi/abs/10.1163/156939307794731187}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ33_IEEE_TAP_53_3568_2005">Galdi, V., Pierro, V., Castaldi, G., Pinto, I. M., &amp; Felsen, L. B. (2005). Radiation properties of one-dimensional random-like antenna arrays based on Rudin-Shapiro sequences. <i>IEEE Transactions on Antennas and Propagation</i> <span style="font-weight: normal"><i>53</i></span>(11), 3568–3575.</span>
+
+
+<div id="IJ33_IEEE_TAP_53_3568_2005-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ33_IEEE_TAP_53_3568_2005-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ33_IEEE_TAP_53_3568_2005-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1109/TAP.2005.858863">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ33_IEEE_TAP_53_3568_2005.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ33_IEEE_TAP_53_3568_2005-abstract" class="collapse">The development of exotic new materials, such as metamaterials, has created strong interest within the electromagnetics (EM) community for possible new phenomenologies and device applications, with particular attention to periodicity-induced phenomena, such as photonic bandgaps. Within this context, motivated by the fairly recent discovery in X-ray crystallography of “quasi-crystals”, whose diffraction patterns display unusual characteristics that are associated with “aperiodic order”, we have undertaken a systematic study of how these exotic effects manifest themselves in the radiation properties of aperiodically configured antenna arrays. The background for these studies, with promising example configurations, has been reported in a previous publication [V. Pierro et al., IEEE Trans. Antennas Propag., vol. 53, pp. 635-644, Feb. 2005]. In this paper, we pay attention to various configurations generated by Rudin-Shapiro (RS) sequences, which constitute one of the simplest conceivable examples of deterministic aperiodic geometries featuring random-like (dis)order. After presentation and review of relevant background material, the radiation properties of one-dimensional RS-based antenna arrays are analyzed, followed by illustrative numerical parametric studies to validate the theoretical models. Design parameters and potential practical applications are also given attention.</p>
+  
+
+  <pre id="IJ33_IEEE_TAP_53_3568_2005-bibtex" class="pre pre-scrollable collapse">@article{IJ33_IEEE_TAP_53_3568_2005,
+  author = {Galdi, V. and Pierro, V. and Castaldi, G. and Pinto, I. M. and Felsen, L. B.},
+  journal = {IEEE Transactions on Antennas and Propagation},
+  title = {Radiation properties of one-dimensional random-like antenna arrays based on Rudin-Shapiro sequences},
+  year = {2005},
+  volume = {53},
+  number = {11},
+  pages = {3568--3575},
+  doi = {10.1109/TAP.2005.858863},
+  issn = {0018-926X},
+  month = nov
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ39_IEEE_TAP_55_1554_2007">Galdi, V., Castaldi, G., Pierro, V., Pinto, I. M., &amp; Felsen, L. B. (2007). Scattering properties of one-dimensional aperiodically-ordered strip arrays based on two-symbol substitutional sequences. <i>IEEE Transactions on Antennas and Propagation</i> <span style="font-weight: normal"><i>55</i></span>(6), 1554–1563.</span>
+
+
+<div id="IJ39_IEEE_TAP_55_1554_2007-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ39_IEEE_TAP_55_1554_2007-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ39_IEEE_TAP_55_1554_2007-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1109/TAP.2007.897228">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ39_IEEE_TAP_55_1554_2007.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ39_IEEE_TAP_55_1554_2007-abstract" class="collapse">This paper is concerned with a study of the two-dimensional (2-D) time-harmonic scattering by aperiodically-ordered 1-D planar strip arrays based on two-symbol substitutional sequences, under Kirchhoff physical-optics approximation. In this connection, theoretical results from solid-state physics, dwelling on concepts from discrete geometry and number theory, are briefly reviewed and applied to the characterization of the scattering signatures of the above physical configuration. Parametric studies are presented in order to flesh out some of the above concepts and to highlight wave-features which are thought as being representative of a fairly broad class of regular non-periodic scatterers. Potential applications are also envisaged.</p>
+  
+
+  <pre id="IJ39_IEEE_TAP_55_1554_2007-bibtex" class="pre pre-scrollable collapse">@article{IJ39_IEEE_TAP_55_1554_2007,
+  author = {Galdi, V. and Castaldi, G. and Pierro, V. and Pinto, I. M. and Felsen, L. B.},
+  journal = {IEEE Transactions on Antennas and Propagation},
+  title = {Scattering properties of one-dimensional aperiodically-ordered strip arrays based on two-symbol substitutional sequences},
+  year = {2007},
+  volume = {55},
+  number = {6},
+  pages = {1554--1563},
+  keywords = {electromagnetic wave scattering;quasicrystals;symbolic substitution;1D aperiodically-ordered strip arrays;1D planar strip arrays;2D time-harmonic scattering;Kirchhoff physical-optics approximation;nonperiodic scatterers;scattering properties;solid-state physics;two-symbol substitutional sequences;wave-features;Electrodynamics;Electromagnetic scattering;Geometry;Helium;Parametric study;Particle scattering;Periodic structures;Physics;Solid state circuits;Two dimensional displays;Aperiodic order;quasicrystals;scattering;substitutional sequences},
+  doi = {10.1109/TAP.2007.897228},
+  issn = {0018-926X},
+  month = jun
+}
+</pre>
+
+  
+    
+</div></li></ol>
+
+    </div>
+<div class="spacer"></div>
+  
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-open"></i></li>
+      
+      
+
+
+  
+     
+    	<li><a href="/categories.html#projects-ref">
+    		projects <span>8</span>
+    	</a></li>
+    
+  
+
+
+    </ul>
+    
+
+  
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-tags"></i></li>
+      
+      
+
+
+  
+     
+    	<li><a href="/tags.html#aperiodic-ref">aperiodic <span>1</span></a></li>
+     
+    	<li><a href="/tags.html#arrays-ref">arrays <span>1</span></a></li>
+    
+  
+
+
+
+    </ul>
+    
+  
+    
+  </div>
+</div>
+
+
+   </div>
+
+
+  <!-- Static bottom navbar -->
+  <nav class="navbar navbar-default navbar-fixed-bottom">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-bottom-collapse"> <!-- NOTE! data-target was changed to jb-bottom-collapse -->
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-bottom-collapse">
+        <ul class="nav navbar-nav navbar-left navbar-small">
+          <li><a href=http://www.ding.unisannio.it>Department of Engineering</a></li>
+          <li><a href=http://www.unisannio.it/en>University of Sannio</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right navbar-small">
+          <li><a href='/about.html'>About</a></li>
+          <li><a href='/join.html'>Join</a></li>
+          <li><a href='/contact.html'>Contact</a></li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div>
+  </nav>
+ 
+
+
+    
+
+
+
+
+    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="/assets/themes/lab/bootstrap/js/bootstrap.min.js"></script>
+  </body>
+</html>
+
