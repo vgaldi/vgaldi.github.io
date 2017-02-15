@@ -4,7 +4,7 @@
  <title>Fields & Waves Lab</title>
  <link href="https://vgaldi.github.io/" rel="self"/>
  <link href="https://vgaldi.github.io"/>
- <updated>2017-02-15T21:42:32+01:00</updated>
+ <updated>2017-02-15T22:08:49+01:00</updated>
  <id>https://vgaldi.github.io</id>
  <author>
    <name>Vincenzo Galdi</name>
@@ -758,6 +758,55 @@ was achieved around 100 Hz. Understanding both the fundamental and the technical
  </entry>
  
  <entry>
+   <title>Michele Scaravilli</title>
+   <link href="https://vgaldi.github.io/team/michele-scaravilli"/>
+   <updated>2017-02-10T00:00:00+01:00</updated>
+   <id>https://vgaldi.github.io/team/michele-scaravilli</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Michele Scaravilli&lt;/strong&gt; was born in Caserta, Italy, on December 9, 1988.&lt;/p&gt;
+
+&lt;p&gt;He received his M.E. degree in Electrical Engineering (&lt;em&gt;summa cum laude&lt;/em&gt;) from the
+&lt;a href=&quot;http://www.unina.it/en_GB/home&quot;&gt;“Federico II” University of Naples&lt;/a&gt;, Italy, with a thesis project 
+dealing with the design and optimization of an anti-intrusion microwave sensor based on a 
+parallel-plate waveguide with deformable walls.&lt;/p&gt;
+
+&lt;p&gt;Since June 2014, he has been a Ph.D. student in Information Technologies for Engineering​at the 
+&lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, working in 
+the Fields &amp;amp; Waves Lab and the &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it&quot;&gt;Optoelectronics Group&lt;/a&gt;, 
+under the joint supervision of Proff. &lt;a href=&quot;/people/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; 
+and &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;His current research activity is focused on the design, numerical modeling and fabrication of novel 
+label-free optical fiber nanoprobes based on the excitation of Bloch surface waves, as well as SERS probes.
+More generally, his scientific interests include: plasmonics, photonic crystals, bio-photonics and optical fiber sensors.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Massimo Moccia</title>
+   <link href="https://vgaldi.github.io/team/massimo-moccia"/>
+   <updated>2017-02-10T00:00:00+01:00</updated>
+   <id>https://vgaldi.github.io/team/massimo-moccia</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Massimo Moccia&lt;/strong&gt; was born in Benevento, Italy on February 11, 1982.&lt;/p&gt;
+
+&lt;p&gt;He received the B.S. and M.S. degree in Telecommunications Engineering (&lt;em&gt;summa cum laude&lt;/em&gt;) from the 
+&lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;,
+Benevento, Italy, in 2005 and 2007 respectively. During his study program, he was a visiting student at the 
+&lt;a href=&quot;https://www.upv.es/index-en.html&quot;&gt;Polytechnic University of Valencia&lt;/a&gt; (2003-2004) and the &lt;a href=&quot;http://www.upc.edu/?set_language=en&quot;&gt;Polytechnic 
+University of Catalonia&lt;/a&gt; (2007). 
+In 2008, he attended a postgraduate specialization course in “Technologies for micro and nano electronics” at the 
+&lt;a href=&quot;http://en.uniroma1.it&quot;&gt;“Sapienza” University of Rome&lt;/a&gt;. In 2012, he received the Ph.D. Degree in Information Engineering from the 
+University of Sannio.&lt;/p&gt;
+
+&lt;p&gt;Since 2012, he has been working as a Postdoctoral Researcher at the University of Sannio.&lt;/p&gt;
+
+&lt;p&gt;His current research activity is focused on the areas of electromagnetic and multiphysics metamaterials, RF devices, and antenna design
+for satellite applications. In the past, he has also worked on superconductivity experiments, ferroelectric devices,
+fiber-optics sensors, and nanotechnologies.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Multiphysics metamaterials</title>
    <link href="https://vgaldi.github.io/projects/multiphysics-MTM"/>
    <updated>2017-02-10T00:00:00+01:00</updated>
@@ -865,55 +914,6 @@ such as aluminum nitride and silver conductive epoxies.&lt;/p&gt;
   
     
 &lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Michele Scaravilli</title>
-   <link href="https://vgaldi.github.io/people/michele-scaravilli"/>
-   <updated>2017-02-10T00:00:00+01:00</updated>
-   <id>https://vgaldi.github.io/people/michele-scaravilli</id>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Michele Scaravilli&lt;/strong&gt; was born in Caserta, Italy, on December 9, 1988.&lt;/p&gt;
-
-&lt;p&gt;He received his M.E. degree in Electrical Engineering (&lt;em&gt;summa cum laude&lt;/em&gt;) from the
-&lt;a href=&quot;http://www.unina.it/en_GB/home&quot;&gt;“Federico II” University of Naples&lt;/a&gt;, Italy, with a thesis project 
-dealing with the design and optimization of an anti-intrusion microwave sensor based on a 
-parallel-plate waveguide with deformable walls.&lt;/p&gt;
-
-&lt;p&gt;Since June 2014, he has been a Ph.D. student in Information Technologies for Engineering​at the 
-&lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, working in 
-the Fields &amp;amp; Waves Lab and the &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it&quot;&gt;Optoelectronics Group&lt;/a&gt;, 
-under the joint supervision of Proff. &lt;a href=&quot;/people/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; 
-and &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;His current research activity is focused on the design, numerical modeling and fabrication of novel 
-label-free optical fiber nanoprobes based on the excitation of Bloch surface waves, as well as SERS probes.
-More generally, his scientific interests include: plasmonics, photonic crystals, bio-photonics and optical fiber sensors.&lt;/p&gt;
-
-</content>
- </entry>
- 
- <entry>
-   <title>Massimo Moccia</title>
-   <link href="https://vgaldi.github.io/people/massimo-moccia"/>
-   <updated>2017-02-10T00:00:00+01:00</updated>
-   <id>https://vgaldi.github.io/people/massimo-moccia</id>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Massimo Moccia&lt;/strong&gt; was born in Benevento, Italy on February 11, 1982.&lt;/p&gt;
-
-&lt;p&gt;He received the B.S. and M.S. degree in Telecommunications Engineering (&lt;em&gt;summa cum laude&lt;/em&gt;) from the 
-&lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;,
-Benevento, Italy, in 2005 and 2007 respectively. During his study program, he was a visiting student at the 
-&lt;a href=&quot;https://www.upv.es/index-en.html&quot;&gt;Polytechnic University of Valencia&lt;/a&gt; (2003-2004) and the &lt;a href=&quot;http://www.upc.edu/?set_language=en&quot;&gt;Polytechnic 
-University of Catalonia&lt;/a&gt; (2007). 
-In 2008, he attended a postgraduate specialization course in “Technologies for micro and nano electronics” at the 
-&lt;a href=&quot;http://en.uniroma1.it&quot;&gt;“Sapienza” University of Rome&lt;/a&gt;. In 2012, he received the Ph.D. Degree in Information Engineering from the 
-University of Sannio.&lt;/p&gt;
-
-&lt;p&gt;Since 2012, he has been working as a Postdoctoral Researcher at the University of Sannio.&lt;/p&gt;
-
-&lt;p&gt;His current research activity is focused on the areas of electromagnetic and multiphysics metamaterials, RF devices, and antenna design
-for satellite applications. In the past, he has also worked on superconductivity experiments, ferroelectric devices,
-fiber-optics sensors, and nanotechnologies.&lt;/p&gt;
 </content>
  </entry>
  
@@ -1146,6 +1146,29 @@ with potential applications to nonreciprocal optics, topological photonics, and 
 
 &lt;p&gt;Details on the design and implementation can be found &lt;a href=&quot;/about.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Giuseppe Castaldi</title>
+   <link href="https://vgaldi.github.io/team/giuseppe-castaldi"/>
+   <updated>2017-02-08T00:00:00+01:00</updated>
+   <id>https://vgaldi.github.io/team/giuseppe-castaldi</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Giuseppe Castaldi&lt;/strong&gt; was born in Benevento, Italy, in 1968.&lt;/p&gt;
+
+&lt;p&gt;He received the Laurea degree (&lt;em&gt;summa cum laude&lt;/em&gt;) in electrical engineering from the 
+&lt;a href=&quot;http://www.unina.it/en_GB/home&quot;&gt;“Federico II” University of Naples&lt;/a&gt;, Italy, in 1993, and the Ph.D. degree in applied electromagnetics from the 
+&lt;a href=&quot;http://web.unisa.it/en&quot;&gt;University of Salerno&lt;/a&gt;, Italy, in 1999.&lt;/p&gt;
+
+&lt;p&gt;In 2001, he was a post-doctoral research fellow at the &lt;a href=&quot;https://www.tno.nl/en/&quot;&gt;TNO&lt;/a&gt; Physics and Electronics Laboratory, The Hague, The Netherlands. 
+In 2004, he was appointed Assistant Professor of Electromagnetics, and joined the &lt;a href=&quot;https://www.ding.unisannio.it/en/&quot;&gt;Department of Engineering&lt;/a&gt; 
+at the &lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, where is currently working as an Associate Professor.&lt;/p&gt;
+
+&lt;p&gt;He has co-authored over a hundred scientific papers in international journals and books. 
+His research interests include metamaterials, non-Hermitian optics, transformation electromagnetics, aperiodically ordered structures, 
+electromagnetic chaos, antenna array diagnostics, and phase retrieval.&lt;/p&gt;
+
+&lt;p&gt;He is the co-founder of &lt;a href=&quot;http://www.mantid.it&quot;&gt;MANTID&lt;/a&gt; srl, a spinoff company of the University of Sannio.&lt;/p&gt;
 </content>
  </entry>
  
@@ -1517,29 +1540,6 @@ optical components and devices.&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>Giuseppe Castaldi</title>
-   <link href="https://vgaldi.github.io/people/giuseppe-castaldi"/>
-   <updated>2017-02-08T00:00:00+01:00</updated>
-   <id>https://vgaldi.github.io/people/giuseppe-castaldi</id>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Giuseppe Castaldi&lt;/strong&gt; was born in Benevento, Italy, in 1968.&lt;/p&gt;
-
-&lt;p&gt;He received the Laurea degree (&lt;em&gt;summa cum laude&lt;/em&gt;) in electrical engineering from the 
-&lt;a href=&quot;http://www.unina.it/en_GB/home&quot;&gt;“Federico II” University of Naples&lt;/a&gt;, Italy, in 1993, and the Ph.D. degree in applied electromagnetics from the 
-&lt;a href=&quot;http://web.unisa.it/en&quot;&gt;University of Salerno&lt;/a&gt;, Italy, in 1999.&lt;/p&gt;
-
-&lt;p&gt;In 2001, he was a post-doctoral research fellow at the &lt;a href=&quot;https://www.tno.nl/en/&quot;&gt;TNO&lt;/a&gt; Physics and Electronics Laboratory, The Hague, The Netherlands. 
-In 2004, he was appointed Assistant Professor of Electromagnetics, and joined the &lt;a href=&quot;https://www.ding.unisannio.it/en/&quot;&gt;Department of Engineering&lt;/a&gt; 
-at the &lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, where is currently working as an Associate Professor.&lt;/p&gt;
-
-&lt;p&gt;He has co-authored over a hundred scientific papers in international journals and books. 
-His research interests include metamaterials, non-Hermitian optics, transformation electromagnetics, aperiodically ordered structures, 
-electromagnetic chaos, antenna array diagnostics, and phase retrieval.&lt;/p&gt;
-
-&lt;p&gt;He is the co-founder of MANTID srl, a spinoff company of the University of Sannio.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Reconfigurable metamaterial electric circuits</title>
    <link href="https://vgaldi.github.io/projects/reconfigurable-MTM"/>
    <updated>2017-02-07T00:00:00+01:00</updated>
@@ -1759,9 +1759,9 @@ This can overcome significant constraints that limit innovation in information p
  
  <entry>
    <title>Vincenzo Galdi</title>
-   <link href="https://vgaldi.github.io/people/vincenzo-galdi"/>
+   <link href="https://vgaldi.github.io/team/vincenzo-galdi"/>
    <updated>2017-01-30T00:00:00+01:00</updated>
-   <id>https://vgaldi.github.io/people/vincenzo-galdi</id>
+   <id>https://vgaldi.github.io/team/vincenzo-galdi</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Vincenzo Galdi&lt;/strong&gt; received the Laurea degree (&lt;em&gt;summa cum laude&lt;/em&gt;) in electrical engineering and the Ph.D. degree in applied electromagnetics from the &lt;a href=&quot;http://web.unisa.it/en&quot;&gt;University of Salerno&lt;/a&gt;, 
 Italy, in 1995 and 1999, respectively.&lt;/p&gt;
 
@@ -1786,7 +1786,7 @@ inverse scattering, and gravitational interferometry.&lt;/p&gt;
 &lt;a href=&quot;http://www.sigmaxi.org/&quot;&gt;Sigma Xi&lt;/a&gt;.
 He is also is the recipient of an &lt;em&gt;Outstanding Associate Editor Award&lt;/em&gt; (IEEE Transactions on Antennas and Propagation, 2014) and a &lt;a href=&quot;http://www.ursi.org&quot;&gt;URSI&lt;/a&gt; &lt;em&gt;Young Scientist Award&lt;/em&gt; (2001).&lt;/p&gt;
 
-&lt;p&gt;He is the co-founder of MANTID srl, a spinoff company of the University of Sannio.&lt;/p&gt;
+&lt;p&gt;He is the co-founder of &lt;a href=&quot;http://www.mantid.it&quot;&gt;MANTID&lt;/a&gt; srl, a spinoff company of the University of Sannio.&lt;/p&gt;
 
 </content>
  </entry>

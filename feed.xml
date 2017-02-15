@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-02-15T21:42:32+01:00</updated><id>http://localhost:4000//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on non-Hermitian metasurfaces accepted in PRB</title><link href="http://localhost:4000/news/PRB-paper-NH-MS-accepted" rel="alternate" type="text/html" title="Our paper on non-Hermitian metasurfaces accepted in PRB" /><published>2017-02-15T00:00:00+01:00</published><updated>2017-02-15T00:00:00+01:00</updated><id>http://localhost:4000/news/PRB-paper-NH-MS-accepted</id><content type="html" xml:base="http://localhost:4000/news/PRB-paper-NH-MS-accepted">&lt;p&gt;Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-02-15T22:08:49+01:00</updated><id>http://localhost:4000//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on non-Hermitian metasurfaces accepted in PRB</title><link href="http://localhost:4000/news/PRB-paper-NH-MS-accepted" rel="alternate" type="text/html" title="Our paper on non-Hermitian metasurfaces accepted in PRB" /><published>2017-02-15T00:00:00+01:00</published><updated>2017-02-15T00:00:00+01:00</updated><id>http://localhost:4000/news/PRB-paper-NH-MS-accepted</id><content type="html" xml:base="http://localhost:4000/news/PRB-paper-NH-MS-accepted">&lt;p&gt;Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
  metasurfaces,”
 in collaboration with &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (University of Texas at Austin),
 has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
@@ -698,7 +698,37 @@ was achieved around 100 Hz. Understanding both the fundamental and the technical
 
   
     
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><category term="gravitational waves" /><category term="mirrors" /><category term="coatings" /><summary type="html"></summary></entry><entry><title type="html">Multiphysics metamaterials</title><link href="http://localhost:4000/projects/multiphysics-MTM" rel="alternate" type="text/html" title="Multiphysics metamaterials" /><published>2017-02-10T00:00:00+01:00</published><updated>2017-02-10T00:00:00+01:00</updated><id>http://localhost:4000/projects/multiphysics-MTM</id><content type="html" xml:base="http://localhost:4000/projects/multiphysics-MTM">&lt;p&gt;During the past few years, the transformation-optics approach has been also successfully applied 
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><category term="gravitational waves" /><category term="mirrors" /><category term="coatings" /><summary type="html"></summary></entry><entry><title type="html">Michele Scaravilli</title><link href="http://localhost:4000/team/michele-scaravilli" rel="alternate" type="text/html" title="Michele Scaravilli" /><published>2017-02-10T00:00:00+01:00</published><updated>2017-02-10T00:00:00+01:00</updated><id>http://localhost:4000/team/michele-scaravilli</id><content type="html" xml:base="http://localhost:4000/team/michele-scaravilli">&lt;p&gt;&lt;strong&gt;Michele Scaravilli&lt;/strong&gt; was born in Caserta, Italy, on December 9, 1988.&lt;/p&gt;
+
+&lt;p&gt;He received his M.E. degree in Electrical Engineering (&lt;em&gt;summa cum laude&lt;/em&gt;) from the
+&lt;a href=&quot;http://www.unina.it/en_GB/home&quot;&gt;“Federico II” University of Naples&lt;/a&gt;, Italy, with a thesis project 
+dealing with the design and optimization of an anti-intrusion microwave sensor based on a 
+parallel-plate waveguide with deformable walls.&lt;/p&gt;
+
+&lt;p&gt;Since June 2014, he has been a Ph.D. student in Information Technologies for Engineering​at the 
+&lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, working in 
+the Fields &amp;amp; Waves Lab and the &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it&quot;&gt;Optoelectronics Group&lt;/a&gt;, 
+under the joint supervision of Proff. &lt;a href=&quot;/people/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; 
+and &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;His current research activity is focused on the design, numerical modeling and fabrication of novel 
+label-free optical fiber nanoprobes based on the excitation of Bloch surface waves, as well as SERS probes.
+More generally, his scientific interests include: plasmonics, photonic crystals, bio-photonics and optical fiber sensors.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><summary type="html">Michele Scaravilli was born in Caserta, Italy, on December 9, 1988.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/people/michele-scaravilli.jpg" /></entry><entry><title type="html">Massimo Moccia</title><link href="http://localhost:4000/team/massimo-moccia" rel="alternate" type="text/html" title="Massimo Moccia" /><published>2017-02-10T00:00:00+01:00</published><updated>2017-02-10T00:00:00+01:00</updated><id>http://localhost:4000/team/massimo-moccia</id><content type="html" xml:base="http://localhost:4000/team/massimo-moccia">&lt;p&gt;&lt;strong&gt;Massimo Moccia&lt;/strong&gt; was born in Benevento, Italy on February 11, 1982.&lt;/p&gt;
+
+&lt;p&gt;He received the B.S. and M.S. degree in Telecommunications Engineering (&lt;em&gt;summa cum laude&lt;/em&gt;) from the 
+&lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;,
+Benevento, Italy, in 2005 and 2007 respectively. During his study program, he was a visiting student at the 
+&lt;a href=&quot;https://www.upv.es/index-en.html&quot;&gt;Polytechnic University of Valencia&lt;/a&gt; (2003-2004) and the &lt;a href=&quot;http://www.upc.edu/?set_language=en&quot;&gt;Polytechnic 
+University of Catalonia&lt;/a&gt; (2007). 
+In 2008, he attended a postgraduate specialization course in “Technologies for micro and nano electronics” at the 
+&lt;a href=&quot;http://en.uniroma1.it&quot;&gt;“Sapienza” University of Rome&lt;/a&gt;. In 2012, he received the Ph.D. Degree in Information Engineering from the 
+University of Sannio.&lt;/p&gt;
+
+&lt;p&gt;Since 2012, he has been working as a Postdoctoral Researcher at the University of Sannio.&lt;/p&gt;
+
+&lt;p&gt;His current research activity is focused on the areas of electromagnetic and multiphysics metamaterials, RF devices, and antenna design
+for satellite applications. In the past, he has also worked on superconductivity experiments, ferroelectric devices,
+fiber-optics sensors, and nanotechnologies.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><summary type="html">Massimo Moccia was born in Benevento, Italy on February 11, 1982.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/people/massimo-moccia.jpg" /></entry><entry><title type="html">Multiphysics metamaterials</title><link href="http://localhost:4000/projects/multiphysics-MTM" rel="alternate" type="text/html" title="Multiphysics metamaterials" /><published>2017-02-10T00:00:00+01:00</published><updated>2017-02-10T00:00:00+01:00</updated><id>http://localhost:4000/projects/multiphysics-MTM</id><content type="html" xml:base="http://localhost:4000/projects/multiphysics-MTM">&lt;p&gt;During the past few years, the transformation-optics approach has been also successfully applied 
 to the manipulation of a variety of other different physical quantities like acoustic and elastic waves, 
 static magnetic and electric fields, and heat flux, in view of the mounting interest towards metamaterials 
 beyond electromagnetics.&lt;/p&gt;
@@ -799,37 +829,7 @@ such as aluminum nitride and silver conductive epoxies.&lt;/p&gt;
 
   
     
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><category term="metamaterials" /><category term="analog computing" /><summary type="html"></summary></entry><entry><title type="html">Michele Scaravilli</title><link href="http://localhost:4000/people/michele-scaravilli" rel="alternate" type="text/html" title="Michele Scaravilli" /><published>2017-02-10T00:00:00+01:00</published><updated>2017-02-10T00:00:00+01:00</updated><id>http://localhost:4000/people/michele-scaravilli</id><content type="html" xml:base="http://localhost:4000/people/michele-scaravilli">&lt;p&gt;&lt;strong&gt;Michele Scaravilli&lt;/strong&gt; was born in Caserta, Italy, on December 9, 1988.&lt;/p&gt;
-
-&lt;p&gt;He received his M.E. degree in Electrical Engineering (&lt;em&gt;summa cum laude&lt;/em&gt;) from the
-&lt;a href=&quot;http://www.unina.it/en_GB/home&quot;&gt;“Federico II” University of Naples&lt;/a&gt;, Italy, with a thesis project 
-dealing with the design and optimization of an anti-intrusion microwave sensor based on a 
-parallel-plate waveguide with deformable walls.&lt;/p&gt;
-
-&lt;p&gt;Since June 2014, he has been a Ph.D. student in Information Technologies for Engineering​at the 
-&lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, working in 
-the Fields &amp;amp; Waves Lab and the &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it&quot;&gt;Optoelectronics Group&lt;/a&gt;, 
-under the joint supervision of Proff. &lt;a href=&quot;/people/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; 
-and &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;His current research activity is focused on the design, numerical modeling and fabrication of novel 
-label-free optical fiber nanoprobes based on the excitation of Bloch surface waves, as well as SERS probes.
-More generally, his scientific interests include: plasmonics, photonic crystals, bio-photonics and optical fiber sensors.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><summary type="html">Michele Scaravilli was born in Caserta, Italy, on December 9, 1988.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/people/michele-scaravilli.jpg" /></entry><entry><title type="html">Massimo Moccia</title><link href="http://localhost:4000/people/massimo-moccia" rel="alternate" type="text/html" title="Massimo Moccia" /><published>2017-02-10T00:00:00+01:00</published><updated>2017-02-10T00:00:00+01:00</updated><id>http://localhost:4000/people/massimo-moccia</id><content type="html" xml:base="http://localhost:4000/people/massimo-moccia">&lt;p&gt;&lt;strong&gt;Massimo Moccia&lt;/strong&gt; was born in Benevento, Italy on February 11, 1982.&lt;/p&gt;
-
-&lt;p&gt;He received the B.S. and M.S. degree in Telecommunications Engineering (&lt;em&gt;summa cum laude&lt;/em&gt;) from the 
-&lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;,
-Benevento, Italy, in 2005 and 2007 respectively. During his study program, he was a visiting student at the 
-&lt;a href=&quot;https://www.upv.es/index-en.html&quot;&gt;Polytechnic University of Valencia&lt;/a&gt; (2003-2004) and the &lt;a href=&quot;http://www.upc.edu/?set_language=en&quot;&gt;Polytechnic 
-University of Catalonia&lt;/a&gt; (2007). 
-In 2008, he attended a postgraduate specialization course in “Technologies for micro and nano electronics” at the 
-&lt;a href=&quot;http://en.uniroma1.it&quot;&gt;“Sapienza” University of Rome&lt;/a&gt;. In 2012, he received the Ph.D. Degree in Information Engineering from the 
-University of Sannio.&lt;/p&gt;
-
-&lt;p&gt;Since 2012, he has been working as a Postdoctoral Researcher at the University of Sannio.&lt;/p&gt;
-
-&lt;p&gt;His current research activity is focused on the areas of electromagnetic and multiphysics metamaterials, RF devices, and antenna design
-for satellite applications. In the past, he has also worked on superconductivity experiments, ferroelectric devices,
-fiber-optics sensors, and nanotechnologies.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><summary type="html">Massimo Moccia was born in Benevento, Italy on February 11, 1982.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/people/massimo-moccia.jpg" /></entry><entry><title type="html">Our paper on non-Hermitian photonic chains accepted in PRB</title><link href="http://localhost:4000/news/PRB-paper-EPD-accepted" rel="alternate" type="text/html" title="Our paper on non-Hermitian photonic chains accepted in PRB" /><published>2017-02-10T00:00:00+01:00</published><updated>2017-02-10T00:00:00+01:00</updated><id>http://localhost:4000/news/PRB-paper-EPD-accepted</id><content type="html" xml:base="http://localhost:4000/news/PRB-paper-EPD-accepted">&lt;p&gt;Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers,” 
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><category term="metamaterials" /><category term="analog computing" /><summary type="html"></summary></entry><entry><title type="html">Our paper on non-Hermitian photonic chains accepted in PRB</title><link href="http://localhost:4000/news/PRB-paper-EPD-accepted" rel="alternate" type="text/html" title="Our paper on non-Hermitian photonic chains accepted in PRB" /><published>2017-02-10T00:00:00+01:00</published><updated>2017-02-10T00:00:00+01:00</updated><id>http://localhost:4000/news/PRB-paper-EPD-accepted</id><content type="html" xml:base="http://localhost:4000/news/PRB-paper-EPD-accepted">&lt;p&gt;Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers,” 
 in collaboration with &lt;a href=&quot;http://capolino.eng.uci.edu&quot;&gt;Filippo Capolino&lt;/a&gt;’s Group (University of California at Irvine),
 has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
 
