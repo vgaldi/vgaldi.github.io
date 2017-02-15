@@ -26,6 +26,7 @@ https://vgaldi.github.io/tags
 https://vgaldi.github.io/feed.xml
 https://vgaldi.github.io/feed.xslt.xml
 
+https://vgaldi.github.io/news/PRB-paper-NH-MS-accepted
 https://vgaldi.github.io/projects/computational-MTM
 https://vgaldi.github.io/projects/billiard-cavities
 https://vgaldi.github.io/projects/aperiodic-tiling_arrays

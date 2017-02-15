@@ -4,13 +4,28 @@
  <title>Fields & Waves Lab</title>
  <link href="https://vgaldi.github.io/" rel="self"/>
  <link href="https://vgaldi.github.io"/>
- <updated>2017-02-14T22:19:29+01:00</updated>
+ <updated>2017-02-15T21:42:32+01:00</updated>
  <id>https://vgaldi.github.io</id>
  <author>
    <name>Vincenzo Galdi</name>
    <email>vgaldi@unisannio.it</email>
  </author>
 
+ 
+ <entry>
+   <title>Our paper on non-Hermitian metasurfaces accepted in PRB</title>
+   <link href="https://vgaldi.github.io/news/PRB-paper-NH-MS-accepted"/>
+   <updated>2017-02-15T00:00:00+01:00</updated>
+   <id>https://vgaldi.github.io/news/PRB-paper-NH-MS-accepted</id>
+   <content type="html">&lt;p&gt;Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
+ metasurfaces,”
+in collaboration with &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (University of Texas at Austin),
+has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;An &lt;a href=&quot;http://arxiv.org/abs/1702.04101&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Metamaterial-based analog computing</title>
@@ -559,30 +574,6 @@ the element scattering responde, and the array size.&lt;/p&gt;
    <updated>2017-02-11T00:00:00+01:00</updated>
    <id>https://vgaldi.github.io/projects/GW-coating</id>
    <content type="html">
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/share&quot; class=&quot;twitter-share-button&quot;&gt;Tweet&lt;/a&gt;
-&lt;script&gt;
-	!function(d,s,id){
-		var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
-		if(!d.getElementById(id)){
-			js=d.createElement(s);
-			js.id=id;
-			js.src=p+'://platform.twitter.com/widgets.js';
-			fjs.parentNode.insertBefore(js,fjs);
-		}
-	}(document, 'script', 'twitter-wjs');
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://plus.google.com/share?url=http://goharsha.com&amp;amp;hl=en-US&quot; onclick=&quot;javascript:window.open(this.href,'',   'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;&quot;&gt;
-    &lt;kbd&gt;
-        &lt;!-- use the google+ logo for the link --&gt;
-        &lt;img alt=&quot;...&quot; class=&quot;footer-icon&quot; width=&quot;28px&quot; src=&quot;/assets/social-icons/g+icon.png&quot; /&gt;
-        &amp;lt;/img&amp;gt;&lt;/kbd&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    Google+
-&amp;lt;/kbd&amp;gt; &amp;lt;/a&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
 &lt;p&gt;For second-generation gravitational-wave interferometric detectors such as &lt;a href=&quot;https://www.advancedligo.mit.edu&quot;&gt;Advanced LIGO&lt;/a&gt;, 
 the thermal noise of the test mass mirror coatings is a significant limit in a critical midband around 100 Hz.&lt;/p&gt;
 
@@ -931,7 +922,7 @@ fiber-optics sensors, and nanotechnologies.&lt;/p&gt;
    <link href="https://vgaldi.github.io/news/PRB-paper-EPD-accepted"/>
    <updated>2017-02-10T00:00:00+01:00</updated>
    <id>https://vgaldi.github.io/news/PRB-paper-EPD-accepted</id>
-   <content type="html">&lt;p&gt;Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers”, 
+   <content type="html">&lt;p&gt;Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers,” 
 in collaboration with &lt;a href=&quot;http://capolino.eng.uci.edu&quot;&gt;Filippo Capolino&lt;/a&gt;’s Group (University of California at Irvine),
 has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
 
@@ -1801,7 +1792,7 @@ He is also is the recipient of an &lt;em&gt;Outstanding Associate Editor Award&l
  </entry>
  
  <entry>
-   <title>Field & Waves Lab</title>
+   <title>Fields & Waves Lab</title>
    <link href="https://vgaldi.github.io/misc/home/home"/>
    <updated>2015-04-22T00:00:00+02:00</updated>
    <id>https://vgaldi.github.io/misc/home/home</id>
