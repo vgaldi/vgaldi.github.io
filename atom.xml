@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Fields & Waves Lab</title>
- <link href="https://vgaldi.github.io/" rel="self"/>
- <link href="https://vgaldi.github.io"/>
- <updated>2017-02-16T12:43:29+01:00</updated>
- <id>https://vgaldi.github.io</id>
+ <link href="http://fw-lab.org/" rel="self"/>
+ <link href="http://fw-lab.org"/>
+ <updated>2017-02-18T20:52:02+01:00</updated>
+ <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
    <email>vgaldi@unisannio.it</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Our paper on non-Hermitian metasurfaces accepted in PRB</title>
-   <link href="https://vgaldi.github.io/news/PRB-paper-NH-MS-accepted"/>
+   <link href="http://fw-lab.org/news/PRB-paper-NH-MS-accepted"/>
    <updated>2017-02-15T00:00:00+01:00</updated>
-   <id>https://vgaldi.github.io/news/PRB-paper-NH-MS-accepted</id>
+   <id>http://fw-lab.org/news/PRB-paper-NH-MS-accepted</id>
    <content type="html">&lt;p&gt;Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
  metasurfaces,”
 in collaboration with &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (University of Texas at Austin),
@@ -29,9 +29,9 @@ has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;
  
  <entry>
    <title>Metamaterial-based analog computing</title>
-   <link href="https://vgaldi.github.io/projects/computational-MTM"/>
+   <link href="http://fw-lab.org/projects/computational-MTM"/>
    <updated>2017-02-11T00:00:00+01:00</updated>
-   <id>https://vgaldi.github.io/projects/computational-MTM</id>
+   <id>http://fw-lab.org/projects/computational-MTM</id>
    <content type="html">
 &lt;blockquote&gt;
   &lt;p&gt;&lt;em&gt;“It’s a very imaginative application of metamaterials – it takes things off in a completely new direction.&lt;/em&gt;
@@ -124,9 +124,9 @@ to several fields of science and engineering.&lt;/p&gt;
  
  <entry>
    <title>Ray-chaotic “billiard” enclosures</title>
-   <link href="https://vgaldi.github.io/projects/billiard-cavities"/>
+   <link href="http://fw-lab.org/projects/billiard-cavities"/>
    <updated>2017-02-11T00:00:00+01:00</updated>
-   <id>https://vgaldi.github.io/projects/billiard-cavities</id>
+   <id>http://fw-lab.org/projects/billiard-cavities</id>
    <content type="html">
 &lt;p&gt;Ray chaos, i.e., exponential sensitivity of ray trajectories to launching conditions, 
 could intuitively be expected in very complex and cluttered propagation scenarios 
@@ -277,9 +277,9 @@ as well as the synthetic emulation of multi-path wireless channels.&lt;/p&gt;
  
  <entry>
    <title>Aperiodic-tiling antenna arrays</title>
-   <link href="https://vgaldi.github.io/projects/aperiodic-tiling_arrays"/>
+   <link href="http://fw-lab.org/projects/aperiodic-tiling_arrays"/>
    <updated>2017-02-11T00:00:00+01:00</updated>
-   <id>https://vgaldi.github.io/projects/aperiodic-tiling_arrays</id>
+   <id>http://fw-lab.org/projects/aperiodic-tiling_arrays</id>
    <content type="html">
 &lt;p&gt;Our Group has been among the pioneers in the application of aperiodically ordered structures in electromagnetics.&lt;/p&gt;
 
@@ -570,9 +570,9 @@ the element scattering responde, and the array size.&lt;/p&gt;
  
  <entry>
    <title>Optimized mirror coatings</title>
-   <link href="https://vgaldi.github.io/projects/GW-coating"/>
+   <link href="http://fw-lab.org/projects/GW-coating"/>
    <updated>2017-02-11T00:00:00+01:00</updated>
-   <id>https://vgaldi.github.io/projects/GW-coating</id>
+   <id>http://fw-lab.org/projects/GW-coating</id>
    <content type="html">
 &lt;p&gt;For second-generation gravitational-wave interferometric detectors such as &lt;a href=&quot;https://www.advancedligo.mit.edu&quot;&gt;Advanced LIGO&lt;/a&gt;, 
 the thermal noise of the test mass mirror coatings is a significant limit in a critical midband around 100 Hz.&lt;/p&gt;
@@ -759,9 +759,9 @@ was achieved around 100 Hz. Understanding both the fundamental and the technical
  
  <entry>
    <title>Michele Scaravilli</title>
-   <link href="https://vgaldi.github.io/team/michele-scaravilli"/>
+   <link href="http://fw-lab.org/team/michele-scaravilli"/>
    <updated>2017-02-10T00:00:00+01:00</updated>
-   <id>https://vgaldi.github.io/team/michele-scaravilli</id>
+   <id>http://fw-lab.org/team/michele-scaravilli</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Michele Scaravilli&lt;/strong&gt; was born in Caserta, Italy, on December 9, 1988.&lt;/p&gt;
 
 &lt;p&gt;He received his M.E. degree in Electrical Engineering (&lt;em&gt;summa cum laude&lt;/em&gt;) from the
@@ -784,9 +784,9 @@ More generally, his scientific interests include: plasmonics, photonic crystals,
  
  <entry>
    <title>Massimo Moccia</title>
-   <link href="https://vgaldi.github.io/team/massimo-moccia"/>
+   <link href="http://fw-lab.org/team/massimo-moccia"/>
    <updated>2017-02-10T00:00:00+01:00</updated>
-   <id>https://vgaldi.github.io/team/massimo-moccia</id>
+   <id>http://fw-lab.org/team/massimo-moccia</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Massimo Moccia&lt;/strong&gt; was born in Benevento, Italy on February 11, 1982.&lt;/p&gt;
 
 &lt;p&gt;He received the B.S. and M.S. degree in Telecommunications Engineering (&lt;em&gt;summa cum laude&lt;/em&gt;) from the 
@@ -808,9 +808,9 @@ fiber-optics sensors, and nanotechnologies.&lt;/p&gt;
  
  <entry>
    <title>Multiphysics metamaterials</title>
-   <link href="https://vgaldi.github.io/projects/multiphysics-MTM"/>
+   <link href="http://fw-lab.org/projects/multiphysics-MTM"/>
    <updated>2017-02-10T00:00:00+01:00</updated>
-   <id>https://vgaldi.github.io/projects/multiphysics-MTM</id>
+   <id>http://fw-lab.org/projects/multiphysics-MTM</id>
    <content type="html">
 &lt;p&gt;During the past few years, the transformation-optics approach has been also successfully applied 
 to the manipulation of a variety of other different physical quantities like acoustic and elastic waves, 
@@ -919,9 +919,9 @@ such as aluminum nitride and silver conductive epoxies.&lt;/p&gt;
  
  <entry>
    <title>Our paper on non-Hermitian photonic chains accepted in PRB</title>
-   <link href="https://vgaldi.github.io/news/PRB-paper-EPD-accepted"/>
+   <link href="http://fw-lab.org/news/PRB-paper-EPD-accepted"/>
    <updated>2017-02-10T00:00:00+01:00</updated>
-   <id>https://vgaldi.github.io/news/PRB-paper-EPD-accepted</id>
+   <id>http://fw-lab.org/news/PRB-paper-EPD-accepted</id>
    <content type="html">&lt;p&gt;Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers,” 
 in collaboration with &lt;a href=&quot;http://capolino.eng.uci.edu&quot;&gt;Filippo Capolino&lt;/a&gt;’s Group (University of California at Irvine),
 has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
@@ -933,9 +933,9 @@ has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;
  
  <entry>
    <title>Dispersion engineering via nonlocal transformation optics</title>
-   <link href="https://vgaldi.github.io/projects/dispersion-enegineering"/>
+   <link href="http://fw-lab.org/projects/dispersion-enegineering"/>
    <updated>2017-02-09T00:00:00+01:00</updated>
-   <id>https://vgaldi.github.io/projects/dispersion-enegineering</id>
+   <id>http://fw-lab.org/projects/dispersion-enegineering</id>
    <content type="html">
 &lt;p&gt;Transformation optics has established itself as a powerful and versatile tool for the systematic design of artificial media. 
 By properly tailoring the spatial profile of materials, it is possible to bend light propagation at will, 
@@ -1139,9 +1139,9 @@ with potential applications to nonreciprocal optics, topological photonics, and 
  
  <entry>
    <title>New website</title>
-   <link href="https://vgaldi.github.io/news/new-website"/>
+   <link href="http://fw-lab.org/news/new-website"/>
    <updated>2017-02-09T00:00:00+01:00</updated>
-   <id>https://vgaldi.github.io/news/new-website</id>
+   <id>http://fw-lab.org/news/new-website</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;The new website is on!&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Details on the design and implementation can be found &lt;a href=&quot;/about.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -1151,9 +1151,9 @@ with potential applications to nonreciprocal optics, topological photonics, and 
  
  <entry>
    <title>Giuseppe Castaldi</title>
-   <link href="https://vgaldi.github.io/team/giuseppe-castaldi"/>
+   <link href="http://fw-lab.org/team/giuseppe-castaldi"/>
    <updated>2017-02-08T00:00:00+01:00</updated>
-   <id>https://vgaldi.github.io/team/giuseppe-castaldi</id>
+   <id>http://fw-lab.org/team/giuseppe-castaldi</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Giuseppe Castaldi&lt;/strong&gt; was born in Benevento, Italy, in 1968.&lt;/p&gt;
 
 &lt;p&gt;He received the Laurea degree (&lt;em&gt;summa cum laude&lt;/em&gt;) in electrical engineering from the 
@@ -1174,9 +1174,9 @@ electromagnetic chaos, antenna array diagnostics, and phase retrieval.&lt;/p&gt;
  
  <entry>
    <title>Non-Hermitian metamaterials</title>
-   <link href="https://vgaldi.github.io/projects/non-Hermitian-MTM"/>
+   <link href="http://fw-lab.org/projects/non-Hermitian-MTM"/>
    <updated>2017-02-08T00:00:00+01:00</updated>
-   <id>https://vgaldi.github.io/projects/non-Hermitian-MTM</id>
+   <id>http://fw-lab.org/projects/non-Hermitian-MTM</id>
    <content type="html">
 &lt;p&gt;&lt;em&gt;Parity-time&lt;/em&gt; (PT) symmetry is a fascinating concept introduced in quantum physics in order to make sense of &lt;em&gt;non-Hermitian&lt;/em&gt; Hamiltonians.
 This concept, however, is rather general and pervasive, and has resonated in several research communities, triggering a surge of interest
@@ -1541,9 +1541,9 @@ optical components and devices.&lt;/p&gt;
  
  <entry>
    <title>Reconfigurable metamaterial electric circuits</title>
-   <link href="https://vgaldi.github.io/projects/reconfigurable-MTM"/>
+   <link href="http://fw-lab.org/projects/reconfigurable-MTM"/>
    <updated>2017-02-07T00:00:00+01:00</updated>
-   <id>https://vgaldi.github.io/projects/reconfigurable-MTM</id>
+   <id>http://fw-lab.org/projects/reconfigurable-MTM</id>
    <content type="html">
 &lt;p&gt;When designing an electronic system, the influence of the surrounding environment can be considered either 
 a nuisance (and hence something to be suppressed) or a convenient knob that can be turned to affect the material properties. 
@@ -1637,9 +1637,9 @@ This can overcome significant constraints that limit innovation in information p
  
  <entry>
    <title>Media</title>
-   <link href="https://vgaldi.github.io/media/media"/>
+   <link href="http://fw-lab.org/media/media"/>
    <updated>2017-02-03T00:00:00+01:00</updated>
-   <id>https://vgaldi.github.io/media/media</id>
+   <id>http://fw-lab.org/media/media</id>
    <content type="html">
 &lt;h2 id=&quot;selected-media-highlights-on-our-research&quot;&gt;Selected media highlights on our research&lt;/h2&gt;
 
@@ -1759,9 +1759,9 @@ This can overcome significant constraints that limit innovation in information p
  
  <entry>
    <title>Vincenzo Galdi</title>
-   <link href="https://vgaldi.github.io/team/vincenzo-galdi"/>
+   <link href="http://fw-lab.org/team/vincenzo-galdi"/>
    <updated>2017-01-30T00:00:00+01:00</updated>
-   <id>https://vgaldi.github.io/team/vincenzo-galdi</id>
+   <id>http://fw-lab.org/team/vincenzo-galdi</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Vincenzo Galdi&lt;/strong&gt; received the Laurea degree (&lt;em&gt;summa cum laude&lt;/em&gt;) in electrical engineering and the Ph.D. degree in applied electromagnetics from the &lt;a href=&quot;http://web.unisa.it/en&quot;&gt;University of Salerno&lt;/a&gt;, 
 Italy, in 1995 and 1999, respectively.&lt;/p&gt;
 
@@ -1793,9 +1793,9 @@ He is also is the recipient of an &lt;em&gt;Outstanding Associate Editor Award&l
  
  <entry>
    <title>Fields & Waves Lab</title>
-   <link href="https://vgaldi.github.io/misc/home/home"/>
+   <link href="http://fw-lab.org/misc/home/home"/>
    <updated>2015-04-22T00:00:00+02:00</updated>
-   <id>https://vgaldi.github.io/misc/home/home</id>
+   <id>http://fw-lab.org/misc/home/home</id>
    <content type="html">&lt;p&gt;The Fields &amp;amp; Waves Lab at the University of Sannio works at the boundary of physics and engineering. 
 We study fundamental physical aspects of &lt;strong&gt;wave propagation&lt;/strong&gt; in complex media and scenarios, 
 and explore engineering applications to &lt;strong&gt;communications and sensing&lt;/strong&gt;.&lt;/p&gt;
@@ -1806,9 +1806,9 @@ and explore engineering applications to &lt;strong&gt;communications and sensing
  
  <entry>
    <title>About</title>
-   <link href="https://vgaldi.github.io/misc/about"/>
+   <link href="http://fw-lab.org/misc/about"/>
    <updated>2013-10-28T00:00:00+01:00</updated>
-   <id>https://vgaldi.github.io/misc/about</id>
+   <id>http://fw-lab.org/misc/about</id>
    <content type="html">
 &lt;div class=&quot;bigspacer&quot;&gt;&lt;/div&gt;
 &lt;div class=&quot;head&quot;&gt; Purpose &lt;/div&gt;
@@ -1846,9 +1846,9 @@ Source: &lt;a href=&quot;http://www.annieclavel.com/galleries/ch/ch01&quot;&gt;a
  
  <entry>
    <title>Join</title>
-   <link href="https://vgaldi.github.io/misc/join"/>
+   <link href="http://fw-lab.org/misc/join"/>
    <updated>2013-10-27T00:00:00+02:00</updated>
-   <id>https://vgaldi.github.io/misc/join</id>
+   <id>http://fw-lab.org/misc/join</id>
    <content type="html">
 &lt;p&gt;We are always interested in applications from highly 
 motivated students and postdocs with strong backgrounds in mathematics and physics and good computer-programming skills.&lt;/p&gt;
@@ -1871,9 +1871,9 @@ a list of three academic references to vgaldi&lt;span style=&quot;display:none&q
  
  <entry>
    <title>Contact</title>
-   <link href="https://vgaldi.github.io/misc/contact"/>
+   <link href="http://fw-lab.org/misc/contact"/>
    <updated>2013-10-25T00:00:00+02:00</updated>
-   <id>https://vgaldi.github.io/misc/contact</id>
+   <id>http://fw-lab.org/misc/contact</id>
    <content type="html">
 &lt;iframe class=&quot;pull-right&quot; src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3005.1750946569277!2d14.775529015533246!3d41.130703479288435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133a3a727fde0107%3A0xa21cf6c92083118e!2sUniversit%C3%A0+degli+Studi+del+Sannio+-+Dipartimento+di+Ingegneria!5e0!3m2!1sen!2sus!4v1486115015466&quot; width=&quot;400&quot; height=&quot;300&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
