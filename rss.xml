@@ -5,8 +5,8 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2017-02-19T21:33:03+01:00</lastBuildDate>
-        <pubDate>2017-02-19T21:33:03+01:00</pubDate>
+        <lastBuildDate>2017-02-19T22:10:55+01:00</lastBuildDate>
+        <pubDate>2017-02-19T22:10:55+01:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -1092,7 +1092,7 @@ for the Brownian and thermoelastic mirror noises in the presence of arbitrary-sh
 we explored the optimal beam-shaping problem. 
 The figure top panel shows the assumed cavity geometry, while the bottom panel illustrates 
 the optimal profiles obtained, for the various noise sources. More specifically, \(q=-1,0,1\) refer to the substrate Brownian, the coating 
-(Brownian and thermoelastic), and the substrate thermoelastic noise, respectovely.
+(Brownian and thermoelastic), and the substrate thermoelastic noise, respectively.
 With specific reference to &lt;a href=&quot;https://www.advancedligo.mit.edu&quot;&gt;Advanced LIGO&lt;/a&gt;, 
 we obtained some absolute and realistic lower bounds for the various thermal-noise constituents,
 and compared them with the Gaussian- and mesa-beam scenarios.
