@@ -1,0 +1,1108 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Transformation optics</title>
+    
+    <meta name="author" content="Vincenzo Galdi">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <!-- Bootstrap styles -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+    <!-- Optional theme -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet"/>
+    <!-- Sticky Footer -->
+    <link href="/assets/themes/lab/bootstrap/css/bs-sticky-footer.css" rel="stylesheet"/>
+    
+    <!-- Custom styles -->
+    <link href="/assets/themes/lab/css/style.css?body=1" rel="stylesheet" type="text/css" media="all"/>
+
+    <!-- icon -->
+    <link rel="shortcut icon" href="/assets/themes/lab/images/logo/favicon.ico"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/themes/lab/images/logo/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/themes/lab/images/logo/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/themes/lab/images/logo/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/themes/lab/images/logo/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/themes/lab/images/logo/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/themes/lab/images/logo/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/themes/lab/images/logo/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/themes/lab/images/logo/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/themes/lab/images/logo/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/assets/themes/lab/images/logo/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/themes/lab/images/logo/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/themes/lab/images/logo/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/themes/lab/images/logo/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+      
+      
+      
+      
+      
+    <!-- Custom fonts and icons via Font Awesome, http://fortawesome.github.io/Font-Awesome/ -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"/>
+
+      
+    <link rel="stylesheet" href="/assets/themes/lab/bootstrap/css/academicons.css"/>
+      
+    <!-- Fonts via Google -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700' rel='stylesheet' type='text/css'/>
+
+    <!-- Math via MathJax -->
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <!-- Update these with your own images
+      <link rel="shortcut icon" href="images/favicon.ico">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+    -->
+
+    <!-- atom & rss feed
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+    -->
+
+  </head>
+
+  <body>
+
+  <!-- Static top navbar -->
+
+  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class='container'>
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a href="/">
+        <img class="pull-left logo" src="/assets/themes/lab/images/logo/lab-logo.svg" type="image/svg+xml">
+        </a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-navbar-collapse">
+        <ul class="nav navbar-nav navbar-left hidden-sm">
+          <!-- Don't put site title on home page -- there's already a big title there. -->
+          
+          
+          
+          <a class="navbar-brand" href="/">Fields & Waves Lab</a>
+          
+        </ul>
+        <ul 
+            class="nav navbar-nav navbar-right pull-right">
+          
+          
+          
+
+
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+      	
+      	<li><a href="/projects/">Research</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/team/">Team</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+
+        
+            <li class="dropdown nav navbar-nav">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+              Papers <span class="caret"></span>
+            </a>
+
+            <ul class="dropdown-menu nav navbar-nav" role="menu">
+              
+              
+              
+
+
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/journals/">Journals</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/books/">Books</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/conferences/">Conferences</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/preprints/">Preprints</a></li>
+      	
+      
+    
+  
+
+
+
+                </ul>     
+            </li>
+          
+          
+          
+
+
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/news/">News</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/media/">Media</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+                 
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </nav>
+   </div>
+
+   <!-- Content -->
+   <div class="container">
+      
+<div class="page-header">
+  <div class="head">
+      Transformation optics
+</div>
+<div class="spacer"></div>
+<div class="row post-full">
+  <div class="col-xs-12">
+
+<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+<script>
+	!function(d,s,id){
+		var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+		if(!d.getElementById(id)){
+			js=d.createElement(s);
+			js.id=id;
+			js.src=p+'://platform.twitter.com/widgets.js';
+			fjs.parentNode.insertBefore(js,fjs);
+		}
+	}(document, 'script', 'twitter-wjs');
+</script>
+
+<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+<script type="IN/Share" ></script>
+
+<g:plus action="share" annotation="none"></g:plus>
+<script type="text/javascript">
+	(function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	})();
+</script>
+
+<div class="spacer"></div>
+
+
+    <img class="img-responsive  media-object pull-right" src="/assets/images/projects/TO_MTM1.png"/>
+      
+<div class="spacer"></div>
+      
+    <div class="content">
+      
+<p>Transformation optics has been a major catalyst for the formidable advances 
+in the field of electromagnetic metamaterials, by providing a systematic and 
+versatile tool for the conception and design of artificial media with given field-manipulation 
+capabilities. In essence, by exploiting the form-invariance of Maxwell’s equations with 
+respect to coordinate transformations, transformation optics allows us to systematically 
+tailor the spatial constitutive profile of a material so as to precisely manipulate the field distribution 
+and propagation according to a given coordinate-distorted reference frame. 
+The implied paradigm shift is the separation of the conceptual design from the actual material synthesis, 
+with the former essentially driven by geometrical intuition and considerations, and the latter reducing 
+to a suitable approximation of given ideal constitutive “blueprints.”</p>
+
+<p>It is well known that the <em>inherently magnetic</em> properties of typically arising transformation media 
+limit the high-frequency scaling of practical metamaterial implementations based on subwavelength inclusions 
+(e.g., split-ring resonators). In [<a href="#IJ62_MOTL_50_3186_2008"><span style="vertical-align: baseline">1</span></a>, <a href="#IJ74_PRB_80_125116_2009"><span style="vertical-align: baseline">2</span></a>], with reference to 
+the “invisibility cloaking” scenario, we explored 
+alternative approaches to attain <em>nonmagnetic</em> implementations, 
+with performance comparable to that of a nonideal  lossy, dispersive, 
+parameter truncated  implementation of standard  magnetic  cloaking.</p>
+
+<p>In [<a href="#IJ60_IEEE_AWPL_7_603_2008"><span style="vertical-align: baseline">3</span></a>, <a href="#IJ78_MOTL_51_2709_2009"><span style="vertical-align: baseline">4</span></a>], 
+we applied the transformation approach to corner- and wedge-type configurations, in order to attain
+unconventional scattering signatures, whereas, in [<a href="#IJ83_PRB_81_125124_2010"><span style="vertical-align: baseline">5</span></a>], we explored a general 
+class of transparent metamaterial slabs with intriguing image-displacement/formation capabilities. For instance, the figure 
+top panels illustrate the design of a coordinate transformation capable of “flattening” a corner-reflector geometry, 
+thereby yielding a thin planar metamaterial-based retroreflector.
+The bottom panels show the numerically computed scattering response for oblique (15°) plane-wave incidence, 
+comparing the proposed retroreflector to a standard corner reflector and a plain metal sheet.
+The retrodirective response of the proposed reﬂector is clearly visible from the wavefront shapes, 
+in complete accord with those observed in the corner-reﬂector case, and in sharp contrast with 
+those observed in the plain-metal-sheet (which instead exhibits a strong specular response).</p>
+
+<p>In [<a href="#IJ65_OpEx_17_3101_2009"><span style="vertical-align: baseline">6</span></a>], we studied the interactions between an invisibility cloak
+and an “anti-cloak” capable  of (partially or totally) “undoing” the cloaking transformation. 
+In [<a href="#IJ89_JOSAB_27_2132_2010"><span style="vertical-align: baseline">7</span></a>, <a href="#IJ94_WM_48_455_2011"><span style="vertical-align: baseline">8</span></a>], we further developed this concept, 
+and illustrated its possible applications to the design of “invisible” sensors.</p>
+
+<p>In [<a href="#IJ92_JO_13_024011_2011"><span style="vertical-align: baseline">9</span></a>], we extended the approach to
+deal with <em>single-negative</em>  materials, and applied this concept to the design of
+tunneling effects.</p>
+
+<p>We have also proposed other extensions to deal with <a href="/projects/dispersion-enegineering">nonlocal</a>, <a href="/projects/non-Hermitian-MTM">non-Hermitian</a>, and <a href="/projects/multiphysics-MTM">multiphysics</a> scenarios.</p>
+
+<h2 id="relevant-papers">Relevant papers</h2>
+<ol class="bibliography"><li><span id="IJ62_MOTL_50_3186_2008">Gallina, I., Castaldi, G., &amp; Galdi, V. (2008). A higher-order optical transformation for nonmagnetic cloaking. <i>Microwave and Optical Technology Letters</i> <span style="font-weight: normal"><i>50</i></span>(12), 3186–3190.</span>
+
+
+<div id="IJ62_MOTL_50_3186_2008-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ62_MOTL_50_3186_2008-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ62_MOTL_50_3186_2008-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1002/mop.23905">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ62_MOTL_50_3186_2008.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ62_MOTL_50_3186_2008-abstract" class="collapse">In coordinate-transformation-based approaches to electromagnetic concealment (“cloaking”) of objects, use of higher-order (quadratic) mappings has been proposed as an effective device to obtain satisfactory responses without the use of magnetic materials that are complicated to synthesize at optical frequencies. In this article, we explore a new higher-order algebraic transformation, which allows, in principle, for a broader range of applicability and further parametric optimization. Via full-wave numerical studies of near- and far-field observables, we assess its performance by comparison with various reference cases (nonreduced parameters, quadratic transformation, no cloak).</p>
+  
+
+  <pre id="IJ62_MOTL_50_3186_2008-bibtex" class="pre pre-scrollable collapse">@article{IJ62_MOTL_50_3186_2008,
+  author = {Gallina, Ilaria and Castaldi, Giuseppe and Galdi, Vincenzo},
+  title = {A higher-order optical transformation for nonmagnetic cloaking},
+  journal = {Microwave and Optical Technology Letters},
+  volume = {50},
+  number = {12},
+  publisher = {Wiley Subscription Services, Inc., A Wiley Company},
+  issn = {1098-2760},
+  url = {http://dx.doi.org/10.1002/mop.23905},
+  doi = {10.1002/mop.23905},
+  pages = {3186--3190},
+  keywords = {electromagnetic cloaking, transformation optics, metamaterials, scattering},
+  year = {2008},
+  month = dec
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ74_PRB_80_125116_2009">Castaldi, G., Gallina, I., &amp; Galdi, V. (2009). Nearly perfect nonmagnetic invisibility cloaking: Analytic solutions and parametric studies. <i>Physical Review B</i> <span style="font-weight: normal"><i>80</i></span>(12), 125116.</span>
+
+
+<div id="IJ74_PRB_80_125116_2009-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ74_PRB_80_125116_2009-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ74_PRB_80_125116_2009-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1103/PhysRevB.80.125116">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ74_PRB_80_125116_2009.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ74_PRB_80_125116_2009-abstract" class="collapse">Coordinate-transformation approaches to invisibility cloaking rely on the design of an anisotropic, spatially inhomogeneous “transformation medium” capable of suitably rerouting the energy flux around the region to conceal without causing any scattering in the exterior region. It is well known that the inherently magnetic properties of such medium limit the high-frequency scaling of practical “metamaterial” implementations based on subwavelength inclusions (e.g., split-ring resonators). Thus, for the optical range, nonmagnetic implementations, based on approximate reductions of the constitutive parameters, have been proposed. In this paper, we present an alternative approach to nonmagnetic coordinate-transformation cloaking, based on the mapping from a nearly transparent, anisotropic and spatially inhomogeneous virtual domain. We show that, unlike its counterparts in the literature, our approach is amenable to exact analytic treatment, and that its overall performance is comparable to that of a nonideal (lossy, dispersive, parameter truncated) implementation of standard (magnetic) cloaking.</p>
+  
+
+  <pre id="IJ74_PRB_80_125116_2009-bibtex" class="pre pre-scrollable collapse">@article{IJ74_PRB_80_125116_2009,
+  title = {Nearly perfect nonmagnetic invisibility cloaking: Analytic solutions and parametric studies},
+  author = {Castaldi, Giuseppe and Gallina, Ilaria and Galdi, Vincenzo},
+  journal = {Physical Review B},
+  volume = {80},
+  issue = {12},
+  pages = {125116},
+  numpages = {12},
+  year = {2009},
+  month = sep,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.80.125116},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.80.125116}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ60_IEEE_AWPL_7_603_2008">Gallina, I., Castaldi, G., &amp; Galdi, V. (2008). Transformation media for thin planar retrodirective reflectors. <i>IEEE Antennas and Wireless Propagation Letters</i> <span style="font-weight: normal"><i>7</i></span>, 603–605.</span>
+
+
+<div id="IJ60_IEEE_AWPL_7_603_2008-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ60_IEEE_AWPL_7_603_2008-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ60_IEEE_AWPL_7_603_2008-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1109/LAWP.2008.2003541">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ60_IEEE_AWPL_7_603_2008.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ60_IEEE_AWPL_7_603_2008-abstract" class="collapse">In this letter, we address the design of thin planar retrodirective reflectors via transformation optics. Exploiting form-invariant transformations of Maxwell’s equations, we derive the constitutive properties of an anisotropic and spatially inhomogeneous transformation-medium coating which, laid on a flat metallic surface, exhibits the retrodirective response typical of a dihedral corner reflector. The practical feasibility of the involved materials should be within reach of the fast-pacing metamaterial technology. The results of our investigations, validated via a full-wave study of the near- and far-field responses, could find interesting applications in radar, communication, and identification scenarios.</p>
+  
+
+  <pre id="IJ60_IEEE_AWPL_7_603_2008-bibtex" class="pre pre-scrollable collapse">@article{IJ60_IEEE_AWPL_7_603_2008,
+  author = {Gallina, I. and Castaldi, G. and Galdi, V.},
+  journal = {IEEE Antennas and Wireless Propagation Letters},
+  title = {Transformation media for thin planar retrodirective reflectors},
+  year = {2008},
+  volume = {7},
+  pages = {603--605},
+  keywords = {Maxwell equations;electromagnetic wave reflection;electromagnetic wave scattering;metamaterials;Maxwell equation;dihedral corner reflector;fast-pacing metamaterial technology;flat metallic surface;form-invariant transformation;near-far-field responses;radar communication;spatially inhomogeneous transformation-medium coating;thin planar retrodirective reflector;transformation media;transformation optic;Transformation media;corner reflectors;metamaterials;scattering},
+  doi = {10.1109/LAWP.2008.2003541},
+  issn = {1536-1225},
+  month = {}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ78_MOTL_51_2709_2009">Gallina, I., Castaldi, G., &amp; Galdi, V. (2009). Transformation optics-inspired metamaterial coatings for controlling the scattering response of wedge/corner-type structures. <i>Microwave and Optical Technology Letters</i> <span style="font-weight: normal"><i>51</i></span>(11), 2709–2712.</span>
+
+
+<div id="IJ78_MOTL_51_2709_2009-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ78_MOTL_51_2709_2009-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ78_MOTL_51_2709_2009-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1002/mop.24720">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ78_MOTL_51_2709_2009.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ78_MOTL_51_2709_2009-abstract" class="collapse">Transformation optics has recently emerged as a powerful and systematic approach to design application-oriented metamaterials. In this letter, following up on our previous studies on thin planar retroreflectors, we show how it is possible, in principle, to design “transformation medium” coatings capable of controlling the scattering response of metallic corner- and wedge-type structures so as, e.g., to strongly enhance the specularly reflected component. We validate our results via a full-wave study of the near- and far-field responses, and envisage possible applications.</p>
+  
+
+  <pre id="IJ78_MOTL_51_2709_2009-bibtex" class="pre pre-scrollable collapse">@article{IJ78_MOTL_51_2709_2009,
+  author = {Gallina, Ilaria and Castaldi, Giuseppe and Galdi, Vincenzo},
+  title = {Transformation optics-inspired metamaterial coatings for controlling the scattering response of wedge/corner-type structures},
+  journal = {Microwave and Optical Technology Letters},
+  volume = {51},
+  number = {11},
+  publisher = {Wiley Subscription Services, Inc., A Wiley Company},
+  issn = {1098-2760},
+  url = {http://dx.doi.org/10.1002/mop.24720},
+  doi = {10.1002/mop.24720},
+  pages = {2709--2712},
+  keywords = {transformation optics, metamaterials, scattering},
+  year = {2009},
+  month = nov
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ83_PRB_81_125124_2010">Gallina, I., Castaldi, G., Galdi, V., Alù, A., &amp; Engheta, N. (2010). General class of metamaterial transformation slabs. <i>Physical Review B</i> <span style="font-weight: normal"><i>81</i></span>(12), 125124.</span>
+
+
+<div id="IJ83_PRB_81_125124_2010-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ83_PRB_81_125124_2010-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ83_PRB_81_125124_2010-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1103/PhysRevB.81.125124">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ83_PRB_81_125124_2010.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ83_PRB_81_125124_2010-abstract" class="collapse">In this paper, we apply transformation-based optics to the derivation of a general class of transparent metamaterial slabs. By means of analytical and numerical full-wave studies, we explore their image-displacement/formation capabilities, and establish intriguing connections with configurations already known in the literature. Starting from these revisitations, we develop a number of nontrivial extensions, and illustrate their possible applications to the design of perfect radomes, anticloaking devices, and focusing devices based on double-positive (possibly nonmagnetic) media. These designs show that such anomalous features may be achieved without necessarily relying on negative-index or strongly resonant metamaterials, suggesting more practical venues for the realization of these devices.</p>
+  
+
+  <pre id="IJ83_PRB_81_125124_2010-bibtex" class="pre pre-scrollable collapse">@article{IJ83_PRB_81_125124_2010,
+  title = {General class of metamaterial transformation slabs},
+  author = {Gallina, Ilaria and Castaldi, Giuseppe and Galdi, Vincenzo and Al\`u, Andrea and Engheta, Nader},
+  journal = {Physical Review B},
+  volume = {81},
+  issue = {12},
+  pages = {125124},
+  numpages = {10},
+  year = {2010},
+  month = mar,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.81.125124},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.81.125124}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ65_OpEx_17_3101_2009">Castaldi, G., Gallina, I., Galdi, V., Alù, A., &amp; Engheta, N. (2009). Cloak/anti-cloak interactions. <i>Optics Express</i> <span style="font-weight: normal"><i>17</i></span>(5), 3101–3114.</span>
+
+
+<div id="IJ65_OpEx_17_3101_2009-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ65_OpEx_17_3101_2009-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ65_OpEx_17_3101_2009-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1364/OE.17.003101">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ65_OpEx_17_3101_2009.pdf">PDF</a></li>
+    
+
+    
+    <li><a href="https://www.osapublishing.org/oe/abstract.cfm?uri=oe-17-5-3101#articleSupplMat">Supplements</a></li>
+    
+  
+  </ul>
+
+  
+  <p id="IJ65_OpEx_17_3101_2009-abstract" class="collapse">Coordinate-transformation cloaking is based on the design of a metamaterial shell made of an anisotropic, spatially inhomogeneous “transformation medium” that allows rerouting the impinging wave around a given region of space. In its original version, it is generally believed that, in the ideal limit, the radiation cannot penetrate the cloaking shell (from outside to inside, and viceversa). However, it was recently shown by Chen et al. that electromagnetic fields may actually penetrate the cloaked region, provided that this region contains double-negative transformation media which, via proper design, may be in principle used to (partially or totally) “undo” the cloaking transformation, thereby acting as an “anti-cloak.” In this paper, we further elaborate this concept, by considering a more general scenario of cloak/anti-cloak interactions. Our full-wave analytical study provides new insightful results and explores the effects of departure from ideality, suggesting also some novel scenarios for potential applications.</p>
+  
+
+  <pre id="IJ65_OpEx_17_3101_2009-bibtex" class="pre pre-scrollable collapse">@article{IJ65_OpEx_17_3101_2009,
+  author = {Castaldi, Giuseppe and Gallina, Ilaria and Galdi, Vincenzo and Al\`{u}, Andrea and Engheta, Nader},
+  journal = {Optics Express},
+  keywords = {Anisotropic optical materials; Optical devices; Electromagnetic optics ; Inhomogeneous optical media ; Invisibility cloaks},
+  number = {5},
+  pages = {3101--3114},
+  publisher = {OSA},
+  title = {Cloak/anti-cloak interactions},
+  volume = {17},
+  month = mar,
+  year = {2009},
+  url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-17-5-3101},
+  doi = {10.1364/OE.17.003101},
+  note = {https://www.osapublishing.org/oe/abstract.cfm?uri=oe-17-5-3101#articleSupplMat}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ89_JOSAB_27_2132_2010">Castaldi, G., Gallina, I., Galdi, V., Alù, A., &amp; Engheta, N. (2010). Power scattering and absorption mediated by cloak/anti-cloak interactions: a transformation-optics route toward invisible sensors. <i>Journal of the Optical Society of America B</i> <span style="font-weight: normal"><i>27</i></span>(10), 2132–2140.</span>
+
+
+<div id="IJ89_JOSAB_27_2132_2010-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ89_JOSAB_27_2132_2010-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ89_JOSAB_27_2132_2010-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1364/JOSAB.27.002132">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ89_JOSAB_27_2132_2010.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ89_JOSAB_27_2132_2010-abstract" class="collapse">The suggestive idea of “cloaking” an electromagnetic sensor, i.e., strongly reducing its visibility (scattering) while maintaining its field-sensing (absorption) capabilities, has recently been proposed in the literature, based on scattering-cancellation, Fano-resonance, or transformation-optics approaches. In this paper, we explore an alternative transformation-optics-based route, which relies on the recently introduced concept of “anti-cloaking.” More specifically, our proposed approach relies on a suitable tailoring of the competing cloaking and anti-cloaking mechanisms, interacting in a two-dimensional cylindrical scenario. Via analytical and parametric studies, we illustrate the underlying phenomenology, identify the critical design parameters, and address the relevant optimality and trade-off issues, taking also into account the effect of material losses. Our results confirm the envisaged potentials of the proposed transformation-optics approach as an attractive alternative route to sensor cloaking.</p>
+  
+
+  <pre id="IJ89_JOSAB_27_2132_2010-bibtex" class="pre pre-scrollable collapse">@article{IJ89_JOSAB_27_2132_2010,
+  author = {Castaldi, Giuseppe and Gallina, Ilaria and Galdi, Vincenzo and Al\`{u}, Andrea and Engheta, Nader},
+  journal = {Journal of the Optical Society of America B},
+  keywords = {Anisotropic optical materials; Optical devices; Electromagnetic optics ; Inhomogeneous optical media ; Invisibility cloaks},
+  number = {10},
+  pages = {2132--2140},
+  publisher = {OSA},
+  title = {Power scattering and absorption mediated by cloak/anti-cloak interactions: a transformation-optics route toward invisible sensors},
+  volume = {27},
+  month = oct,
+  year = {2010},
+  url = {http://josab.osa.org/abstract.cfm?URI=josab-27-10-2132},
+  doi = {10.1364/JOSAB.27.002132}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ94_WM_48_455_2011">Castaldi, G., Gallina, I., Galdi, V., Alù, A., &amp; Engheta, N. (2011). Analytical study of spherical cloak/anti-cloak interactions. <i>Wave Motion </i><span style="font-weight: normal"><i>48</i></span>(6), 455–467.</span>
+
+
+<div id="IJ94_WM_48_455_2011-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ94_WM_48_455_2011-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ94_WM_48_455_2011-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1016/j.wavemoti.2011.03.003">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ94_WM_48_455_2011.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ94_WM_48_455_2011-abstract" class="collapse">The intriguing concept of “anti-cloaking” has been recently introduced within the framework of transformation optics (TO), first as a “countermeasure” to invisibility-cloaking (i.e., to restore the scattering response of a cloaked target), and more recently in connection with “sensor invisibility” (i.e., to strongly reduce the scattering response while maintaining the field-sensing capabilities). In this paper, we extend our previous studies, which were limited to a two-dimensional cylindrical scenario, to the three-dimensional spherical case. More specifically, via a generalized (coordinate-mapped) Mie-series approach, we derive a general analytical full-wave solution pertaining to plane-wave-excited configurations featuring a spherical object surrounded by a TO-based invisibility cloak coupled via a vacuum layer to an anti-cloak, and explore the various interactions of interest. With a number of selected examples, we illustrate the cloaking and field-restoring capabilities of various configurations, highlighting similarities and differences with respect to the cylindrical case, with special emphasis on sensor-cloaking scenarios and ideas for approximate implementations that require the use of double-positive media only. </p>
+  
+
+  <pre id="IJ94_WM_48_455_2011-bibtex" class="pre pre-scrollable collapse">@article{IJ94_WM_48_455_2011,
+  title = {Analytical study of spherical cloak/anti-cloak interactions},
+  journal = {Wave Motion },
+  volume = {48},
+  number = {6},
+  pages = {455--467},
+  year = {2011},
+  month = sep,
+  issn = {0165-2125},
+  doi = {10.1016/j.wavemoti.2011.03.003},
+  url = {//www.sciencedirect.com/science/article/pii/S0165212511000369},
+  author = {Castaldi, Giuseppe and Gallina, Ilaria and Galdi, Vincenzo and Al\`{u}, Andrea and Engheta, Nader},
+  keywords = {Transformation optics }
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ92_JO_13_024011_2011">Castaldi, G., Gallina, I., Galdi, V., Alù, A., &amp; Engheta, N. (2011). Transformation-optics generalization of tunnelling effects in bi-layers made of paired pseudo-epsilon-negative/mu-negative media. <i>Journal of Optics</i> <span style="font-weight: normal"><i>13</i></span>(2), 024011.</span>
+
+
+<div id="IJ92_JO_13_024011_2011-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ92_JO_13_024011_2011-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ92_JO_13_024011_2011-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1088/2040-8978/13/2/024011">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ92_JO_13_024011_2011.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ92_JO_13_024011_2011-abstract" class="collapse">Transformation media designed by standard transformation-optics (TO) approaches, based on real-valued coordinate mapping, cannot exhibit single-negative (SNG) character unless such character is already possessed by the domain that is being transformed. In this paper, we show that, for a given field polarization, pseudo-SNG transformation media can be obtained by transforming a domain featuring double positive (or double-negative) character, via complex analytic continuation of the coordinate transformation rules. Moreover, we apply this concept to the TO-based interpretation of phenomena analogous to the tunnelling effects observable in bi-layers made of complementary epsilon-negative (ENG) and mu-negative (MNG) media, and explore their possible TO-inspired extensions and generalizations.</p>
+  
+
+  <pre id="IJ92_JO_13_024011_2011-bibtex" class="pre pre-scrollable collapse">@article{IJ92_JO_13_024011_2011,
+  author = {Castaldi, G and Gallina, I and Galdi, V and Al\`u, A and Engheta, N},
+  title = {Transformation-optics generalization of tunnelling effects in bi-layers made of paired pseudo-epsilon-negative/mu-negative media},
+  journal = {Journal of Optics},
+  volume = {13},
+  number = {2},
+  pages = {024011},
+  url = {http://stacks.iop.org/2040-8986/13/i=2/a=024011},
+  doi = {10.1088/2040-8978/13/2/024011},
+  year = {2011},
+  month = feb
+}
+</pre>
+
+  
+    
+</div></li></ol>
+
+    </div>
+<div class="spacer"></div>
+  
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-open"></i></li>
+      
+      
+
+
+  
+     
+    	<li><a href="/categories.html#projects-ref">
+    		projects <span>14</span>
+    	</a></li>
+    
+  
+
+
+    </ul>
+    
+
+  
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-tags"></i></li>
+      
+      
+
+
+  
+     
+    	<li><a href="/tags.html#metamaterials-ref">metamaterials <span>7</span></a></li>
+     
+    	<li><a href="/tags.html#transformation optics-ref">transformation optics <span>2</span></a></li>
+     
+    	<li><a href="/tags.html#cloaking-ref">cloaking <span>1</span></a></li>
+    
+  
+
+
+
+    </ul>
+    
+  
+    
+  </div>
+</div>
+
+
+   </div>
+
+
+  <!-- Static bottom navbar -->
+  <nav class="navbar navbar-default navbar-fixed-bottom">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-bottom-collapse"> <!-- NOTE! data-target was changed to jb-bottom-collapse -->
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-bottom-collapse">
+        <ul class="nav navbar-nav navbar-left navbar-small">
+          <li><a href=http://www.ding.unisannio.it>Department of Engineering</a></li>
+          <li><a href=http://www.unisannio.it/en>University of Sannio</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right navbar-small">
+          <li><a href='/about.html'>About</a></li>
+          <li><a href='/join.html'>Join</a></li>
+          <li><a href='/contact.html'>Contact</a></li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div>
+  </nav>
+ 
+
+
+    
+
+
+
+
+    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="/assets/themes/lab/bootstrap/js/bootstrap.min.js"></script>
+  </body>
+</html>
+

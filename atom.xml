@@ -4,7 +4,7 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2017-02-18T20:52:02+01:00</updated>
+ <updated>2017-02-19T21:33:03+01:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
@@ -807,12 +807,161 @@ fiber-optics sensors, and nanotechnologies.&lt;/p&gt;
  </entry>
  
  <entry>
+   <title>Ray-chaotic “pinball” scatterers</title>
+   <link href="http://fw-lab.org/projects/pinball-scatterers"/>
+   <updated>2017-02-10T00:00:00+01:00</updated>
+   <id>http://fw-lab.org/projects/pinball-scatterers</id>
+   <content type="html">
+&lt;p&gt;Other intriguing examples of ray chaos can be found in &lt;em&gt;open&lt;/em&gt; configurations such as (n&amp;gt;3)-disk “pinballs”, 
+or appropriately configured inhomogeneous refractive media with ray-trapping properties.&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ29_IEEE_TAP_53_753_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we 
+studied a two-dimensional test example of such an environment 
+which embodies intimately coupled refractive wave-trapping and periodicity-induced multiple 
+scattering phenomenologies, and which is amenable to explicit full-wave analysis. 
+Though strictly nonchaotic, we demonstrated that under appropriate conditions 
+the high-frequency wave dynamics exhibits 
+trends toward irregularity and other peculiar characteristics; 
+these features can be interpreted as “ray-chaotic footprints”, and they are usually not observed 
+in geometries characterized by “regular” ray behavior.&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ57_IEEE_TAP_56_2638_2008&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], we extended this study to
+a cylindrical scatterer made of a perfectly electric-conducting azimuthally corrugated boundary 
+coated by a radially inhomogeneous (ray-trapping) dielectric layer, as shown in the figure (top panel).
+We showed that, for such configuration, ray dynamics is generally of “mixed type,” with the presence 
+of both regular and chaotic regions in the phase space. It is possible to “tune” the 
+parameter configuration (e.g., acting on the refractive index gradient) so as to render the dynamics strongly chaotic.&lt;/p&gt;
+
+&lt;p&gt;By relying on a full-wave solution (via a problem-matched semi-analytic technique), we studied
+the monostatic (i.e., observed at backscattering direction) radar-cross-section (RCS) response, 
+for ﬁxed incidence angle and various parametric conﬁgurations ranging from regular to chaotic ray dynamics, 
+for various representative frequency and incidence conditions. 
+As illustrated in the figure bottom panels, starting from the fairly regular response of a plain circular cylinder, 
+it is observed how introducing either corrugations or graded-index-coating alone 
+(i.e., preserving the ray-regular behavior) produces only smooth changes or the appearance of isolated peaks. 
+Conversely, introducing both corrugation and graded-index-coating (which are both required for the onset of ray-chaos) 
+produces increasingly complex RCS responses. In particular, the conﬁguration corresponding to ray-chaotic dynamics&lt;br /&gt;
+exhibits a monostatic RCS response with very rapid and irregular frequency variations, and 
+wide (up to three orders of magnitude) dynamic ranges.&lt;/p&gt;
+
+&lt;p&gt;Our results clearly indicate that electrically large ray-chaotically inclined conﬁgurations 
+exhibit fairly complex monostatic and bistatic RCS responses, characterized by wide dynamic ranges 
+and strong sensitivity on the frequency and incidence direction, which are fairly different 
+from those observed in ray-regular conﬁgurations. Particularly intriguing from the application viewpoint 
+is the possible exploitation of the inherent richness and complexity of the RCS signatures 
+ in radar-counter-measure scenarios.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ29_IEEE_TAP_53_753_2005&quot;&gt;Castaldi, G., Fiumara, V., Galdi, V., Pierro, V., Pinto, I. M., &amp;amp; Felsen, L. B. (2005). Ray-chaotic footprints in deterministic wave dynamics: a test model with coupled Floquet-type and ducted-type mode characteristics. &lt;i&gt;IEEE Transactions on Antennas and Propagation&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;53&lt;/i&gt;&lt;/span&gt;(2), 753–765.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ29_IEEE_TAP_53_753_2005-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ29_IEEE_TAP_53_753_2005-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ29_IEEE_TAP_53_753_2005-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/TAP.2004.841296&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ29_IEEE_TAP_53_753_2005.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ29_IEEE_TAP_53_753_2005-abstract&quot; class=&quot;collapse&quot;&gt;Ray chaos, manifested by the exponential divergence of trajectories in an originally thin ray bundle, can occur even in linear electromagnetic propagation environments, due to the inherent nonlinearity of ray-tracing maps. In this paper, we present a novel (two-dimensional) test example of such an environment which embodies intimately coupled refractive wave-trapping and periodicity-induced multiple scattering phenomenologies, and which is amenable to explicit full-wave analysis. Though strictly nonchaotic, it is demonstrated that under appropriate conditions which are inferred from a comprehensive parametric database generated via the above-noted rigorous reference solution, the high-frequency wave dynamics exhibits trends toward irregularity and other peculiar characteristics; these features can be interpreted as “ray-chaotic footprints”, and they are usually not observed in geometries characterized by “regular” ray behavior. In this connection, known analogies from other disciplines (particularly quantum physics) are briefly reviewed and related to the proposed test configuration. Moreover, theoretical implications and open issues are discussed, and potential applications are conjectured.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ29_IEEE_TAP_53_753_2005-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ29_IEEE_TAP_53_753_2005,
+  author = {Castaldi, G. and Fiumara, V. and Galdi, V. and Pierro, V. and Pinto, I. M. and Felsen, L. B.},
+  journal = {IEEE Transactions on Antennas and Propagation},
+  title = {Ray-chaotic footprints in deterministic wave dynamics: a test model with coupled Floquet-type and ducted-type mode characteristics},
+  year = {2005},
+  volume = {53},
+  number = {2},
+  pages = {753--765},
+  keywords = {chaos;electromagnetic wave propagation;electromagnetic wave scattering;nonlinear dynamical systems;ray tracing;coupled Floquet-type characteristics;coupled refractive wave-trapping;deterministic wave dynamics;ducted-type mode characteristics;exponential trajectory divergence;full-wave analysis;linear electromagnetic propagation;multiple scattering phenomenology;parametric database generation;periodicity;ray tracing map;ray-chaotic footprint;Chaos;Character generation;Electromagnetic propagation;Electromagnetic refraction;Electromagnetic scattering;Particle scattering;Ray tracing;Spatial databases;Testing;Trajectory;Ducted-type modes;Floquet theory;ray chaos},
+  doi = {10.1109/TAP.2004.841296},
+  issn = {0018-926X},
+  month = feb
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ57_IEEE_TAP_56_2638_2008&quot;&gt;Castaldi, G., Galdi, V., &amp;amp; Pinto, I. M. (2008). A study of ray-chaotic cylindrical scatterers. &lt;i&gt;IEEE Transactions on Antennas and Propagation&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;56&lt;/i&gt;&lt;/span&gt;(8), 2638–2648.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ57_IEEE_TAP_56_2638_2008-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ57_IEEE_TAP_56_2638_2008-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ57_IEEE_TAP_56_2638_2008-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/TAP.2008.927568&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ57_IEEE_TAP_56_2638_2008.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ57_IEEE_TAP_56_2638_2008-abstract&quot; class=&quot;collapse&quot;&gt;Ray chaos, manifested by the exponential divergence of trajectories originating from an originally thin ray bundle, can occur even in linear electromagnetic propagation environments, due to the inherent nonlinearity of ray-tracing (eikonal) maps. In this paper, extending our previous study of a two-dimensional planar ray-chaotic prototype scenario, we consider a cylindrical scatterer made of a perfectly electric-conducting azimuthally corrugated boundary coated by a radially inhomogeneous (ray-trapping) dielectric layer. For this configuration, we carry out a comprehensive parametric study of the ray-dynamical and full-wave scattering (monostatic and bistatic radar-cross-section) signatures, with emphasis on possible implications for high-frequency wave asymptotics (“ray-chaotic footprints”).&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ57_IEEE_TAP_56_2638_2008-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ57_IEEE_TAP_56_2638_2008,
+  author = {Castaldi, G. and Galdi, V. and Pinto, I. M.},
+  journal = {IEEE Transactions on Antennas and Propagation},
+  title = {A study of ray-chaotic cylindrical scatterers},
+  year = {2008},
+  volume = {56},
+  number = {8},
+  pages = {2638--2648},
+  keywords = {electromagnetic wave propagation;electromagnetic wave scattering;ray tracing;dielectric layer;electric-conducting azimuthally corrugated boundary;full-wave scattering;high-frequency wave asymptotics;linear electromagnetic propagation environments;ray-chaotic cylindrical scatterers;ray-tracing maps;two-dimensional planar ray-chaotic prototype scenario;Chaos;Dielectrics;Electromagnetic propagation;Electromagnetic scattering;Hafnium;Particle scattering;Radar cross section;Radar scattering;Ray tracing;Trajectory;High-frequency;radar cross-section;ray chaos},
+  doi = {10.1109/TAP.2008.927568},
+  issn = {0018-926X},
+  month = aug
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Multiphysics metamaterials</title>
    <link href="http://fw-lab.org/projects/multiphysics-MTM"/>
    <updated>2017-02-10T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/multiphysics-MTM</id>
    <content type="html">
-&lt;p&gt;During the past few years, the transformation-optics approach has been also successfully applied 
+&lt;p&gt;During the past few years, the &lt;a href=&quot;/projects/TO-MTM&quot;&gt;transformation-optics&lt;/a&gt; approach has been also successfully applied 
 to the manipulation of a variety of other different physical quantities like acoustic and elastic waves, 
 static magnetic and electric fields, and heat flux, in view of the mounting interest towards metamaterials 
 beyond electromagnetics.&lt;/p&gt;
@@ -918,6 +1067,153 @@ such as aluminum nitride and silver conductive epoxies.&lt;/p&gt;
  </entry>
  
  <entry>
+   <title>Laser beam shaping</title>
+   <link href="http://fw-lab.org/projects/GW-beam-shaping"/>
+   <updated>2017-02-10T00:00:00+01:00</updated>
+   <id>http://fw-lab.org/projects/GW-beam-shaping</id>
+   <content type="html">
+&lt;p&gt;In addition to the geometric optimization of the &lt;a href=&quot;/projects/GW-coating&quot;&gt;coating design&lt;/a&gt;,
+suitable shaping of the laser beam has also been proposed as an effective device to reduce internal (mirror) thermal noise 
+in advanced gravitational-wave interferometric detectors. 
+With specific reference to &lt;a href=&quot;https://www.advancedligo.mit.edu&quot;&gt;Advanced LIGO&lt;/a&gt;, the use of &lt;em&gt;flat-top&lt;/em&gt; (commonly referred to as “mesa”) beams 
+has been explored, intuitively motivated by the potential capability of such a beam to better average 
+the thermally induced mirror surface fluctuations as compared to a 
+standard Gaussian beam. This has been numerically proved to yield significant reductions in the overall 
+thermal noise and has
+led to the development of a cavity prototype with non-spherical “Mexican hat” profile mirrors.&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ35_PRD_73_127101_2006&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we investigated the analytic structure of a family of &lt;em&gt;hyperboloidal&lt;/em&gt; 
+beams which generalizes the nearly-flat and nearly-concentric mesa beam configurations. 
+Capitalizing on certain results from the applied optics literature on flat-top beams, 
+we derived a physically-insightful and computationally-effective representation in terms of rapidly-converging 
+Gauss-Laguerre expansions. 
+We also worked out a generalization (involving fractional Fourier transform operators of complex order) 
+of some duality relations between the nearly-flat and nearly-concentric mesa 
+configurations.&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ47_PRD_76_122003_2007&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], 
+relying on some analytic approximations (valid in the infinite-test-mass limit) 
+for the Brownian and thermoelastic mirror noises in the presence of arbitrary-shaped beams, 
+we explored the optimal beam-shaping problem. 
+The figure top panel shows the assumed cavity geometry, while the bottom panel illustrates 
+the optimal profiles obtained, for the various noise sources. More specifically, \(q=-1,0,1\) refer to the substrate Brownian, the coating 
+(Brownian and thermoelastic), and the substrate thermoelastic noise, respectovely.
+With specific reference to &lt;a href=&quot;https://www.advancedligo.mit.edu&quot;&gt;Advanced LIGO&lt;/a&gt;, 
+we obtained some absolute and realistic lower bounds for the various thermal-noise constituents,
+and compared them with the Gaussian- and mesa-beam scenarios.
+Our result indicate fairly ample margins for further reduction. 
+In this framework, we also identified the effective dimension of the related optimization problem, 
+and its relationship to the critical design parameters. Moreover, we considered the physical-feasibility 
+and model-consistency issues, and highlighted possible additional requirements and/or prior information exploitable 
+to drive the subsequent optimization process.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ35_PRD_73_127101_2006&quot;&gt;Galdi, V., Castaldi, G., Pierro, V., Pinto, I. M., Agresti, J., D’Ambrosio, E., &amp;amp; DeSalvo, R. (2006). Analytic structure of a family of hyperboloidal beams of potential interest for advanced LIGO. &lt;i&gt;Physical Review D&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;73&lt;/i&gt;&lt;/span&gt;(12), 127101.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ35_PRD_73_127101_2006-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ35_PRD_73_127101_2006-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ35_PRD_73_127101_2006-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevD.73.127101&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ35_PRD_73_127101_2006.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ35_PRD_73_127101_2006-abstract&quot; class=&quot;collapse&quot;&gt;This paper is concerned with a study of the analytic structure of a family of hyperboloidal beams introduced by Bondarescu and Thorne which generalizes the nearly-flat and nearly-concentric mesa beam configurations of interest for advanced LIGO. Capitalizing on certain results from the applied optics literature on flat-top beams, a physically-insightful and computationally-effective representation is derived in terms of rapidly-converging Gauss-Laguerre expansions. A generalization (involving fractional Fourier transform operators of complex order) of some recently discovered duality relations between the nearly-flat and nearly-concentric mesa configurations is obtained. Possible implications for the advanced-LIGO optical cavity design are discussed.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ35_PRD_73_127101_2006-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ35_PRD_73_127101_2006,
+  title = {Analytic structure of a family of hyperboloidal beams of potential interest for advanced LIGO},
+  author = {Galdi, Vincenzo and Castaldi, Giuseppe and Pierro, Vincenzo and Pinto, Innocenzo M. and Agresti, Juri and D'Ambrosio, Erika and DeSalvo, Riccardo},
+  journal = {Physical Review D},
+  volume = {73},
+  issue = {12},
+  pages = {127101},
+  numpages = {4},
+  year = {2006},
+  month = jun,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.73.127101},
+  url = {http://link.aps.org/doi/10.1103/PhysRevD.73.127101}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ47_PRD_76_122003_2007&quot;&gt;Pierro, V., Galdi, V., Castaldi, G., Pinto, I. M., Agresti, J., &amp;amp; DeSalvo, R. (2007). Perspectives on beam-shaping optimization for thermal-noise reduction in advanced gravitational-wave interferometric detectors: Bounds, profiles, and critical parameters. &lt;i&gt;Physical Review D&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;76&lt;/i&gt;&lt;/span&gt;(12), 122003.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ47_PRD_76_122003_2007-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ47_PRD_76_122003_2007-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ47_PRD_76_122003_2007-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevD.76.122003&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ47_PRD_76_122003_2007.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ47_PRD_76_122003_2007-abstract&quot; class=&quot;collapse&quot;&gt;Suitable shaping (in particular, flattening and broadening) of the laser beam has recently been proposed as an effective device to reduce internal (mirror) thermal noise in advanced gravitational-wave interferometric detectors. Based on some recently published analytic approximations (valid in the infinite-test-mass limit) for the Brownian and thermoelastic mirror noises in the presence of arbitrary-shaped beams, this paper addresses certain preliminary issues related to the optimal beam-shaping problem. In particular, with specific reference to the Laser Interferometer Gravitational-wave Observatory (LIGO) experiment, absolute and realistic lower bounds for the various thermal-noise constituents are obtained and compared with the current status (Gaussian beams) and trends (mesa beams), indicating fairly ample margins for further reduction. In this framework, the effective dimension of the related optimization problem, and its relationship to the critical design parameters are identified, physical-feasibility and model-consistency issues are considered, and possible additional requirements and/or prior information exploitable to drive the subsequent optimization process are highlighted.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ47_PRD_76_122003_2007-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ47_PRD_76_122003_2007,
+  title = {Perspectives on beam-shaping optimization for thermal-noise reduction in advanced gravitational-wave interferometric detectors: Bounds, profiles, and critical parameters},
+  author = {Pierro, Vincenzo and Galdi, Vincenzo and Castaldi, Giuseppe and Pinto, Innocenzo M. and Agresti, Juri and DeSalvo, Riccardo},
+  journal = {Physical Review D},
+  volume = {76},
+  issue = {12},
+  pages = {122003},
+  numpages = {12},
+  year = {2007},
+  month = dec,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.76.122003},
+  url = {http://link.aps.org/doi/10.1103/PhysRevD.76.122003}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Our paper on non-Hermitian photonic chains accepted in PRB</title>
    <link href="http://fw-lab.org/news/PRB-paper-EPD-accepted"/>
    <updated>2017-02-10T00:00:00+01:00</updated>
@@ -937,7 +1233,7 @@ has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;
    <updated>2017-02-09T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/dispersion-enegineering</id>
    <content type="html">
-&lt;p&gt;Transformation optics has established itself as a powerful and versatile tool for the systematic design of artificial media. 
+&lt;p&gt;&lt;a href=&quot;/projects/TO-MTM&quot;&gt;Transformation optics&lt;/a&gt; has established itself as a powerful and versatile tool for the systematic design of artificial media. 
 By properly tailoring the spatial profile of materials, it is possible to bend light propagation at will, 
 so as to locally follow a given coordinate-distorted reference frame and to re-route the illumination around an object, 
 making it &lt;em&gt;effectively invisible&lt;/em&gt;.&lt;/p&gt;
@@ -1138,6 +1434,482 @@ with potential applications to nonreciprocal optics, topological photonics, and 
  </entry>
  
  <entry>
+   <title>Photonic quasicrystals: in-plane properties</title>
+   <link href="http://fw-lab.org/projects/PQC-inplane"/>
+   <updated>2017-02-09T00:00:00+01:00</updated>
+   <id>http://fw-lab.org/projects/PQC-inplane</id>
+   <content type="html">
+&lt;p&gt;Photonic crystals are artificial materials capable of exhibiting photonic bandgaps, 
+which have drawn a considerable interest from the electromagnetic community, 
+in view of the peculiar filtering and radiating effects attainable through their utilization. 
+Classic designs are based on &lt;em&gt;periodic&lt;/em&gt; (possibly defected) metallic or dielectric inclusions 
+in a suitable host medium, and their rotational symmetries are accordingly bounded by the so-called 
+“crystallographic restriction”. The discovery in solid-state physics of “quasicrystals”, 
+i.e., certain metallic alloys exhibiting X-ray diffraction spectra with “non-crystallographic” 
+[e.g., 5-fold or (n&amp;gt;6)-fold] symmetries that are known to be incompatible with spatial periodicity, 
+has opened up intriguing perspectives toward aperiodic photonic quasicrystals.&lt;/p&gt;
+
+&lt;p&gt;In a series of studies in collaboration with &lt;a href=&quot;http://www.fresnel.fr/perso/enoch/&quot;&gt;Stefan Enoch&lt;/a&gt;, &lt;a href=&quot;http://tayeb.fr&quot;&gt;Gérard Tayeb&lt;/a&gt; (Fresnel Institute) and &lt;a href=&quot;http://capolino.eng.uci.edu&quot;&gt;Filippo Capolino&lt;/a&gt; 
+(University of California at Irvine), we have investigated several properties of the &lt;em&gt;in-plane&lt;/em&gt; response of these structures.
+More specifically, in [&lt;a href=&quot;#IJ31_PRL_94_183903_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#IJ38_IEEE_AWPL_5_331_2006&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], we studied 
+the bandgap formation in representative categories of photonic quasicrystals. 
+We showed that, among the bandgaps, some exhibit a behavior similar to that typical of (periodic) photonic crystals, 
+while others do not. The development of certain band gaps requires large-size quasicrystals. 
+This is explained by the long-range interactions involved in their formation. 
+Moreover, the frequencies where the bandgaps occur are not necessarily explained using single 
+scattering and should therefore involve multiple scattering.&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ36_OpEx_14_10021_2006&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], we investigated 
+the properties of the resonant modes that occur in the transparency bands of two-dimensional 
+finite-size Penrose-type photonic quasicrystals made of dielectric cylindrical rods. 
+These modes stem from the natural local arrangements of the quasicrystal structure rather than, 
+as originally thought, from fabrication-related imperfections. 
+We showed that these modes mainly originate from the 
+interactions between a limited numbers of rods.&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ64_PRB_79_075110_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;], we studied 
+the radiation from embedded sources in two-dimensional finite-size photonic-quasicrystal 
+slabs made of dielectric rods arranged according to a 12-fold symmetric aperiodic tiling. 
+Our results indicated the possibility of achieving broadside radiation at multiple frequencies, 
+with high directivity (e.g., 15 dB) and low sidelobes (e.g., -12 dB). 
+We also showed that leaky waves are supported by such slabs and that the beamwidth 
+is directly proportional to the leaky wave attenuation constant.&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ59_APL_93_164102_2008&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#IJ80_NJP_11_113022_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;6&lt;/span&gt;&lt;/a&gt;], in collaboration with 
+&lt;a href=&quot;https://www.docenti.unina.it/andreone&quot;&gt;Antonello Andreone&lt;/a&gt;’s Group (“Federico II” University of Naples), we 
+studied the confinement properties of point-defect resonators 
+in finite-size photonic-quasiscrystal structures composed of aperiodic arrangements 
+of dielectric rods, with special emphasis on their use for the design of cavities for particle accelerators. 
+We also highlighted the possible advantages of using hybrid structures based on the above dielectric configurations, 
+but featuring metallic rods in the outermost regions, for the design of extremely high quality factor, 
+bandgap-based, accelerating resonators. 
+Moreover, we also explore possible improvements attainable via the use of superconducting plates to 
+confine the electromagnetic field in the longitudinal direction.&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ52_PNFA_6_1_2008&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;7&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#IJ54_PRB_77_193104_2008&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;8&lt;/span&gt;&lt;/a&gt;], 
+we studied the refraction and focusing properties of dodecagonal photonic quasicrystals, 
+via both full-wave numerical simulations and microwave measurements on a slab made of alumina rods 
+inserted in a parallel-plate waveguide. 
+The 12-fold-symmetric tiling geometry was generated via the Stamplfi inflation rules shown 
+in the figure top panel. The center panel shows the experimental setup for the microwave (X-band) measurements.
+The bottom panel shows the simulated and measured ﬁeld intensity maps at 8.836 GHz, 
+illustrating the focusing of a source placed symmetrically at a distance of 6 cm from the slab surface.
+A very good agreement between simulations and experiments can be observed.
+Our interpretation, substantially differs from the one in terms of “effective negative refractive index” 
+that was originally proposed by other Groups. 
+Instead, our study highlights the critical role played by short-range interactions associated with local order and symmetry.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ31_PRL_94_183903_2005&quot;&gt;Della Villa, A., Enoch, S., Tayeb, G., Pierro, V., Galdi, V., &amp;amp; Capolino, F. (2005). Band gap formation and multiple scattering in photonic quasicrystals with a Penrose-type lattice. &lt;i&gt;Physical Review Letters&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;94&lt;/i&gt;&lt;/span&gt;(18), 183903.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ31_PRL_94_183903_2005-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ31_PRL_94_183903_2005-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ31_PRL_94_183903_2005-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevLett.94.183903&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ31_PRL_94_183903_2005.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ31_PRL_94_183903_2005-abstract&quot; class=&quot;collapse&quot;&gt;This Letter presents a study of the local density of states (LDOS) in photonic quasicrystals. We show that the LDOS of a Penrose-type quasicrystal exhibits small additional band gaps. Among the band gaps, some exhibit a behavior similar to that typical of photonic crystals, while others do not. The development of certain band gaps requires large-size quasicrystals. It is explained by the long-range interactions involved in their formation. Moreover, the frequencies where the band gaps occur are not necessarily explained using single scattering and should therefore involve multiple scattering.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ31_PRL_94_183903_2005-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ31_PRL_94_183903_2005,
+  title = {Band gap formation and multiple scattering in photonic quasicrystals with a Penrose-type lattice},
+  author = {Della Villa, A. and Enoch, S. and Tayeb, G. and Pierro, V. and Galdi, V. and Capolino, F.},
+  journal = {Physical Review Letters},
+  volume = {94},
+  issue = {18},
+  pages = {183903},
+  numpages = {4},
+  year = {2005},
+  month = may,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.94.183903},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.94.183903}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ38_IEEE_AWPL_5_331_2006&quot;&gt;Della Villa, A., Galdi, V., Capolino, F., Pierro, V., Enoch, S., &amp;amp; Tayeb, G. (2006). A comparative study of representative categories of EBG dielectric quasi-crystals. &lt;i&gt;IEEE Antennas and Wireless Propagation Letters&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;5&lt;/i&gt;&lt;/span&gt;(1), 331–334.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ38_IEEE_AWPL_5_331_2006-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ38_IEEE_AWPL_5_331_2006-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ38_IEEE_AWPL_5_331_2006-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/LAWP.2006.878904&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ38_IEEE_AWPL_5_331_2006.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ38_IEEE_AWPL_5_331_2006-abstract&quot; class=&quot;collapse&quot;&gt;This letter is concerned with a comparative study of the electromagnetic properties of two-dimensional, finite-size, aperiodically ordered “quasi-crystal” dielectric structures based on representative categories of “aperiodic-tiling” geometries. In this framework, a rigorous full-wave solver is used to explore the electromagnetic bandgap and directive radiation properties of potential interest in antenna applications&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ38_IEEE_AWPL_5_331_2006-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ38_IEEE_AWPL_5_331_2006,
+  author = {Della Villa, A. and Galdi, V. and Capolino, F. and Pierro, V. and Enoch, S. and Tayeb, G.},
+  journal = {IEEE Antennas and Wireless Propagation Letters},
+  title = {A comparative study of representative categories of EBG dielectric quasi-crystals},
+  year = {2006},
+  volume = {5},
+  number = {1},
+  pages = {331-334},
+  keywords = {antenna radiation patterns;dielectric materials;directive antennas;microwave materials;photonic band gap;quasicrystals;EBG dielectric quasi-crystals;antenna applications;aperiodic-tiling geometries;aperiodically ordered quasi-crystal;directive radiation properties;electromagnetic bandgap;electromagnetic properties;full-wave solver;quasi-crystal dielectric structures;representative categories;two-dimensional finite-size quasi-crystal;Dielectrics;Directive antennas;Electromagnetic radiation;Filtering;Geometry;Metamaterials;Microwave antennas;Microwave filters;Periodic structures;Aperiodic tilings;electromagnetic bandgap;quasi-crystals},
+  doi = {10.1109/LAWP.2006.878904},
+  issn = {1536--1225},
+  month = {}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ36_OpEx_14_10021_2006&quot;&gt;Della Villa, A., Enoch, S., Tayeb, G., Capolino, F., Pierro, V., &amp;amp; Galdi, V. (2006). Localized modes in photonic quasicrystals with Penrose-type lattice. &lt;i&gt;Optics Express&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;14&lt;/i&gt;&lt;/span&gt;(21), 10021–10027.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ36_OpEx_14_10021_2006-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ36_OpEx_14_10021_2006-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ36_OpEx_14_10021_2006-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1364/OE.14.010021&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ36_OpEx_14_10021_2006.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;https://www.osapublishing.org/oe/abstract.cfm?uri=oe-14-21-10021#articleSupplMat&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ36_OpEx_14_10021_2006-abstract&quot; class=&quot;collapse&quot;&gt;We investigate the properties of the resonant modes that occur in the transparency bands of two-dimensional finite-size Penrose-type photonic quasicrystals made of dielectric cylindrical rods. These modes stem from the natural local arrangements of the quasicrystal structure rather than, as originally thought, from fabrication-related imperfections. Examples of local density of states and field maps are shown for different wavelengths. Calculations of local density of states show that these modes mainly originate from the interactions between a limited numbers of rods.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ36_OpEx_14_10021_2006-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ36_OpEx_14_10021_2006,
+  author = {Della Villa, A. and Enoch, S. and Tayeb, G. and Capolino, F. and Pierro, V. and Galdi, V.},
+  journal = {Optics Express},
+  keywords = {Electromagnetic optics},
+  number = {21},
+  pages = {10021--10027},
+  publisher = {OSA},
+  title = {Localized modes in photonic quasicrystals with Penrose-type lattice},
+  volume = {14},
+  month = oct,
+  year = {2006},
+  url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-14-21-10021},
+  doi = {10.1364/OE.14.010021},
+  note = {https://www.osapublishing.org/oe/abstract.cfm?uri=oe-14-21-10021#articleSupplMat}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ64_PRB_79_075110_2009&quot;&gt;Micco, A., Galdi, V., Capolino, F., Della Villa, A., Pierro, V., Enoch, S., &amp;amp; Tayeb, G. (2009). Directive emission from defect-free dodecagonal photonic quasicrystals: A leaky wave characterization. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;79&lt;/i&gt;&lt;/span&gt;(7), 075110.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ64_PRB_79_075110_2009-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ64_PRB_79_075110_2009-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ64_PRB_79_075110_2009-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.79.075110&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ64_PRB_79_075110_2009.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ64_PRB_79_075110_2009-abstract&quot; class=&quot;collapse&quot;&gt;In this paper, we study the radiation from embedded sources in two-dimensional finite-size “photonic-quasicrystal” (PQC) slabs made of dielectric rods arranged according to a 12-fold symmetric aperiodic tiling. The results from our investigation, based on rigorous full-wave simulations, show the possibility of achieving broadside radiation at multiple frequencies, with high directivity (e.g., 15 dB) and low sidelobes (e.g., -12 dB). We also show that leaky waves are supported by a PQC slab and that the beamwidth is directly proportional to the leaky wave attenuation constant, which provides a physically incisive interpretation of the observed radiation characteristics.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ64_PRB_79_075110_2009-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ64_PRB_79_075110_2009,
+  title = {Directive emission from defect-free dodecagonal photonic quasicrystals: A leaky wave characterization},
+  author = {Micco, Alessandro and Galdi, Vincenzo and Capolino, Filippo and Della Villa, Alessandro and Pierro, Vincenzo and Enoch, Stefan and Tayeb, G\'erard},
+  journal = {Physical Review B},
+  volume = {79},
+  issue = {7},
+  pages = {075110},
+  numpages = {6},
+  year = {2009},
+  month = feb,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.79.075110},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.79.075110}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ59_APL_93_164102_2008&quot;&gt;Di Gennaro, E., Savo, S., Andreone, A., Galdi, V., Castaldi, G., Pierro, V., &amp;amp; Masullo, M. R. (2008). Mode confinement in photonic quasicrystal point-defect cavities for particle accelerators. &lt;i&gt;Applied Physics Letters&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;93&lt;/i&gt;&lt;/span&gt;(16), 164102.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ59_APL_93_164102_2008-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ59_APL_93_164102_2008-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ59_APL_93_164102_2008-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1063/1.2999581&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ59_APL_93_164102_2008.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ59_APL_93_164102_2008-abstract&quot; class=&quot;collapse&quot;&gt;In this letter, we present a study of the confinement properties of point-defect resonators in finite-size photonic-bandgap structures composed of aperiodic arrangements of dielectric rods, with special emphasis on their use for the design of cavities for particle accelerators. Specifically, for representative geometries, we study the properties of the fundamental mode (as a function of the filling fraction, structure size, and losses) via two-dimensional and three-dimensional full-wave numerical simulations, as well as microwave measurements at room temperature. Results indicate that for reduced-size structures, aperiodic geometries exhibit superior confinement properties by comparison with periodic ones.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ59_APL_93_164102_2008-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ59_APL_93_164102_2008,
+  author = {Di Gennaro, E. and Savo, S. and Andreone, A. and Galdi, V. and Castaldi, G. and Pierro, V. and Masullo, M. Rosaria},
+  title = {Mode confinement in photonic quasicrystal point-defect cavities for particle accelerators},
+  journal = {Applied Physics Letters},
+  volume = {93},
+  number = {16},
+  pages = {164102},
+  year = {2008},
+  doi = {10.1063/1.2999581},
+  url = {http://dx.doi.org/10.1063/1.2999581},
+  month = oct
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ80_NJP_11_113022_2009&quot;&gt;Di Gennaro, E., Zannini, C., Savo, S., Andreone, A., Masullo, M. R., Castaldi, G., … Galdi, V. (2009). Hybrid photonic-bandgap accelerating cavities. &lt;i&gt;New Journal of Physics&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;11&lt;/i&gt;&lt;/span&gt;(11), 113022.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ80_NJP_11_113022_2009-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ80_NJP_11_113022_2009-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ80_NJP_11_113022_2009-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1088/1367-2630/11/11/113022&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ80_NJP_11_113022_2009.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ80_NJP_11_113022_2009-abstract&quot; class=&quot;collapse&quot;&gt;In a recent investigation, we studied two-dimensional (2D) point-defected photonic bandgap cavities composed of dielectric rods arranged according to various representative periodic and aperiodic lattices, with special emphasis on possible applications to particle acceleration (along the longitudinal axis). In this paper, we present a new study aimed at highlighting the possible advantages of using hybrid structures based on the above dielectric configurations, but featuring metallic rods in the outermost regions, for the design of extremely high quality factor, bandgap-based, accelerating resonators. In this framework, we consider diverse configurations, with different (periodic and aperiodic) lattice geometries, sizes and dielectric/metal fractions. Moreover, we also explore possible improvements attainable via the use of superconducting plates to confine the electromagnetic field in the longitudinal direction. Results from our comparative studies, based on numerical full-wave simulations backed by experimental validations (at room and cryogenic temperatures) in the microwave region, identify the candidate parametric configurations capable of yielding the highest quality factor.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ80_NJP_11_113022_2009-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ80_NJP_11_113022_2009,
+  author = {Di Gennaro, E and Zannini, C and Savo, S and Andreone, A and Masullo, M R and Castaldi, G and Gallina, I and Galdi, V},
+  title = {Hybrid photonic-bandgap accelerating cavities},
+  journal = {New Journal of Physics},
+  volume = {11},
+  number = {11},
+  pages = {113022},
+  url = {http://stacks.iop.org/1367-2630/11/i=11/a=113022},
+  year = {2009},
+  month = nov,
+  doi = {10.1088/1367-2630/11/11/113022}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ52_PNFA_6_1_2008&quot;&gt;Di Gennaro, E., Morello, D., Miletto, C., Savo, S., Andreone, A., Castaldi, G., … Pierro, V. (2008). A parametric study of the lensing properties of dodecagonal photonic quasicrystals . &lt;i&gt;Photonics and Nanostructures - Fundamentals and Applications &lt;/i&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;6&lt;/i&gt;&lt;/span&gt;(1), 60–68.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ52_PNFA_6_1_2008-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ52_PNFA_6_1_2008-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ52_PNFA_6_1_2008-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1016/j.photonics.2007.12.001&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ52_PNFA_6_1_2008.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ52_PNFA_6_1_2008-abstract&quot; class=&quot;collapse&quot;&gt;We present a study of the lensing properties of two-dimensional (2-D) photonic quasicrystal (PQC) slabs made of dielectric cylinders arranged according to a 12-fold-symmetric square-triangle aperiodic tiling. Our full-wave numerical analysis confirms the results recently emerged in the technical literature and, in particular, the possibility of achieving focusing effects within several frequency regions. However, contrary to the original interpretation, such focusing effects turn out to be critically associated to local symmetry points in the PQC slab, and strongly dependent on its thickness and termination. Nevertheless, our study reveals the presence of some peculiar properties, like the ability to focus the light even for slabs with a reduced lateral width, or beaming effects, which render PQC slabs potentially interesting and worth of deeper investigation. &lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ52_PNFA_6_1_2008-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ52_PNFA_6_1_2008,
+  title = {A parametric study of the lensing properties of dodecagonal photonic quasicrystals },
+  journal = {Photonics and Nanostructures - Fundamentals and Applications },
+  volume = {6},
+  number = {1},
+  pages = {60--68},
+  year = {2008},
+  month = apr,
+  issn = {1569-4410},
+  doi = {10.1016/j.photonics.2007.12.001},
+  url = {//www.sciencedirect.com/science/article/pii/S1569441007000697},
+  author = {Di Gennaro, E. and Morello, D. and Miletto, C. and Savo, S. and Andreone, A. and Castaldi, G. and Galdi, V. and Pierro, V.},
+  keywords = {Superlensing }
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ54_PRB_77_193104_2008&quot;&gt;Di Gennaro, E., Miletto, C., Savo, S., Andreone, A., Morello, D., Galdi, V., … Pierro, V. (2008). Evidence of local effects in anomalous refraction and focusing properties of dodecagonal photonic quasicrystals. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;77&lt;/i&gt;&lt;/span&gt;(19), 193104.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ54_PRB_77_193104_2008-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ54_PRB_77_193104_2008-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ54_PRB_77_193104_2008-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.77.193104&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ54_PRB_77_193104_2008.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ54_PRB_77_193104_2008-abstract&quot; class=&quot;collapse&quot;&gt;We present the key results from a comprehensive study of the refraction and focusing properties of a two-dimensional dodecagonal photonic “quasicrystal” (PQC), which was carried out via both full-wave numerical simulations and microwave measurements on a slab made of alumina rods inserted in a parallel-plate waveguide. We observe an anomalous refraction and focusing in several frequency regions, which confirm some recently published results. However, our interpretation, which is based on numerical and experimental evidence, substantially differs from the one in terms of “effective negative refractive index” that was originally proposed. Instead, our study highlights the critical role played by short-range interactions associated with local order and symmetry.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ54_PRB_77_193104_2008-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ54_PRB_77_193104_2008,
+  title = {Evidence of local effects in anomalous refraction and focusing properties of dodecagonal photonic quasicrystals},
+  author = {Di Gennaro, Emiliano and Miletto, Carlo and Savo, Salvatore and Andreone, Antonello and Morello, Davide and Galdi, Vincenzo and Castaldi, Giuseppe and Pierro, Vincenzo},
+  journal = {Physical Review B},
+  volume = {77},
+  issue = {19},
+  pages = {193104},
+  numpages = {4},
+  year = {2008},
+  month = may,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.77.193104},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.77.193104}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>New website</title>
    <link href="http://fw-lab.org/news/new-website"/>
    <updated>2017-02-09T00:00:00+01:00</updated>
@@ -1197,8 +1969,7 @@ with the study of field-manipulation and wave-guiding properties of non-
 Hermitian metamaterials.&lt;/p&gt;
 
 &lt;p&gt;In particular, in [&lt;a href=&quot;#IJ104_PRL_110_173901_2013&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] and [&lt;a href=&quot;#IJ118_JO_18_044027_2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], 
-we proposed a complex-coordinate extension of the transformation-
-optics framework that allows to handle complex-valued constitutive parameters
+we proposed a complex-coordinate extension of the &lt;a href=&quot;/projects/TO-MTM&quot;&gt;transformation-optics&lt;/a&gt; framework that allows to handle complex-valued constitutive parameters
 (typical of non-Hermitian metamaterials), while retaining an insightful geometrical
 interpretation in terms of the &lt;em&gt;complexification&lt;/em&gt; of geometrical objects.
 In particular, in conjunction with the complex source-point formalism, this approach can naturally handle
@@ -1540,6 +2311,430 @@ optical components and devices.&lt;/p&gt;
  </entry>
  
  <entry>
+   <title>Photonic quasicrystals: out-of-plane properties</title>
+   <link href="http://fw-lab.org/projects/PQC-outplane"/>
+   <updated>2017-02-08T00:00:00+01:00</updated>
+   <id>http://fw-lab.org/projects/PQC-outplane</id>
+   <content type="html">
+&lt;p&gt;Our Group has been among the first to study the &lt;em&gt;out-of-plane&lt;/em&gt; properties of photonic quasicrystals.&lt;/p&gt;
+
+&lt;p&gt;In a series of studies in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group (University of Sannio),
+we have investigated the &lt;em&gt;guided resonances&lt;/em&gt; that can be excited 
+in a dielectric photonic quasicrystal slabs. 
+More specifically, in [&lt;a href=&quot;#IJ66_OpEx_17_6335_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#IJ79_MOTL_51_2737_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], 
+via a full-wave numerical study of the transmittance response and the modal structure of a photonic quasicrystal 
+slab based on a representative aperiodic geometry (Ammann-Beenker octagonal tiling), 
+we demonstrated the possibility to excite guided-resonance modes, 
+and highlighted similarities and differences with the periodic case. 
+In particular, we showed that, as for the periodic case, guided resonances 
+arise from the coupling of the incident plane-wave with degenerate modes of the photonic quasicrystal 
+slab that exhibit a matching symmetry in the spatial distribution, 
+and can still be parameterized via a Fano-like model.
+In [&lt;a href=&quot;#IJ76_OpEx_17_19586_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], with reference to the same geometry,
+we studied the effects induced by the introduction of 
+symmetry-preserving and symmetry-breaking point defects. 
+Our results demonstrated that breaking the supercell mirror symmetries via the 
+judicious introduction of point-defects enables for the excitation of otherwise uncoupled guided resonances, 
+with control on the symmetry properties of their field distributions, 
+thereby constituting an attractive alternative to those guided-resonance-engineering approaches 
+based on the asymmetrization of the hole shape. 
+In [&lt;a href=&quot;#IJ88_OpEx_18_17280_2010&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;], we carried out a comparative study of the tuning efficiency and sensitivity 
+of guided resonances. These results indicated that the spatial arrangement of the 
+holes may strongly influence the tuning and sensitivity efficiency, 
+and may provide new degrees of freedom and tools for the design and optimization of 
+novel photonic devices for both sensing and telecommunication applications.&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ90_OL_35_3946_2010&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#IJ95_PRB_84_085135_2011&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;6&lt;/span&gt;&lt;/a&gt;], in collaboration with &lt;a href=&quot;https://www.york.ac.uk/physics/people/krauss/&quot;&gt;Thomas Krauss&lt;/a&gt;‘Group 
+(University of St. Andrews), we provided the first experimental evidence of Fano-type guided resonances 
+in aperiodically-ordered photonic quasicrystal slabs.
+The figure top panel shows a scanning-electron-microscope of 
+the silicon-on-insulator prototype (operating at near-infrared wavelengths). The bottom panel shows the measured 
+reflectance response, from which a Fano-type resonant lineshape is clearly visible, in good agreement with
+numerical simulations.&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ102_AFM_22_4389_2012&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;7&lt;/span&gt;&lt;/a&gt;], we considered hybrid metallo-dielectric 
+quasicrystal nanostructures composed of metal-backed aperiodically patterned low-contrast dielectric layers.
+We showed that, by comparison with standard periodic structures, a 
+moderately richer spectrum of resonant modes may
+be excited, due to the easier achievement of phase-matching conditions endowed by its denser Bragg spectrum. 
+Such modes are characterized by a distinctive plasmonic or photonic behavior, discriminated by their field distribution 
+and dependence on the metal film thickness. 
+The enhanced capability of quasicrystals to control number, spectral position, and 
+mode distribution of hybrid resonances may be exploited in a variety of possible applications. 
+In particular, we assessed the surface sensitivity with respect to nanosized deposition of SiO overlays 
+(for response tuning/optimization), and SiO2 overlays (with refractive index resembling that of biological molecules). 
+The proposed metallo-dielectric quasicrystal nanostructures exhibit remarkably high surface sensitivity, 
+namely, ∼0.4 nm wavelength shift per nanometer of deposited SiO2 overlay, with an enhancement of 50% with 
+respect to the plasmonic resonances in the periodic counterpart. 
+By acting on the extra degrees of freedom typical of quasicrystals, 
+there exist further margins of optimization for the surface sensitivity, 
+and therefore concrete perspectives to outperform photonic-crystal-based chemical and 
+biological sensors based on periodic nanostructures currently available on the market.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ66_OpEx_17_6335_2009&quot;&gt;Ricciardi, A., Gallina, I., Campopiano, S., Castaldi, G., Pisco, M., Galdi, V., &amp;amp; Cusano, A. (2009). Guided resonances in photonic quasicrystals. &lt;i&gt;Optics Express&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;17&lt;/i&gt;&lt;/span&gt;(8), 6335–6346.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ66_OpEx_17_6335_2009-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ66_OpEx_17_6335_2009-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ66_OpEx_17_6335_2009-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1364/OE.17.006335&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ66_OpEx_17_6335_2009.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ66_OpEx_17_6335_2009-abstract&quot; class=&quot;collapse&quot;&gt;In this paper, we report on the first evidence of guided resonances (GRs) in aperiodically-ordered photonic crystals, tied to the concept of “quasicrystals” in solid-state physics. Via a full-wave numerical study of the transmittance response and the modal structure of a photonic quasicrystal (PQC) slab based on a representative aperiodic geometry (Ammann-Beenker octagonal tiling), we demonstrate the possibility of exciting GR modes, and highlight similarities and differences with the periodic case. In particular, we show that, as for the periodic case, GRs arise from the coupling of the incident plane-wave with degenerate modes of the PQC slab that exhibit a matching symmetry in the spatial distribution, and can still be parameterized via a Fano-like model. Besides the phenomenological implications, our results may provide new degrees of freedom in the engineering of GRs, and pave the way for new developments and applications.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ66_OpEx_17_6335_2009-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ66_OpEx_17_6335_2009,
+  author = {Ricciardi, Armando and Gallina, Ilaria and Campopiano, Stefania and Castaldi, Giuseppe and Pisco, Marco and Galdi, Vincenzo and Cusano, Andrea},
+  journal = {Optics Express},
+  keywords = {Resonance; Photonic crystals},
+  number = {8},
+  pages = {6335--6346},
+  publisher = {OSA},
+  title = {Guided resonances in photonic quasicrystals},
+  volume = {17},
+  month = apr,
+  year = {2009},
+  url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-17-8-6335},
+  doi = {10.1364/OE.17.006335}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ79_MOTL_51_2737_2009&quot;&gt;Gallina, I., Ricciardi, A., Pisco, M., Campopiano, S., Castaldi, G., Cusano, A., … Galdi, V. (2009). Parametric study of guided resonances in octagonal photonic quasicrystals. &lt;i&gt;Microwave and Optical Technology Letters&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;51&lt;/i&gt;&lt;/span&gt;(11), 2737–2740.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ79_MOTL_51_2737_2009-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ79_MOTL_51_2737_2009-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ79_MOTL_51_2737_2009-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1002/mop.24721&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ79_MOTL_51_2737_2009.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ79_MOTL_51_2737_2009-abstract&quot; class=&quot;collapse&quot;&gt;In this article, following up on our previous investigations on guided resonances (GRs) in photonic quasicrystal slabs based on octagonal (quasiperiodic) tilings, we present the salient results from a parametric study of the GR properties, varying the air/dielectric fraction, and the slab refractive index and thickness. Our results, obtained via full-wave simulations, show similar qualitative trends as those observed in the literature for periodic photonic crystal slabs&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ79_MOTL_51_2737_2009-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ79_MOTL_51_2737_2009,
+  author = {Gallina, Ilaria and Ricciardi, Armando and Pisco, Marco and Campopiano, Stefania and Castaldi, Giuseppe and Cusano, Andrea and Cutolo, Antonello and Galdi, Vincenzo},
+  title = {Parametric study of guided resonances in octagonal photonic quasicrystals},
+  journal = {Microwave and Optical Technology Letters},
+  volume = {51},
+  number = {11},
+  publisher = {Wiley Subscription Services, Inc., A Wiley Company},
+  issn = {1098-2760},
+  url = {http://dx.doi.org/10.1002/mop.24721},
+  doi = {10.1002/mop.24721},
+  pages = {2737--2740},
+  keywords = {photonic quasicrystals, guided resonances, periodic photonic slabs},
+  year = {2009},
+  month = nov
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ76_OpEx_17_19586_2009&quot;&gt;Gallina, I., Pisco, M., Ricciardi, A., Campopiano, S., Castaldi, G., Cusano, A., &amp;amp; Galdi, V. (2009). Guided resonances in photonic crystals with point-defected aperiodically-ordered supercells. &lt;i&gt;Optics Express&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;17&lt;/i&gt;&lt;/span&gt;(22), 19586–19598.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ76_OpEx_17_19586_2009-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ76_OpEx_17_19586_2009-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ76_OpEx_17_19586_2009-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1364/OE.17.019586&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ76_OpEx_17_19586_2009.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ76_OpEx_17_19586_2009-abstract&quot; class=&quot;collapse&quot;&gt;In this paper, we study the excitation of guided resonances (GRs) in photonic-crystal slabs based on point-defected aperiodically-ordered supercells. With specific reference to perforated-slab structures and the Ammann-Beenker octagonal lattice geometry, we carry out full-wave numerical studies of the plane-wave responses and of the underlying modal structures, which illustrate the representative effects induced by the introduction of symmetry-preserving and symmetry-breaking defects. Our results demonstrate that breaking the supercell mirror symmetries via the judicious introduction of point-defects enables for the excitation of otherwise uncoupled GRs, with control on the symmetry properties of their field distributions, thereby constituting an attractive alternative to those GR-engineering approaches based on the asymmetrization of the hole shape. In this framework, aperiodically-ordered supercells seem to be inherently suited, in view of the variety of inequivalent defect sites that they can offer.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ76_OpEx_17_19586_2009-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ76_OpEx_17_19586_2009,
+  author = {Gallina, Ilaria and Pisco, Marco and Ricciardi, Armando and Campopiano, Stefania and Castaldi, Giuseppe and Cusano, Andrea and Galdi, Vincenzo},
+  journal = {Optics Express},
+  keywords = {Resonance; Photonic crystals},
+  number = {22},
+  pages = {19586--19598},
+  publisher = {OSA},
+  title = {Guided resonances in photonic crystals with point-defected aperiodically-ordered supercells},
+  volume = {17},
+  month = oct,
+  year = {2009},
+  url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-17-22-19586},
+  doi = {10.1364/OE.17.019586}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ88_OpEx_18_17280_2010&quot;&gt;Pisco, M., Ricciardi, A., Gallina, I., Castaldi, G., Campopiano, S., Cutolo, A., … Galdi, V. (2010). Tuning efficiency and sensitivity of guided resonances in photonic crystals and quasi-crystals: a comparative study. &lt;i&gt;Opt. Express&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;18&lt;/i&gt;&lt;/span&gt;(16), 17280–17293.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ88_OpEx_18_17280_2010-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ88_OpEx_18_17280_2010-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ88_OpEx_18_17280_2010-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1364/OE.18.017280&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ88_OpEx_18_17280_2010.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ88_OpEx_18_17280_2010-abstract&quot; class=&quot;collapse&quot;&gt;In this paper, we present a comparative study of the tuning efficiency and sensitivity of guided resonances (GRs) in photonic crystal (PC) holed slabs based on periodic and aperiodically-ordered unit cells, aimed at assessing the applicability of these important technology platforms to ultra-compact optical sensors and active devices. In particular, with specific reference to square-lattice periodic PCs and aperiodically-ordered Ammann-Beenker photonic quasi-crystals, we study the effects of the hole radius, slab thickness, and refractive index on the GR sensitivity and tunability with respect to variation in the hole refractive index. Finally, we carry out a theoretical and numerical analysis in order to correlate the GR shift with the field distribution of the unperturbed (air holes) structures. Our results indicate that the spatial arrangement of the holes may strongly influence the tuning and sensitivity efficiency, and may provide new degrees of freedom and tools for the design and optimization of novel photonic devices for both sensing and telecommunication applications.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ88_OpEx_18_17280_2010-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ88_OpEx_18_17280_2010,
+  author = {Pisco, Marco and Ricciardi, Armando and Gallina, Ilaria and Castaldi, Giuseppe and Campopiano, Stefania and Cutolo, Antonello and Cusano, Andrea and Galdi, Vincenzo},
+  journal = {Opt. Express},
+  keywords = {All-optical devices; Resonance; Optical sensing and sensors ; Photonic crystals},
+  number = {16},
+  pages = {17280--17293},
+  publisher = {OSA},
+  title = {Tuning efficiency and sensitivity of guided resonances in photonic crystals and quasi-crystals: a comparative study},
+  volume = {18},
+  month = aug,
+  year = {2010},
+  url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-18-16-17280},
+  doi = {10.1364/OE.18.017280}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ90_OL_35_3946_2010&quot;&gt;Ricciardi, A., Pisco, M., Gallina, I., Campopiano, S., Galdi, V., O’ Faolain, L., … Cusano, A. (2010). Experimental evidence of guided-resonances in photonic crystals with aperiodically ordered supercells. &lt;i&gt;Optics Letters&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;35&lt;/i&gt;&lt;/span&gt;(23), 3946–3948.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ90_OL_35_3946_2010-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ90_OL_35_3946_2010-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ90_OL_35_3946_2010-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1364/OL.35.003946&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ90_OL_35_3946_2010.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ90_OL_35_3946_2010-abstract&quot; class=&quot;collapse&quot;&gt;We report on the first experimental evidence of guided resonances (GRs) in photonic crystal slabs based on aperiodically ordered supercells. Using Ammann–Beenker (quasiperiodic, eightfold symmetric) tiling geometry, we present our study on the fabrication, experimental characterization, and full-wave numerical simulation of two representative structures (with different filling parameters) operating at near-IR wavelengths (1300–1600nm). Our results show a fairly good agreement between measurements and numerical predictions and pave the way for the development of new strategies (based on, e.g., the lattice symmetry breaking) for GR engineering.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ90_OL_35_3946_2010-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ90_OL_35_3946_2010,
+  author = {Ricciardi, Armando and Pisco, Marco and Gallina, Ilaria and Campopiano, Stefania and Galdi, Vincenzo and O' Faolain, Liam and Krauss, Thomas F. and Cusano, Andrea},
+  journal = {Optics Letters},
+  keywords = {Fiber optics; All-optical devices; Ultrafast phenomena; Fiber Bragg gratings},
+  number = {23},
+  pages = {3946--3948},
+  publisher = {OSA},
+  title = {Experimental evidence of guided-resonances in photonic crystals with aperiodically ordered supercells},
+  volume = {35},
+  month = dec,
+  year = {2010},
+  url = {http://ol.osa.org/abstract.cfm?URI=ol-35-23-3946},
+  doi = {10.1364/OL.35.003946}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ95_PRB_84_085135_2011&quot;&gt;Ricciardi, A., Pisco, M., Cutolo, A., Cusano, A., O’ Faolain, L., Krauss, T. F., … Galdi, V. (2011). Evidence of guided resonances in photonic quasicrystal slabs. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;84&lt;/i&gt;&lt;/span&gt;(8), 085135.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ95_PRB_84_085135_2011-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ95_PRB_84_085135_2011-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ95_PRB_84_085135_2011-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.84.085135&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ95_PRB_84_085135_2011.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ95_PRB_84_085135_2011-abstract&quot; class=&quot;collapse&quot;&gt;We report on the experimental evidence of Fano-type guided resonances (GRs) in aperiodically-ordered photonic quasicrystal slabs. With specific reference to the Ammann-Beenker (8-fold symmetric, quasiperiodic) octagonal tiling geometry, we present our experimental results on silicon-on-insulator devices operating at near-infrared wavelengths, and compare them with the full-wave numerical predictions based on periodic approximants. Our results indicate that spatial periodicity is not strictly required for the GR excitation, and may be effectively surrogated by weaker forms of long-range aperiodic order which intrinsically provide extra degrees of freedom (e.g., higher-order rotational symmetries, richer defect states and phase-matching conditions, etc.) to be exploited in the design and performance optimization of nanostructured dielectric slabs operating in the out-of-plane configuration. The essential spectral features may be qualitatively understood in terms of phase-matching conditions derived from approximate homogenized models, and turn out to be effectively captured by full-wave modeling based on suitably-sized periodic approximants.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ95_PRB_84_085135_2011-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ95_PRB_84_085135_2011,
+  title = {Evidence of guided resonances in photonic quasicrystal slabs},
+  author = {Ricciardi, Armando and Pisco, Marco and Cutolo, Antonello and Cusano, Andrea and O' Faolain, Liam and Krauss, Thomas F. and Castaldi, Giuseppe and Galdi, Vincenzo},
+  journal = {Physical Review B},
+  volume = {84},
+  issue = {8},
+  pages = {085135},
+  numpages = {4},
+  year = {2011},
+  month = aug,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.84.085135},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.84.085135}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ102_AFM_22_4389_2012&quot;&gt;Crescitelli, A., Ricciardi, A., Consales, M., Esposito, E., Granata, C., Galdi, V., … Cusano, A. (2012). Nanostructured metallo-dielectric quasi-crystals: Towards photonic-plasmonic resonance engineering. &lt;i&gt;Advanced Functional Materials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;22&lt;/i&gt;&lt;/span&gt;(20), 4389–4398.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ102_AFM_22_4389_2012-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ102_AFM_22_4389_2012-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ102_AFM_22_4389_2012-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1002/adfm.201200217&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ102_AFM_22_4389_2012.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ102_AFM_22_4389_2012-abstract&quot; class=&quot;collapse&quot;&gt;The first evidence of out-of-plane resonances in hybrid metallo-dielectric quasi-crystal (QC) nanostructures composed of metal-backed aperiodically patterned low-contrast dielectric layers is reported. Via experimental measurements and full-wave numerical simulations, these resonant phenomena are characterized with specific reference to the Ammann-Beenker (quasi- periodic, octagonal) tiling lattice geometry and the underlying physics is investigated. In particular, it is shown that, by comparison with standard periodic structures, a moderately richer spectrum of resonant modes may be excited, due to the easier achievement of phase-matching conditions endowed by its denser Bragg spectrum. Such modes are characterized by a distinctive plasmonic or photonic behavior, discriminated by their field distribution and dependence on the metal film thickness. Moreover, the response is accurately predicted via computationally affordable periodic-approximant-based numerical modeling. The enhanced capability of QCs to control number, spectral position, and mode distribution of hybrid resonances may be exploited in a variety of possible applications. To assess this aspect, label-free biosensing is studied via characterization of the surface sensitivity of the proposed structures with respect to local refractive index changes. Moreover, it is also shown that the resonance-engineering capabilities of QC nanostructures may be effectively exploited in order to enhance the absorption efficiency of thin-film solar cells.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ102_AFM_22_4389_2012-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ102_AFM_22_4389_2012,
+  author = {Crescitelli, Alessio and Ricciardi, Armando and Consales, Marco and Esposito, Emanuela and Granata, Carmine and Galdi, Vincenzo and Cutolo, Antonello and Cusano, Andrea},
+  title = {Nanostructured metallo-dielectric quasi-crystals: Towards photonic-plasmonic resonance engineering},
+  journal = {Advanced Functional Materials},
+  volume = {22},
+  number = {20},
+  publisher = {WILEY-VCH Verlag},
+  issn = {1616-3028},
+  url = {http://dx.doi.org/10.1002/adfm.201200217},
+  doi = {10.1002/adfm.201200217},
+  pages = {4389--4398},
+  keywords = {plasmonics, guided resonances, complex nanostructures, chemical and biological sensing, quasi-crystals},
+  year = {2012},
+  month = oct
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Reconfigurable metamaterial electric circuits</title>
    <link href="http://fw-lab.org/projects/reconfigurable-MTM"/>
    <updated>2017-02-07T00:00:00+01:00</updated>
@@ -1626,6 +2821,665 @@ This can overcome significant constraints that limit innovation in information p
   publisher = {American Physical Society},
   doi = {10.1103/PhysRevB.91.134105},
   url = {http://link.aps.org/doi/10.1103/PhysRevB.91.134105}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Transformation optics</title>
+   <link href="http://fw-lab.org/projects/TO-MTM"/>
+   <updated>2017-02-06T00:00:00+01:00</updated>
+   <id>http://fw-lab.org/projects/TO-MTM</id>
+   <content type="html">
+&lt;p&gt;Transformation optics has been a major catalyst for the formidable advances 
+in the field of electromagnetic metamaterials, by providing a systematic and 
+versatile tool for the conception and design of artificial media with given field-manipulation 
+capabilities. In essence, by exploiting the form-invariance of Maxwell’s equations with 
+respect to coordinate transformations, transformation optics allows us to systematically 
+tailor the spatial constitutive profile of a material so as to precisely manipulate the field distribution 
+and propagation according to a given coordinate-distorted reference frame. 
+The implied paradigm shift is the separation of the conceptual design from the actual material synthesis, 
+with the former essentially driven by geometrical intuition and considerations, and the latter reducing 
+to a suitable approximation of given ideal constitutive “blueprints.”&lt;/p&gt;
+
+&lt;p&gt;It is well known that the &lt;em&gt;inherently magnetic&lt;/em&gt; properties of typically arising transformation media 
+limit the high-frequency scaling of practical metamaterial implementations based on subwavelength inclusions 
+(e.g., split-ring resonators). In [&lt;a href=&quot;#IJ62_MOTL_50_3186_2008&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#IJ74_PRB_80_125116_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], with reference to 
+the “invisibility cloaking” scenario, we explored 
+alternative approaches to attain &lt;em&gt;nonmagnetic&lt;/em&gt; implementations, 
+with performance comparable to that of a nonideal  lossy, dispersive, 
+parameter truncated  implementation of standard  magnetic  cloaking.&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ60_IEEE_AWPL_7_603_2008&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#IJ78_MOTL_51_2709_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;], 
+we applied the transformation approach to corner- and wedge-type configurations, in order to attain
+unconventional scattering signatures, whereas, in [&lt;a href=&quot;#IJ83_PRB_81_125124_2010&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;], we explored a general 
+class of transparent metamaterial slabs with intriguing image-displacement/formation capabilities. For instance, the figure 
+top panels illustrate the design of a coordinate transformation capable of “flattening” a corner-reflector geometry, 
+thereby yielding a thin planar metamaterial-based retroreflector.
+The bottom panels show the numerically computed scattering response for oblique (15°) plane-wave incidence, 
+comparing the proposed retroreflector to a standard corner reflector and a plain metal sheet.
+The retrodirective response of the proposed reﬂector is clearly visible from the wavefront shapes, 
+in complete accord with those observed in the corner-reﬂector case, and in sharp contrast with 
+those observed in the plain-metal-sheet (which instead exhibits a strong specular response).&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ65_OpEx_17_3101_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;6&lt;/span&gt;&lt;/a&gt;], we studied the interactions between an invisibility cloak
+and an “anti-cloak” capable  of (partially or totally) “undoing” the cloaking transformation. 
+In [&lt;a href=&quot;#IJ89_JOSAB_27_2132_2010&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;7&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#IJ94_WM_48_455_2011&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;8&lt;/span&gt;&lt;/a&gt;], we further developed this concept, 
+and illustrated its possible applications to the design of “invisible” sensors.&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ92_JO_13_024011_2011&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;9&lt;/span&gt;&lt;/a&gt;], we extended the approach to
+deal with &lt;em&gt;single-negative&lt;/em&gt;  materials, and applied this concept to the design of
+tunneling effects.&lt;/p&gt;
+
+&lt;p&gt;We have also proposed other extensions to deal with &lt;a href=&quot;/projects/dispersion-enegineering&quot;&gt;nonlocal&lt;/a&gt;, &lt;a href=&quot;/projects/non-Hermitian-MTM&quot;&gt;non-Hermitian&lt;/a&gt;, and &lt;a href=&quot;/projects/multiphysics-MTM&quot;&gt;multiphysics&lt;/a&gt; scenarios.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ62_MOTL_50_3186_2008&quot;&gt;Gallina, I., Castaldi, G., &amp;amp; Galdi, V. (2008). A higher-order optical transformation for nonmagnetic cloaking. &lt;i&gt;Microwave and Optical Technology Letters&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;50&lt;/i&gt;&lt;/span&gt;(12), 3186–3190.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ62_MOTL_50_3186_2008-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ62_MOTL_50_3186_2008-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ62_MOTL_50_3186_2008-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1002/mop.23905&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ62_MOTL_50_3186_2008.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ62_MOTL_50_3186_2008-abstract&quot; class=&quot;collapse&quot;&gt;In coordinate-transformation-based approaches to electromagnetic concealment (“cloaking”) of objects, use of higher-order (quadratic) mappings has been proposed as an effective device to obtain satisfactory responses without the use of magnetic materials that are complicated to synthesize at optical frequencies. In this article, we explore a new higher-order algebraic transformation, which allows, in principle, for a broader range of applicability and further parametric optimization. Via full-wave numerical studies of near- and far-field observables, we assess its performance by comparison with various reference cases (nonreduced parameters, quadratic transformation, no cloak).&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ62_MOTL_50_3186_2008-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ62_MOTL_50_3186_2008,
+  author = {Gallina, Ilaria and Castaldi, Giuseppe and Galdi, Vincenzo},
+  title = {A higher-order optical transformation for nonmagnetic cloaking},
+  journal = {Microwave and Optical Technology Letters},
+  volume = {50},
+  number = {12},
+  publisher = {Wiley Subscription Services, Inc., A Wiley Company},
+  issn = {1098-2760},
+  url = {http://dx.doi.org/10.1002/mop.23905},
+  doi = {10.1002/mop.23905},
+  pages = {3186--3190},
+  keywords = {electromagnetic cloaking, transformation optics, metamaterials, scattering},
+  year = {2008},
+  month = dec
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ74_PRB_80_125116_2009&quot;&gt;Castaldi, G., Gallina, I., &amp;amp; Galdi, V. (2009). Nearly perfect nonmagnetic invisibility cloaking: Analytic solutions and parametric studies. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;80&lt;/i&gt;&lt;/span&gt;(12), 125116.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ74_PRB_80_125116_2009-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ74_PRB_80_125116_2009-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ74_PRB_80_125116_2009-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.80.125116&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ74_PRB_80_125116_2009.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ74_PRB_80_125116_2009-abstract&quot; class=&quot;collapse&quot;&gt;Coordinate-transformation approaches to invisibility cloaking rely on the design of an anisotropic, spatially inhomogeneous “transformation medium” capable of suitably rerouting the energy flux around the region to conceal without causing any scattering in the exterior region. It is well known that the inherently magnetic properties of such medium limit the high-frequency scaling of practical “metamaterial” implementations based on subwavelength inclusions (e.g., split-ring resonators). Thus, for the optical range, nonmagnetic implementations, based on approximate reductions of the constitutive parameters, have been proposed. In this paper, we present an alternative approach to nonmagnetic coordinate-transformation cloaking, based on the mapping from a nearly transparent, anisotropic and spatially inhomogeneous virtual domain. We show that, unlike its counterparts in the literature, our approach is amenable to exact analytic treatment, and that its overall performance is comparable to that of a nonideal (lossy, dispersive, parameter truncated) implementation of standard (magnetic) cloaking.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ74_PRB_80_125116_2009-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ74_PRB_80_125116_2009,
+  title = {Nearly perfect nonmagnetic invisibility cloaking: Analytic solutions and parametric studies},
+  author = {Castaldi, Giuseppe and Gallina, Ilaria and Galdi, Vincenzo},
+  journal = {Physical Review B},
+  volume = {80},
+  issue = {12},
+  pages = {125116},
+  numpages = {12},
+  year = {2009},
+  month = sep,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.80.125116},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.80.125116}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ60_IEEE_AWPL_7_603_2008&quot;&gt;Gallina, I., Castaldi, G., &amp;amp; Galdi, V. (2008). Transformation media for thin planar retrodirective reflectors. &lt;i&gt;IEEE Antennas and Wireless Propagation Letters&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;7&lt;/i&gt;&lt;/span&gt;, 603–605.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ60_IEEE_AWPL_7_603_2008-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ60_IEEE_AWPL_7_603_2008-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ60_IEEE_AWPL_7_603_2008-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/LAWP.2008.2003541&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ60_IEEE_AWPL_7_603_2008.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ60_IEEE_AWPL_7_603_2008-abstract&quot; class=&quot;collapse&quot;&gt;In this letter, we address the design of thin planar retrodirective reflectors via transformation optics. Exploiting form-invariant transformations of Maxwell’s equations, we derive the constitutive properties of an anisotropic and spatially inhomogeneous transformation-medium coating which, laid on a flat metallic surface, exhibits the retrodirective response typical of a dihedral corner reflector. The practical feasibility of the involved materials should be within reach of the fast-pacing metamaterial technology. The results of our investigations, validated via a full-wave study of the near- and far-field responses, could find interesting applications in radar, communication, and identification scenarios.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ60_IEEE_AWPL_7_603_2008-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ60_IEEE_AWPL_7_603_2008,
+  author = {Gallina, I. and Castaldi, G. and Galdi, V.},
+  journal = {IEEE Antennas and Wireless Propagation Letters},
+  title = {Transformation media for thin planar retrodirective reflectors},
+  year = {2008},
+  volume = {7},
+  pages = {603--605},
+  keywords = {Maxwell equations;electromagnetic wave reflection;electromagnetic wave scattering;metamaterials;Maxwell equation;dihedral corner reflector;fast-pacing metamaterial technology;flat metallic surface;form-invariant transformation;near-far-field responses;radar communication;spatially inhomogeneous transformation-medium coating;thin planar retrodirective reflector;transformation media;transformation optic;Transformation media;corner reflectors;metamaterials;scattering},
+  doi = {10.1109/LAWP.2008.2003541},
+  issn = {1536-1225},
+  month = {}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ78_MOTL_51_2709_2009&quot;&gt;Gallina, I., Castaldi, G., &amp;amp; Galdi, V. (2009). Transformation optics-inspired metamaterial coatings for controlling the scattering response of wedge/corner-type structures. &lt;i&gt;Microwave and Optical Technology Letters&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;51&lt;/i&gt;&lt;/span&gt;(11), 2709–2712.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ78_MOTL_51_2709_2009-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ78_MOTL_51_2709_2009-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ78_MOTL_51_2709_2009-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1002/mop.24720&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ78_MOTL_51_2709_2009.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ78_MOTL_51_2709_2009-abstract&quot; class=&quot;collapse&quot;&gt;Transformation optics has recently emerged as a powerful and systematic approach to design application-oriented metamaterials. In this letter, following up on our previous studies on thin planar retroreflectors, we show how it is possible, in principle, to design “transformation medium” coatings capable of controlling the scattering response of metallic corner- and wedge-type structures so as, e.g., to strongly enhance the specularly reflected component. We validate our results via a full-wave study of the near- and far-field responses, and envisage possible applications.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ78_MOTL_51_2709_2009-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ78_MOTL_51_2709_2009,
+  author = {Gallina, Ilaria and Castaldi, Giuseppe and Galdi, Vincenzo},
+  title = {Transformation optics-inspired metamaterial coatings for controlling the scattering response of wedge/corner-type structures},
+  journal = {Microwave and Optical Technology Letters},
+  volume = {51},
+  number = {11},
+  publisher = {Wiley Subscription Services, Inc., A Wiley Company},
+  issn = {1098-2760},
+  url = {http://dx.doi.org/10.1002/mop.24720},
+  doi = {10.1002/mop.24720},
+  pages = {2709--2712},
+  keywords = {transformation optics, metamaterials, scattering},
+  year = {2009},
+  month = nov
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ83_PRB_81_125124_2010&quot;&gt;Gallina, I., Castaldi, G., Galdi, V., Alù, A., &amp;amp; Engheta, N. (2010). General class of metamaterial transformation slabs. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;81&lt;/i&gt;&lt;/span&gt;(12), 125124.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ83_PRB_81_125124_2010-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ83_PRB_81_125124_2010-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ83_PRB_81_125124_2010-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.81.125124&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ83_PRB_81_125124_2010.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ83_PRB_81_125124_2010-abstract&quot; class=&quot;collapse&quot;&gt;In this paper, we apply transformation-based optics to the derivation of a general class of transparent metamaterial slabs. By means of analytical and numerical full-wave studies, we explore their image-displacement/formation capabilities, and establish intriguing connections with configurations already known in the literature. Starting from these revisitations, we develop a number of nontrivial extensions, and illustrate their possible applications to the design of perfect radomes, anticloaking devices, and focusing devices based on double-positive (possibly nonmagnetic) media. These designs show that such anomalous features may be achieved without necessarily relying on negative-index or strongly resonant metamaterials, suggesting more practical venues for the realization of these devices.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ83_PRB_81_125124_2010-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ83_PRB_81_125124_2010,
+  title = {General class of metamaterial transformation slabs},
+  author = {Gallina, Ilaria and Castaldi, Giuseppe and Galdi, Vincenzo and Al\`u, Andrea and Engheta, Nader},
+  journal = {Physical Review B},
+  volume = {81},
+  issue = {12},
+  pages = {125124},
+  numpages = {10},
+  year = {2010},
+  month = mar,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.81.125124},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.81.125124}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ65_OpEx_17_3101_2009&quot;&gt;Castaldi, G., Gallina, I., Galdi, V., Alù, A., &amp;amp; Engheta, N. (2009). Cloak/anti-cloak interactions. &lt;i&gt;Optics Express&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;17&lt;/i&gt;&lt;/span&gt;(5), 3101–3114.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ65_OpEx_17_3101_2009-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ65_OpEx_17_3101_2009-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ65_OpEx_17_3101_2009-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1364/OE.17.003101&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ65_OpEx_17_3101_2009.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;https://www.osapublishing.org/oe/abstract.cfm?uri=oe-17-5-3101#articleSupplMat&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ65_OpEx_17_3101_2009-abstract&quot; class=&quot;collapse&quot;&gt;Coordinate-transformation cloaking is based on the design of a metamaterial shell made of an anisotropic, spatially inhomogeneous “transformation medium” that allows rerouting the impinging wave around a given region of space. In its original version, it is generally believed that, in the ideal limit, the radiation cannot penetrate the cloaking shell (from outside to inside, and viceversa). However, it was recently shown by Chen et al. that electromagnetic fields may actually penetrate the cloaked region, provided that this region contains double-negative transformation media which, via proper design, may be in principle used to (partially or totally) “undo” the cloaking transformation, thereby acting as an “anti-cloak.” In this paper, we further elaborate this concept, by considering a more general scenario of cloak/anti-cloak interactions. Our full-wave analytical study provides new insightful results and explores the effects of departure from ideality, suggesting also some novel scenarios for potential applications.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ65_OpEx_17_3101_2009-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ65_OpEx_17_3101_2009,
+  author = {Castaldi, Giuseppe and Gallina, Ilaria and Galdi, Vincenzo and Al\`{u}, Andrea and Engheta, Nader},
+  journal = {Optics Express},
+  keywords = {Anisotropic optical materials; Optical devices; Electromagnetic optics ; Inhomogeneous optical media ; Invisibility cloaks},
+  number = {5},
+  pages = {3101--3114},
+  publisher = {OSA},
+  title = {Cloak/anti-cloak interactions},
+  volume = {17},
+  month = mar,
+  year = {2009},
+  url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-17-5-3101},
+  doi = {10.1364/OE.17.003101},
+  note = {https://www.osapublishing.org/oe/abstract.cfm?uri=oe-17-5-3101#articleSupplMat}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ89_JOSAB_27_2132_2010&quot;&gt;Castaldi, G., Gallina, I., Galdi, V., Alù, A., &amp;amp; Engheta, N. (2010). Power scattering and absorption mediated by cloak/anti-cloak interactions: a transformation-optics route toward invisible sensors. &lt;i&gt;Journal of the Optical Society of America B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;27&lt;/i&gt;&lt;/span&gt;(10), 2132–2140.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ89_JOSAB_27_2132_2010-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ89_JOSAB_27_2132_2010-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ89_JOSAB_27_2132_2010-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1364/JOSAB.27.002132&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ89_JOSAB_27_2132_2010.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ89_JOSAB_27_2132_2010-abstract&quot; class=&quot;collapse&quot;&gt;The suggestive idea of “cloaking” an electromagnetic sensor, i.e., strongly reducing its visibility (scattering) while maintaining its field-sensing (absorption) capabilities, has recently been proposed in the literature, based on scattering-cancellation, Fano-resonance, or transformation-optics approaches. In this paper, we explore an alternative transformation-optics-based route, which relies on the recently introduced concept of “anti-cloaking.” More specifically, our proposed approach relies on a suitable tailoring of the competing cloaking and anti-cloaking mechanisms, interacting in a two-dimensional cylindrical scenario. Via analytical and parametric studies, we illustrate the underlying phenomenology, identify the critical design parameters, and address the relevant optimality and trade-off issues, taking also into account the effect of material losses. Our results confirm the envisaged potentials of the proposed transformation-optics approach as an attractive alternative route to sensor cloaking.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ89_JOSAB_27_2132_2010-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ89_JOSAB_27_2132_2010,
+  author = {Castaldi, Giuseppe and Gallina, Ilaria and Galdi, Vincenzo and Al\`{u}, Andrea and Engheta, Nader},
+  journal = {Journal of the Optical Society of America B},
+  keywords = {Anisotropic optical materials; Optical devices; Electromagnetic optics ; Inhomogeneous optical media ; Invisibility cloaks},
+  number = {10},
+  pages = {2132--2140},
+  publisher = {OSA},
+  title = {Power scattering and absorption mediated by cloak/anti-cloak interactions: a transformation-optics route toward invisible sensors},
+  volume = {27},
+  month = oct,
+  year = {2010},
+  url = {http://josab.osa.org/abstract.cfm?URI=josab-27-10-2132},
+  doi = {10.1364/JOSAB.27.002132}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ94_WM_48_455_2011&quot;&gt;Castaldi, G., Gallina, I., Galdi, V., Alù, A., &amp;amp; Engheta, N. (2011). Analytical study of spherical cloak/anti-cloak interactions. &lt;i&gt;Wave Motion &lt;/i&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;48&lt;/i&gt;&lt;/span&gt;(6), 455–467.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ94_WM_48_455_2011-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ94_WM_48_455_2011-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ94_WM_48_455_2011-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1016/j.wavemoti.2011.03.003&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ94_WM_48_455_2011.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ94_WM_48_455_2011-abstract&quot; class=&quot;collapse&quot;&gt;The intriguing concept of “anti-cloaking” has been recently introduced within the framework of transformation optics (TO), first as a “countermeasure” to invisibility-cloaking (i.e., to restore the scattering response of a cloaked target), and more recently in connection with “sensor invisibility” (i.e., to strongly reduce the scattering response while maintaining the field-sensing capabilities). In this paper, we extend our previous studies, which were limited to a two-dimensional cylindrical scenario, to the three-dimensional spherical case. More specifically, via a generalized (coordinate-mapped) Mie-series approach, we derive a general analytical full-wave solution pertaining to plane-wave-excited configurations featuring a spherical object surrounded by a TO-based invisibility cloak coupled via a vacuum layer to an anti-cloak, and explore the various interactions of interest. With a number of selected examples, we illustrate the cloaking and field-restoring capabilities of various configurations, highlighting similarities and differences with respect to the cylindrical case, with special emphasis on sensor-cloaking scenarios and ideas for approximate implementations that require the use of double-positive media only. &lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ94_WM_48_455_2011-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ94_WM_48_455_2011,
+  title = {Analytical study of spherical cloak/anti-cloak interactions},
+  journal = {Wave Motion },
+  volume = {48},
+  number = {6},
+  pages = {455--467},
+  year = {2011},
+  month = sep,
+  issn = {0165-2125},
+  doi = {10.1016/j.wavemoti.2011.03.003},
+  url = {//www.sciencedirect.com/science/article/pii/S0165212511000369},
+  author = {Castaldi, Giuseppe and Gallina, Ilaria and Galdi, Vincenzo and Al\`{u}, Andrea and Engheta, Nader},
+  keywords = {Transformation optics }
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ92_JO_13_024011_2011&quot;&gt;Castaldi, G., Gallina, I., Galdi, V., Alù, A., &amp;amp; Engheta, N. (2011). Transformation-optics generalization of tunnelling effects in bi-layers made of paired pseudo-epsilon-negative/mu-negative media. &lt;i&gt;Journal of Optics&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;13&lt;/i&gt;&lt;/span&gt;(2), 024011.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ92_JO_13_024011_2011-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ92_JO_13_024011_2011-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ92_JO_13_024011_2011-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1088/2040-8978/13/2/024011&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ92_JO_13_024011_2011.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ92_JO_13_024011_2011-abstract&quot; class=&quot;collapse&quot;&gt;Transformation media designed by standard transformation-optics (TO) approaches, based on real-valued coordinate mapping, cannot exhibit single-negative (SNG) character unless such character is already possessed by the domain that is being transformed. In this paper, we show that, for a given field polarization, pseudo-SNG transformation media can be obtained by transforming a domain featuring double positive (or double-negative) character, via complex analytic continuation of the coordinate transformation rules. Moreover, we apply this concept to the TO-based interpretation of phenomena analogous to the tunnelling effects observable in bi-layers made of complementary epsilon-negative (ENG) and mu-negative (MNG) media, and explore their possible TO-inspired extensions and generalizations.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ92_JO_13_024011_2011-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ92_JO_13_024011_2011,
+  author = {Castaldi, G and Gallina, I and Galdi, V and Al\`u, A and Engheta, N},
+  title = {Transformation-optics generalization of tunnelling effects in bi-layers made of paired pseudo-epsilon-negative/mu-negative media},
+  journal = {Journal of Optics},
+  volume = {13},
+  number = {2},
+  pages = {024011},
+  url = {http://stacks.iop.org/2040-8986/13/i=2/a=024011},
+  doi = {10.1088/2040-8978/13/2/024011},
+  year = {2011},
+  month = feb
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Optical sensing</title>
+   <link href="http://fw-lab.org/projects/MTM_optical-sensing"/>
+   <updated>2017-02-05T00:00:00+01:00</updated>
+   <id>http://fw-lab.org/projects/MTM_optical-sensing</id>
+   <content type="html">
+&lt;p&gt;Metamaterials and artificial materials can find important applications to optical sensing.
+In collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group (University of Sannio), we have explored 
+several nanostructured configurations for label-free biosensing.&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ106_OpEx_21_23531_2013&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we studied
+sensing schemes based on Rayleigh anomalies in 
+metal nanogratings. These structures tend to exhibit an impressive bulk refractive-index sensitivity determined 
+solely by the grating period. However, the surface sensitivity (which is a key figure of merit 
+for label-free chemical and biological sensing) needs to be carefully investigated to assess the 
+actual applicability of this technological platform. Accordingly, we studied the wavelength shift induced by
+thin dielectric overlays.
+Our studies revealed that the surface sensitivity deteriorates up to two orders of magnitude 
+by comparison with the corresponding bulk value; interestingly, this residual sensitivity is 
+not attributable to the wavelength shift of the Rayleigh anomalies, which are completely insensitive to local 
+refractive-index changes, but rather to a strictly connected plasmonic effect. Our analysis for 
+increasing overlay thickness revealed an ultimate surface sensitivity that approaches the Rayleigh-anomaly bulk value, 
+which turns out to be the upper-limit of grating-assisted surface-plasmon-polariton sensitivities.&lt;/p&gt;
+
+&lt;p&gt;As the field of plasmonics has reached the “slope of enlightenment”, consensus 
+is generally growing on the quest for alternative low-loss materials and related mechanisms.
+Bloch surface waves constitute an attractive alternative for applications to
+label-free biosensing.
+These waves are guided at the interface between a homogeneous medium and a truncated one-dimensional photonic crystal, 
+and are characterized by a dispersion curve located in the forbidden band of the photonic crystal.
+In [&lt;a href=&quot;#IJ122_OpEx_24_27771_2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], we investigated the possibility to excite 
+Bloch surface waves on the tip of single-mode optical fibers. 
+The figure top panel schematizes the proposed excitation scheme, based on a grating-coupling mechanism, 
+which enables an efficient control of the excitation angle combined with a feasible integration on the tip 
+of an optical fiber.
+The bottom panels show the attained resonant field distribution and lineshape.
+Our results indicated that the attained sensitivities are in line with those exhibited by state-of-the-art 
+plasmonic bioprobes, with the key advantage of exhibiting much narrower spectral resonances. 
+This prototype study paves the way for a new class of miniaturized high-performance surface-wave 
+fiber-optic devices for high-resolution label-free optical biosensing, and represents an important step 
+forward in the “lab-on-fiber” technology roadmap.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ106_OpEx_21_23531_2013&quot;&gt;Savoia, S., Ricciardi, A., Crescitelli, A., Granata, C., Esposito, E., Galdi, V., &amp;amp; Cusano, A. (2013). Surface sensitivity of Rayleigh anomalies in metallic nanogratings. &lt;i&gt;Optics Express&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;21&lt;/i&gt;&lt;/span&gt;(20), 23531–23542.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ106_OpEx_21_23531_2013-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ106_OpEx_21_23531_2013-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ106_OpEx_21_23531_2013-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1364/OE.21.023531&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ106_OpEx_21_23531_2013.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ106_OpEx_21_23531_2013-abstract&quot; class=&quot;collapse&quot;&gt;Sensing schemes based on Rayleigh anomalies (RAs) in metal nanogratings exhibit an impressive bulk refractive-index sensitivity determined solely by the grating period. However, the surface sensitivity (which is a key figure of merit for label-free chemical and biological sensing) needs to be carefully investigated to assess the actual applicability of this technological platform. In this paper, we explore the sensitivity of RAs in metal nanogratings when local refractive-index changes are considered. Our studies reveal that the surface sensitivity deteriorates up to two orders of magnitude by comparison with the corresponding bulk value; interestingly, this residual sensitivity is not attributable to the wavelength shift of the RAs, which are completely insensitive to local refractive-index changes, but rather to a strictly connected plasmonic effect. Our analysis for increasing overlay thickness reveals an ultimate surface sensitivity that approaches the RA bulk value, which turns out to be the upper-limit of grating-assisted surface-plasmon-polariton sensitivities&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ106_OpEx_21_23531_2013-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ106_OpEx_21_23531_2013,
+  author = {Savoia, Silvio and Ricciardi, Armando and Crescitelli, Alessio and Granata, Carmine and Esposito, Emanuela and Galdi, Vincenzo and Cusano, Andrea},
+  journal = {Optics Express},
+  keywords = {Diffraction and gratings; Biological sensing and sensors ; Optical sensing and sensors ; Plasmonics},
+  number = {20},
+  pages = {23531--23542},
+  publisher = {OSA},
+  title = {Surface sensitivity of Rayleigh anomalies in metallic nanogratings},
+  volume = {21},
+  month = oct,
+  year = {2013},
+  url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-21-20-23531},
+  doi = {10.1364/OE.21.023531}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ122_OpEx_24_27771_2016&quot;&gt;Scaravilli, M., Castaldi, G., Cusano, A., &amp;amp; Galdi, V. (2016). Grating-coupling-based excitation of Bloch surface waves for lab-on-fiber optrodes. &lt;i&gt;Optics Express&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;24&lt;/i&gt;&lt;/span&gt;(24), 27771–27784.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ122_OpEx_24_27771_2016-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ122_OpEx_24_27771_2016-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ122_OpEx_24_27771_2016-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1364/OE.24.027771&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ122_OpEx_24_27771_2016.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ122_OpEx_24_27771_2016-abstract&quot; class=&quot;collapse&quot;&gt;In this paper, we investigate the possibility to excite Bloch surface waves (BSWs) on the tip of single-mode optical fibers. Within this framework, after exploring an idealized, proof-of-principle grating-coupling-based scheme for on-tip excitation of BSWs, we focus on an alternative configuration that is more robust with respect to fabrication-related non-idealities. Subsequently, with a view towards label-free chemical and biological sensing, we present a specific design aimed at enhancing the sensitivity (in terms of wavelength shift) of the arising resonance with respect to changes in the refractive properties of the surrounding environment. Numerical results indicate that the attained sensitivities are in line with those exhibited by state-of-the-art plasmonic bioprobes, with the key advantage of exhibiting much narrower spectral resonances. This prototype study paves the way for a new class of miniaturized high-performance surface-wave fiber-optic devices for high-resolution label-free optical biosensing, and represents an important step forward in the “lab-on-fiber” technology roadmap.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ122_OpEx_24_27771_2016-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ122_OpEx_24_27771_2016,
+  author = {Scaravilli, Michele and Castaldi, Giuseppe and Cusano, Andrea and Galdi, Vincenzo},
+  journal = {Optics Express},
+  keywords = {Diffraction gratings; Fiber optics sensors; Surface waves; Photonic crystals},
+  number = {24},
+  pages = {27771--27784},
+  publisher = {OSA},
+  title = {Grating-coupling-based excitation of Bloch surface waves for lab-on-fiber optrodes},
+  volume = {24},
+  month = nov,
+  year = {2016},
+  doi = {10.1364/OE.24.027771}
 }
 &lt;/pre&gt;
 

@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Multiphysics metamaterials</title>
+    <title>Ray-chaotic “pinball” scatterers</title>
     
     <meta name="author" content="Vincenzo Galdi">
 
@@ -472,7 +472,7 @@
       
 <div class="page-header">
   <div class="head">
-      Multiphysics metamaterials
+      Ray-chaotic “pinball” scatterers
 </div>
 <div class="spacer"></div>
 <div class="row post-full">
@@ -506,77 +506,66 @@
 <div class="spacer"></div>
 
 
-    <img class="img-responsive  media-object pull-right" src="/assets/images/projects/multiphysics_MTM1.png"/>
+    <img class="img-responsive  media-object pull-right" src="/assets/images/projects/pinball_scatterer1.png"/>
       
 <div class="spacer"></div>
       
     <div class="content">
       
-<p>During the past few years, the <a href="/projects/TO-MTM">transformation-optics</a> approach has been also successfully applied 
-to the manipulation of a variety of other different physical quantities like acoustic and elastic waves, 
-static magnetic and electric fields, and heat flux, in view of the mounting interest towards metamaterials 
-beyond electromagnetics.</p>
+<p>Other intriguing examples of ray chaos can be found in <em>open</em> configurations such as (n&gt;3)-disk “pinballs”, 
+or appropriately configured inhomogeneous refractive media with ray-trapping properties.</p>
 
-<p>Although it seems suggestive to coherently exploit these various approaches to design 
-multifunctional devices capable of performing multiple functions in different physical domains, 
-most studies available in the literature deal with the design of a single functionality in a given physical domain.</p>
+<p>In [<a href="#IJ29_IEEE_TAP_53_753_2005"><span style="vertical-align: baseline">1</span></a>], we 
+studied a two-dimensional test example of such an environment 
+which embodies intimately coupled refractive wave-trapping and periodicity-induced multiple 
+scattering phenomenologies, and which is amenable to explicit full-wave analysis. 
+Though strictly nonchaotic, we demonstrated that under appropriate conditions 
+the high-frequency wave dynamics exhibits 
+trends toward irregularity and other peculiar characteristics; 
+these features can be interpreted as “ray-chaotic footprints”, and they are usually not observed 
+in geometries characterized by “regular” ray behavior.</p>
 
-<p>In collaboration with Dr. <a href="http://www2.rowland.harvard.edu/people/yuki-sato">Yuki Sato</a>’s Group (Harvard University), 
-our Group has recently introduced an approach to the design of metamaterial shells 
-capable of governing different physicals phenomena in an independent fashion [<a href="#IJ112_PRX_4_021025_2014"><span style="vertical-align: baseline">1</span></a>].</p>
+<p>In [<a href="#IJ57_IEEE_TAP_56_2638_2008"><span style="vertical-align: baseline">2</span></a>], we extended this study to
+a cylindrical scatterer made of a perfectly electric-conducting azimuthally corrugated boundary 
+coated by a radially inhomogeneous (ray-trapping) dielectric layer, as shown in the figure (top panel).
+We showed that, for such configuration, ray dynamics is generally of “mixed type,” with the presence 
+of both regular and chaotic regions in the phase space. It is possible to “tune” the 
+parameter configuration (e.g., acting on the refractive index gradient) so as to render the dynamics strongly chaotic.</p>
 
-<p>From the mathematical viewpoint, our relies on the well-known coordinate-transformation framework. 
-Viewing the rerouting of energy flow as a distortion of space from a coordinate transformation, t
-his technique provides a powerful and systematic recipe for designing and fabricating artificial 
-structures that can mold the flow of a given physical quantity in a desired fashion.</p>
+<p>By relying on a full-wave solution (via a problem-matched semi-analytic technique), we studied
+the monostatic (i.e., observed at backscattering direction) radar-cross-section (RCS) response, 
+for ﬁxed incidence angle and various parametric conﬁgurations ranging from regular to chaotic ray dynamics, 
+for various representative frequency and incidence conditions. 
+As illustrated in the figure bottom panels, starting from the fairly regular response of a plain circular cylinder, 
+it is observed how introducing either corrugations or graded-index-coating alone 
+(i.e., preserving the ray-regular behavior) produces only smooth changes or the appearance of isolated peaks. 
+Conversely, introducing both corrugation and graded-index-coating (which are both required for the onset of ray-chaos) 
+produces increasingly complex RCS responses. In particular, the conﬁguration corresponding to ray-chaotic dynamics<br />
+exhibits a monostatic RCS response with very rapid and irregular frequency variations, and 
+wide (up to three orders of magnitude) dynamic ranges.</p>
 
-<p>Conventionally, this theory is applied to a single physical domain. 
-In our approach, we instead exploit separate but intertwined coordinate transformations to 
-simultaneously manipulate multiple physical phenomena in independent fashions. 
-Thus, for instance, a material may be designed to exhibit a particular thermal functionality while 
-its electrical functionality is made drastically different.</p>
-
-<p>As a proof-of-concept example, we have synthesized and designed
- a metamaterial shell that behaves simultaneously as a thermal concentrator and an electrical invisibility 
- cloak. In such a shell, the thermal and electrical currents follow markedly different paths, 
- with the former concentrating in the inner region and the latter circumventing that region, as schematized
- in the figure top panel. The bottom panel shows instead the thermal and electrical responses, which exhibit 
- the expected behaviors.</p>
-
-<p>Although the results of this study are based on theory and numerical simulations, 
-they do indicate that practical realization of these metamaterials should be within 
-reach of current fabrication technologies. Our numerical simulations indeed show that they 
-can be fabricated by means of small sub-blocks made of realistic materials, 
-such as aluminum nitride and silver conductive epoxies.</p>
-
-<p>Such design may be considered as a first step towards a more general 
- framework that could be defined as “transformation-multiphysics”, which may be in principle extended and applied 
- to a variety of electrical, magnetic, acoustic, and thermal systems in various combinations, 
- and may be integrated in advanced materials, spanning multiple orders of magnitude in material scales.</p>
-
-<p>Besides serving as a proof-of-principle, the independent manipulation of electrical and thermal currents 
- is also very important from the application viewpoint.
- One particularly intriguing application is the engineering of thermoelectric materials, 
- which hold great promises for energy recycling, by converting waste heat 
- (e.g., generated by the CPU of a computer) into additional electrical power. 
- For these materials, the independent control of electrical and thermal conductivities is of paramount importance, 
- and it may affect the figure of merit in ways unexplored in the past.</p>
+<p>Our results clearly indicate that electrically large ray-chaotically inclined conﬁgurations 
+exhibit fairly complex monostatic and bistatic RCS responses, characterized by wide dynamic ranges 
+and strong sensitivity on the frequency and incidence direction, which are fairly different 
+from those observed in ray-regular conﬁgurations. Particularly intriguing from the application viewpoint 
+is the possible exploitation of the inherent richness and complexity of the RCS signatures 
+ in radar-counter-measure scenarios.</p>
 
 <h2 id="relevant-papers">Relevant papers</h2>
-<ol class="bibliography"><li><span id="IJ112_PRX_4_021025_2014">Moccia, M., Castaldi, G., Savo, S., Sato, Y., &amp; Galdi, V. (2014). Independent manipulation of heat and electrical current via bifunctional metamaterials. <i>Physical Review X</i> <span style="font-weight: normal"><i>4</i></span>(2), 021025.</span>
+<ol class="bibliography"><li><span id="IJ29_IEEE_TAP_53_753_2005">Castaldi, G., Fiumara, V., Galdi, V., Pierro, V., Pinto, I. M., &amp; Felsen, L. B. (2005). Ray-chaotic footprints in deterministic wave dynamics: a test model with coupled Floquet-type and ducted-type mode characteristics. <i>IEEE Transactions on Antennas and Propagation</i> <span style="font-weight: normal"><i>53</i></span>(2), 753–765.</span>
 
 
-<div id="IJ112_PRX_4_021025_2014-materials">
+<div id="IJ29_IEEE_TAP_53_753_2005-materials">
   <ul class="nav nav-pills">
     
-    <li><a data-toggle="collapse" href="#IJ112_PRX_4_021025_2014-abstract">Abstract</a></li>
+    <li><a data-toggle="collapse" href="#IJ29_IEEE_TAP_53_753_2005-abstract">Abstract</a></li>
     
 
-    <li><a data-toggle="collapse" href="#IJ112_PRX_4_021025_2014-bibtex">BibTeX</a></li>
+    <li><a data-toggle="collapse" href="#IJ29_IEEE_TAP_53_753_2005-bibtex">BibTeX</a></li>
 
             
     
-    <li><a href="http://dx.doi.org/10.1103/PhysRevX.4.021025">DOI</a></li>
+    <li><a href="http://dx.doi.org/10.1109/TAP.2004.841296">DOI</a></li>
     
 
     
@@ -584,7 +573,7 @@ such as aluminum nitride and silver conductive epoxies.</p>
     
       
     
-    <li><a href="/assets/papers/IJ112_PRX_4_021025_2014.pdf">PDF</a></li>
+    <li><a href="/assets/papers/IJ29_IEEE_TAP_53_753_2005.pdf">PDF</a></li>
     
 
     
@@ -592,22 +581,71 @@ such as aluminum nitride and silver conductive epoxies.</p>
   </ul>
 
   
-  <p id="IJ112_PRX_4_021025_2014-abstract" class="collapse">Spatial tailoring of the material constitutive properties is a well-known strategy to mold the local flow of given observables in different physical domains. Coordinate-transformation-based methods (e.g., transformation optics) offer a powerful and systematic approach to design anisotropic, spatially inhomogeneous artificial materials (metamaterials) capable of precisely manipulating wave-based (electromagnetic, acoustic, elastic) as well as diffusion-based (heat) phenomena in a desired fashion. However, as versatile as these approaches have been, most designs have thus far been limited to serving single-target functionalities in a given physical domain. Here, we present a step towards a “transformation multiphysics” framework that allows independent and simultaneous manipulation of multiple physical phenomena. As a proof of principle of this new scheme, we design and synthesize (in terms of realistic material constituents) a metamaterial shell that simultaneously behaves as a thermal concentrator and an electrical “invisibility cloak.” Our numerical results open up intriguing possibilities in the largely unexplored phase space of multifunctional metadevices, with a wide variety of potential applications to electrical, magnetic, acoustic, and thermal scenarios.</p>
+  <p id="IJ29_IEEE_TAP_53_753_2005-abstract" class="collapse">Ray chaos, manifested by the exponential divergence of trajectories in an originally thin ray bundle, can occur even in linear electromagnetic propagation environments, due to the inherent nonlinearity of ray-tracing maps. In this paper, we present a novel (two-dimensional) test example of such an environment which embodies intimately coupled refractive wave-trapping and periodicity-induced multiple scattering phenomenologies, and which is amenable to explicit full-wave analysis. Though strictly nonchaotic, it is demonstrated that under appropriate conditions which are inferred from a comprehensive parametric database generated via the above-noted rigorous reference solution, the high-frequency wave dynamics exhibits trends toward irregularity and other peculiar characteristics; these features can be interpreted as “ray-chaotic footprints”, and they are usually not observed in geometries characterized by “regular” ray behavior. In this connection, known analogies from other disciplines (particularly quantum physics) are briefly reviewed and related to the proposed test configuration. Moreover, theoretical implications and open issues are discussed, and potential applications are conjectured.</p>
   
 
-  <pre id="IJ112_PRX_4_021025_2014-bibtex" class="pre pre-scrollable collapse">@article{IJ112_PRX_4_021025_2014,
-  title = {Independent manipulation of heat and electrical current via bifunctional metamaterials},
-  author = {Moccia, Massimo and Castaldi, Giuseppe and Savo, Salvatore and Sato, Yuki and Galdi, Vincenzo},
-  journal = {Physical Review X},
-  volume = {4},
-  issue = {2},
-  pages = {021025},
-  numpages = {14},
-  year = {2014},
-  month = may,
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevX.4.021025},
-  url = {http://link.aps.org/doi/10.1103/PhysRevX.4.021025}
+  <pre id="IJ29_IEEE_TAP_53_753_2005-bibtex" class="pre pre-scrollable collapse">@article{IJ29_IEEE_TAP_53_753_2005,
+  author = {Castaldi, G. and Fiumara, V. and Galdi, V. and Pierro, V. and Pinto, I. M. and Felsen, L. B.},
+  journal = {IEEE Transactions on Antennas and Propagation},
+  title = {Ray-chaotic footprints in deterministic wave dynamics: a test model with coupled Floquet-type and ducted-type mode characteristics},
+  year = {2005},
+  volume = {53},
+  number = {2},
+  pages = {753--765},
+  keywords = {chaos;electromagnetic wave propagation;electromagnetic wave scattering;nonlinear dynamical systems;ray tracing;coupled Floquet-type characteristics;coupled refractive wave-trapping;deterministic wave dynamics;ducted-type mode characteristics;exponential trajectory divergence;full-wave analysis;linear electromagnetic propagation;multiple scattering phenomenology;parametric database generation;periodicity;ray tracing map;ray-chaotic footprint;Chaos;Character generation;Electromagnetic propagation;Electromagnetic refraction;Electromagnetic scattering;Particle scattering;Ray tracing;Spatial databases;Testing;Trajectory;Ducted-type modes;Floquet theory;ray chaos},
+  doi = {10.1109/TAP.2004.841296},
+  issn = {0018-926X},
+  month = feb
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ57_IEEE_TAP_56_2638_2008">Castaldi, G., Galdi, V., &amp; Pinto, I. M. (2008). A study of ray-chaotic cylindrical scatterers. <i>IEEE Transactions on Antennas and Propagation</i> <span style="font-weight: normal"><i>56</i></span>(8), 2638–2648.</span>
+
+
+<div id="IJ57_IEEE_TAP_56_2638_2008-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ57_IEEE_TAP_56_2638_2008-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ57_IEEE_TAP_56_2638_2008-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1109/TAP.2008.927568">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ57_IEEE_TAP_56_2638_2008.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ57_IEEE_TAP_56_2638_2008-abstract" class="collapse">Ray chaos, manifested by the exponential divergence of trajectories originating from an originally thin ray bundle, can occur even in linear electromagnetic propagation environments, due to the inherent nonlinearity of ray-tracing (eikonal) maps. In this paper, extending our previous study of a two-dimensional planar ray-chaotic prototype scenario, we consider a cylindrical scatterer made of a perfectly electric-conducting azimuthally corrugated boundary coated by a radially inhomogeneous (ray-trapping) dielectric layer. For this configuration, we carry out a comprehensive parametric study of the ray-dynamical and full-wave scattering (monostatic and bistatic radar-cross-section) signatures, with emphasis on possible implications for high-frequency wave asymptotics (“ray-chaotic footprints”).</p>
+  
+
+  <pre id="IJ57_IEEE_TAP_56_2638_2008-bibtex" class="pre pre-scrollable collapse">@article{IJ57_IEEE_TAP_56_2638_2008,
+  author = {Castaldi, G. and Galdi, V. and Pinto, I. M.},
+  journal = {IEEE Transactions on Antennas and Propagation},
+  title = {A study of ray-chaotic cylindrical scatterers},
+  year = {2008},
+  volume = {56},
+  number = {8},
+  pages = {2638--2648},
+  keywords = {electromagnetic wave propagation;electromagnetic wave scattering;ray tracing;dielectric layer;electric-conducting azimuthally corrugated boundary;full-wave scattering;high-frequency wave asymptotics;linear electromagnetic propagation environments;ray-chaotic cylindrical scatterers;ray-tracing maps;two-dimensional planar ray-chaotic prototype scenario;Chaos;Dielectrics;Electromagnetic propagation;Electromagnetic scattering;Hafnium;Particle scattering;Radar cross section;Radar scattering;Ray tracing;Trajectory;High-frequency;radar cross-section;ray chaos},
+  doi = {10.1109/TAP.2008.927568},
+  issn = {0018-926X},
+  month = aug
 }
 </pre>
 
@@ -645,9 +683,11 @@ such as aluminum nitride and silver conductive epoxies.</p>
 
   
      
-    	<li><a href="/tags.html#metamaterials-ref">metamaterials <span>7</span></a></li>
+    	<li><a href="/tags.html#ray chaos-ref">ray chaos <span>2</span></a></li>
      
-    	<li><a href="/tags.html#analog computing-ref">analog computing <span>2</span></a></li>
+    	<li><a href="/tags.html#high-frequency-ref">high-frequency <span>2</span></a></li>
+     
+    	<li><a href="/tags.html#scattering-ref">scattering <span>1</span></a></li>
     
   
 

@@ -1,0 +1,1078 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Photonic quasicrystals: in-plane properties</title>
+    
+    <meta name="author" content="Vincenzo Galdi">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <!-- Bootstrap styles -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+    <!-- Optional theme -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet"/>
+    <!-- Sticky Footer -->
+    <link href="/assets/themes/lab/bootstrap/css/bs-sticky-footer.css" rel="stylesheet"/>
+    
+    <!-- Custom styles -->
+    <link href="/assets/themes/lab/css/style.css?body=1" rel="stylesheet" type="text/css" media="all"/>
+
+    <!-- icon -->
+    <link rel="shortcut icon" href="/assets/themes/lab/images/logo/favicon.ico"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/themes/lab/images/logo/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/themes/lab/images/logo/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/themes/lab/images/logo/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/themes/lab/images/logo/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/themes/lab/images/logo/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/themes/lab/images/logo/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/themes/lab/images/logo/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/themes/lab/images/logo/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/themes/lab/images/logo/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/assets/themes/lab/images/logo/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/themes/lab/images/logo/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/themes/lab/images/logo/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/themes/lab/images/logo/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+      
+      
+      
+      
+      
+    <!-- Custom fonts and icons via Font Awesome, http://fortawesome.github.io/Font-Awesome/ -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"/>
+
+      
+    <link rel="stylesheet" href="/assets/themes/lab/bootstrap/css/academicons.css"/>
+      
+    <!-- Fonts via Google -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700' rel='stylesheet' type='text/css'/>
+
+    <!-- Math via MathJax -->
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <!-- Update these with your own images
+      <link rel="shortcut icon" href="images/favicon.ico">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+    -->
+
+    <!-- atom & rss feed
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+    -->
+
+  </head>
+
+  <body>
+
+  <!-- Static top navbar -->
+
+  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class='container'>
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a href="/">
+        <img class="pull-left logo" src="/assets/themes/lab/images/logo/lab-logo.svg" type="image/svg+xml">
+        </a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-navbar-collapse">
+        <ul class="nav navbar-nav navbar-left hidden-sm">
+          <!-- Don't put site title on home page -- there's already a big title there. -->
+          
+          
+          
+          <a class="navbar-brand" href="/">Fields & Waves Lab</a>
+          
+        </ul>
+        <ul 
+            class="nav navbar-nav navbar-right pull-right">
+          
+          
+          
+
+
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+      	
+      	<li><a href="/projects/">Research</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/team/">Team</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+
+        
+            <li class="dropdown nav navbar-nav">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+              Papers <span class="caret"></span>
+            </a>
+
+            <ul class="dropdown-menu nav navbar-nav" role="menu">
+              
+              
+              
+
+
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/journals/">Journals</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/books/">Books</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/conferences/">Conferences</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/preprints/">Preprints</a></li>
+      	
+      
+    
+  
+
+
+
+                </ul>     
+            </li>
+          
+          
+          
+
+
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/news/">News</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/media/">Media</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+                 
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </nav>
+   </div>
+
+   <!-- Content -->
+   <div class="container">
+      
+<div class="page-header">
+  <div class="head">
+      Photonic quasicrystals: in-plane properties
+</div>
+<div class="spacer"></div>
+<div class="row post-full">
+  <div class="col-xs-12">
+
+<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+<script>
+	!function(d,s,id){
+		var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+		if(!d.getElementById(id)){
+			js=d.createElement(s);
+			js.id=id;
+			js.src=p+'://platform.twitter.com/widgets.js';
+			fjs.parentNode.insertBefore(js,fjs);
+		}
+	}(document, 'script', 'twitter-wjs');
+</script>
+
+<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+<script type="IN/Share" ></script>
+
+<g:plus action="share" annotation="none"></g:plus>
+<script type="text/javascript">
+	(function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	})();
+</script>
+
+<div class="spacer"></div>
+
+
+    <img class="img-responsive  media-object pull-right" src="/assets/images/projects/PQC_inplane1.png"/>
+      
+<div class="spacer"></div>
+      
+    <div class="content">
+      
+<p>Photonic crystals are artificial materials capable of exhibiting photonic bandgaps, 
+which have drawn a considerable interest from the electromagnetic community, 
+in view of the peculiar filtering and radiating effects attainable through their utilization. 
+Classic designs are based on <em>periodic</em> (possibly defected) metallic or dielectric inclusions 
+in a suitable host medium, and their rotational symmetries are accordingly bounded by the so-called 
+“crystallographic restriction”. The discovery in solid-state physics of “quasicrystals”, 
+i.e., certain metallic alloys exhibiting X-ray diffraction spectra with “non-crystallographic” 
+[e.g., 5-fold or (n&gt;6)-fold] symmetries that are known to be incompatible with spatial periodicity, 
+has opened up intriguing perspectives toward aperiodic photonic quasicrystals.</p>
+
+<p>In a series of studies in collaboration with <a href="http://www.fresnel.fr/perso/enoch/">Stefan Enoch</a>, <a href="http://tayeb.fr">Gérard Tayeb</a> (Fresnel Institute) and <a href="http://capolino.eng.uci.edu">Filippo Capolino</a> 
+(University of California at Irvine), we have investigated several properties of the <em>in-plane</em> response of these structures.
+More specifically, in [<a href="#IJ31_PRL_94_183903_2005"><span style="vertical-align: baseline">1</span></a>, <a href="#IJ38_IEEE_AWPL_5_331_2006"><span style="vertical-align: baseline">2</span></a>], we studied 
+the bandgap formation in representative categories of photonic quasicrystals. 
+We showed that, among the bandgaps, some exhibit a behavior similar to that typical of (periodic) photonic crystals, 
+while others do not. The development of certain band gaps requires large-size quasicrystals. 
+This is explained by the long-range interactions involved in their formation. 
+Moreover, the frequencies where the bandgaps occur are not necessarily explained using single 
+scattering and should therefore involve multiple scattering.</p>
+
+<p>In [<a href="#IJ36_OpEx_14_10021_2006"><span style="vertical-align: baseline">3</span></a>], we investigated 
+the properties of the resonant modes that occur in the transparency bands of two-dimensional 
+finite-size Penrose-type photonic quasicrystals made of dielectric cylindrical rods. 
+These modes stem from the natural local arrangements of the quasicrystal structure rather than, 
+as originally thought, from fabrication-related imperfections. 
+We showed that these modes mainly originate from the 
+interactions between a limited numbers of rods.</p>
+
+<p>In [<a href="#IJ64_PRB_79_075110_2009"><span style="vertical-align: baseline">4</span></a>], we studied 
+the radiation from embedded sources in two-dimensional finite-size photonic-quasicrystal 
+slabs made of dielectric rods arranged according to a 12-fold symmetric aperiodic tiling. 
+Our results indicated the possibility of achieving broadside radiation at multiple frequencies, 
+with high directivity (e.g., 15 dB) and low sidelobes (e.g., -12 dB). 
+We also showed that leaky waves are supported by such slabs and that the beamwidth 
+is directly proportional to the leaky wave attenuation constant.</p>
+
+<p>In [<a href="#IJ59_APL_93_164102_2008"><span style="vertical-align: baseline">5</span></a>, <a href="#IJ80_NJP_11_113022_2009"><span style="vertical-align: baseline">6</span></a>], in collaboration with 
+<a href="https://www.docenti.unina.it/andreone">Antonello Andreone</a>’s Group (“Federico II” University of Naples), we 
+studied the confinement properties of point-defect resonators 
+in finite-size photonic-quasiscrystal structures composed of aperiodic arrangements 
+of dielectric rods, with special emphasis on their use for the design of cavities for particle accelerators. 
+We also highlighted the possible advantages of using hybrid structures based on the above dielectric configurations, 
+but featuring metallic rods in the outermost regions, for the design of extremely high quality factor, 
+bandgap-based, accelerating resonators. 
+Moreover, we also explore possible improvements attainable via the use of superconducting plates to 
+confine the electromagnetic field in the longitudinal direction.</p>
+
+<p>In [<a href="#IJ52_PNFA_6_1_2008"><span style="vertical-align: baseline">7</span></a>, <a href="#IJ54_PRB_77_193104_2008"><span style="vertical-align: baseline">8</span></a>], 
+we studied the refraction and focusing properties of dodecagonal photonic quasicrystals, 
+via both full-wave numerical simulations and microwave measurements on a slab made of alumina rods 
+inserted in a parallel-plate waveguide. 
+The 12-fold-symmetric tiling geometry was generated via the Stamplfi inflation rules shown 
+in the figure top panel. The center panel shows the experimental setup for the microwave (X-band) measurements.
+The bottom panel shows the simulated and measured ﬁeld intensity maps at 8.836 GHz, 
+illustrating the focusing of a source placed symmetrically at a distance of 6 cm from the slab surface.
+A very good agreement between simulations and experiments can be observed.
+Our interpretation, substantially differs from the one in terms of “effective negative refractive index” 
+that was originally proposed by other Groups. 
+Instead, our study highlights the critical role played by short-range interactions associated with local order and symmetry.</p>
+
+<h2 id="relevant-papers">Relevant papers</h2>
+<ol class="bibliography"><li><span id="IJ31_PRL_94_183903_2005">Della Villa, A., Enoch, S., Tayeb, G., Pierro, V., Galdi, V., &amp; Capolino, F. (2005). Band gap formation and multiple scattering in photonic quasicrystals with a Penrose-type lattice. <i>Physical Review Letters</i> <span style="font-weight: normal"><i>94</i></span>(18), 183903.</span>
+
+
+<div id="IJ31_PRL_94_183903_2005-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ31_PRL_94_183903_2005-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ31_PRL_94_183903_2005-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1103/PhysRevLett.94.183903">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ31_PRL_94_183903_2005.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ31_PRL_94_183903_2005-abstract" class="collapse">This Letter presents a study of the local density of states (LDOS) in photonic quasicrystals. We show that the LDOS of a Penrose-type quasicrystal exhibits small additional band gaps. Among the band gaps, some exhibit a behavior similar to that typical of photonic crystals, while others do not. The development of certain band gaps requires large-size quasicrystals. It is explained by the long-range interactions involved in their formation. Moreover, the frequencies where the band gaps occur are not necessarily explained using single scattering and should therefore involve multiple scattering.</p>
+  
+
+  <pre id="IJ31_PRL_94_183903_2005-bibtex" class="pre pre-scrollable collapse">@article{IJ31_PRL_94_183903_2005,
+  title = {Band gap formation and multiple scattering in photonic quasicrystals with a Penrose-type lattice},
+  author = {Della Villa, A. and Enoch, S. and Tayeb, G. and Pierro, V. and Galdi, V. and Capolino, F.},
+  journal = {Physical Review Letters},
+  volume = {94},
+  issue = {18},
+  pages = {183903},
+  numpages = {4},
+  year = {2005},
+  month = may,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.94.183903},
+  url = {http://link.aps.org/doi/10.1103/PhysRevLett.94.183903}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ38_IEEE_AWPL_5_331_2006">Della Villa, A., Galdi, V., Capolino, F., Pierro, V., Enoch, S., &amp; Tayeb, G. (2006). A comparative study of representative categories of EBG dielectric quasi-crystals. <i>IEEE Antennas and Wireless Propagation Letters</i> <span style="font-weight: normal"><i>5</i></span>(1), 331–334.</span>
+
+
+<div id="IJ38_IEEE_AWPL_5_331_2006-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ38_IEEE_AWPL_5_331_2006-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ38_IEEE_AWPL_5_331_2006-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1109/LAWP.2006.878904">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ38_IEEE_AWPL_5_331_2006.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ38_IEEE_AWPL_5_331_2006-abstract" class="collapse">This letter is concerned with a comparative study of the electromagnetic properties of two-dimensional, finite-size, aperiodically ordered “quasi-crystal” dielectric structures based on representative categories of “aperiodic-tiling” geometries. In this framework, a rigorous full-wave solver is used to explore the electromagnetic bandgap and directive radiation properties of potential interest in antenna applications</p>
+  
+
+  <pre id="IJ38_IEEE_AWPL_5_331_2006-bibtex" class="pre pre-scrollable collapse">@article{IJ38_IEEE_AWPL_5_331_2006,
+  author = {Della Villa, A. and Galdi, V. and Capolino, F. and Pierro, V. and Enoch, S. and Tayeb, G.},
+  journal = {IEEE Antennas and Wireless Propagation Letters},
+  title = {A comparative study of representative categories of EBG dielectric quasi-crystals},
+  year = {2006},
+  volume = {5},
+  number = {1},
+  pages = {331-334},
+  keywords = {antenna radiation patterns;dielectric materials;directive antennas;microwave materials;photonic band gap;quasicrystals;EBG dielectric quasi-crystals;antenna applications;aperiodic-tiling geometries;aperiodically ordered quasi-crystal;directive radiation properties;electromagnetic bandgap;electromagnetic properties;full-wave solver;quasi-crystal dielectric structures;representative categories;two-dimensional finite-size quasi-crystal;Dielectrics;Directive antennas;Electromagnetic radiation;Filtering;Geometry;Metamaterials;Microwave antennas;Microwave filters;Periodic structures;Aperiodic tilings;electromagnetic bandgap;quasi-crystals},
+  doi = {10.1109/LAWP.2006.878904},
+  issn = {1536--1225},
+  month = {}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ36_OpEx_14_10021_2006">Della Villa, A., Enoch, S., Tayeb, G., Capolino, F., Pierro, V., &amp; Galdi, V. (2006). Localized modes in photonic quasicrystals with Penrose-type lattice. <i>Optics Express</i> <span style="font-weight: normal"><i>14</i></span>(21), 10021–10027.</span>
+
+
+<div id="IJ36_OpEx_14_10021_2006-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ36_OpEx_14_10021_2006-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ36_OpEx_14_10021_2006-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1364/OE.14.010021">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ36_OpEx_14_10021_2006.pdf">PDF</a></li>
+    
+
+    
+    <li><a href="https://www.osapublishing.org/oe/abstract.cfm?uri=oe-14-21-10021#articleSupplMat">Supplements</a></li>
+    
+  
+  </ul>
+
+  
+  <p id="IJ36_OpEx_14_10021_2006-abstract" class="collapse">We investigate the properties of the resonant modes that occur in the transparency bands of two-dimensional finite-size Penrose-type photonic quasicrystals made of dielectric cylindrical rods. These modes stem from the natural local arrangements of the quasicrystal structure rather than, as originally thought, from fabrication-related imperfections. Examples of local density of states and field maps are shown for different wavelengths. Calculations of local density of states show that these modes mainly originate from the interactions between a limited numbers of rods.</p>
+  
+
+  <pre id="IJ36_OpEx_14_10021_2006-bibtex" class="pre pre-scrollable collapse">@article{IJ36_OpEx_14_10021_2006,
+  author = {Della Villa, A. and Enoch, S. and Tayeb, G. and Capolino, F. and Pierro, V. and Galdi, V.},
+  journal = {Optics Express},
+  keywords = {Electromagnetic optics},
+  number = {21},
+  pages = {10021--10027},
+  publisher = {OSA},
+  title = {Localized modes in photonic quasicrystals with Penrose-type lattice},
+  volume = {14},
+  month = oct,
+  year = {2006},
+  url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-14-21-10021},
+  doi = {10.1364/OE.14.010021},
+  note = {https://www.osapublishing.org/oe/abstract.cfm?uri=oe-14-21-10021#articleSupplMat}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ64_PRB_79_075110_2009">Micco, A., Galdi, V., Capolino, F., Della Villa, A., Pierro, V., Enoch, S., &amp; Tayeb, G. (2009). Directive emission from defect-free dodecagonal photonic quasicrystals: A leaky wave characterization. <i>Physical Review B</i> <span style="font-weight: normal"><i>79</i></span>(7), 075110.</span>
+
+
+<div id="IJ64_PRB_79_075110_2009-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ64_PRB_79_075110_2009-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ64_PRB_79_075110_2009-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1103/PhysRevB.79.075110">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ64_PRB_79_075110_2009.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ64_PRB_79_075110_2009-abstract" class="collapse">In this paper, we study the radiation from embedded sources in two-dimensional finite-size “photonic-quasicrystal” (PQC) slabs made of dielectric rods arranged according to a 12-fold symmetric aperiodic tiling. The results from our investigation, based on rigorous full-wave simulations, show the possibility of achieving broadside radiation at multiple frequencies, with high directivity (e.g., 15 dB) and low sidelobes (e.g., -12 dB). We also show that leaky waves are supported by a PQC slab and that the beamwidth is directly proportional to the leaky wave attenuation constant, which provides a physically incisive interpretation of the observed radiation characteristics.</p>
+  
+
+  <pre id="IJ64_PRB_79_075110_2009-bibtex" class="pre pre-scrollable collapse">@article{IJ64_PRB_79_075110_2009,
+  title = {Directive emission from defect-free dodecagonal photonic quasicrystals: A leaky wave characterization},
+  author = {Micco, Alessandro and Galdi, Vincenzo and Capolino, Filippo and Della Villa, Alessandro and Pierro, Vincenzo and Enoch, Stefan and Tayeb, G\'erard},
+  journal = {Physical Review B},
+  volume = {79},
+  issue = {7},
+  pages = {075110},
+  numpages = {6},
+  year = {2009},
+  month = feb,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.79.075110},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.79.075110}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ59_APL_93_164102_2008">Di Gennaro, E., Savo, S., Andreone, A., Galdi, V., Castaldi, G., Pierro, V., &amp; Masullo, M. R. (2008). Mode confinement in photonic quasicrystal point-defect cavities for particle accelerators. <i>Applied Physics Letters</i> <span style="font-weight: normal"><i>93</i></span>(16), 164102.</span>
+
+
+<div id="IJ59_APL_93_164102_2008-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ59_APL_93_164102_2008-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ59_APL_93_164102_2008-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1063/1.2999581">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ59_APL_93_164102_2008.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ59_APL_93_164102_2008-abstract" class="collapse">In this letter, we present a study of the confinement properties of point-defect resonators in finite-size photonic-bandgap structures composed of aperiodic arrangements of dielectric rods, with special emphasis on their use for the design of cavities for particle accelerators. Specifically, for representative geometries, we study the properties of the fundamental mode (as a function of the filling fraction, structure size, and losses) via two-dimensional and three-dimensional full-wave numerical simulations, as well as microwave measurements at room temperature. Results indicate that for reduced-size structures, aperiodic geometries exhibit superior confinement properties by comparison with periodic ones.</p>
+  
+
+  <pre id="IJ59_APL_93_164102_2008-bibtex" class="pre pre-scrollable collapse">@article{IJ59_APL_93_164102_2008,
+  author = {Di Gennaro, E. and Savo, S. and Andreone, A. and Galdi, V. and Castaldi, G. and Pierro, V. and Masullo, M. Rosaria},
+  title = {Mode confinement in photonic quasicrystal point-defect cavities for particle accelerators},
+  journal = {Applied Physics Letters},
+  volume = {93},
+  number = {16},
+  pages = {164102},
+  year = {2008},
+  doi = {10.1063/1.2999581},
+  url = {http://dx.doi.org/10.1063/1.2999581},
+  month = oct
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ80_NJP_11_113022_2009">Di Gennaro, E., Zannini, C., Savo, S., Andreone, A., Masullo, M. R., Castaldi, G., … Galdi, V. (2009). Hybrid photonic-bandgap accelerating cavities. <i>New Journal of Physics</i> <span style="font-weight: normal"><i>11</i></span>(11), 113022.</span>
+
+
+<div id="IJ80_NJP_11_113022_2009-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ80_NJP_11_113022_2009-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ80_NJP_11_113022_2009-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1088/1367-2630/11/11/113022">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ80_NJP_11_113022_2009.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ80_NJP_11_113022_2009-abstract" class="collapse">In a recent investigation, we studied two-dimensional (2D) point-defected photonic bandgap cavities composed of dielectric rods arranged according to various representative periodic and aperiodic lattices, with special emphasis on possible applications to particle acceleration (along the longitudinal axis). In this paper, we present a new study aimed at highlighting the possible advantages of using hybrid structures based on the above dielectric configurations, but featuring metallic rods in the outermost regions, for the design of extremely high quality factor, bandgap-based, accelerating resonators. In this framework, we consider diverse configurations, with different (periodic and aperiodic) lattice geometries, sizes and dielectric/metal fractions. Moreover, we also explore possible improvements attainable via the use of superconducting plates to confine the electromagnetic field in the longitudinal direction. Results from our comparative studies, based on numerical full-wave simulations backed by experimental validations (at room and cryogenic temperatures) in the microwave region, identify the candidate parametric configurations capable of yielding the highest quality factor.</p>
+  
+
+  <pre id="IJ80_NJP_11_113022_2009-bibtex" class="pre pre-scrollable collapse">@article{IJ80_NJP_11_113022_2009,
+  author = {Di Gennaro, E and Zannini, C and Savo, S and Andreone, A and Masullo, M R and Castaldi, G and Gallina, I and Galdi, V},
+  title = {Hybrid photonic-bandgap accelerating cavities},
+  journal = {New Journal of Physics},
+  volume = {11},
+  number = {11},
+  pages = {113022},
+  url = {http://stacks.iop.org/1367-2630/11/i=11/a=113022},
+  year = {2009},
+  month = nov,
+  doi = {10.1088/1367-2630/11/11/113022}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ52_PNFA_6_1_2008">Di Gennaro, E., Morello, D., Miletto, C., Savo, S., Andreone, A., Castaldi, G., … Pierro, V. (2008). A parametric study of the lensing properties of dodecagonal photonic quasicrystals . <i>Photonics and Nanostructures - Fundamentals and Applications </i><span style="font-weight: normal"><i>6</i></span>(1), 60–68.</span>
+
+
+<div id="IJ52_PNFA_6_1_2008-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ52_PNFA_6_1_2008-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ52_PNFA_6_1_2008-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1016/j.photonics.2007.12.001">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ52_PNFA_6_1_2008.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ52_PNFA_6_1_2008-abstract" class="collapse">We present a study of the lensing properties of two-dimensional (2-D) photonic quasicrystal (PQC) slabs made of dielectric cylinders arranged according to a 12-fold-symmetric square-triangle aperiodic tiling. Our full-wave numerical analysis confirms the results recently emerged in the technical literature and, in particular, the possibility of achieving focusing effects within several frequency regions. However, contrary to the original interpretation, such focusing effects turn out to be critically associated to local symmetry points in the PQC slab, and strongly dependent on its thickness and termination. Nevertheless, our study reveals the presence of some peculiar properties, like the ability to focus the light even for slabs with a reduced lateral width, or beaming effects, which render PQC slabs potentially interesting and worth of deeper investigation. </p>
+  
+
+  <pre id="IJ52_PNFA_6_1_2008-bibtex" class="pre pre-scrollable collapse">@article{IJ52_PNFA_6_1_2008,
+  title = {A parametric study of the lensing properties of dodecagonal photonic quasicrystals },
+  journal = {Photonics and Nanostructures - Fundamentals and Applications },
+  volume = {6},
+  number = {1},
+  pages = {60--68},
+  year = {2008},
+  month = apr,
+  issn = {1569-4410},
+  doi = {10.1016/j.photonics.2007.12.001},
+  url = {//www.sciencedirect.com/science/article/pii/S1569441007000697},
+  author = {Di Gennaro, E. and Morello, D. and Miletto, C. and Savo, S. and Andreone, A. and Castaldi, G. and Galdi, V. and Pierro, V.},
+  keywords = {Superlensing }
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ54_PRB_77_193104_2008">Di Gennaro, E., Miletto, C., Savo, S., Andreone, A., Morello, D., Galdi, V., … Pierro, V. (2008). Evidence of local effects in anomalous refraction and focusing properties of dodecagonal photonic quasicrystals. <i>Physical Review B</i> <span style="font-weight: normal"><i>77</i></span>(19), 193104.</span>
+
+
+<div id="IJ54_PRB_77_193104_2008-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ54_PRB_77_193104_2008-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ54_PRB_77_193104_2008-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1103/PhysRevB.77.193104">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ54_PRB_77_193104_2008.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ54_PRB_77_193104_2008-abstract" class="collapse">We present the key results from a comprehensive study of the refraction and focusing properties of a two-dimensional dodecagonal photonic “quasicrystal” (PQC), which was carried out via both full-wave numerical simulations and microwave measurements on a slab made of alumina rods inserted in a parallel-plate waveguide. We observe an anomalous refraction and focusing in several frequency regions, which confirm some recently published results. However, our interpretation, which is based on numerical and experimental evidence, substantially differs from the one in terms of “effective negative refractive index” that was originally proposed. Instead, our study highlights the critical role played by short-range interactions associated with local order and symmetry.</p>
+  
+
+  <pre id="IJ54_PRB_77_193104_2008-bibtex" class="pre pre-scrollable collapse">@article{IJ54_PRB_77_193104_2008,
+  title = {Evidence of local effects in anomalous refraction and focusing properties of dodecagonal photonic quasicrystals},
+  author = {Di Gennaro, Emiliano and Miletto, Carlo and Savo, Salvatore and Andreone, Antonello and Morello, Davide and Galdi, Vincenzo and Castaldi, Giuseppe and Pierro, Vincenzo},
+  journal = {Physical Review B},
+  volume = {77},
+  issue = {19},
+  pages = {193104},
+  numpages = {4},
+  year = {2008},
+  month = may,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.77.193104},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.77.193104}
+}
+</pre>
+
+  
+    
+</div></li></ol>
+
+    </div>
+<div class="spacer"></div>
+  
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-open"></i></li>
+      
+      
+
+
+  
+     
+    	<li><a href="/categories.html#projects-ref">
+    		projects <span>14</span>
+    	</a></li>
+    
+  
+
+
+    </ul>
+    
+
+  
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-tags"></i></li>
+      
+      
+
+
+  
+     
+    	<li><a href="/tags.html#aperiodic-ref">aperiodic <span>3</span></a></li>
+     
+    	<li><a href="/tags.html#photonic quasicrystals-ref">photonic quasicrystals <span>2</span></a></li>
+     
+    	<li><a href="/tags.html#bandgap-ref">bandgap <span>1</span></a></li>
+     
+    	<li><a href="/tags.html#resonances-ref">resonances <span>1</span></a></li>
+     
+    	<li><a href="/tags.html#cavity-ref">cavity <span>1</span></a></li>
+     
+    	<li><a href="/tags.html#leaky waves-ref">leaky waves <span>2</span></a></li>
+    
+  
+
+
+
+    </ul>
+    
+  
+    
+  </div>
+</div>
+
+
+   </div>
+
+
+  <!-- Static bottom navbar -->
+  <nav class="navbar navbar-default navbar-fixed-bottom">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-bottom-collapse"> <!-- NOTE! data-target was changed to jb-bottom-collapse -->
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-bottom-collapse">
+        <ul class="nav navbar-nav navbar-left navbar-small">
+          <li><a href=http://www.ding.unisannio.it>Department of Engineering</a></li>
+          <li><a href=http://www.unisannio.it/en>University of Sannio</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right navbar-small">
+          <li><a href='/about.html'>About</a></li>
+          <li><a href='/join.html'>Join</a></li>
+          <li><a href='/contact.html'>Contact</a></li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div>
+  </nav>
+ 
+
+
+    
+
+
+
+
+    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="/assets/themes/lab/bootstrap/js/bootstrap.min.js"></script>
+  </body>
+</html>
+

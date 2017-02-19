@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Multiphysics metamaterials</title>
+    <title>Laser beam shaping</title>
     
     <meta name="author" content="Vincenzo Galdi">
 
@@ -472,7 +472,7 @@
       
 <div class="page-header">
   <div class="head">
-      Multiphysics metamaterials
+      Laser beam shaping
 </div>
 <div class="spacer"></div>
 <div class="row post-full">
@@ -506,77 +506,62 @@
 <div class="spacer"></div>
 
 
-    <img class="img-responsive  media-object pull-right" src="/assets/images/projects/multiphysics_MTM1.png"/>
+    <img class="img-responsive  media-object pull-right" src="/assets/images/projects/GW_beam-shaping1.png"/>
       
 <div class="spacer"></div>
       
     <div class="content">
       
-<p>During the past few years, the <a href="/projects/TO-MTM">transformation-optics</a> approach has been also successfully applied 
-to the manipulation of a variety of other different physical quantities like acoustic and elastic waves, 
-static magnetic and electric fields, and heat flux, in view of the mounting interest towards metamaterials 
-beyond electromagnetics.</p>
+<p>In addition to the geometric optimization of the <a href="/projects/GW-coating">coating design</a>,
+suitable shaping of the laser beam has also been proposed as an effective device to reduce internal (mirror) thermal noise 
+in advanced gravitational-wave interferometric detectors. 
+With specific reference to <a href="https://www.advancedligo.mit.edu">Advanced LIGO</a>, the use of <em>flat-top</em> (commonly referred to as “mesa”) beams 
+has been explored, intuitively motivated by the potential capability of such a beam to better average 
+the thermally induced mirror surface fluctuations as compared to a 
+standard Gaussian beam. This has been numerically proved to yield significant reductions in the overall 
+thermal noise and has
+led to the development of a cavity prototype with non-spherical “Mexican hat” profile mirrors.</p>
 
-<p>Although it seems suggestive to coherently exploit these various approaches to design 
-multifunctional devices capable of performing multiple functions in different physical domains, 
-most studies available in the literature deal with the design of a single functionality in a given physical domain.</p>
+<p>In [<a href="#IJ35_PRD_73_127101_2006"><span style="vertical-align: baseline">1</span></a>], we investigated the analytic structure of a family of <em>hyperboloidal</em> 
+beams which generalizes the nearly-flat and nearly-concentric mesa beam configurations. 
+Capitalizing on certain results from the applied optics literature on flat-top beams, 
+we derived a physically-insightful and computationally-effective representation in terms of rapidly-converging 
+Gauss-Laguerre expansions. 
+We also worked out a generalization (involving fractional Fourier transform operators of complex order) 
+of some duality relations between the nearly-flat and nearly-concentric mesa 
+configurations.</p>
 
-<p>In collaboration with Dr. <a href="http://www2.rowland.harvard.edu/people/yuki-sato">Yuki Sato</a>’s Group (Harvard University), 
-our Group has recently introduced an approach to the design of metamaterial shells 
-capable of governing different physicals phenomena in an independent fashion [<a href="#IJ112_PRX_4_021025_2014"><span style="vertical-align: baseline">1</span></a>].</p>
-
-<p>From the mathematical viewpoint, our relies on the well-known coordinate-transformation framework. 
-Viewing the rerouting of energy flow as a distortion of space from a coordinate transformation, t
-his technique provides a powerful and systematic recipe for designing and fabricating artificial 
-structures that can mold the flow of a given physical quantity in a desired fashion.</p>
-
-<p>Conventionally, this theory is applied to a single physical domain. 
-In our approach, we instead exploit separate but intertwined coordinate transformations to 
-simultaneously manipulate multiple physical phenomena in independent fashions. 
-Thus, for instance, a material may be designed to exhibit a particular thermal functionality while 
-its electrical functionality is made drastically different.</p>
-
-<p>As a proof-of-concept example, we have synthesized and designed
- a metamaterial shell that behaves simultaneously as a thermal concentrator and an electrical invisibility 
- cloak. In such a shell, the thermal and electrical currents follow markedly different paths, 
- with the former concentrating in the inner region and the latter circumventing that region, as schematized
- in the figure top panel. The bottom panel shows instead the thermal and electrical responses, which exhibit 
- the expected behaviors.</p>
-
-<p>Although the results of this study are based on theory and numerical simulations, 
-they do indicate that practical realization of these metamaterials should be within 
-reach of current fabrication technologies. Our numerical simulations indeed show that they 
-can be fabricated by means of small sub-blocks made of realistic materials, 
-such as aluminum nitride and silver conductive epoxies.</p>
-
-<p>Such design may be considered as a first step towards a more general 
- framework that could be defined as “transformation-multiphysics”, which may be in principle extended and applied 
- to a variety of electrical, magnetic, acoustic, and thermal systems in various combinations, 
- and may be integrated in advanced materials, spanning multiple orders of magnitude in material scales.</p>
-
-<p>Besides serving as a proof-of-principle, the independent manipulation of electrical and thermal currents 
- is also very important from the application viewpoint.
- One particularly intriguing application is the engineering of thermoelectric materials, 
- which hold great promises for energy recycling, by converting waste heat 
- (e.g., generated by the CPU of a computer) into additional electrical power. 
- For these materials, the independent control of electrical and thermal conductivities is of paramount importance, 
- and it may affect the figure of merit in ways unexplored in the past.</p>
+<p>In [<a href="#IJ47_PRD_76_122003_2007"><span style="vertical-align: baseline">2</span></a>], 
+relying on some analytic approximations (valid in the infinite-test-mass limit) 
+for the Brownian and thermoelastic mirror noises in the presence of arbitrary-shaped beams, 
+we explored the optimal beam-shaping problem. 
+The figure top panel shows the assumed cavity geometry, while the bottom panel illustrates 
+the optimal profiles obtained, for the various noise sources. More specifically, \(q=-1,0,1\) refer to the substrate Brownian, the coating 
+(Brownian and thermoelastic), and the substrate thermoelastic noise, respectovely.
+With specific reference to <a href="https://www.advancedligo.mit.edu">Advanced LIGO</a>, 
+we obtained some absolute and realistic lower bounds for the various thermal-noise constituents,
+and compared them with the Gaussian- and mesa-beam scenarios.
+Our result indicate fairly ample margins for further reduction. 
+In this framework, we also identified the effective dimension of the related optimization problem, 
+and its relationship to the critical design parameters. Moreover, we considered the physical-feasibility 
+and model-consistency issues, and highlighted possible additional requirements and/or prior information exploitable 
+to drive the subsequent optimization process.</p>
 
 <h2 id="relevant-papers">Relevant papers</h2>
-<ol class="bibliography"><li><span id="IJ112_PRX_4_021025_2014">Moccia, M., Castaldi, G., Savo, S., Sato, Y., &amp; Galdi, V. (2014). Independent manipulation of heat and electrical current via bifunctional metamaterials. <i>Physical Review X</i> <span style="font-weight: normal"><i>4</i></span>(2), 021025.</span>
+<ol class="bibliography"><li><span id="IJ35_PRD_73_127101_2006">Galdi, V., Castaldi, G., Pierro, V., Pinto, I. M., Agresti, J., D’Ambrosio, E., &amp; DeSalvo, R. (2006). Analytic structure of a family of hyperboloidal beams of potential interest for advanced LIGO. <i>Physical Review D</i> <span style="font-weight: normal"><i>73</i></span>(12), 127101.</span>
 
 
-<div id="IJ112_PRX_4_021025_2014-materials">
+<div id="IJ35_PRD_73_127101_2006-materials">
   <ul class="nav nav-pills">
     
-    <li><a data-toggle="collapse" href="#IJ112_PRX_4_021025_2014-abstract">Abstract</a></li>
+    <li><a data-toggle="collapse" href="#IJ35_PRD_73_127101_2006-abstract">Abstract</a></li>
     
 
-    <li><a data-toggle="collapse" href="#IJ112_PRX_4_021025_2014-bibtex">BibTeX</a></li>
+    <li><a data-toggle="collapse" href="#IJ35_PRD_73_127101_2006-bibtex">BibTeX</a></li>
 
             
     
-    <li><a href="http://dx.doi.org/10.1103/PhysRevX.4.021025">DOI</a></li>
+    <li><a href="http://dx.doi.org/10.1103/PhysRevD.73.127101">DOI</a></li>
     
 
     
@@ -584,7 +569,7 @@ such as aluminum nitride and silver conductive epoxies.</p>
     
       
     
-    <li><a href="/assets/papers/IJ112_PRX_4_021025_2014.pdf">PDF</a></li>
+    <li><a href="/assets/papers/IJ35_PRD_73_127101_2006.pdf">PDF</a></li>
     
 
     
@@ -592,22 +577,73 @@ such as aluminum nitride and silver conductive epoxies.</p>
   </ul>
 
   
-  <p id="IJ112_PRX_4_021025_2014-abstract" class="collapse">Spatial tailoring of the material constitutive properties is a well-known strategy to mold the local flow of given observables in different physical domains. Coordinate-transformation-based methods (e.g., transformation optics) offer a powerful and systematic approach to design anisotropic, spatially inhomogeneous artificial materials (metamaterials) capable of precisely manipulating wave-based (electromagnetic, acoustic, elastic) as well as diffusion-based (heat) phenomena in a desired fashion. However, as versatile as these approaches have been, most designs have thus far been limited to serving single-target functionalities in a given physical domain. Here, we present a step towards a “transformation multiphysics” framework that allows independent and simultaneous manipulation of multiple physical phenomena. As a proof of principle of this new scheme, we design and synthesize (in terms of realistic material constituents) a metamaterial shell that simultaneously behaves as a thermal concentrator and an electrical “invisibility cloak.” Our numerical results open up intriguing possibilities in the largely unexplored phase space of multifunctional metadevices, with a wide variety of potential applications to electrical, magnetic, acoustic, and thermal scenarios.</p>
+  <p id="IJ35_PRD_73_127101_2006-abstract" class="collapse">This paper is concerned with a study of the analytic structure of a family of hyperboloidal beams introduced by Bondarescu and Thorne which generalizes the nearly-flat and nearly-concentric mesa beam configurations of interest for advanced LIGO. Capitalizing on certain results from the applied optics literature on flat-top beams, a physically-insightful and computationally-effective representation is derived in terms of rapidly-converging Gauss-Laguerre expansions. A generalization (involving fractional Fourier transform operators of complex order) of some recently discovered duality relations between the nearly-flat and nearly-concentric mesa configurations is obtained. Possible implications for the advanced-LIGO optical cavity design are discussed.</p>
   
 
-  <pre id="IJ112_PRX_4_021025_2014-bibtex" class="pre pre-scrollable collapse">@article{IJ112_PRX_4_021025_2014,
-  title = {Independent manipulation of heat and electrical current via bifunctional metamaterials},
-  author = {Moccia, Massimo and Castaldi, Giuseppe and Savo, Salvatore and Sato, Yuki and Galdi, Vincenzo},
-  journal = {Physical Review X},
-  volume = {4},
-  issue = {2},
-  pages = {021025},
-  numpages = {14},
-  year = {2014},
-  month = may,
+  <pre id="IJ35_PRD_73_127101_2006-bibtex" class="pre pre-scrollable collapse">@article{IJ35_PRD_73_127101_2006,
+  title = {Analytic structure of a family of hyperboloidal beams of potential interest for advanced LIGO},
+  author = {Galdi, Vincenzo and Castaldi, Giuseppe and Pierro, Vincenzo and Pinto, Innocenzo M. and Agresti, Juri and D'Ambrosio, Erika and DeSalvo, Riccardo},
+  journal = {Physical Review D},
+  volume = {73},
+  issue = {12},
+  pages = {127101},
+  numpages = {4},
+  year = {2006},
+  month = jun,
   publisher = {American Physical Society},
-  doi = {10.1103/PhysRevX.4.021025},
-  url = {http://link.aps.org/doi/10.1103/PhysRevX.4.021025}
+  doi = {10.1103/PhysRevD.73.127101},
+  url = {http://link.aps.org/doi/10.1103/PhysRevD.73.127101}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ47_PRD_76_122003_2007">Pierro, V., Galdi, V., Castaldi, G., Pinto, I. M., Agresti, J., &amp; DeSalvo, R. (2007). Perspectives on beam-shaping optimization for thermal-noise reduction in advanced gravitational-wave interferometric detectors: Bounds, profiles, and critical parameters. <i>Physical Review D</i> <span style="font-weight: normal"><i>76</i></span>(12), 122003.</span>
+
+
+<div id="IJ47_PRD_76_122003_2007-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ47_PRD_76_122003_2007-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ47_PRD_76_122003_2007-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1103/PhysRevD.76.122003">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ47_PRD_76_122003_2007.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ47_PRD_76_122003_2007-abstract" class="collapse">Suitable shaping (in particular, flattening and broadening) of the laser beam has recently been proposed as an effective device to reduce internal (mirror) thermal noise in advanced gravitational-wave interferometric detectors. Based on some recently published analytic approximations (valid in the infinite-test-mass limit) for the Brownian and thermoelastic mirror noises in the presence of arbitrary-shaped beams, this paper addresses certain preliminary issues related to the optimal beam-shaping problem. In particular, with specific reference to the Laser Interferometer Gravitational-wave Observatory (LIGO) experiment, absolute and realistic lower bounds for the various thermal-noise constituents are obtained and compared with the current status (Gaussian beams) and trends (mesa beams), indicating fairly ample margins for further reduction. In this framework, the effective dimension of the related optimization problem, and its relationship to the critical design parameters are identified, physical-feasibility and model-consistency issues are considered, and possible additional requirements and/or prior information exploitable to drive the subsequent optimization process are highlighted.</p>
+  
+
+  <pre id="IJ47_PRD_76_122003_2007-bibtex" class="pre pre-scrollable collapse">@article{IJ47_PRD_76_122003_2007,
+  title = {Perspectives on beam-shaping optimization for thermal-noise reduction in advanced gravitational-wave interferometric detectors: Bounds, profiles, and critical parameters},
+  author = {Pierro, Vincenzo and Galdi, Vincenzo and Castaldi, Giuseppe and Pinto, Innocenzo M. and Agresti, Juri and DeSalvo, Riccardo},
+  journal = {Physical Review D},
+  volume = {76},
+  issue = {12},
+  pages = {122003},
+  numpages = {12},
+  year = {2007},
+  month = dec,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.76.122003},
+  url = {http://link.aps.org/doi/10.1103/PhysRevD.76.122003}
 }
 </pre>
 
@@ -645,9 +681,11 @@ such as aluminum nitride and silver conductive epoxies.</p>
 
   
      
-    	<li><a href="/tags.html#metamaterials-ref">metamaterials <span>7</span></a></li>
+    	<li><a href="/tags.html#gravitational waves-ref">gravitational waves <span>2</span></a></li>
      
-    	<li><a href="/tags.html#analog computing-ref">analog computing <span>2</span></a></li>
+    	<li><a href="/tags.html#mirrors-ref">mirrors <span>2</span></a></li>
+     
+    	<li><a href="/tags.html#beams-ref">beams <span>2</span></a></li>
     
   
 

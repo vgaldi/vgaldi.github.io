@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-02-18T20:52:02+01:00</updated><id>http://localhost:4000//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on non-Hermitian metasurfaces accepted in PRB</title><link href="http://localhost:4000/news/PRB-paper-NH-MS-accepted" rel="alternate" type="text/html" title="Our paper on non-Hermitian metasurfaces accepted in PRB" /><published>2017-02-15T00:00:00+01:00</published><updated>2017-02-15T00:00:00+01:00</updated><id>http://localhost:4000/news/PRB-paper-NH-MS-accepted</id><content type="html" xml:base="http://localhost:4000/news/PRB-paper-NH-MS-accepted">&lt;p&gt;Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-02-19T21:33:03+01:00</updated><id>http://localhost:4000//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on non-Hermitian metasurfaces accepted in PRB</title><link href="http://localhost:4000/news/PRB-paper-NH-MS-accepted" rel="alternate" type="text/html" title="Our paper on non-Hermitian metasurfaces accepted in PRB" /><published>2017-02-15T00:00:00+01:00</published><updated>2017-02-15T00:00:00+01:00</updated><id>http://localhost:4000/news/PRB-paper-NH-MS-accepted</id><content type="html" xml:base="http://localhost:4000/news/PRB-paper-NH-MS-accepted">&lt;p&gt;Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
  metasurfaces,”
 in collaboration with &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (University of Texas at Austin),
 has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
@@ -728,7 +728,146 @@ University of Sannio.&lt;/p&gt;
 
 &lt;p&gt;His current research activity is focused on the areas of electromagnetic and multiphysics metamaterials, RF devices, and antenna design
 for satellite applications. In the past, he has also worked on superconductivity experiments, ferroelectric devices,
-fiber-optics sensors, and nanotechnologies.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><summary type="html">Massimo Moccia was born in Benevento, Italy on February 11, 1982.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/people/massimo-moccia.jpg" /></entry><entry><title type="html">Multiphysics metamaterials</title><link href="http://localhost:4000/projects/multiphysics-MTM" rel="alternate" type="text/html" title="Multiphysics metamaterials" /><published>2017-02-10T00:00:00+01:00</published><updated>2017-02-10T00:00:00+01:00</updated><id>http://localhost:4000/projects/multiphysics-MTM</id><content type="html" xml:base="http://localhost:4000/projects/multiphysics-MTM">&lt;p&gt;During the past few years, the transformation-optics approach has been also successfully applied 
+fiber-optics sensors, and nanotechnologies.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><summary type="html">Massimo Moccia was born in Benevento, Italy on February 11, 1982.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/people/massimo-moccia.jpg" /></entry><entry><title type="html">Ray-chaotic “pinball” scatterers</title><link href="http://localhost:4000/projects/pinball-scatterers" rel="alternate" type="text/html" title="Ray-chaotic “pinball” scatterers" /><published>2017-02-10T00:00:00+01:00</published><updated>2017-02-10T00:00:00+01:00</updated><id>http://localhost:4000/projects/pinball-scatterers</id><content type="html" xml:base="http://localhost:4000/projects/pinball-scatterers">&lt;p&gt;Other intriguing examples of ray chaos can be found in &lt;em&gt;open&lt;/em&gt; configurations such as (n&amp;gt;3)-disk “pinballs”, 
+or appropriately configured inhomogeneous refractive media with ray-trapping properties.&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ29_IEEE_TAP_53_753_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we 
+studied a two-dimensional test example of such an environment 
+which embodies intimately coupled refractive wave-trapping and periodicity-induced multiple 
+scattering phenomenologies, and which is amenable to explicit full-wave analysis. 
+Though strictly nonchaotic, we demonstrated that under appropriate conditions 
+the high-frequency wave dynamics exhibits 
+trends toward irregularity and other peculiar characteristics; 
+these features can be interpreted as “ray-chaotic footprints”, and they are usually not observed 
+in geometries characterized by “regular” ray behavior.&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ57_IEEE_TAP_56_2638_2008&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], we extended this study to
+a cylindrical scatterer made of a perfectly electric-conducting azimuthally corrugated boundary 
+coated by a radially inhomogeneous (ray-trapping) dielectric layer, as shown in the figure (top panel).
+We showed that, for such configuration, ray dynamics is generally of “mixed type,” with the presence 
+of both regular and chaotic regions in the phase space. It is possible to “tune” the 
+parameter configuration (e.g., acting on the refractive index gradient) so as to render the dynamics strongly chaotic.&lt;/p&gt;
+
+&lt;p&gt;By relying on a full-wave solution (via a problem-matched semi-analytic technique), we studied
+the monostatic (i.e., observed at backscattering direction) radar-cross-section (RCS) response, 
+for ﬁxed incidence angle and various parametric conﬁgurations ranging from regular to chaotic ray dynamics, 
+for various representative frequency and incidence conditions. 
+As illustrated in the figure bottom panels, starting from the fairly regular response of a plain circular cylinder, 
+it is observed how introducing either corrugations or graded-index-coating alone 
+(i.e., preserving the ray-regular behavior) produces only smooth changes or the appearance of isolated peaks. 
+Conversely, introducing both corrugation and graded-index-coating (which are both required for the onset of ray-chaos) 
+produces increasingly complex RCS responses. In particular, the conﬁguration corresponding to ray-chaotic dynamics&lt;br /&gt;
+exhibits a monostatic RCS response with very rapid and irregular frequency variations, and 
+wide (up to three orders of magnitude) dynamic ranges.&lt;/p&gt;
+
+&lt;p&gt;Our results clearly indicate that electrically large ray-chaotically inclined conﬁgurations 
+exhibit fairly complex monostatic and bistatic RCS responses, characterized by wide dynamic ranges 
+and strong sensitivity on the frequency and incidence direction, which are fairly different 
+from those observed in ray-regular conﬁgurations. Particularly intriguing from the application viewpoint 
+is the possible exploitation of the inherent richness and complexity of the RCS signatures 
+ in radar-counter-measure scenarios.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ29_IEEE_TAP_53_753_2005&quot;&gt;Castaldi, G., Fiumara, V., Galdi, V., Pierro, V., Pinto, I. M., &amp;amp; Felsen, L. B. (2005). Ray-chaotic footprints in deterministic wave dynamics: a test model with coupled Floquet-type and ducted-type mode characteristics. &lt;i&gt;IEEE Transactions on Antennas and Propagation&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;53&lt;/i&gt;&lt;/span&gt;(2), 753–765.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ29_IEEE_TAP_53_753_2005-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ29_IEEE_TAP_53_753_2005-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ29_IEEE_TAP_53_753_2005-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/TAP.2004.841296&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ29_IEEE_TAP_53_753_2005.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ29_IEEE_TAP_53_753_2005-abstract&quot; class=&quot;collapse&quot;&gt;Ray chaos, manifested by the exponential divergence of trajectories in an originally thin ray bundle, can occur even in linear electromagnetic propagation environments, due to the inherent nonlinearity of ray-tracing maps. In this paper, we present a novel (two-dimensional) test example of such an environment which embodies intimately coupled refractive wave-trapping and periodicity-induced multiple scattering phenomenologies, and which is amenable to explicit full-wave analysis. Though strictly nonchaotic, it is demonstrated that under appropriate conditions which are inferred from a comprehensive parametric database generated via the above-noted rigorous reference solution, the high-frequency wave dynamics exhibits trends toward irregularity and other peculiar characteristics; these features can be interpreted as “ray-chaotic footprints”, and they are usually not observed in geometries characterized by “regular” ray behavior. In this connection, known analogies from other disciplines (particularly quantum physics) are briefly reviewed and related to the proposed test configuration. Moreover, theoretical implications and open issues are discussed, and potential applications are conjectured.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ29_IEEE_TAP_53_753_2005-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ29_IEEE_TAP_53_753_2005,
+  author = {Castaldi, G. and Fiumara, V. and Galdi, V. and Pierro, V. and Pinto, I. M. and Felsen, L. B.},
+  journal = {IEEE Transactions on Antennas and Propagation},
+  title = {Ray-chaotic footprints in deterministic wave dynamics: a test model with coupled Floquet-type and ducted-type mode characteristics},
+  year = {2005},
+  volume = {53},
+  number = {2},
+  pages = {753--765},
+  keywords = {chaos;electromagnetic wave propagation;electromagnetic wave scattering;nonlinear dynamical systems;ray tracing;coupled Floquet-type characteristics;coupled refractive wave-trapping;deterministic wave dynamics;ducted-type mode characteristics;exponential trajectory divergence;full-wave analysis;linear electromagnetic propagation;multiple scattering phenomenology;parametric database generation;periodicity;ray tracing map;ray-chaotic footprint;Chaos;Character generation;Electromagnetic propagation;Electromagnetic refraction;Electromagnetic scattering;Particle scattering;Ray tracing;Spatial databases;Testing;Trajectory;Ducted-type modes;Floquet theory;ray chaos},
+  doi = {10.1109/TAP.2004.841296},
+  issn = {0018-926X},
+  month = feb
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ57_IEEE_TAP_56_2638_2008&quot;&gt;Castaldi, G., Galdi, V., &amp;amp; Pinto, I. M. (2008). A study of ray-chaotic cylindrical scatterers. &lt;i&gt;IEEE Transactions on Antennas and Propagation&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;56&lt;/i&gt;&lt;/span&gt;(8), 2638–2648.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ57_IEEE_TAP_56_2638_2008-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ57_IEEE_TAP_56_2638_2008-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ57_IEEE_TAP_56_2638_2008-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/TAP.2008.927568&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ57_IEEE_TAP_56_2638_2008.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ57_IEEE_TAP_56_2638_2008-abstract&quot; class=&quot;collapse&quot;&gt;Ray chaos, manifested by the exponential divergence of trajectories originating from an originally thin ray bundle, can occur even in linear electromagnetic propagation environments, due to the inherent nonlinearity of ray-tracing (eikonal) maps. In this paper, extending our previous study of a two-dimensional planar ray-chaotic prototype scenario, we consider a cylindrical scatterer made of a perfectly electric-conducting azimuthally corrugated boundary coated by a radially inhomogeneous (ray-trapping) dielectric layer. For this configuration, we carry out a comprehensive parametric study of the ray-dynamical and full-wave scattering (monostatic and bistatic radar-cross-section) signatures, with emphasis on possible implications for high-frequency wave asymptotics (“ray-chaotic footprints”).&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ57_IEEE_TAP_56_2638_2008-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ57_IEEE_TAP_56_2638_2008,
+  author = {Castaldi, G. and Galdi, V. and Pinto, I. M.},
+  journal = {IEEE Transactions on Antennas and Propagation},
+  title = {A study of ray-chaotic cylindrical scatterers},
+  year = {2008},
+  volume = {56},
+  number = {8},
+  pages = {2638--2648},
+  keywords = {electromagnetic wave propagation;electromagnetic wave scattering;ray tracing;dielectric layer;electric-conducting azimuthally corrugated boundary;full-wave scattering;high-frequency wave asymptotics;linear electromagnetic propagation environments;ray-chaotic cylindrical scatterers;ray-tracing maps;two-dimensional planar ray-chaotic prototype scenario;Chaos;Dielectrics;Electromagnetic propagation;Electromagnetic scattering;Hafnium;Particle scattering;Radar cross section;Radar scattering;Ray tracing;Trajectory;High-frequency;radar cross-section;ray chaos},
+  doi = {10.1109/TAP.2008.927568},
+  issn = {0018-926X},
+  month = aug
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><category term="ray chaos" /><category term="high-frequency" /><category term="scattering" /><summary type="html"></summary></entry><entry><title type="html">Multiphysics metamaterials</title><link href="http://localhost:4000/projects/multiphysics-MTM" rel="alternate" type="text/html" title="Multiphysics metamaterials" /><published>2017-02-10T00:00:00+01:00</published><updated>2017-02-10T00:00:00+01:00</updated><id>http://localhost:4000/projects/multiphysics-MTM</id><content type="html" xml:base="http://localhost:4000/projects/multiphysics-MTM">&lt;p&gt;During the past few years, the &lt;a href=&quot;/projects/TO-MTM&quot;&gt;transformation-optics&lt;/a&gt; approach has been also successfully applied 
 to the manipulation of a variety of other different physical quantities like acoustic and elastic waves, 
 static magnetic and electric fields, and heat flux, in view of the mounting interest towards metamaterials 
 beyond electromagnetics.&lt;/p&gt;
@@ -829,70 +968,56 @@ such as aluminum nitride and silver conductive epoxies.&lt;/p&gt;
 
   
     
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><category term="metamaterials" /><category term="analog computing" /><summary type="html"></summary></entry><entry><title type="html">Our paper on non-Hermitian photonic chains accepted in PRB</title><link href="http://localhost:4000/news/PRB-paper-EPD-accepted" rel="alternate" type="text/html" title="Our paper on non-Hermitian photonic chains accepted in PRB" /><published>2017-02-10T00:00:00+01:00</published><updated>2017-02-10T00:00:00+01:00</updated><id>http://localhost:4000/news/PRB-paper-EPD-accepted</id><content type="html" xml:base="http://localhost:4000/news/PRB-paper-EPD-accepted">&lt;p&gt;Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers,” 
-in collaboration with &lt;a href=&quot;http://capolino.eng.uci.edu&quot;&gt;Filippo Capolino&lt;/a&gt;’s Group (University of California at Irvine),
-has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><category term="metamaterials" /><category term="analog computing" /><summary type="html"></summary></entry><entry><title type="html">Laser beam shaping</title><link href="http://localhost:4000/projects/GW-beam-shaping" rel="alternate" type="text/html" title="Laser beam shaping" /><published>2017-02-10T00:00:00+01:00</published><updated>2017-02-10T00:00:00+01:00</updated><id>http://localhost:4000/projects/GW-beam-shaping</id><content type="html" xml:base="http://localhost:4000/projects/GW-beam-shaping">&lt;p&gt;In addition to the geometric optimization of the &lt;a href=&quot;/projects/GW-coating&quot;&gt;coating design&lt;/a&gt;,
+suitable shaping of the laser beam has also been proposed as an effective device to reduce internal (mirror) thermal noise 
+in advanced gravitational-wave interferometric detectors. 
+With specific reference to &lt;a href=&quot;https://www.advancedligo.mit.edu&quot;&gt;Advanced LIGO&lt;/a&gt;, the use of &lt;em&gt;flat-top&lt;/em&gt; (commonly referred to as “mesa”) beams 
+has been explored, intuitively motivated by the potential capability of such a beam to better average 
+the thermally induced mirror surface fluctuations as compared to a 
+standard Gaussian beam. This has been numerically proved to yield significant reductions in the overall 
+thermal noise and has
+led to the development of a cavity prototype with non-spherical “Mexican hat” profile mirrors.&lt;/p&gt;
 
-&lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/1610.00414&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="non-Hermitian" /><category term="nanophotonics" /><summary type="html">Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers,” 
-in collaboration with Filippo Capolino’s Group (University of California at Irvine),
-has been accepted for publication in Physical Review B.
+&lt;p&gt;In [&lt;a href=&quot;#IJ35_PRD_73_127101_2006&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we investigated the analytic structure of a family of &lt;em&gt;hyperboloidal&lt;/em&gt; 
+beams which generalizes the nearly-flat and nearly-concentric mesa beam configurations. 
+Capitalizing on certain results from the applied optics literature on flat-top beams, 
+we derived a physically-insightful and computationally-effective representation in terms of rapidly-converging 
+Gauss-Laguerre expansions. 
+We also worked out a generalization (involving fractional Fourier transform operators of complex order) 
+of some duality relations between the nearly-flat and nearly-concentric mesa 
+configurations.&lt;/p&gt;
 
-An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/EPD-chain.png" /></entry><entry><title type="html">Dispersion engineering via nonlocal transformation optics</title><link href="http://localhost:4000/projects/dispersion-enegineering" rel="alternate" type="text/html" title="Dispersion engineering via nonlocal transformation optics" /><published>2017-02-09T00:00:00+01:00</published><updated>2017-02-09T00:00:00+01:00</updated><id>http://localhost:4000/projects/dispersion-enegineering</id><content type="html" xml:base="http://localhost:4000/projects/dispersion-enegineering">&lt;p&gt;Transformation optics has established itself as a powerful and versatile tool for the systematic design of artificial media. 
-By properly tailoring the spatial profile of materials, it is possible to bend light propagation at will, 
-so as to locally follow a given coordinate-distorted reference frame and to re-route the illumination around an object, 
-making it &lt;em&gt;effectively invisible&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;In [&lt;a href=&quot;#IJ98_PRL_108_063902_2012&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we have extended the potential of this approach by enabling the manipulation and control of 
-&lt;em&gt;nonlocal&lt;/em&gt; light-matter interactions, which are becoming increasingly relevant in a variety of metamaterial applications, 
-including artificial magnetism and ultrafast nonlinear optics. 
-Instead of spatially-changing refractive properties, we proposed a framework of “transformation media” 
-that can tailor the wave interaction in the reciprocal space of spatial wave-numbers, 
-so as to produce desired nonlocal effects.&lt;/p&gt;
-
-&lt;p&gt;Subsequently, in [&lt;a href=&quot;#IJ117_Optica_3_179_2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;] and [&lt;a href=&quot;#IJ120_EPJAM_3_2_2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], we further generalized this approach 
-in the frequency-wavenumber reciprocal phase space, so as to engineer a broad variety of nonlocal interactions 
-and spatial dispersion effects, including including “one-way” (nonreciprocal) propagation, 
-“frozen-mode” and “degenerate-band-edge” regimes, and Dirac-point conical singularities&lt;/p&gt;
-
-&lt;p&gt;For instance, the figure top panel illustrates a desired dispersion effect, namely, a degenerate-band-edge condition 
-at a prescribed frequency. Such exotic dispersion effect (manifested by 
-the appearance of a higher-order stationary point in the dispersion relationship)
-is eliciting a growing attention in view of its potential relevance to diverse applications 
-including slow light, solid-state lasers, quantum-cascade lasers, sensors, optical delay lines, 
-traveling-wave tubes, distributed solid-state amplifiers, and switches.&lt;/p&gt;
-
-&lt;p&gt;The figure bottom panel shows the corresponding field distribution in a unit cell of a 
-multilayered metamaterial synthesized with our approach.&lt;br /&gt;
-As it can be observed, the field is transmitted (with small reflection) in the metamaterial half-space, 
-where it gets converted into an extended mode with growing amplitude. 
-At a distance of about five wavelengths from the vacuum-metamaterial interface, 
-the amplitude reaches a maximum value that is over a factor 1000 larger than the incident one, and 
-then it starts decreasing.&lt;/p&gt;
-
-&lt;p&gt;A key attribute of our approach, 
-similar to conventional transformation optics, 
-is the separation of the conceptual design (based on intuitive geometrical considerations) 
-from the actual metamaterial synthesis (based on a suitable approximation of analytically derived 
-constitutive “blueprints”.&lt;/p&gt;
-
-&lt;p&gt;Our approach may open up new perspectives in the systematic design of metamaterials with broad field-manipulation capabilities as well as complex spatiotemporal dispersion effects, 
-with potential applications to nonreciprocal optics, topological photonics, and “&lt;a href=&quot;/projects/computational-MTM&quot;&gt;computational metamaterials&lt;/a&gt;.”&lt;/p&gt;
+&lt;p&gt;In [&lt;a href=&quot;#IJ47_PRD_76_122003_2007&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], 
+relying on some analytic approximations (valid in the infinite-test-mass limit) 
+for the Brownian and thermoelastic mirror noises in the presence of arbitrary-shaped beams, 
+we explored the optimal beam-shaping problem. 
+The figure top panel shows the assumed cavity geometry, while the bottom panel illustrates 
+the optimal profiles obtained, for the various noise sources. More specifically, \(q=-1,0,1\) refer to the substrate Brownian, the coating 
+(Brownian and thermoelastic), and the substrate thermoelastic noise, respectovely.
+With specific reference to &lt;a href=&quot;https://www.advancedligo.mit.edu&quot;&gt;Advanced LIGO&lt;/a&gt;, 
+we obtained some absolute and realistic lower bounds for the various thermal-noise constituents,
+and compared them with the Gaussian- and mesa-beam scenarios.
+Our result indicate fairly ample margins for further reduction. 
+In this framework, we also identified the effective dimension of the related optimization problem, 
+and its relationship to the critical design parameters. Moreover, we considered the physical-feasibility 
+and model-consistency issues, and highlighted possible additional requirements and/or prior information exploitable 
+to drive the subsequent optimization process.&lt;/p&gt;
 
 &lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ98_PRL_108_063902_2012&quot;&gt;Castaldi, G., Galdi, V., Alù, A., &amp;amp; Engheta, N. (2012). Nonlocal transformation optics. &lt;i&gt;Physical Review Letters&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;108&lt;/i&gt;&lt;/span&gt;(6), 063902.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ35_PRD_73_127101_2006&quot;&gt;Galdi, V., Castaldi, G., Pierro, V., Pinto, I. M., Agresti, J., D’Ambrosio, E., &amp;amp; DeSalvo, R. (2006). Analytic structure of a family of hyperboloidal beams of potential interest for advanced LIGO. &lt;i&gt;Physical Review D&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;73&lt;/i&gt;&lt;/span&gt;(12), 127101.&lt;/span&gt;
 
 
-&lt;div id=&quot;IJ98_PRL_108_063902_2012-materials&quot;&gt;
+&lt;div id=&quot;IJ35_PRD_73_127101_2006-materials&quot;&gt;
   &lt;ul class=&quot;nav nav-pills&quot;&gt;
     
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ98_PRL_108_063902_2012-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ35_PRD_73_127101_2006-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
     
 
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ98_PRL_108_063902_2012-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ35_PRD_73_127101_2006-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
 
             
     
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevLett.108.063902&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevD.73.127101&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
     
 
     
@@ -900,53 +1025,50 @@ with potential applications to nonreciprocal optics, topological photonics, and 
     
       
     
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ98_PRL_108_063902_2012.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ35_PRD_73_127101_2006.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
     
 
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ98_PRL_108_063902_2012_SM.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
     
   
   &lt;/ul&gt;
 
   
-  &lt;p id=&quot;IJ98_PRL_108_063902_2012-abstract&quot; class=&quot;collapse&quot;&gt;We show that the powerful framework of transformation optics may be exploited for engineering the nonlocal response of artificial electromagnetic materials. Relying on the form-invariant properties of coordinate-transformed Maxwell’s equations in the spectral domain, we derive the general constitutive “blueprints” of transformation media yielding prescribed nonlocal field-manipulation effects and provide a physically incisive and powerful geometrical interpretation in terms of deformation of the equifrequency contours. In order to illustrate the potentials of our approach, we present an example of application to a wave-splitting refraction scenario, which may be implemented via a simple class of artificial materials. Our results provide a systematic and versatile framework which may open intriguing venues in dispersion engineering of artificial materials.&lt;/p&gt;
+  &lt;p id=&quot;IJ35_PRD_73_127101_2006-abstract&quot; class=&quot;collapse&quot;&gt;This paper is concerned with a study of the analytic structure of a family of hyperboloidal beams introduced by Bondarescu and Thorne which generalizes the nearly-flat and nearly-concentric mesa beam configurations of interest for advanced LIGO. Capitalizing on certain results from the applied optics literature on flat-top beams, a physically-insightful and computationally-effective representation is derived in terms of rapidly-converging Gauss-Laguerre expansions. A generalization (involving fractional Fourier transform operators of complex order) of some recently discovered duality relations between the nearly-flat and nearly-concentric mesa configurations is obtained. Possible implications for the advanced-LIGO optical cavity design are discussed.&lt;/p&gt;
   
 
-  &lt;pre id=&quot;IJ98_PRL_108_063902_2012-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ98_PRL_108_063902_2012,
-  title = {Nonlocal transformation optics},
-  author = {Castaldi, Giuseppe and Galdi, Vincenzo and Al\`u, Andrea and Engheta, Nader},
-  journal = {Physical Review Letters},
-  volume = {108},
-  issue = {6},
-  pages = {063902},
-  numpages = {5},
-  year = {2012},
-  month = feb,
+  &lt;pre id=&quot;IJ35_PRD_73_127101_2006-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ35_PRD_73_127101_2006,
+  title = {Analytic structure of a family of hyperboloidal beams of potential interest for advanced LIGO},
+  author = {Galdi, Vincenzo and Castaldi, Giuseppe and Pierro, Vincenzo and Pinto, Innocenzo M. and Agresti, Juri and D'Ambrosio, Erika and DeSalvo, Riccardo},
+  journal = {Physical Review D},
+  volume = {73},
+  issue = {12},
+  pages = {127101},
+  numpages = {4},
+  year = {2006},
+  month = jun,
   publisher = {American Physical Society},
-  doi = {10.1103/PhysRevLett.108.063902},
-  url = {http://link.aps.org/doi/10.1103/PhysRevLett.108.063902},
-  note = {/assets/papers/IJ98_PRL_108_063902_2012_SM.pdf}
+  doi = {10.1103/PhysRevD.73.127101},
+  url = {http://link.aps.org/doi/10.1103/PhysRevD.73.127101}
 }
 &lt;/pre&gt;
 
   
     
 &lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;IJ117_Optica_3_179_2016&quot;&gt;Moccia, M., Castaldi, G., Galdi, V., Alù, A., &amp;amp; Engheta, N. (2016). Dispersion engineering via nonlocal transformation optics. &lt;i&gt;Optica&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;3&lt;/i&gt;&lt;/span&gt;(2), 179–188.&lt;/span&gt;
+&lt;li&gt;&lt;span id=&quot;IJ47_PRD_76_122003_2007&quot;&gt;Pierro, V., Galdi, V., Castaldi, G., Pinto, I. M., Agresti, J., &amp;amp; DeSalvo, R. (2007). Perspectives on beam-shaping optimization for thermal-noise reduction in advanced gravitational-wave interferometric detectors: Bounds, profiles, and critical parameters. &lt;i&gt;Physical Review D&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;76&lt;/i&gt;&lt;/span&gt;(12), 122003.&lt;/span&gt;
 
 
-&lt;div id=&quot;IJ117_Optica_3_179_2016-materials&quot;&gt;
+&lt;div id=&quot;IJ47_PRD_76_122003_2007-materials&quot;&gt;
   &lt;ul class=&quot;nav nav-pills&quot;&gt;
     
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ117_Optica_3_179_2016-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ47_PRD_76_122003_2007-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
     
 
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ117_Optica_3_179_2016-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ47_PRD_76_122003_2007-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
 
             
     
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1364/OPTICA.3.000179&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevD.76.122003&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
     
 
     
@@ -954,61 +1076,7 @@ with potential applications to nonreciprocal optics, topological photonics, and 
     
       
     
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ117_Optica_3_179_2016.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ117_Optica_3_179_2016_SM.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ117_Optica_3_179_2016-abstract&quot; class=&quot;collapse&quot;&gt;Transformation optics (TO) has established itself as a powerful and versatile approach to the synthesis of metamaterials with prescribed field-manipulation capabilities, via suitable spatial modulation of their constitutive properties inspired by local distortions of the spatial coordinate reference frame. From the mathematical viewpoint, this approach can be reformulated in the frequency-wavenumber reciprocal phase space so as to engineer nonlocal interactions and spatial dispersion effects, which are becoming increasingly relevant in electrodynamics and optics. Here, we present a general nonlocal-TO framework, based on complex-valued, frequency-dependent wavenumber coordinate transformations, and explore its possible applications to scenarios of interest for dispersion engineering. A key attribute of our approach, similar to conventional TO, is the separation of the conceptual design (based on intuitive geometrical considerations) from the actual metamaterial synthesis (based on a suitable approximation of analytically derived constitutive “blueprints”. To illustrate the capabilities and potential of the proposed approach, we address the engineering (from the conceptual design to the actual synthesis) of multilayered metamaterials exhibiting various exotic dispersion effects, including “one-way” (nonreciprocal) propagation, “frozen-mode” regime, and Dirac-point conical singularities. Our approach may open up new perspectives in the systematic design of metamaterials with broad field-manipulation capabilities as well as complex spatiotemporal dispersion effects, with potential applications to nonreciprocal optics, topological photonics, and “computational metamaterials.”&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ117_Optica_3_179_2016-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ117_Optica_3_179_2016,
-  author = {Moccia, Massimo and Castaldi, Giuseppe and Galdi, Vincenzo and Al\`{u}, Andrea and Engheta, Nader},
-  journal = {Optica},
-  keywords = {Dispersion; Effective medium theory ; Metamaterials},
-  number = {2},
-  pages = {179--188},
-  publisher = {OSA},
-  title = {Dispersion engineering via nonlocal transformation optics},
-  volume = {3},
-  month = feb,
-  year = {2016},
-  url = {http://www.osapublishing.org/optica/abstract.cfm?URI=optica-3-2-179},
-  doi = {10.1364/OPTICA.3.000179},
-  note = {/assets/papers/IJ117_Optica_3_179_2016_SM.pdf}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;IJ120_EPJAM_3_2_2016&quot;&gt;Moccia, M., Castaldi, G., &amp;amp; Galdi, V. (2016). Degenerate-band-edge engineering inspired by nonlocal transformation optics. &lt;i&gt;EPJ Applied Metamaterials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;3&lt;/i&gt;&lt;/span&gt;, 2.&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ120_EPJAM_3_2_2016-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ120_EPJAM_3_2_2016-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ120_EPJAM_3_2_2016-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1051/epjam/2016003&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ120_EPJAM_3_2_2016.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ47_PRD_76_122003_2007.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
     
 
     
@@ -1016,21 +1084,25 @@ with potential applications to nonreciprocal optics, topological photonics, and 
   &lt;/ul&gt;
 
   
-  &lt;p id=&quot;IJ120_EPJAM_3_2_2016-abstract&quot; class=&quot;collapse&quot;&gt;We address the engineering of degenerate-band-edge effects in nonlocal metamaterials. Our approach, inspired by nonlocal-transformation-optics concepts, is based on the approximation of analytically-derived nonlocal constitutive “blueprints”. We illustrate the synthesis procedure, and present and validate a possible implementation based on multilayered metamaterials featuring anisotropic constituents. We also elucidate the physical mechanisms underlying our approach and proposed configuration, and highlight the substantial differences with respect to other examples available in the topical literature.&lt;/p&gt;
+  &lt;p id=&quot;IJ47_PRD_76_122003_2007-abstract&quot; class=&quot;collapse&quot;&gt;Suitable shaping (in particular, flattening and broadening) of the laser beam has recently been proposed as an effective device to reduce internal (mirror) thermal noise in advanced gravitational-wave interferometric detectors. Based on some recently published analytic approximations (valid in the infinite-test-mass limit) for the Brownian and thermoelastic mirror noises in the presence of arbitrary-shaped beams, this paper addresses certain preliminary issues related to the optimal beam-shaping problem. In particular, with specific reference to the Laser Interferometer Gravitational-wave Observatory (LIGO) experiment, absolute and realistic lower bounds for the various thermal-noise constituents are obtained and compared with the current status (Gaussian beams) and trends (mesa beams), indicating fairly ample margins for further reduction. In this framework, the effective dimension of the related optimization problem, and its relationship to the critical design parameters are identified, physical-feasibility and model-consistency issues are considered, and possible additional requirements and/or prior information exploitable to drive the subsequent optimization process are highlighted.&lt;/p&gt;
   
 
-  &lt;pre id=&quot;IJ120_EPJAM_3_2_2016-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ120_EPJAM_3_2_2016,
-  author = {Moccia, Massimo and Castaldi, Giuseppe and Galdi, Vincenzo},
-  title = {Degenerate-band-edge engineering inspired by nonlocal transformation optics},
-  doi = {10.1051/epjam/2016003},
-  journal = {EPJ Applied Metamaterials},
-  year = {2016},
-  volume = {3},
-  pages = {2},
-  month = jul
+  &lt;pre id=&quot;IJ47_PRD_76_122003_2007-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ47_PRD_76_122003_2007,
+  title = {Perspectives on beam-shaping optimization for thermal-noise reduction in advanced gravitational-wave interferometric detectors: Bounds, profiles, and critical parameters},
+  author = {Pierro, Vincenzo and Galdi, Vincenzo and Castaldi, Giuseppe and Pinto, Innocenzo M. and Agresti, Juri and DeSalvo, Riccardo},
+  journal = {Physical Review D},
+  volume = {76},
+  issue = {12},
+  pages = {122003},
+  numpages = {12},
+  year = {2007},
+  month = dec,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevD.76.122003},
+  url = {http://link.aps.org/doi/10.1103/PhysRevD.76.122003}
 }
 &lt;/pre&gt;
 
   
     
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><category term="metamaterials" /><category term="nonlocal" /><category term="dispersion engineering" /><summary type="html"></summary></entry></feed>
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><category term="gravitational waves" /><category term="mirrors" /><category term="beams" /><summary type="html"></summary></entry></feed>

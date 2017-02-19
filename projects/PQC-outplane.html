@@ -1,0 +1,1022 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Photonic quasicrystals: out-of-plane properties</title>
+    
+    <meta name="author" content="Vincenzo Galdi">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <!-- Bootstrap styles -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+    <!-- Optional theme -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet"/>
+    <!-- Sticky Footer -->
+    <link href="/assets/themes/lab/bootstrap/css/bs-sticky-footer.css" rel="stylesheet"/>
+    
+    <!-- Custom styles -->
+    <link href="/assets/themes/lab/css/style.css?body=1" rel="stylesheet" type="text/css" media="all"/>
+
+    <!-- icon -->
+    <link rel="shortcut icon" href="/assets/themes/lab/images/logo/favicon.ico"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/themes/lab/images/logo/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/themes/lab/images/logo/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/themes/lab/images/logo/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/themes/lab/images/logo/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/themes/lab/images/logo/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/themes/lab/images/logo/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/themes/lab/images/logo/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/themes/lab/images/logo/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/themes/lab/images/logo/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/assets/themes/lab/images/logo/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/themes/lab/images/logo/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/themes/lab/images/logo/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/themes/lab/images/logo/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+      
+      
+      
+      
+      
+    <!-- Custom fonts and icons via Font Awesome, http://fortawesome.github.io/Font-Awesome/ -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"/>
+
+      
+    <link rel="stylesheet" href="/assets/themes/lab/bootstrap/css/academicons.css"/>
+      
+    <!-- Fonts via Google -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700' rel='stylesheet' type='text/css'/>
+
+    <!-- Math via MathJax -->
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <!-- Update these with your own images
+      <link rel="shortcut icon" href="images/favicon.ico">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+    -->
+
+    <!-- atom & rss feed
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+    -->
+
+  </head>
+
+  <body>
+
+  <!-- Static top navbar -->
+
+  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class='container'>
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a href="/">
+        <img class="pull-left logo" src="/assets/themes/lab/images/logo/lab-logo.svg" type="image/svg+xml">
+        </a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-navbar-collapse">
+        <ul class="nav navbar-nav navbar-left hidden-sm">
+          <!-- Don't put site title on home page -- there's already a big title there. -->
+          
+          
+          
+          <a class="navbar-brand" href="/">Fields & Waves Lab</a>
+          
+        </ul>
+        <ul 
+            class="nav navbar-nav navbar-right pull-right">
+          
+          
+          
+
+
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+      	
+      	<li><a href="/projects/">Research</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/team/">Team</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+
+        
+            <li class="dropdown nav navbar-nav">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+              Papers <span class="caret"></span>
+            </a>
+
+            <ul class="dropdown-menu nav navbar-nav" role="menu">
+              
+              
+              
+
+
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/journals/">Journals</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/books/">Books</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/conferences/">Conferences</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/preprints/">Preprints</a></li>
+      	
+      
+    
+  
+
+
+
+                </ul>     
+            </li>
+          
+          
+          
+
+
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/news/">News</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/media/">Media</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+                 
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </nav>
+   </div>
+
+   <!-- Content -->
+   <div class="container">
+      
+<div class="page-header">
+  <div class="head">
+      Photonic quasicrystals: out-of-plane properties
+</div>
+<div class="spacer"></div>
+<div class="row post-full">
+  <div class="col-xs-12">
+
+<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+<script>
+	!function(d,s,id){
+		var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+		if(!d.getElementById(id)){
+			js=d.createElement(s);
+			js.id=id;
+			js.src=p+'://platform.twitter.com/widgets.js';
+			fjs.parentNode.insertBefore(js,fjs);
+		}
+	}(document, 'script', 'twitter-wjs');
+</script>
+
+<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+<script type="IN/Share" ></script>
+
+<g:plus action="share" annotation="none"></g:plus>
+<script type="text/javascript">
+	(function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	})();
+</script>
+
+<div class="spacer"></div>
+
+
+    <img class="img-responsive  media-object pull-right" src="/assets/images/projects/PQC_outplane1.png"/>
+      
+<div class="spacer"></div>
+      
+    <div class="content">
+      
+<p>Our Group has been among the first to study the <em>out-of-plane</em> properties of photonic quasicrystals.</p>
+
+<p>In a series of studies in collaboration with <a href="http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=100">Andrea Cusano</a>’s Group (University of Sannio),
+we have investigated the <em>guided resonances</em> that can be excited 
+in a dielectric photonic quasicrystal slabs. 
+More specifically, in [<a href="#IJ66_OpEx_17_6335_2009"><span style="vertical-align: baseline">1</span></a>, <a href="#IJ79_MOTL_51_2737_2009"><span style="vertical-align: baseline">2</span></a>], 
+via a full-wave numerical study of the transmittance response and the modal structure of a photonic quasicrystal 
+slab based on a representative aperiodic geometry (Ammann-Beenker octagonal tiling), 
+we demonstrated the possibility to excite guided-resonance modes, 
+and highlighted similarities and differences with the periodic case. 
+In particular, we showed that, as for the periodic case, guided resonances 
+arise from the coupling of the incident plane-wave with degenerate modes of the photonic quasicrystal 
+slab that exhibit a matching symmetry in the spatial distribution, 
+and can still be parameterized via a Fano-like model.
+In [<a href="#IJ76_OpEx_17_19586_2009"><span style="vertical-align: baseline">3</span></a>], with reference to the same geometry,
+we studied the effects induced by the introduction of 
+symmetry-preserving and symmetry-breaking point defects. 
+Our results demonstrated that breaking the supercell mirror symmetries via the 
+judicious introduction of point-defects enables for the excitation of otherwise uncoupled guided resonances, 
+with control on the symmetry properties of their field distributions, 
+thereby constituting an attractive alternative to those guided-resonance-engineering approaches 
+based on the asymmetrization of the hole shape. 
+In [<a href="#IJ88_OpEx_18_17280_2010"><span style="vertical-align: baseline">4</span></a>], we carried out a comparative study of the tuning efficiency and sensitivity 
+of guided resonances. These results indicated that the spatial arrangement of the 
+holes may strongly influence the tuning and sensitivity efficiency, 
+and may provide new degrees of freedom and tools for the design and optimization of 
+novel photonic devices for both sensing and telecommunication applications.</p>
+
+<p>In [<a href="#IJ90_OL_35_3946_2010"><span style="vertical-align: baseline">5</span></a>, <a href="#IJ95_PRB_84_085135_2011"><span style="vertical-align: baseline">6</span></a>], in collaboration with <a href="https://www.york.ac.uk/physics/people/krauss/">Thomas Krauss</a>‘Group 
+(University of St. Andrews), we provided the first experimental evidence of Fano-type guided resonances 
+in aperiodically-ordered photonic quasicrystal slabs.
+The figure top panel shows a scanning-electron-microscope of 
+the silicon-on-insulator prototype (operating at near-infrared wavelengths). The bottom panel shows the measured 
+reflectance response, from which a Fano-type resonant lineshape is clearly visible, in good agreement with
+numerical simulations.</p>
+
+<p>In [<a href="#IJ102_AFM_22_4389_2012"><span style="vertical-align: baseline">7</span></a>], we considered hybrid metallo-dielectric 
+quasicrystal nanostructures composed of metal-backed aperiodically patterned low-contrast dielectric layers.
+We showed that, by comparison with standard periodic structures, a 
+moderately richer spectrum of resonant modes may
+be excited, due to the easier achievement of phase-matching conditions endowed by its denser Bragg spectrum. 
+Such modes are characterized by a distinctive plasmonic or photonic behavior, discriminated by their field distribution 
+and dependence on the metal film thickness. 
+The enhanced capability of quasicrystals to control number, spectral position, and 
+mode distribution of hybrid resonances may be exploited in a variety of possible applications. 
+In particular, we assessed the surface sensitivity with respect to nanosized deposition of SiO overlays 
+(for response tuning/optimization), and SiO2 overlays (with refractive index resembling that of biological molecules). 
+The proposed metallo-dielectric quasicrystal nanostructures exhibit remarkably high surface sensitivity, 
+namely, ∼0.4 nm wavelength shift per nanometer of deposited SiO2 overlay, with an enhancement of 50% with 
+respect to the plasmonic resonances in the periodic counterpart. 
+By acting on the extra degrees of freedom typical of quasicrystals, 
+there exist further margins of optimization for the surface sensitivity, 
+and therefore concrete perspectives to outperform photonic-crystal-based chemical and 
+biological sensors based on periodic nanostructures currently available on the market.</p>
+
+<h2 id="relevant-papers">Relevant papers</h2>
+<ol class="bibliography"><li><span id="IJ66_OpEx_17_6335_2009">Ricciardi, A., Gallina, I., Campopiano, S., Castaldi, G., Pisco, M., Galdi, V., &amp; Cusano, A. (2009). Guided resonances in photonic quasicrystals. <i>Optics Express</i> <span style="font-weight: normal"><i>17</i></span>(8), 6335–6346.</span>
+
+
+<div id="IJ66_OpEx_17_6335_2009-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ66_OpEx_17_6335_2009-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ66_OpEx_17_6335_2009-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1364/OE.17.006335">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ66_OpEx_17_6335_2009.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ66_OpEx_17_6335_2009-abstract" class="collapse">In this paper, we report on the first evidence of guided resonances (GRs) in aperiodically-ordered photonic crystals, tied to the concept of “quasicrystals” in solid-state physics. Via a full-wave numerical study of the transmittance response and the modal structure of a photonic quasicrystal (PQC) slab based on a representative aperiodic geometry (Ammann-Beenker octagonal tiling), we demonstrate the possibility of exciting GR modes, and highlight similarities and differences with the periodic case. In particular, we show that, as for the periodic case, GRs arise from the coupling of the incident plane-wave with degenerate modes of the PQC slab that exhibit a matching symmetry in the spatial distribution, and can still be parameterized via a Fano-like model. Besides the phenomenological implications, our results may provide new degrees of freedom in the engineering of GRs, and pave the way for new developments and applications.</p>
+  
+
+  <pre id="IJ66_OpEx_17_6335_2009-bibtex" class="pre pre-scrollable collapse">@article{IJ66_OpEx_17_6335_2009,
+  author = {Ricciardi, Armando and Gallina, Ilaria and Campopiano, Stefania and Castaldi, Giuseppe and Pisco, Marco and Galdi, Vincenzo and Cusano, Andrea},
+  journal = {Optics Express},
+  keywords = {Resonance; Photonic crystals},
+  number = {8},
+  pages = {6335--6346},
+  publisher = {OSA},
+  title = {Guided resonances in photonic quasicrystals},
+  volume = {17},
+  month = apr,
+  year = {2009},
+  url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-17-8-6335},
+  doi = {10.1364/OE.17.006335}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ79_MOTL_51_2737_2009">Gallina, I., Ricciardi, A., Pisco, M., Campopiano, S., Castaldi, G., Cusano, A., … Galdi, V. (2009). Parametric study of guided resonances in octagonal photonic quasicrystals. <i>Microwave and Optical Technology Letters</i> <span style="font-weight: normal"><i>51</i></span>(11), 2737–2740.</span>
+
+
+<div id="IJ79_MOTL_51_2737_2009-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ79_MOTL_51_2737_2009-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ79_MOTL_51_2737_2009-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1002/mop.24721">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ79_MOTL_51_2737_2009.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ79_MOTL_51_2737_2009-abstract" class="collapse">In this article, following up on our previous investigations on guided resonances (GRs) in photonic quasicrystal slabs based on octagonal (quasiperiodic) tilings, we present the salient results from a parametric study of the GR properties, varying the air/dielectric fraction, and the slab refractive index and thickness. Our results, obtained via full-wave simulations, show similar qualitative trends as those observed in the literature for periodic photonic crystal slabs</p>
+  
+
+  <pre id="IJ79_MOTL_51_2737_2009-bibtex" class="pre pre-scrollable collapse">@article{IJ79_MOTL_51_2737_2009,
+  author = {Gallina, Ilaria and Ricciardi, Armando and Pisco, Marco and Campopiano, Stefania and Castaldi, Giuseppe and Cusano, Andrea and Cutolo, Antonello and Galdi, Vincenzo},
+  title = {Parametric study of guided resonances in octagonal photonic quasicrystals},
+  journal = {Microwave and Optical Technology Letters},
+  volume = {51},
+  number = {11},
+  publisher = {Wiley Subscription Services, Inc., A Wiley Company},
+  issn = {1098-2760},
+  url = {http://dx.doi.org/10.1002/mop.24721},
+  doi = {10.1002/mop.24721},
+  pages = {2737--2740},
+  keywords = {photonic quasicrystals, guided resonances, periodic photonic slabs},
+  year = {2009},
+  month = nov
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ76_OpEx_17_19586_2009">Gallina, I., Pisco, M., Ricciardi, A., Campopiano, S., Castaldi, G., Cusano, A., &amp; Galdi, V. (2009). Guided resonances in photonic crystals with point-defected aperiodically-ordered supercells. <i>Optics Express</i> <span style="font-weight: normal"><i>17</i></span>(22), 19586–19598.</span>
+
+
+<div id="IJ76_OpEx_17_19586_2009-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ76_OpEx_17_19586_2009-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ76_OpEx_17_19586_2009-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1364/OE.17.019586">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ76_OpEx_17_19586_2009.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ76_OpEx_17_19586_2009-abstract" class="collapse">In this paper, we study the excitation of guided resonances (GRs) in photonic-crystal slabs based on point-defected aperiodically-ordered supercells. With specific reference to perforated-slab structures and the Ammann-Beenker octagonal lattice geometry, we carry out full-wave numerical studies of the plane-wave responses and of the underlying modal structures, which illustrate the representative effects induced by the introduction of symmetry-preserving and symmetry-breaking defects. Our results demonstrate that breaking the supercell mirror symmetries via the judicious introduction of point-defects enables for the excitation of otherwise uncoupled GRs, with control on the symmetry properties of their field distributions, thereby constituting an attractive alternative to those GR-engineering approaches based on the asymmetrization of the hole shape. In this framework, aperiodically-ordered supercells seem to be inherently suited, in view of the variety of inequivalent defect sites that they can offer.</p>
+  
+
+  <pre id="IJ76_OpEx_17_19586_2009-bibtex" class="pre pre-scrollable collapse">@article{IJ76_OpEx_17_19586_2009,
+  author = {Gallina, Ilaria and Pisco, Marco and Ricciardi, Armando and Campopiano, Stefania and Castaldi, Giuseppe and Cusano, Andrea and Galdi, Vincenzo},
+  journal = {Optics Express},
+  keywords = {Resonance; Photonic crystals},
+  number = {22},
+  pages = {19586--19598},
+  publisher = {OSA},
+  title = {Guided resonances in photonic crystals with point-defected aperiodically-ordered supercells},
+  volume = {17},
+  month = oct,
+  year = {2009},
+  url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-17-22-19586},
+  doi = {10.1364/OE.17.019586}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ88_OpEx_18_17280_2010">Pisco, M., Ricciardi, A., Gallina, I., Castaldi, G., Campopiano, S., Cutolo, A., … Galdi, V. (2010). Tuning efficiency and sensitivity of guided resonances in photonic crystals and quasi-crystals: a comparative study. <i>Opt. Express</i> <span style="font-weight: normal"><i>18</i></span>(16), 17280–17293.</span>
+
+
+<div id="IJ88_OpEx_18_17280_2010-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ88_OpEx_18_17280_2010-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ88_OpEx_18_17280_2010-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1364/OE.18.017280">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ88_OpEx_18_17280_2010.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ88_OpEx_18_17280_2010-abstract" class="collapse">In this paper, we present a comparative study of the tuning efficiency and sensitivity of guided resonances (GRs) in photonic crystal (PC) holed slabs based on periodic and aperiodically-ordered unit cells, aimed at assessing the applicability of these important technology platforms to ultra-compact optical sensors and active devices. In particular, with specific reference to square-lattice periodic PCs and aperiodically-ordered Ammann-Beenker photonic quasi-crystals, we study the effects of the hole radius, slab thickness, and refractive index on the GR sensitivity and tunability with respect to variation in the hole refractive index. Finally, we carry out a theoretical and numerical analysis in order to correlate the GR shift with the field distribution of the unperturbed (air holes) structures. Our results indicate that the spatial arrangement of the holes may strongly influence the tuning and sensitivity efficiency, and may provide new degrees of freedom and tools for the design and optimization of novel photonic devices for both sensing and telecommunication applications.</p>
+  
+
+  <pre id="IJ88_OpEx_18_17280_2010-bibtex" class="pre pre-scrollable collapse">@article{IJ88_OpEx_18_17280_2010,
+  author = {Pisco, Marco and Ricciardi, Armando and Gallina, Ilaria and Castaldi, Giuseppe and Campopiano, Stefania and Cutolo, Antonello and Cusano, Andrea and Galdi, Vincenzo},
+  journal = {Opt. Express},
+  keywords = {All-optical devices; Resonance; Optical sensing and sensors ; Photonic crystals},
+  number = {16},
+  pages = {17280--17293},
+  publisher = {OSA},
+  title = {Tuning efficiency and sensitivity of guided resonances in photonic crystals and quasi-crystals: a comparative study},
+  volume = {18},
+  month = aug,
+  year = {2010},
+  url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-18-16-17280},
+  doi = {10.1364/OE.18.017280}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ90_OL_35_3946_2010">Ricciardi, A., Pisco, M., Gallina, I., Campopiano, S., Galdi, V., O’ Faolain, L., … Cusano, A. (2010). Experimental evidence of guided-resonances in photonic crystals with aperiodically ordered supercells. <i>Optics Letters</i> <span style="font-weight: normal"><i>35</i></span>(23), 3946–3948.</span>
+
+
+<div id="IJ90_OL_35_3946_2010-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ90_OL_35_3946_2010-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ90_OL_35_3946_2010-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1364/OL.35.003946">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ90_OL_35_3946_2010.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ90_OL_35_3946_2010-abstract" class="collapse">We report on the first experimental evidence of guided resonances (GRs) in photonic crystal slabs based on aperiodically ordered supercells. Using Ammann–Beenker (quasiperiodic, eightfold symmetric) tiling geometry, we present our study on the fabrication, experimental characterization, and full-wave numerical simulation of two representative structures (with different filling parameters) operating at near-IR wavelengths (1300–1600nm). Our results show a fairly good agreement between measurements and numerical predictions and pave the way for the development of new strategies (based on, e.g., the lattice symmetry breaking) for GR engineering.</p>
+  
+
+  <pre id="IJ90_OL_35_3946_2010-bibtex" class="pre pre-scrollable collapse">@article{IJ90_OL_35_3946_2010,
+  author = {Ricciardi, Armando and Pisco, Marco and Gallina, Ilaria and Campopiano, Stefania and Galdi, Vincenzo and O' Faolain, Liam and Krauss, Thomas F. and Cusano, Andrea},
+  journal = {Optics Letters},
+  keywords = {Fiber optics; All-optical devices; Ultrafast phenomena; Fiber Bragg gratings},
+  number = {23},
+  pages = {3946--3948},
+  publisher = {OSA},
+  title = {Experimental evidence of guided-resonances in photonic crystals with aperiodically ordered supercells},
+  volume = {35},
+  month = dec,
+  year = {2010},
+  url = {http://ol.osa.org/abstract.cfm?URI=ol-35-23-3946},
+  doi = {10.1364/OL.35.003946}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ95_PRB_84_085135_2011">Ricciardi, A., Pisco, M., Cutolo, A., Cusano, A., O’ Faolain, L., Krauss, T. F., … Galdi, V. (2011). Evidence of guided resonances in photonic quasicrystal slabs. <i>Physical Review B</i> <span style="font-weight: normal"><i>84</i></span>(8), 085135.</span>
+
+
+<div id="IJ95_PRB_84_085135_2011-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ95_PRB_84_085135_2011-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ95_PRB_84_085135_2011-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1103/PhysRevB.84.085135">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ95_PRB_84_085135_2011.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ95_PRB_84_085135_2011-abstract" class="collapse">We report on the experimental evidence of Fano-type guided resonances (GRs) in aperiodically-ordered photonic quasicrystal slabs. With specific reference to the Ammann-Beenker (8-fold symmetric, quasiperiodic) octagonal tiling geometry, we present our experimental results on silicon-on-insulator devices operating at near-infrared wavelengths, and compare them with the full-wave numerical predictions based on periodic approximants. Our results indicate that spatial periodicity is not strictly required for the GR excitation, and may be effectively surrogated by weaker forms of long-range aperiodic order which intrinsically provide extra degrees of freedom (e.g., higher-order rotational symmetries, richer defect states and phase-matching conditions, etc.) to be exploited in the design and performance optimization of nanostructured dielectric slabs operating in the out-of-plane configuration. The essential spectral features may be qualitatively understood in terms of phase-matching conditions derived from approximate homogenized models, and turn out to be effectively captured by full-wave modeling based on suitably-sized periodic approximants.</p>
+  
+
+  <pre id="IJ95_PRB_84_085135_2011-bibtex" class="pre pre-scrollable collapse">@article{IJ95_PRB_84_085135_2011,
+  title = {Evidence of guided resonances in photonic quasicrystal slabs},
+  author = {Ricciardi, Armando and Pisco, Marco and Cutolo, Antonello and Cusano, Andrea and O' Faolain, Liam and Krauss, Thomas F. and Castaldi, Giuseppe and Galdi, Vincenzo},
+  journal = {Physical Review B},
+  volume = {84},
+  issue = {8},
+  pages = {085135},
+  numpages = {4},
+  year = {2011},
+  month = aug,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.84.085135},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.84.085135}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ102_AFM_22_4389_2012">Crescitelli, A., Ricciardi, A., Consales, M., Esposito, E., Granata, C., Galdi, V., … Cusano, A. (2012). Nanostructured metallo-dielectric quasi-crystals: Towards photonic-plasmonic resonance engineering. <i>Advanced Functional Materials</i> <span style="font-weight: normal"><i>22</i></span>(20), 4389–4398.</span>
+
+
+<div id="IJ102_AFM_22_4389_2012-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ102_AFM_22_4389_2012-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ102_AFM_22_4389_2012-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1002/adfm.201200217">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ102_AFM_22_4389_2012.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ102_AFM_22_4389_2012-abstract" class="collapse">The first evidence of out-of-plane resonances in hybrid metallo-dielectric quasi-crystal (QC) nanostructures composed of metal-backed aperiodically patterned low-contrast dielectric layers is reported. Via experimental measurements and full-wave numerical simulations, these resonant phenomena are characterized with specific reference to the Ammann-Beenker (quasi- periodic, octagonal) tiling lattice geometry and the underlying physics is investigated. In particular, it is shown that, by comparison with standard periodic structures, a moderately richer spectrum of resonant modes may be excited, due to the easier achievement of phase-matching conditions endowed by its denser Bragg spectrum. Such modes are characterized by a distinctive plasmonic or photonic behavior, discriminated by their field distribution and dependence on the metal film thickness. Moreover, the response is accurately predicted via computationally affordable periodic-approximant-based numerical modeling. The enhanced capability of QCs to control number, spectral position, and mode distribution of hybrid resonances may be exploited in a variety of possible applications. To assess this aspect, label-free biosensing is studied via characterization of the surface sensitivity of the proposed structures with respect to local refractive index changes. Moreover, it is also shown that the resonance-engineering capabilities of QC nanostructures may be effectively exploited in order to enhance the absorption efficiency of thin-film solar cells.</p>
+  
+
+  <pre id="IJ102_AFM_22_4389_2012-bibtex" class="pre pre-scrollable collapse">@article{IJ102_AFM_22_4389_2012,
+  author = {Crescitelli, Alessio and Ricciardi, Armando and Consales, Marco and Esposito, Emanuela and Granata, Carmine and Galdi, Vincenzo and Cutolo, Antonello and Cusano, Andrea},
+  title = {Nanostructured metallo-dielectric quasi-crystals: Towards photonic-plasmonic resonance engineering},
+  journal = {Advanced Functional Materials},
+  volume = {22},
+  number = {20},
+  publisher = {WILEY-VCH Verlag},
+  issn = {1616-3028},
+  url = {http://dx.doi.org/10.1002/adfm.201200217},
+  doi = {10.1002/adfm.201200217},
+  pages = {4389--4398},
+  keywords = {plasmonics, guided resonances, complex nanostructures, chemical and biological sensing, quasi-crystals},
+  year = {2012},
+  month = oct
+}
+</pre>
+
+  
+    
+</div></li></ol>
+
+    </div>
+<div class="spacer"></div>
+  
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-open"></i></li>
+      
+      
+
+
+  
+     
+    	<li><a href="/categories.html#projects-ref">
+    		projects <span>14</span>
+    	</a></li>
+    
+  
+
+
+    </ul>
+    
+
+  
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-tags"></i></li>
+      
+      
+
+
+  
+     
+    	<li><a href="/tags.html#aperiodic-ref">aperiodic <span>3</span></a></li>
+     
+    	<li><a href="/tags.html#photonic quasicrystals-ref">photonic quasicrystals <span>2</span></a></li>
+     
+    	<li><a href="/tags.html#guided resonances-ref">guided resonances <span>1</span></a></li>
+     
+    	<li><a href="/tags.html#Fano resonances-ref">Fano resonances <span>1</span></a></li>
+    
+  
+
+
+
+    </ul>
+    
+  
+    
+  </div>
+</div>
+
+
+   </div>
+
+
+  <!-- Static bottom navbar -->
+  <nav class="navbar navbar-default navbar-fixed-bottom">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-bottom-collapse"> <!-- NOTE! data-target was changed to jb-bottom-collapse -->
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-bottom-collapse">
+        <ul class="nav navbar-nav navbar-left navbar-small">
+          <li><a href=http://www.ding.unisannio.it>Department of Engineering</a></li>
+          <li><a href=http://www.unisannio.it/en>University of Sannio</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right navbar-small">
+          <li><a href='/about.html'>About</a></li>
+          <li><a href='/join.html'>Join</a></li>
+          <li><a href='/contact.html'>Contact</a></li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div>
+  </nav>
+ 
+
+
+    
+
+
+
+
+    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="/assets/themes/lab/bootstrap/js/bootstrap.min.js"></script>
+  </body>
+</html>
+
