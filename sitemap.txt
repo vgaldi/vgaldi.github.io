@@ -37,7 +37,7 @@ http://fw-lab.org/projects/pinball-scatterers
 http://fw-lab.org/projects/multiphysics-MTM
 http://fw-lab.org/projects/GW-beam-shaping
 http://fw-lab.org/news/PRB-paper-EPD-accepted
-http://fw-lab.org/projects/dispersion-enegineering
+http://fw-lab.org/projects/dispersion-engineering
 http://fw-lab.org/projects/PQC-inplane
 http://fw-lab.org/news/new-website
 http://fw-lab.org/team/giuseppe-castaldi
@@ -45,7 +45,11 @@ http://fw-lab.org/projects/non-Hermitian-MTM
 http://fw-lab.org/projects/PQC-outplane
 http://fw-lab.org/projects/reconfigurable-MTM
 http://fw-lab.org/projects/TO-MTM
+http://fw-lab.org/projects/aperiodic-ML
 http://fw-lab.org/projects/MTM_optical-sensing
+http://fw-lab.org/projects/MTM_anomalous-transmission
+http://fw-lab.org/projects/nonreciprocal-MTM
+http://fw-lab.org/projects/extreme-parameter_MTM
 http://fw-lab.org/media/media
 http://fw-lab.org/team/vincenzo-galdi
 http://fw-lab.org/misc/home/home

@@ -1,0 +1,855 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Anomalous transmission</title>
+    
+    <meta name="author" content="Vincenzo Galdi">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <!-- Bootstrap styles -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+    <!-- Optional theme -->
+    <link href="/assets/themes/lab/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet"/>
+    <!-- Sticky Footer -->
+    <link href="/assets/themes/lab/bootstrap/css/bs-sticky-footer.css" rel="stylesheet"/>
+    
+    <!-- Custom styles -->
+    <link href="/assets/themes/lab/css/style.css?body=1" rel="stylesheet" type="text/css" media="all"/>
+
+    <!-- icon -->
+    <link rel="shortcut icon" href="/assets/themes/lab/images/logo/favicon.ico"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/themes/lab/images/logo/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/themes/lab/images/logo/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/themes/lab/images/logo/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/themes/lab/images/logo/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/themes/lab/images/logo/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/themes/lab/images/logo/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/themes/lab/images/logo/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/themes/lab/images/logo/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/themes/lab/images/logo/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/assets/themes/lab/images/logo/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/themes/lab/images/logo/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/themes/lab/images/logo/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/themes/lab/images/logo/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+      
+      
+      
+      
+      
+    <!-- Custom fonts and icons via Font Awesome, http://fortawesome.github.io/Font-Awesome/ -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"/>
+
+      
+    <link rel="stylesheet" href="/assets/themes/lab/bootstrap/css/academicons.css"/>
+      
+    <!-- Fonts via Google -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700' rel='stylesheet' type='text/css'/>
+
+    <!-- Math via MathJax -->
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <!-- Update these with your own images
+      <link rel="shortcut icon" href="images/favicon.ico">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+    -->
+
+    <!-- atom & rss feed
+    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="/rss.xml" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+    -->
+
+  </head>
+
+  <body>
+
+  <!-- Static top navbar -->
+
+  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class='container'>
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a href="/">
+        <img class="pull-left logo" src="/assets/themes/lab/images/logo/lab-logo.svg" type="image/svg+xml">
+        </a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-navbar-collapse">
+        <ul class="nav navbar-nav navbar-left hidden-sm">
+          <!-- Don't put site title on home page -- there's already a big title there. -->
+          
+          
+          
+          <a class="navbar-brand" href="/">Fields & Waves Lab</a>
+          
+        </ul>
+        <ul 
+            class="nav navbar-nav navbar-right pull-right">
+          
+          
+          
+
+
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+      	
+      	<li><a href="/projects/">Research</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/team/">Team</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+
+        
+            <li class="dropdown nav navbar-nav">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+              Papers <span class="caret"></span>
+            </a>
+
+            <ul class="dropdown-menu nav navbar-nav" role="menu">
+              
+              
+              
+
+
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/journals/">Journals</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/books/">Books</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/conferences/">Conferences</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/preprints/">Preprints</a></li>
+      	
+      
+    
+  
+
+
+
+                </ul>     
+            </li>
+          
+          
+          
+
+
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/news/">News</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/media/">Media</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+                 
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </nav>
+   </div>
+
+   <!-- Content -->
+   <div class="container">
+      
+<div class="page-header">
+  <div class="head">
+      Anomalous transmission
+</div>
+<div class="spacer"></div>
+<div class="row post-full">
+  <div class="col-xs-12">
+
+<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+<script>
+	!function(d,s,id){
+		var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+		if(!d.getElementById(id)){
+			js=d.createElement(s);
+			js.id=id;
+			js.src=p+'://platform.twitter.com/widgets.js';
+			fjs.parentNode.insertBefore(js,fjs);
+		}
+	}(document, 'script', 'twitter-wjs');
+</script>
+
+<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+<script type="IN/Share" ></script>
+
+<g:plus action="share" annotation="none"></g:plus>
+<script type="text/javascript">
+	(function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	})();
+</script>
+
+<div class="spacer"></div>
+
+
+    <img class="img-responsive  media-object pull-right" src="/assets/images/projects/MTM_anomalous-transmission1.png"/>
+      
+<div class="spacer"></div>
+      
+    <div class="content">
+      
+<p>Metamaterials can give rise to a broad variety of <em>anomalous</em> transmission effects.
+For instance, it is well known that, in spite of their inherent opacity, slabs of (homogeneous, isotropic) 
+epsilon-negative and mu-negative media can give rise to resonant tunneling phenomena 
+(with total transmission and zero phase delay) when paired as a bilayer. 
+Starting from this basic configuration, several extensions and generalizations can be investigated.</p>
+
+<p>In [<a href="#IJ93_PRB_83_081105_2011"><span style="vertical-align: baseline">1</span></a>], we studied another counterintuitive resonant tunneling mechanism, 
+which entails pairing an epsilon-negative slab with a bilayer made of <em>double-positive</em> 
+(i.e., positive-permittivity and permeability) media. In particular, one of the two double-positive media 
+can be chosen arbitrarily (even vacuum), while the other may exhibit extreme (either near-zero or very high) 
+permittivity and permeability values. Our results on this counterintuitive tunneling phenomenon also 
+demonstrate the possibility of synthesizing double-positive slabs that effectively exhibit 
+epsilon/mu-negative-like wave-impedance properties within a moderately wide frequency range.
+In [<a href="#IJ97_JOSAB_28_2632_2011"><span style="vertical-align: baseline">2</span></a>], 
+we considered a different configuration featuring a homogeneous, isotropic epsilon-negative slab 
+paired with a uniaxially anisotropic double-positive slab, under obliquely incident illumination. 
+Unlike the Fabry–Perot-type resonant phenomena observed in the previous configuration (characterized
+by standing waves in the double-positive layers and a nonzero phase delay), 
+the resonant phenomena in the proposed configuration are mediated by the excitation of localized surface modes at 
+the interface, are characterized by zero phase delay, and they depend on the slab thickness ratio (rather than sum), i
+n a much closer analogy with what observed in the matched epsilon/mu-negative bilayers. 
+This allows us to establish a more direct and physically incisive analogy between the uniaxial-double-positive
+slab and a matched (homogeneous, isotropic) epsilon/mu-negative slab, respectively.</p>
+
+<p>Another intriguing phenomenon is the so called “extraordinary optical transmission”, i.e., 
+the possibility of achieving strong enhancements in the transmission of electromagnetic
+fields through arrays of sub-wavelength holes or slits in metallic screens 
+ with respect to the very low levels predicted by the well-known Bethe’s theory.</p>
+
+<p>In collaboration with <a href="https://www.docenti.unina.it/andreone">Antonello Andreone</a>’s Group (“Federico II” University of Naples), 
+we demonstrated (numerically and experimentally) the possibility of achieving substantial enhancements in the 
+transmission of transverse-electric-polarized electromagnetic fields through subwavelength slits 
+in a thin metallic screen by placing single or paired metallic cut-wire arrays at a close distance from the screen.
+More specifically, in [<a href="#IJ87_IEEE_AWPL_9_641_2010"><span style="vertical-align: baseline">3</span></a>], we carried out a comprehensive numerical study,
+which indicated that a richer phenomenology (involving both electric-and magnetic-type resonances) 
+could be attained by pairing a two cut-wire arrays at the two sides of the screen.
+Subsequently, in [<a href="#IJ91_OpEx_18_26769_2010"><span style="vertical-align: baseline">4</span></a>], we reported on the first experimental evidence of 
+such extraordinary transmission phenomena, via microwave (X/Ku-band) measurements on printed-circuit-board prototypes.
+The figure top panel schematizes the geometry of interes, whereas the center panel shows the fabricated prototype. 
+The bottom panel shows instead the microwave measurements.
+A resonance peak is clearly visible around 14.4 GHz, with an intensity reaching nearly 80% of the full transmission, 
+i.e., about 910-times stronger than the response attainable in the absence of the cut-wire arrays. 
+Our results, in very good agreement with the full-wave numerical predictions, also
+reveal a remarkable robustness of these phenomena with respect to fabrication tolerances and experimental 
+imperfections (misalignments, edge effects, etc.), and confirm the intriguing design potentials envisaged 
+in the previous numerical studies.</p>
+
+<h2 id="relevant-papers">Relevant papers</h2>
+<ol class="bibliography"><li><span id="IJ93_PRB_83_081105_2011">Castaldi, G., Gallina, I., Galdi, V., Alù, A., &amp; Engheta, N. (2011). Electromagnetic tunneling through a single-negative slab paired with a double-positive bilayer. <i>Physical Review B</i> <span style="font-weight: normal"><i>83</i></span>(8), 081105.</span>
+
+
+<div id="IJ93_PRB_83_081105_2011-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ93_PRB_83_081105_2011-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ93_PRB_83_081105_2011-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1103/PhysRevB.83.081105">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ93_PRB_83_081105_2011.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ93_PRB_83_081105_2011-abstract" class="collapse">We show that resonant tunneling of electromagnetic fields can occur through a three-layer structure composed of a single-negative (i.e., either negative permittivity or negative permeability) slab paired with a bilayer made of double-positive (i.e., positive permittivity and permeability) media. In particular, one of the two double-positive media can be chosen arbitrarily (even vacuum), while the other may exhibit extreme (either near-zero or very high) permittivity and permeability values. Our results on this counterintuitive tunneling phenomenon also demonstrate the possibility of synthesizing double-positive slabs that effectively exhibit single-negative-like wave-impedance properties within a moderately wide frequency range.</p>
+  
+
+  <pre id="IJ93_PRB_83_081105_2011-bibtex" class="pre pre-scrollable collapse">@article{IJ93_PRB_83_081105_2011,
+  title = {Electromagnetic tunneling through a single-negative slab paired with a double-positive bilayer},
+  author = {Castaldi, Giuseppe and Gallina, Ilaria and Galdi, Vincenzo and Al\`u, Andrea and Engheta, Nader},
+  journal = {Physical Review B},
+  volume = {83},
+  issue = {8},
+  pages = {081105},
+  numpages = {4},
+  year = {2011},
+  month = feb,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.83.081105},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.83.081105}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ97_JOSAB_28_2632_2011">Castaldi, G., Galdi, V., Alù, A., &amp; Engheta, N. (2011). Electromagnetic tunneling of obliquely incident waves through a single-negative slab paired with a double-positive uniaxial slab. <i>Journal of the Optical Society of America B</i> <span style="font-weight: normal"><i>28</i></span>(10), 2362–2368.</span>
+
+
+<div id="IJ97_JOSAB_28_2632_2011-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ97_JOSAB_28_2632_2011-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ97_JOSAB_28_2632_2011-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1364/JOSAB.28.002362">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ97_JOSAB_28_2632_2011.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ97_JOSAB_28_2632_2011-abstract" class="collapse">We show that, under appropriate oblique-incidence and polarization conditions, the inherent opaqueness of a homogeneous, isotropic single-negative slab may be perfectly compensated (in the ideal lossless case) by a homogeneous, anisotropic (uniaxial) double-positive slab, so that complete tunneling (with total transmission and zero phase delay) occurs. We present an analytical and numerical study aimed at deriving the basic design rules, elucidating the underlying physical mechanisms, and exploring the role of the various involved parameters.</p>
+  
+
+  <pre id="IJ97_JOSAB_28_2632_2011-bibtex" class="pre pre-scrollable collapse">@article{IJ97_JOSAB_28_2632_2011,
+  author = {Castaldi, Giuseppe and Galdi, Vincenzo and Al\`{u}, Andrea and Engheta, Nader},
+  journal = {Journal of the Optical Society of America B},
+  keywords = {Tunneling; Resonance; Metamaterials},
+  number = {10},
+  pages = {2362--2368},
+  publisher = {OSA},
+  title = {Electromagnetic tunneling of obliquely incident waves through a single-negative slab paired with a double-positive uniaxial slab},
+  volume = {28},
+  month = oct,
+  year = {2011},
+  url = {http://josab.osa.org/abstract.cfm?URI=josab-28-10-2362},
+  doi = {10.1364/JOSAB.28.002362}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ87_IEEE_AWPL_9_641_2010">Gallina, I., Castaldi, G., Galdi, V., Di Gennaro, E., &amp; Andreone, A. (2010). Paired cut-wire arrays for enhanced transmission of transverse-electric fields through subwavelength slits in a thin metallic screen. <i>IEEE Antennas and Wireless Propagation Letters</i> <span style="font-weight: normal"><i>9</i></span>, 641–644.</span>
+
+
+<div id="IJ87_IEEE_AWPL_9_641_2010-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ87_IEEE_AWPL_9_641_2010-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ87_IEEE_AWPL_9_641_2010-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1109/LAWP.2010.2054061">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ87_IEEE_AWPL_9_641_2010.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ87_IEEE_AWPL_9_641_2010-abstract" class="collapse">It has recently been shown that the transmission of electromagnetic fields through subwavelength slits (parallel to the electric field direction) in a thin metallic screen can be greatly enhanced by covering one side of the screen with a metallic cut-wire array laid on a dielectric layer. In this Letter, we show that a richer phenomenology (which involves both electric- and magnetic-type resonances) can be attained by pairing a second cut-wire array at the other side of the screen. Via a full-wave comprehensive parametric study, we illustrate the underlying mechanisms and explore the additional degrees of freedom endowed, as well as their possible implications in the engineering of enhanced transmission phenomena.</p>
+  
+
+  <pre id="IJ87_IEEE_AWPL_9_641_2010-bibtex" class="pre pre-scrollable collapse">@article{IJ87_IEEE_AWPL_9_641_2010,
+  author = {Gallina, I. and Castaldi, G. and Galdi, V. and Di Gennaro, E. and Andreone, A.},
+  journal = {IEEE Antennas and Wireless Propagation Letters},
+  title = {Paired cut-wire arrays for enhanced transmission of transverse-electric fields through subwavelength slits in a thin metallic screen},
+  year = {2010},
+  volume = {9},
+  pages = {641--644},
+  keywords = {light transmission;metallic thin films;optical arrays;cut-wire arrays;dielectric layer;electric-type resonance;electromagnetic fields;full-wave comprehensive parametric study;magnetic-type resonance;metallic cut-wire array;subwavelength slits;thin metallic screen;transverse-electric fields;Cut-wire arrays;enhanced optical transmission;slit arrays},
+  doi = {10.1109/LAWP.2010.2054061},
+  issn = {1536-1225},
+  month = {}
+}
+</pre>
+
+  
+    
+</div></li>
+<li><span id="IJ91_OpEx_18_26769_2010">Di Gennaro, E., Gallina, I., Andreone, A., Castaldi, G., &amp; Galdi, V. (2010). Experimental evidence of cut-wire-induced enhanced transmission of transverse-electric fields through sub-wavelength slits in a thin metallic screen. <i>Optics Express</i> <span style="font-weight: normal"><i>18</i></span>(26), 26769–26774.</span>
+
+
+<div id="IJ91_OpEx_18_26769_2010-materials">
+  <ul class="nav nav-pills">
+    
+    <li><a data-toggle="collapse" href="#IJ91_OpEx_18_26769_2010-abstract">Abstract</a></li>
+    
+
+    <li><a data-toggle="collapse" href="#IJ91_OpEx_18_26769_2010-bibtex">BibTeX</a></li>
+
+            
+    
+    <li><a href="http://dx.doi.org/10.1364/OE.18.026769">DOI</a></li>
+    
+
+    
+
+    
+      
+    
+    <li><a href="/assets/papers/IJ91_OpEx_18_26769_2010.pdf">PDF</a></li>
+    
+
+    
+  
+  </ul>
+
+  
+  <p id="IJ91_OpEx_18_26769_2010-abstract" class="collapse">Recent numerical studies have demonstrated the possibility of achieving substantial enhancements in the transmission of transverse-electric-polarized electromagnetic fields through subwavelength slits in a thin metallic screen by placing single or paired metallic cut-wire arrays at a close distance from the screen. In this paper, we report on the first experimental evidence of such extraordinary transmission phenomena, via microwave (X/Ku-band) measurements on printed-circuit-board prototypes. Experimental results agree very well with full-wave numerical predictions, and indicate an intrinsic robustness of the enhanced transmission phenomena with respect to fabrication tolerances and experimental imperfections.</p>
+  
+
+  <pre id="IJ91_OpEx_18_26769_2010-bibtex" class="pre pre-scrollable collapse">@article{IJ91_OpEx_18_26769_2010,
+  author = {Di Gennaro, Emiliano and Gallina, Ilaria and Andreone, Antonello and Castaldi, Giuseppe and Galdi, Vincenzo},
+  journal = {Optics Express},
+  keywords = {Tunneling; Microwaves; Subwavelength structures},
+  number = {26},
+  pages = {26769--26774},
+  publisher = {OSA},
+  title = {Experimental evidence of cut-wire-induced enhanced transmission of transverse-electric fields through sub-wavelength slits in a thin metallic screen},
+  volume = {18},
+  month = dec,
+  year = {2010},
+  url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-18-26-26769},
+  doi = {10.1364/OE.18.026769}
+}
+</pre>
+
+  
+    
+</div></li></ol>
+
+    </div>
+<div class="spacer"></div>
+  
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-open"></i></li>
+      
+      
+
+
+  
+     
+    	<li><a href="/categories.html#projects-ref">
+    		projects <span>18</span>
+    	</a></li>
+    
+  
+
+
+    </ul>
+    
+
+  
+    <ul class="tag_box inline">
+      <li><i class="glyphicon glyphicon-tags"></i></li>
+      
+      
+
+
+  
+     
+    	<li><a href="/tags.html#metamaterials-ref">metamaterials <span>11</span></a></li>
+     
+    	<li><a href="/tags.html#extraordinary optical transmission-ref">extraordinary optical transmission <span>1</span></a></li>
+     
+    	<li><a href="/tags.html#tunneling-ref">tunneling <span>2</span></a></li>
+    
+  
+
+
+
+    </ul>
+    
+  
+    
+  </div>
+</div>
+
+
+   </div>
+
+
+  <!-- Static bottom navbar -->
+  <nav class="navbar navbar-default navbar-fixed-bottom">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#jb-bottom-collapse"> <!-- NOTE! data-target was changed to jb-bottom-collapse -->
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="jb-bottom-collapse">
+        <ul class="nav navbar-nav navbar-left navbar-small">
+          <li><a href=http://www.ding.unisannio.it>Department of Engineering</a></li>
+          <li><a href=http://www.unisannio.it/en>University of Sannio</a></li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right navbar-small">
+          <li><a href='/about.html'>About</a></li>
+          <li><a href='/join.html'>Join</a></li>
+          <li><a href='/contact.html'>Contact</a></li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div>
+  </nav>
+ 
+
+
+    
+
+
+
+
+    <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="/assets/themes/lab/bootstrap/js/bootstrap.min.js"></script>
+  </body>
+</html>
+

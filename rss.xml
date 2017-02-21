@@ -5,8 +5,8 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2017-02-19T22:10:55+01:00</lastBuildDate>
-        <pubDate>2017-02-19T22:10:55+01:00</pubDate>
+        <lastBuildDate>2017-02-20T22:55:04+01:00</lastBuildDate>
+        <pubDate>2017-02-20T22:55:04+01:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -1426,8 +1426,8 @@ with potential applications to nonreciprocal optics, topological photonics, and 
     
 &lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
 </description>
-                <link>http://fw-lab.org/projects/dispersion-enegineering</link>
-                <guid>http://fw-lab.org/projects/dispersion-enegineering</guid>
+                <link>http://fw-lab.org/projects/dispersion-engineering</link>
+                <guid>http://fw-lab.org/projects/dispersion-engineering</guid>
                 <pubDate>2017-02-09T00:00:00+01:00</pubDate>
         </item>
 
@@ -2871,7 +2871,7 @@ and illustrated its possible applications to the design of “invisible” senso
 deal with &lt;em&gt;single-negative&lt;/em&gt;  materials, and applied this concept to the design of
 tunneling effects.&lt;/p&gt;
 
-&lt;p&gt;We have also proposed other extensions to deal with &lt;a href=&quot;/projects/dispersion-enegineering&quot;&gt;nonlocal&lt;/a&gt;, &lt;a href=&quot;/projects/non-Hermitian-MTM&quot;&gt;non-Hermitian&lt;/a&gt;, and &lt;a href=&quot;/projects/multiphysics-MTM&quot;&gt;multiphysics&lt;/a&gt; scenarios.&lt;/p&gt;
+&lt;p&gt;We have also proposed other extensions to deal with &lt;a href=&quot;/projects/dispersion-engineering&quot;&gt;nonlocal&lt;/a&gt;, &lt;a href=&quot;/projects/non-Hermitian-MTM&quot;&gt;non-Hermitian&lt;/a&gt;, and &lt;a href=&quot;/projects/multiphysics-MTM&quot;&gt;multiphysics&lt;/a&gt; scenarios.&lt;/p&gt;
 
 &lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ62_MOTL_50_3186_2008&quot;&gt;Gallina, I., Castaldi, G., &amp;amp; Galdi, V. (2008). A higher-order optical transformation for nonmagnetic cloaking. &lt;i&gt;Microwave and Optical Technology Letters&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;50&lt;/i&gt;&lt;/span&gt;(12), 3186–3190.&lt;/span&gt;
@@ -3341,6 +3341,113 @@ tunneling effects.&lt;/p&gt;
         </item>
 
         <item>
+                <title>Optical nonlocality in aperiodic multilayered hyperbolic metamaterials</title>
+                <description>
+&lt;p&gt;Hyperbolic metamaterials are characterized by uniaxally 
+anisotropic constitutive relationships with both positive and negative 
+components of the permittivity (or permeability) tensor. 
+This yields a &lt;em&gt;hyperbolic&lt;/em&gt; (as opposed to spherical in conventional isotropic media) 
+dispersion relationship, which allows for the propagation of (otherwise evanescent) 
+waves with large wave vectors, resulting in a high (theoretically unbounded) photonic density of states.&lt;/p&gt;
+
+&lt;p&gt;Typical multilayered implementations of hyperbolic metamaterials are based 
+the stacking of alternating subwavelength layers with negative and positive permittivities 
+(e.g., metallic and dielectric at optical wavelengths). For this class, the effective-medium theory
+ provides a particularly simple model in terms of a homogeneous uniaxially anisotropic 
+ permittivity tensor with components given by the Maxwell-Garnett mixing formulas. 
+ However, a series of recent papers have pointed out the limitations of this model 
+ in predicting nonlocal effects that can take place (even in the presence of deep subwavelength layers) 
+ due to the coupling of surface-plasmon polaritons propagating along the interfaces separating 
+ layers with oppositely signed permittiv- ities. This may result, for instance, 
+ in the misprediction of additional extraordinary waves, as well as of the broadband Purcell effect.&lt;/p&gt;
+
+&lt;p&gt;Although the effective-medium-theory model describing the local response is independent of the positional 
+ order of the layers and depends only on the permittivities of the two constituents and their filling fractions. However, 
+one would intuitively expect the positional order of the layers to sensibly affect the nonlocal response.&lt;/p&gt;
+
+&lt;p&gt;Within this framework, in [&lt;a href=&quot;#IJ105_PRB_87_235116_2013&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we studied the nonlocal response of hyperbolic metamaterials 
+constituted by multilayer superlattices based on the Thue-Morse geometry.
+The chosen geometry (schematized in the figure top panel) is particularly interesting since different iteration orders differ solely 
+in the positional order of the constituent material layers. Interestingly, we identified some configurations 
+for which these nonlocal effects are rather weak at the first two iteration orders 
+(corresponding to standard periodic multilayers) and become markedly more prominent at higher 
+iteration orders.
+From the mathematical viewpoint, these effects can be associated with stationary points of the transfer-matrix 
+trace and can be effectively parametrized via the &lt;em&gt;trace-map&lt;/em&gt; formalism. We showed that their onset is accompanied 
+by a strong wave-vector dependence in the effective constitutive parameters, as well as 
+the appearance of 
+additional extraordinary waves, as shown in the figure center panels. The bottom panels 
+illustrate the propagation of such an additional extraordinary wave in a finite-thickness metamaterial slab. 
+In particular, the transverse distribution exhibits large amplitude variations and peaks at the interfaces between dielectric
+and metallic layers, due to the propagation of surface-plasmon-polaritons.&lt;/p&gt;
+
+&lt;p&gt;Despite the inherent periodicity enforced by the unavoidable (Bloch-type) supercell terminations, such strong nonlocality 
+is retained at any arbitrarily high-order iteration, i.e., approaching the actual aperiodic regime. 
+To the best of our knowledge, against the many implications and applications, 
+this represents the first evidence in connection with optical nonlocality. Besides the inherent academic interest, 
+from the application viewpoint, this constitutes an important and technologically inexpensive additional 
+degree of freedom in the engineering of optical nonlocality, which may also be fruitfully exploited within 
+the recently introduced framework of &lt;a href=&quot;/projects/dispersion-enegineering&quot;&gt;nonlocal transformation optics&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ105_PRB_87_235116_2013&quot;&gt;Savoia, S., Castaldi, G., &amp;amp; Galdi, V. (2013). Optical nonlocality in multilayered hyperbolic metamaterials based on Thue-Morse superlattices. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;87&lt;/i&gt;&lt;/span&gt;(23), 235116.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ105_PRB_87_235116_2013-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ105_PRB_87_235116_2013-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ105_PRB_87_235116_2013-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.87.235116&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ105_PRB_87_235116_2013.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ105_PRB_87_235116_2013-abstract&quot; class=&quot;collapse&quot;&gt;We show that hyperbolic electromagnetic metamaterials, implemented as multilayers based on two material constituents arranged according to the Thue-Morse aperiodic sequence, may exhibit strong nonlocal effects, manifested as the appearance of additional extraordinary waves which are not predicted by standard effective-medium-theory (local) models. From the mathematical viewpoint, these effects can be associated with stationary points of the transfer-matrix trace and can be effectively parametrized via the trace-map formalism. We show that their onset is accompanied by a strong wave-vector dependence in the effective constitutive parameters. Despite the inherent periodicity enforced by the unavoidable (Bloch-type) supercell terminations, we show that such strong nonlocality is retained at any arbitrarily high-order iteration, i.e., approaching the actual aperiodic regime. Moreover, for certain parameter configurations, at a given wavelength and for two given material layers, these effects may be significantly less prominent when the same layers are arranged in a standard periodic fashion. Our findings indicate that the (aperiodic) positional order of the layers constitutes an effective and technologically inexpensive additional degree of freedom in the engineering of optical nonlocality.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ105_PRB_87_235116_2013-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ105_PRB_87_235116_2013,
+  title = {Optical nonlocality in multilayered hyperbolic metamaterials based on Thue-Morse superlattices},
+  author = {Savoia, Silvio and Castaldi, Giuseppe and Galdi, Vincenzo},
+  journal = {Physical Review B},
+  volume = {87},
+  issue = {23},
+  pages = {235116},
+  numpages = {10},
+  year = {2013},
+  month = jun,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.87.235116},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.87.235116}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://fw-lab.org/projects/aperiodic-ML</link>
+                <guid>http://fw-lab.org/projects/aperiodic-ML</guid>
+                <pubDate>2017-02-05T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
                 <title>Optical sensing</title>
                 <description>
 &lt;p&gt;Metamaterials and artificial materials can find important applications to optical sensing.
@@ -3485,6 +3592,521 @@ forward in the “lab-on-fiber” technology roadmap.&lt;/p&gt;
                 <link>http://fw-lab.org/projects/MTM_optical-sensing</link>
                 <guid>http://fw-lab.org/projects/MTM_optical-sensing</guid>
                 <pubDate>2017-02-05T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Anomalous transmission</title>
+                <description>
+&lt;p&gt;Metamaterials can give rise to a broad variety of &lt;em&gt;anomalous&lt;/em&gt; transmission effects.
+For instance, it is well known that, in spite of their inherent opacity, slabs of (homogeneous, isotropic) 
+epsilon-negative and mu-negative media can give rise to resonant tunneling phenomena 
+(with total transmission and zero phase delay) when paired as a bilayer. 
+Starting from this basic configuration, several extensions and generalizations can be investigated.&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ93_PRB_83_081105_2011&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we studied another counterintuitive resonant tunneling mechanism, 
+which entails pairing an epsilon-negative slab with a bilayer made of &lt;em&gt;double-positive&lt;/em&gt; 
+(i.e., positive-permittivity and permeability) media. In particular, one of the two double-positive media 
+can be chosen arbitrarily (even vacuum), while the other may exhibit extreme (either near-zero or very high) 
+permittivity and permeability values. Our results on this counterintuitive tunneling phenomenon also 
+demonstrate the possibility of synthesizing double-positive slabs that effectively exhibit 
+epsilon/mu-negative-like wave-impedance properties within a moderately wide frequency range.
+In [&lt;a href=&quot;#IJ97_JOSAB_28_2632_2011&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], 
+we considered a different configuration featuring a homogeneous, isotropic epsilon-negative slab 
+paired with a uniaxially anisotropic double-positive slab, under obliquely incident illumination. 
+Unlike the Fabry–Perot-type resonant phenomena observed in the previous configuration (characterized
+by standing waves in the double-positive layers and a nonzero phase delay), 
+the resonant phenomena in the proposed configuration are mediated by the excitation of localized surface modes at 
+the interface, are characterized by zero phase delay, and they depend on the slab thickness ratio (rather than sum), i
+n a much closer analogy with what observed in the matched epsilon/mu-negative bilayers. 
+This allows us to establish a more direct and physically incisive analogy between the uniaxial-double-positive
+slab and a matched (homogeneous, isotropic) epsilon/mu-negative slab, respectively.&lt;/p&gt;
+
+&lt;p&gt;Another intriguing phenomenon is the so called “extraordinary optical transmission”, i.e., 
+the possibility of achieving strong enhancements in the transmission of electromagnetic
+fields through arrays of sub-wavelength holes or slits in metallic screens 
+ with respect to the very low levels predicted by the well-known Bethe’s theory.&lt;/p&gt;
+
+&lt;p&gt;In collaboration with &lt;a href=&quot;https://www.docenti.unina.it/andreone&quot;&gt;Antonello Andreone&lt;/a&gt;’s Group (“Federico II” University of Naples), 
+we demonstrated (numerically and experimentally) the possibility of achieving substantial enhancements in the 
+transmission of transverse-electric-polarized electromagnetic fields through subwavelength slits 
+in a thin metallic screen by placing single or paired metallic cut-wire arrays at a close distance from the screen.
+More specifically, in [&lt;a href=&quot;#IJ87_IEEE_AWPL_9_641_2010&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], we carried out a comprehensive numerical study,
+which indicated that a richer phenomenology (involving both electric-and magnetic-type resonances) 
+could be attained by pairing a two cut-wire arrays at the two sides of the screen.
+Subsequently, in [&lt;a href=&quot;#IJ91_OpEx_18_26769_2010&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;], we reported on the first experimental evidence of 
+such extraordinary transmission phenomena, via microwave (X/Ku-band) measurements on printed-circuit-board prototypes.
+The figure top panel schematizes the geometry of interes, whereas the center panel shows the fabricated prototype. 
+The bottom panel shows instead the microwave measurements.
+A resonance peak is clearly visible around 14.4 GHz, with an intensity reaching nearly 80% of the full transmission, 
+i.e., about 910-times stronger than the response attainable in the absence of the cut-wire arrays. 
+Our results, in very good agreement with the full-wave numerical predictions, also
+reveal a remarkable robustness of these phenomena with respect to fabrication tolerances and experimental 
+imperfections (misalignments, edge effects, etc.), and confirm the intriguing design potentials envisaged 
+in the previous numerical studies.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ93_PRB_83_081105_2011&quot;&gt;Castaldi, G., Gallina, I., Galdi, V., Alù, A., &amp;amp; Engheta, N. (2011). Electromagnetic tunneling through a single-negative slab paired with a double-positive bilayer. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;83&lt;/i&gt;&lt;/span&gt;(8), 081105.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ93_PRB_83_081105_2011-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ93_PRB_83_081105_2011-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ93_PRB_83_081105_2011-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.83.081105&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ93_PRB_83_081105_2011.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ93_PRB_83_081105_2011-abstract&quot; class=&quot;collapse&quot;&gt;We show that resonant tunneling of electromagnetic fields can occur through a three-layer structure composed of a single-negative (i.e., either negative permittivity or negative permeability) slab paired with a bilayer made of double-positive (i.e., positive permittivity and permeability) media. In particular, one of the two double-positive media can be chosen arbitrarily (even vacuum), while the other may exhibit extreme (either near-zero or very high) permittivity and permeability values. Our results on this counterintuitive tunneling phenomenon also demonstrate the possibility of synthesizing double-positive slabs that effectively exhibit single-negative-like wave-impedance properties within a moderately wide frequency range.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ93_PRB_83_081105_2011-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ93_PRB_83_081105_2011,
+  title = {Electromagnetic tunneling through a single-negative slab paired with a double-positive bilayer},
+  author = {Castaldi, Giuseppe and Gallina, Ilaria and Galdi, Vincenzo and Al\`u, Andrea and Engheta, Nader},
+  journal = {Physical Review B},
+  volume = {83},
+  issue = {8},
+  pages = {081105},
+  numpages = {4},
+  year = {2011},
+  month = feb,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.83.081105},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.83.081105}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ97_JOSAB_28_2632_2011&quot;&gt;Castaldi, G., Galdi, V., Alù, A., &amp;amp; Engheta, N. (2011). Electromagnetic tunneling of obliquely incident waves through a single-negative slab paired with a double-positive uniaxial slab. &lt;i&gt;Journal of the Optical Society of America B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;28&lt;/i&gt;&lt;/span&gt;(10), 2362–2368.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ97_JOSAB_28_2632_2011-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ97_JOSAB_28_2632_2011-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ97_JOSAB_28_2632_2011-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1364/JOSAB.28.002362&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ97_JOSAB_28_2632_2011.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ97_JOSAB_28_2632_2011-abstract&quot; class=&quot;collapse&quot;&gt;We show that, under appropriate oblique-incidence and polarization conditions, the inherent opaqueness of a homogeneous, isotropic single-negative slab may be perfectly compensated (in the ideal lossless case) by a homogeneous, anisotropic (uniaxial) double-positive slab, so that complete tunneling (with total transmission and zero phase delay) occurs. We present an analytical and numerical study aimed at deriving the basic design rules, elucidating the underlying physical mechanisms, and exploring the role of the various involved parameters.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ97_JOSAB_28_2632_2011-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ97_JOSAB_28_2632_2011,
+  author = {Castaldi, Giuseppe and Galdi, Vincenzo and Al\`{u}, Andrea and Engheta, Nader},
+  journal = {Journal of the Optical Society of America B},
+  keywords = {Tunneling; Resonance; Metamaterials},
+  number = {10},
+  pages = {2362--2368},
+  publisher = {OSA},
+  title = {Electromagnetic tunneling of obliquely incident waves through a single-negative slab paired with a double-positive uniaxial slab},
+  volume = {28},
+  month = oct,
+  year = {2011},
+  url = {http://josab.osa.org/abstract.cfm?URI=josab-28-10-2362},
+  doi = {10.1364/JOSAB.28.002362}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ87_IEEE_AWPL_9_641_2010&quot;&gt;Gallina, I., Castaldi, G., Galdi, V., Di Gennaro, E., &amp;amp; Andreone, A. (2010). Paired cut-wire arrays for enhanced transmission of transverse-electric fields through subwavelength slits in a thin metallic screen. &lt;i&gt;IEEE Antennas and Wireless Propagation Letters&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;9&lt;/i&gt;&lt;/span&gt;, 641–644.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ87_IEEE_AWPL_9_641_2010-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ87_IEEE_AWPL_9_641_2010-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ87_IEEE_AWPL_9_641_2010-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/LAWP.2010.2054061&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ87_IEEE_AWPL_9_641_2010.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ87_IEEE_AWPL_9_641_2010-abstract&quot; class=&quot;collapse&quot;&gt;It has recently been shown that the transmission of electromagnetic fields through subwavelength slits (parallel to the electric field direction) in a thin metallic screen can be greatly enhanced by covering one side of the screen with a metallic cut-wire array laid on a dielectric layer. In this Letter, we show that a richer phenomenology (which involves both electric- and magnetic-type resonances) can be attained by pairing a second cut-wire array at the other side of the screen. Via a full-wave comprehensive parametric study, we illustrate the underlying mechanisms and explore the additional degrees of freedom endowed, as well as their possible implications in the engineering of enhanced transmission phenomena.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ87_IEEE_AWPL_9_641_2010-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ87_IEEE_AWPL_9_641_2010,
+  author = {Gallina, I. and Castaldi, G. and Galdi, V. and Di Gennaro, E. and Andreone, A.},
+  journal = {IEEE Antennas and Wireless Propagation Letters},
+  title = {Paired cut-wire arrays for enhanced transmission of transverse-electric fields through subwavelength slits in a thin metallic screen},
+  year = {2010},
+  volume = {9},
+  pages = {641--644},
+  keywords = {light transmission;metallic thin films;optical arrays;cut-wire arrays;dielectric layer;electric-type resonance;electromagnetic fields;full-wave comprehensive parametric study;magnetic-type resonance;metallic cut-wire array;subwavelength slits;thin metallic screen;transverse-electric fields;Cut-wire arrays;enhanced optical transmission;slit arrays},
+  doi = {10.1109/LAWP.2010.2054061},
+  issn = {1536-1225},
+  month = {}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ91_OpEx_18_26769_2010&quot;&gt;Di Gennaro, E., Gallina, I., Andreone, A., Castaldi, G., &amp;amp; Galdi, V. (2010). Experimental evidence of cut-wire-induced enhanced transmission of transverse-electric fields through sub-wavelength slits in a thin metallic screen. &lt;i&gt;Optics Express&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;18&lt;/i&gt;&lt;/span&gt;(26), 26769–26774.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ91_OpEx_18_26769_2010-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ91_OpEx_18_26769_2010-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ91_OpEx_18_26769_2010-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1364/OE.18.026769&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ91_OpEx_18_26769_2010.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ91_OpEx_18_26769_2010-abstract&quot; class=&quot;collapse&quot;&gt;Recent numerical studies have demonstrated the possibility of achieving substantial enhancements in the transmission of transverse-electric-polarized electromagnetic fields through subwavelength slits in a thin metallic screen by placing single or paired metallic cut-wire arrays at a close distance from the screen. In this paper, we report on the first experimental evidence of such extraordinary transmission phenomena, via microwave (X/Ku-band) measurements on printed-circuit-board prototypes. Experimental results agree very well with full-wave numerical predictions, and indicate an intrinsic robustness of the enhanced transmission phenomena with respect to fabrication tolerances and experimental imperfections.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ91_OpEx_18_26769_2010-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ91_OpEx_18_26769_2010,
+  author = {Di Gennaro, Emiliano and Gallina, Ilaria and Andreone, Antonello and Castaldi, Giuseppe and Galdi, Vincenzo},
+  journal = {Optics Express},
+  keywords = {Tunneling; Microwaves; Subwavelength structures},
+  number = {26},
+  pages = {26769--26774},
+  publisher = {OSA},
+  title = {Experimental evidence of cut-wire-induced enhanced transmission of transverse-electric fields through sub-wavelength slits in a thin metallic screen},
+  volume = {18},
+  month = dec,
+  year = {2010},
+  url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-18-26-26769},
+  doi = {10.1364/OE.18.026769}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://fw-lab.org/projects/MTM_anomalous-transmission</link>
+                <guid>http://fw-lab.org/projects/MTM_anomalous-transmission</guid>
+                <pubDate>2017-02-05T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Nonreciprocal metamaterials</title>
+                <description>
+&lt;p&gt;Nonreciprocal light propagation effects are of great interest
+in order to design devices such as isolators and circulators that can 
+prevent undesired backward reflection and interference effects in optical circuits.
+A typical way to attain such effects relies on magneto-optical 
+materials which, in the presence of a (static) bias magnetic field that breaks 
+the time-reversal symmetry, are characterized by different propagation constants for 
+circularly polarized waves with right- and left-handedness. 
+However, the magneto-optical activity of candidate materials, such as bismuth iron garnet,
+ is quite weak at optical frequencies, thereby leading to rather bulky implementations. 
+ Therefore, several strategies have been explored in order to achieve significant response enhancements, 
+ all essentially based on the coupling of magneto-electric effects with resonant phenomena.&lt;/p&gt;
+
+&lt;p&gt;In some recent investigations, in collaboration with &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/)&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania) and
+&lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt; (University of Texas at Austin), we have explored the 
+unidirectional resonant photon tunneling through heterostructures containing magneto-optical constituents.
+Our ideas essentially rely on the large body of results available on 
+&lt;a href=&quot;/projects/MTM_anomalous-transmission&quot;&gt;resonant photon tunneling&lt;/a&gt; phenomena in multilayered heterostructures 
+combining single-negative (i.e., with negative permittivity or permeability) and double-positive 
+(i.e., with positive permittivity and permeability) material constituents. 
+By inserting in these heterostructures magneto-optical materials, 
+we render the resonance conditions sensitive to the circular polarization handedness.&lt;/p&gt;
+
+&lt;p&gt;More specifically, in [&lt;a href=&quot;#IJ108_JPD_47_025002_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we studied the resonant tunnelling effects that can occur in 
+trilayer structures featuring a 
+dielectric layer sandwiched between two magneto-optical-metal (e.g., \(Co_6Ag_{94}\)) layers. 
+We show that the resonance splitting associated with these phenomena can be exploited to enhance 
+Faraday rotation at optical frequencies. Our results indicate that, in the presence of realistic loss levels, 
+a tri-layer structure of subwavelength thickness is capable of yielding sensible (∼10◦) 
+Faraday rotation with transmittance levels that are an order of magnitude larger than those 
+attainable with a standalone slab of magneto-optical-metal metal of the same thickness.&lt;/p&gt;
+
+&lt;p&gt;In [&lt;a href=&quot;#IJ110_JAP_115_043107_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;],
+we showed that tri-layer structures combining epsilon-negative and 
+magneto-optical material layers can exhibit unidirectional resonant photon 
+tunneling phenomena that can discriminate between circularly polarized waves of 
+given handedness impinging from opposite directions, or between circularly polarized waves with different handedness 
+impinging from the same direction. 
+The figure top panel illustrates the configuration considered, consisting of a magneto-electric layer sandwiched 
+between two epsilon-negative layers.
+The bottom panel shows the resonant field distributions of electric (solid) and magnetic (dashed) fields 
+for right-handed circularly polarized plane-wave illumination
+impinging from left and right. For incidence from left,
+total transmission is clearly visible, with evanescent field growth in the left epsilon-negative layer, 
+and the electric and magnetic fields peaked at the center of the magneto-optical layer and at its boundaries 
+with the epsilon-negative layers, 
+respectively. The response resembles that of a Fabry-Perot resonant cavity, effectively 
+formed by the highly reflective properties of the epsilon-negative end layers. Conversely, for incidence from right,
+a strong reflection and very low transmission are observed.
+Our results indicate that this phenomenon is satisfactorily robust with respect to unavoidable nonidealities, 
+and can be exploited to design compact (wavelength-sized) optical isolators for circularly polarized waves.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ108_JPD_47_025002_2014&quot;&gt;Moccia, M., Castaldi, G., Galdi, V., Alù, A., &amp;amp; Engheta, N. (2014). Enhanced Faraday rotation via resonant tunnelling in tri-layers containing magneto-optical metals. &lt;i&gt;Journal of Physics D: Applied Physics&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;47&lt;/i&gt;&lt;/span&gt;(2), 025002.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ108_JPD_47_025002_2014-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ108_JPD_47_025002_2014-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ108_JPD_47_025002_2014-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1088/0022-3727/47/2/025002&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ108_JPD_47_025002_2014.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ108_JPD_47_025002_2014-abstract&quot; class=&quot;collapse&quot;&gt;We study resonant tunnelling effects that can occur in trilayer structures featuring a dielectric layer sandwiched between two magneto-optical(MO)-metal layers. We show that the resonance splitting associated with these phenomena can be exploited to enhance Faraday rotation at optical frequencies. Our results indicate that, in the presence of realistic loss levels, a tri-layer structure of subwavelength thickness is capable of yielding sensible (\(∼10^o\)) Faraday rotation with transmittance levels that are an order of magnitude larger than those attainable with a standalone slab of MO metal of the same thickness.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ108_JPD_47_025002_2014-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ108_JPD_47_025002_2014,
+  author = {Moccia, Massimo and Castaldi, Giuseppe and Galdi, Vincenzo and Al{\`u}, Andrea and Engheta, Nader},
+  title = {Enhanced Faraday rotation via resonant tunnelling in tri-layers containing magneto-optical metals},
+  journal = {Journal of Physics D: Applied Physics},
+  volume = {47},
+  number = {2},
+  pages = {025002},
+  url = {http://stacks.iop.org/0022-3727/47/i=2/a=025002},
+  doi = {10.1088/0022-3727/47/2/025002},
+  year = {2014},
+  month = jan
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ110_JAP_115_043107_2014&quot;&gt;Moccia, M., Castaldi, G., Galdi, V., Alù, A., &amp;amp; Engheta, N. (2014). Optical isolation via unidirectional resonant photon tunneling. &lt;i&gt;Journal of Applied Physics&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;115&lt;/i&gt;&lt;/span&gt;(4), 043107.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ110_JAP_115_043107_2014-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ110_JAP_115_043107_2014-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ110_JAP_115_043107_2014-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1063/1.4862977&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ110_JAP_115_043107_2014.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ110_JAP_115_043107_2014-abstract&quot; class=&quot;collapse&quot;&gt;We show that tri-layer structures combining epsilon-negative and magneto-optical material layers can exhibit unidirectional resonant photon tunneling phenomena that can discriminate between circularly polarized (CP) waves of given handedness impinging from opposite directions, or between CP waves with different handedness impinging from the same direction. This physical principle, which can also be interpreted in terms of a Fabry-Perot-type resonance, may be utilized to design compact optical isolators for CP waves. Within this framework, we derive simple analytical conditions and design formulae, and quantitatively assess the isolation performance, also taking into account the unavoidable imperfections and nonidealities.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ110_JAP_115_043107_2014-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ110_JAP_115_043107_2014,
+  author = {Moccia, Massimo and Castaldi, Giuseppe and Galdi, Vincenzo and Al\`u, Andrea and Engheta, Nader},
+  title = {Optical isolation via unidirectional resonant photon tunneling},
+  journal = {Journal of Applied Physics},
+  volume = {115},
+  number = {4},
+  pages = {043107},
+  year = {2014},
+  month = feb,
+  doi = {10.1063/1.4862977},
+  url = {http://dx.doi.org/10.1063/1.4862977}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://fw-lab.org/projects/nonreciprocal-MTM</link>
+                <guid>http://fw-lab.org/projects/nonreciprocal-MTM</guid>
+                <pubDate>2017-02-04T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Extreme-parameter metamaterials</title>
+                <description>
+&lt;p&gt;Metamaterials with &lt;em&gt;extreme parameters&lt;/em&gt; (e.g., very small or very large components of the constitutive 
+tensors) are of interest in many important applications.
+For instance, metallo-dielectric multilayers characterized by extreme anisotropy 
+convert evanescent spectral components with large transverse wavenumbers into propagating waves, thereby
+exhibiting intriguing subwavelength focusing effects that are of great interest in imaging applications. 
+More recently, the use of obliquely layered structures has been proposed in order to achieve simple 
+image manipulation (lateral displacement) with subwavelength resolution.&lt;/p&gt;
+
+&lt;p&gt;With the exception of few cases for which analytical approximations of 
+the Green’s function can be worked out, the imaging properties (e.g., resolution) 
+of the above configurations need to be assessed numerically.&lt;/p&gt;
+
+&lt;p&gt;In a study in collaboration with &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/)&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania) and
+&lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt; (University of Texas at Austin)
+[&lt;a href=&quot;#IJ101_PRB_86_115123_2012&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we studied in detail a slab of uniaxial 
+&lt;em&gt;epsilon-near-zero&lt;/em&gt; metamaterial with tilted optical axis, as schematized in the figure top panel. 
+(Also shown are the typical elliptic and hyperbolic equifrequency contours in the global 
+and rotated spectral reference systems).&lt;/p&gt;
+
+&lt;p&gt;In particular, we derived a closed-form analytical solution for the Green’s function in terms 
+of special cylindrical functions. These functions can be efficiently computed via well-established numerical schemes, 
+yielding computational savings up to nearly three orders of magnitudes by comparison with brute-force numerical 
+quadrature of the corresponding spectral integrals. Moreover, in the near-field parameter range of interest, 
+they can be conveniently approximated in terms of simple analytical functions.
+Validation and calibration of our results against a numerical-integration-based reference solution 
+confirmed the applicability of our solution to subwavelength imaging scenarios with low-loss constitutive parameters 
+that are within reach of current (e.g., gain-assisted) technologies. 
+We have employed this solution to analyze the imaging properties of anisotropic epsilon-near-zero metamaterial 
+slabs varying the design parameters and tilt angle. The figure bottom panel illustrates some
+representative results, in terms of intensity
+maps (within and beyond the image plane), for the optical axis angle varying from 0 to 75°
+with step of 15°.&lt;/p&gt;
+
+&lt;p&gt;Our results shed new light on the subwavelength imaging properties of epsilon-near-zero metamaterial 
+slabs and allow tailoring their properties without the need of extensive numerical simulations.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ101_PRB_86_115123_2012&quot;&gt;Castaldi, G., Savoia, S., Galdi, V., Alù, A., &amp;amp; Engheta, N. (2012). Analytical study of subwavelength imaging by uniaxial epsilon-near-zero metamaterial slabs. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;86&lt;/i&gt;&lt;/span&gt;(11), 115123.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ101_PRB_86_115123_2012-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ101_PRB_86_115123_2012-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ101_PRB_86_115123_2012-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.86.115123&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ101_PRB_86_115123_2012.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ101_PRB_86_115123_2012-abstract&quot; class=&quot;collapse&quot;&gt;We discuss the imaging properties of uniaxial epsilon-near-zero metamaterial slabs with possibly tilted optical axis, analyzing their subwavelength focusing properties as a function of the design parameters. We derive in closed analytical form the associated two-dimensional Green’s function in terms of special cylindrical functions. For the near-field parameter ranges of interest, we are also able to derive a small-argument approximation in terms of simpler analytical functions. Our results, validated and calibrated against a full-wave reference solution, expand the analytical tools available for computationally efficient and physically incisive modeling and design of metamaterial-based subwavelength imaging systems.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ101_PRB_86_115123_2012-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ101_PRB_86_115123_2012,
+  title = {Analytical study of subwavelength imaging by uniaxial epsilon-near-zero metamaterial slabs},
+  author = {Castaldi, Giuseppe and Savoia, Silvio and Galdi, Vincenzo and Al\`u, Andrea and Engheta, Nader},
+  journal = {Physical Review B},
+  volume = {86},
+  issue = {11},
+  pages = {115123},
+  numpages = {10},
+  year = {2012},
+  month = sep,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.86.115123},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.86.115123}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://fw-lab.org/projects/extreme-parameter_MTM</link>
+                <guid>http://fw-lab.org/projects/extreme-parameter_MTM</guid>
+                <pubDate>2017-02-04T00:00:00+01:00</pubDate>
         </item>
 
         <item>
