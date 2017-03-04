@@ -5,54 +5,35 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2017-02-20T22:55:04+01:00</lastBuildDate>
-        <pubDate>2017-02-20T22:55:04+01:00</pubDate>
+        <lastBuildDate>2017-03-04T22:33:34+01:00</lastBuildDate>
+        <pubDate>2017-03-04T22:33:34+01:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
-                <title>Our paper on non-Hermitian metasurfaces accepted in PRB</title>
-                <description>&lt;p&gt;Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
- metasurfaces,”
-in collaboration with &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (University of Texas at Austin),
-has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;An &lt;a href=&quot;http://arxiv.org/abs/1702.04101&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;
-
-</description>
-                <link>http://fw-lab.org/news/PRB-paper-NH-MS-accepted</link>
-                <guid>http://fw-lab.org/news/PRB-paper-NH-MS-accepted</guid>
-                <pubDate>2017-02-15T00:00:00+01:00</pubDate>
-        </item>
-
-        <item>
                 <title>Metamaterial-based analog computing</title>
                 <description>
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;“It’s a very imaginative application of metamaterials – it takes things off in a completely new direction.&lt;/em&gt;
-&lt;em&gt;Although image-processing is the obvious application, the basic mathematical tools could also be used to solve equations.&lt;/em&gt;
-&lt;em&gt;These techniques could be adapted to do that.”&lt;/em&gt;&lt;/p&gt;
-  &lt;p style=&quot;text-align: right;&quot;&gt; Professor Sir John Pendry, Imperial College &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In collaboration with the Groups led by Profs. &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/)&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania) 
-and &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt; (University of Texas at Austin), our Group 
-has put forward a general paradigm of “metamaterial analog computing” [&lt;a href=&quot;#IJ109_Science_343_160_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], 
+&lt;p&gt;In collaboration with the Groups led by &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/)&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania) 
+and &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt; (University of Texas at Austin), we
+have put forward a general paradigm of “metamaterial analog computing” [&lt;a href=&quot;#IJ109_Science_343_160_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], 
 in which properly designed metamaterial blocks may perform ubiquitous mathematical operations, 
 such as spatial differentiation, integration or convolution, on the profile of the impinging light as 
-it propagates through them (see the conceptual schematic in the figure).&lt;/p&gt;
+it propagates through them (see the conceptual schematic in the figure top panel).&lt;/p&gt;
 
 &lt;p&gt;Our idea is inspired by the earlier “calculating machines” in the form of mechanical, electronic, and hybrid analog computers, 
 which have been designed in the past to perform prescribed mathematical computations. 
 These solutions suffered from substantial limitations, including relatively large size and slow response, 
 and were quickly dropped with the advances on digital computers.&lt;/p&gt;
 
-&lt;p&gt;The bottom panel of the figure illustrates a possible application of our proposed 
+&lt;p&gt;The figure bottom panel illustrates a possible application of our proposed 
 “computational metamaterials” as a Laplace filter for edge detection, 
 an increasingly common image processing technique that helps software find faces and identify objects in pictures.&lt;/p&gt;
 
 &lt;p&gt;These structures may be of subwavelength size, and several orders of magnitude smaller than conventional 
-lens-based optical signal processing systems.&lt;/p&gt;
+lens-based optical signal processing systems. 
+ In particular, we have proposed two possible architectures: specially designed subwavelength metasurfaces that 
+ operate in the spatial Fourier domain, combined with graded-index (GRIN) slabs or fibers; 
+ and layered metamaterials that engineer the desired operator’s Green’s function directly in the space domain.&lt;/p&gt;
 
 &lt;p&gt;These results (included as one of the Highlights in Optics in 2014 in &lt;a href=&quot;http://www.osa-opn.org/home/articles/volume_25/december_2014/extras/doing_math_with_light/&quot;&gt;“Optics &amp;amp; Photonics News”&lt;/a&gt;) may pave 
 the way to a re-birth of optical analog computers, but at the nanoscale, 
@@ -117,11 +98,224 @@ to several fields of science and engineering.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/projects/computational-MTM</link>
                 <guid>http://fw-lab.org/projects/computational-MTM</guid>
-                <pubDate>2017-02-11T00:00:00+01:00</pubDate>
+                <pubDate>2017-02-20T00:00:00+01:00</pubDate>
         </item>
 
         <item>
-                <title>Ray-chaotic “billiard” enclosures</title>
+                <title>Multiphysics metamaterials</title>
+                <description>
+&lt;p&gt;During the past few years, the &lt;a href=&quot;/projects/TO-MTM&quot;&gt;transformation-optics&lt;/a&gt; approach has been also successfully applied 
+to the manipulation of a variety of other different physical quantities like acoustic and elastic waves, 
+static magnetic and electric fields, and heat flux, in view of the mounting interest towards metamaterials 
+beyond electromagnetics.&lt;/p&gt;
+
+&lt;p&gt;Although it seems suggestive to coherently exploit these various approaches to design 
+multifunctional devices capable of performing multiple functions in different physical domains, 
+most studies available in the literature deal with the design of a single functionality in a given physical domain.&lt;/p&gt;
+
+&lt;p&gt;In collaboration with &lt;a href=&quot;http://www2.rowland.harvard.edu/people/yuki-sato&quot;&gt;Yuki Sato&lt;/a&gt;’s Group (Harvard University), 
+we have recently introduced an approach to the design of metamaterial shells 
+capable of governing different physicals phenomena in an independent fashion [&lt;a href=&quot;#IJ112_PRX_4_021025_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
+
+&lt;p&gt;From the mathematical viewpoint, our relies on the well-known coordinate-transformation framework. 
+Viewing the rerouting of energy flow as a distortion of space from a coordinate transformation, 
+this technique provides a powerful and systematic recipe for designing and fabricating artificial 
+structures that can mold the flow of a given physical quantity in a desired fashion.&lt;/p&gt;
+
+&lt;p&gt;Conventionally, this theory is applied to a single physical domain. 
+In our approach, we instead exploit separate but intertwined coordinate transformations to 
+simultaneously manipulate multiple physical phenomena in independent fashions. 
+Thus, for instance, a material may be designed to exhibit a particular thermal functionality while 
+its electrical functionality is made drastically different.&lt;/p&gt;
+
+&lt;p&gt;As a proof-of-concept example, we have synthesized and designed
+ a metamaterial shell that behaves simultaneously as a thermal concentrator and an electrical invisibility 
+ cloak. In such a shell, the thermal and electrical currents follow markedly different paths, 
+ with the former concentrating in the inner region and the latter circumventing that region, as schematized
+ in the figure top panel. The bottom panel shows instead the thermal and electrical responses, which exhibit 
+ the expected behaviors.&lt;/p&gt;
+
+&lt;p&gt;Although the results of this study are based on theory and numerical simulations, 
+they do indicate that practical realization of these metamaterials should be within 
+reach of current fabrication technologies. Our numerical simulations indeed show that they 
+can be fabricated by means of small sub-blocks made of realistic materials, 
+such as aluminum nitride and silver conductive epoxies.&lt;/p&gt;
+
+&lt;p&gt;Such design may be considered as a first step towards a more general 
+ framework that could be defined as “transformation-multiphysics”, which may be in principle extended and applied 
+ to a variety of electrical, magnetic, acoustic, and thermal systems in various combinations, 
+ and may be integrated in advanced materials, spanning multiple orders of magnitude in material scales.&lt;/p&gt;
+
+&lt;p&gt;Besides serving as a proof-of-principle, the independent manipulation of electrical and thermal currents 
+ is also very important from the application viewpoint.
+ One particularly intriguing application is the engineering of thermoelectric materials, 
+ which hold great promises for energy recycling, by converting waste heat 
+ (e.g., generated by the CPU of a computer) into additional electrical power. 
+ For these materials, the independent control of electrical and thermal conductivities is of paramount importance, 
+ and it may affect the figure of merit in ways unexplored in the past.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ112_PRX_4_021025_2014&quot;&gt;Moccia, M., Castaldi, G., Savo, S., Sato, Y., &amp;amp; Galdi, V. (2014). Independent manipulation of heat and electrical current via bifunctional metamaterials. &lt;i&gt;Physical Review X&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;4&lt;/i&gt;&lt;/span&gt;(2), 021025.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ112_PRX_4_021025_2014-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ112_PRX_4_021025_2014-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ112_PRX_4_021025_2014-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevX.4.021025&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ112_PRX_4_021025_2014.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ112_PRX_4_021025_2014-abstract&quot; class=&quot;collapse&quot;&gt;Spatial tailoring of the material constitutive properties is a well-known strategy to mold the local flow of given observables in different physical domains. Coordinate-transformation-based methods (e.g., transformation optics) offer a powerful and systematic approach to design anisotropic, spatially inhomogeneous artificial materials (metamaterials) capable of precisely manipulating wave-based (electromagnetic, acoustic, elastic) as well as diffusion-based (heat) phenomena in a desired fashion. However, as versatile as these approaches have been, most designs have thus far been limited to serving single-target functionalities in a given physical domain. Here, we present a step towards a “transformation multiphysics” framework that allows independent and simultaneous manipulation of multiple physical phenomena. As a proof of principle of this new scheme, we design and synthesize (in terms of realistic material constituents) a metamaterial shell that simultaneously behaves as a thermal concentrator and an electrical “invisibility cloak.” Our numerical results open up intriguing possibilities in the largely unexplored phase space of multifunctional metadevices, with a wide variety of potential applications to electrical, magnetic, acoustic, and thermal scenarios.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ112_PRX_4_021025_2014-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ112_PRX_4_021025_2014,
+  title = {Independent manipulation of heat and electrical current via bifunctional metamaterials},
+  author = {Moccia, Massimo and Castaldi, Giuseppe and Savo, Salvatore and Sato, Yuki and Galdi, Vincenzo},
+  journal = {Physical Review X},
+  volume = {4},
+  issue = {2},
+  pages = {021025},
+  numpages = {14},
+  year = {2014},
+  month = may,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevX.4.021025},
+  url = {http://link.aps.org/doi/10.1103/PhysRevX.4.021025}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://fw-lab.org/projects/multiphysics-MTM</link>
+                <guid>http://fw-lab.org/projects/multiphysics-MTM</guid>
+                <pubDate>2017-02-19T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Optical fiber meta-tips</title>
+                <description>
+&lt;p&gt;Metasurfaces are 2-D implementations of metamaterials that are eliciting a growing attention in view the
+inherent simplification in the fabrication process, by comparison with three-dimensional bulk nanostructures, and their 
+compatibility with on-chip photonics. Taking inspiration from reflect/transmit-array radio-frequency antennas,
+typical metasurface implementations rely on two-dimensional arrays of resonators which can locally impress abrupt phase and 
+amplitude variations in an impinging wavefront, while maintaining a deeply-subwavelength profile by exploiting
+plasmonic or high-index dielectric nanoantennas.&lt;/p&gt;
+
+&lt;p&gt;A possible development of strategic importance is the metasurface integration with fiber-
+optics technology. This fits naturally within the recently emerged &lt;em&gt;lab-on-fiber&lt;/em&gt; technology, which envisions the
+integration of optical fibers with nanophotonic and/or nanoplasmonic platforms enabling for nanoscale control of
+light, thereby substantially expanding the functionalities of conventional and specialty fibers, with potential
+applications ranging from optical processing to environmental monitoring, life science, safety and security.&lt;/p&gt;
+
+&lt;p&gt;In collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group (University of Sannio),
+we presented in [&lt;a href=&quot;#Principe-2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] a first proof-of-principle example of a “meta-tip”, featuring 
+a plasmonic metasurface integrated on the tip of an optical fiber, as schematized in the figure top panel.
+The metasurface was designed so as to impress a linear phase (constant gradient) profile along an in-plane direction. As
+typical for metasurface implementations based on a single layer of plasmonic nanoantennas, in order to achieve a full 
+ excursion in the desired phase distribution for the transmitted field, we exploited a polarization-conversion mechanism. 
+ In our case, a light beam paraxially impinging from the fiber core is split into an
+ordinary and an anomalous beam, with the former essentially unaffected in shape, direction and polarization,
+and the latter steered of an angle \(\theta_t\) along the gradient direction and orthogonally polarized. 
+The figure top panel also illustrates the generalized Snell’s laws governing this phenomenon, as well as 
+unit-cell of our Babinet-inverted metasurface, consisting of a rectangular aperture nanoantenna 
+(rotated by an angle of 45° in the x-y plane) in a 50nm-thick gold film.
+The center panels show the scanning-electron-microscope images of a meta-tip prototype fabricated in
+collaboration with the &lt;a href=&quot;http://sles11web.imm.cnr.it&quot;&gt;CNR Institute for Microelectronics and Microsystems&lt;/a&gt; and the &lt;a href=&quot;http://uttp.enea.it/index.asp?p=12&amp;amp;t=Materiali%20e%20nuove%20tecnologie&quot;&gt;ENEA UTTP-MDB&lt;/a&gt;, via 
+focused-ion-beam milling.
+The bottom panels illustrates the results of the far-field characterization, without polarization control. 
+There is a very good correspondence between the main and secondary peaks in the
+numerical profiles with those in the experimental intensity maps, from which we can unambiguously associate the main peak
+with the ordinary (co-polarized) beam, and the secondary peak with the anomalous beam. Moreover, the numerically-computed total field intensities averaged over x- and y-polarized illuminations (dashed magenta
+curves) are in fairly good agreement with the experimental intensity profiles (solid black curves).
+We also carried out polarization-controlled measurements, which confirmed the theoretically predicted response.&lt;/p&gt;
+
+&lt;p&gt;This proof-of-principle meta-tip demonstration paves the way to the integration of the exceptional field-manipulation
+capabilities enabled by metasurfaces within the emerging lab-on-fiber technologies. Also of great interest is the excitation
+of novel type of surface waves for label-free &lt;a href=&quot;/projects/MTM_optical-sensing&quot;&gt;sensing applications&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Principe-2016&quot;&gt;Principe, M., Consales, M., Micco, A., Crescitelli, A., Castaldi, G., Esposito, E., … Cusano, A. (2016, September). &lt;i&gt;Optical fiber meta-tips&lt;/i&gt;.&lt;/span&gt;
+
+
+&lt;div id=&quot;Principe-2016-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Principe-2016-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+	&lt;li&gt;&lt;a href=&quot;http://aap.nature-lsa.cn:8080/cms/accessory/files/AAP-lsa2016226.pdf&quot;&gt;preprint&lt;/a&gt;&lt;/li&gt;
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Principe-2016-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@unpublished{Principe-2016,
+  author = {Principe, M. and Consales, M. and Micco, A. and Crescitelli, A. and Castaldi, G. and Esposito, E. and Ferrara, V. La and Cutolo, A. and Galdi, V. and Cusano, A.},
+  title = {Optical fiber meta-tips},
+  year = {2016},
+  month = sep,
+  preprint = {http://aap.nature-lsa.cn:8080/cms/accessory/files/AAP-lsa2016226.pdf}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://fw-lab.org/projects/meta-tip</link>
+                <guid>http://fw-lab.org/projects/meta-tip</guid>
+                <pubDate>2017-02-18T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Our paper on non-Hermitian metasurfaces accepted in PRB</title>
+                <description>&lt;p&gt;Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
+ metasurfaces,”
+in collaboration with &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (University of Texas at Austin),
+has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;An &lt;a href=&quot;http://arxiv.org/abs/1702.04101&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/news/PRB-paper-NH-MS-accepted</link>
+                <guid>http://fw-lab.org/news/PRB-paper-NH-MS-accepted</guid>
+                <pubDate>2017-02-15T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Ray-chaotic “billiard” cavities</title>
                 <description>
 &lt;p&gt;Ray chaos, i.e., exponential sensitivity of ray trajectories to launching conditions, 
 could intuitively be expected in very complex and cluttered propagation scenarios 
@@ -145,7 +339,7 @@ a multitude of plane waves, with fixed wavevector amplitude, and uniform directi
 short-pulse electromagnetic wavepacket propagation in ray-chaotic enclosures, 
 via a numerical approach based on the finite difference time domain (FDTD) method.&lt;/p&gt;
 
-&lt;p&gt;The figure (top panel) shows the quarter-Sinai-stadium configuration considered, with a 
+&lt;p&gt;The figure top panel shows the quarter-Sinai-stadium configuration considered, with a 
 typical space-filling ray trajectory (after 250 reflections), and a map illustrating 
 the uniform filling of the phase-space (reflection position vs. direction).&lt;/p&gt;
 
@@ -278,7 +472,9 @@ as well as the synthetic emulation of multi-path wireless channels.&lt;/p&gt;
                 <description>
 &lt;p&gt;Our Group has been among the pioneers in the application of aperiodically ordered structures in electromagnetics.&lt;/p&gt;
 
-&lt;p&gt;More specifically, in [&lt;a href=&quot;#IJ28_IEEE_TAP_53_635_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we first introduced the concept of “aperiodic tiling” in the theory of antenna arrays. 
+&lt;p&gt;In [&lt;a href=&quot;#IJ28_IEEE_TAP_53_635_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], 
+in collaboration with the late Prof. &lt;a href=&quot;https://en.wikipedia.org/wiki/Leopold_B._Felsen&quot;&gt;Leo Felsen&lt;/a&gt; (Boston University),
+ we first introduced the concept of “aperiodic tiling” in the theory of antenna arrays. 
 This study clarifies some fundamental theoretical aspects related to the effects of “order” and “symmetry” 
 in the radiation characteristics. Moreover, it identifies certain aperiodic configurations particularly 
 interesting in terms of bandwidth and sidelobe level.&lt;/p&gt;
@@ -560,6 +756,7 @@ the element scattering responde, and the array size.&lt;/p&gt;
   
     
 &lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
 </description>
                 <link>http://fw-lab.org/projects/aperiodic-tiling_arrays</link>
                 <guid>http://fw-lab.org/projects/aperiodic-tiling_arrays</guid>
@@ -810,7 +1007,9 @@ fiber-optics sensors, and nanotechnologies.&lt;/p&gt;
 &lt;p&gt;Other intriguing examples of ray chaos can be found in &lt;em&gt;open&lt;/em&gt; configurations such as (n&amp;gt;3)-disk “pinballs”, 
 or appropriately configured inhomogeneous refractive media with ray-trapping properties.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ29_IEEE_TAP_53_753_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we 
+&lt;p&gt;In [&lt;a href=&quot;#IJ29_IEEE_TAP_53_753_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], 
+in collaboration with the late Prof. &lt;a href=&quot;https://en.wikipedia.org/wiki/Leopold_B._Felsen&quot;&gt;Leo Felsen&lt;/a&gt; (Boston University),
+we 
 studied a two-dimensional test example of such an environment 
 which embodies intimately coupled refractive wave-trapping and periodicity-induced multiple 
 scattering phenomenologies, and which is amenable to explicit full-wave analysis. 
@@ -947,120 +1146,10 @@ is the possible exploitation of the inherent richness and complexity of the RCS 
   
     
 &lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
 </description>
                 <link>http://fw-lab.org/projects/pinball-scatterers</link>
                 <guid>http://fw-lab.org/projects/pinball-scatterers</guid>
-                <pubDate>2017-02-10T00:00:00+01:00</pubDate>
-        </item>
-
-        <item>
-                <title>Multiphysics metamaterials</title>
-                <description>
-&lt;p&gt;During the past few years, the &lt;a href=&quot;/projects/TO-MTM&quot;&gt;transformation-optics&lt;/a&gt; approach has been also successfully applied 
-to the manipulation of a variety of other different physical quantities like acoustic and elastic waves, 
-static magnetic and electric fields, and heat flux, in view of the mounting interest towards metamaterials 
-beyond electromagnetics.&lt;/p&gt;
-
-&lt;p&gt;Although it seems suggestive to coherently exploit these various approaches to design 
-multifunctional devices capable of performing multiple functions in different physical domains, 
-most studies available in the literature deal with the design of a single functionality in a given physical domain.&lt;/p&gt;
-
-&lt;p&gt;In collaboration with Dr. &lt;a href=&quot;http://www2.rowland.harvard.edu/people/yuki-sato&quot;&gt;Yuki Sato&lt;/a&gt;’s Group (Harvard University), 
-our Group has recently introduced an approach to the design of metamaterial shells 
-capable of governing different physicals phenomena in an independent fashion [&lt;a href=&quot;#IJ112_PRX_4_021025_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
-
-&lt;p&gt;From the mathematical viewpoint, our relies on the well-known coordinate-transformation framework. 
-Viewing the rerouting of energy flow as a distortion of space from a coordinate transformation, t
-his technique provides a powerful and systematic recipe for designing and fabricating artificial 
-structures that can mold the flow of a given physical quantity in a desired fashion.&lt;/p&gt;
-
-&lt;p&gt;Conventionally, this theory is applied to a single physical domain. 
-In our approach, we instead exploit separate but intertwined coordinate transformations to 
-simultaneously manipulate multiple physical phenomena in independent fashions. 
-Thus, for instance, a material may be designed to exhibit a particular thermal functionality while 
-its electrical functionality is made drastically different.&lt;/p&gt;
-
-&lt;p&gt;As a proof-of-concept example, we have synthesized and designed
- a metamaterial shell that behaves simultaneously as a thermal concentrator and an electrical invisibility 
- cloak. In such a shell, the thermal and electrical currents follow markedly different paths, 
- with the former concentrating in the inner region and the latter circumventing that region, as schematized
- in the figure top panel. The bottom panel shows instead the thermal and electrical responses, which exhibit 
- the expected behaviors.&lt;/p&gt;
-
-&lt;p&gt;Although the results of this study are based on theory and numerical simulations, 
-they do indicate that practical realization of these metamaterials should be within 
-reach of current fabrication technologies. Our numerical simulations indeed show that they 
-can be fabricated by means of small sub-blocks made of realistic materials, 
-such as aluminum nitride and silver conductive epoxies.&lt;/p&gt;
-
-&lt;p&gt;Such design may be considered as a first step towards a more general 
- framework that could be defined as “transformation-multiphysics”, which may be in principle extended and applied 
- to a variety of electrical, magnetic, acoustic, and thermal systems in various combinations, 
- and may be integrated in advanced materials, spanning multiple orders of magnitude in material scales.&lt;/p&gt;
-
-&lt;p&gt;Besides serving as a proof-of-principle, the independent manipulation of electrical and thermal currents 
- is also very important from the application viewpoint.
- One particularly intriguing application is the engineering of thermoelectric materials, 
- which hold great promises for energy recycling, by converting waste heat 
- (e.g., generated by the CPU of a computer) into additional electrical power. 
- For these materials, the independent control of electrical and thermal conductivities is of paramount importance, 
- and it may affect the figure of merit in ways unexplored in the past.&lt;/p&gt;
-
-&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ112_PRX_4_021025_2014&quot;&gt;Moccia, M., Castaldi, G., Savo, S., Sato, Y., &amp;amp; Galdi, V. (2014). Independent manipulation of heat and electrical current via bifunctional metamaterials. &lt;i&gt;Physical Review X&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;4&lt;/i&gt;&lt;/span&gt;(2), 021025.&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ112_PRX_4_021025_2014-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ112_PRX_4_021025_2014-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ112_PRX_4_021025_2014-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevX.4.021025&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ112_PRX_4_021025_2014.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ112_PRX_4_021025_2014-abstract&quot; class=&quot;collapse&quot;&gt;Spatial tailoring of the material constitutive properties is a well-known strategy to mold the local flow of given observables in different physical domains. Coordinate-transformation-based methods (e.g., transformation optics) offer a powerful and systematic approach to design anisotropic, spatially inhomogeneous artificial materials (metamaterials) capable of precisely manipulating wave-based (electromagnetic, acoustic, elastic) as well as diffusion-based (heat) phenomena in a desired fashion. However, as versatile as these approaches have been, most designs have thus far been limited to serving single-target functionalities in a given physical domain. Here, we present a step towards a “transformation multiphysics” framework that allows independent and simultaneous manipulation of multiple physical phenomena. As a proof of principle of this new scheme, we design and synthesize (in terms of realistic material constituents) a metamaterial shell that simultaneously behaves as a thermal concentrator and an electrical “invisibility cloak.” Our numerical results open up intriguing possibilities in the largely unexplored phase space of multifunctional metadevices, with a wide variety of potential applications to electrical, magnetic, acoustic, and thermal scenarios.&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ112_PRX_4_021025_2014-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ112_PRX_4_021025_2014,
-  title = {Independent manipulation of heat and electrical current via bifunctional metamaterials},
-  author = {Moccia, Massimo and Castaldi, Giuseppe and Savo, Salvatore and Sato, Yuki and Galdi, Vincenzo},
-  journal = {Physical Review X},
-  volume = {4},
-  issue = {2},
-  pages = {021025},
-  numpages = {14},
-  year = {2014},
-  month = may,
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevX.4.021025},
-  url = {http://link.aps.org/doi/10.1103/PhysRevX.4.021025}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
-</description>
-                <link>http://fw-lab.org/projects/multiphysics-MTM</link>
-                <guid>http://fw-lab.org/projects/multiphysics-MTM</guid>
                 <pubDate>2017-02-10T00:00:00+01:00</pubDate>
         </item>
 
@@ -1233,7 +1322,10 @@ By properly tailoring the spatial profile of materials, it is possible to bend l
 so as to locally follow a given coordinate-distorted reference frame and to re-route the illumination around an object, 
 making it &lt;em&gt;effectively invisible&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ98_PRL_108_063902_2012&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we have extended the potential of this approach by enabling the manipulation and control of 
+&lt;p&gt;In [&lt;a href=&quot;#IJ98_PRL_108_063902_2012&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], in collaboration with 
+&lt;a href=&quot;https://www.seas.upenn.edu/~engheta/)&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania) 
+and &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt; (University of Texas at Austin),
+we have extended the potential of this approach by enabling the manipulation and control of 
 &lt;em&gt;nonlocal&lt;/em&gt; light-matter interactions, which are becoming increasingly relevant in a variety of metamaterial applications, 
 including artificial magnetism and ultrafast nonlinear optics. 
 Instead of spatially-changing refractive properties, we proposed a framework of “transformation media” 
@@ -1478,7 +1570,7 @@ of dielectric rods, with special emphasis on their use for the design of cavitie
 We also highlighted the possible advantages of using hybrid structures based on the above dielectric configurations, 
 but featuring metallic rods in the outermost regions, for the design of extremely high quality factor, 
 bandgap-based, accelerating resonators. 
-Moreover, we also explore possible improvements attainable via the use of superconducting plates to 
+Moreover, we also explored possible improvements attainable via the use of superconducting plates to 
 confine the electromagnetic field in the longitudinal direction.&lt;/p&gt;
 
 &lt;p&gt;In [&lt;a href=&quot;#IJ52_PNFA_6_1_2008&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;7&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#IJ54_PRB_77_193104_2008&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;8&lt;/span&gt;&lt;/a&gt;], 
@@ -2741,14 +2833,15 @@ In the latter view, an ideal scenario would be to have the system designed in su
 could be amplified and not only the local material characteristics but also the collective device property 
 can be drastically manipulated with environmental stimuli&lt;/p&gt;
 
-&lt;p&gt;In a study [&lt;a href=&quot;#IJ115_PRB_91_134105_2015&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] in collaboration with the Groups led by Dr. &lt;a href=&quot;http://www2.rowland.harvard.edu/people/yuki-sato&quot;&gt;Yuki Sato&lt;/a&gt; and 
-Prof. &lt;a href=&quot;http://shriram-ramanathan.org&quot;&gt;Shriram Ramanathan&lt;/a&gt; (Harvard University), we demonstrated 
+&lt;p&gt;In a study [&lt;a href=&quot;#IJ115_PRB_91_134105_2015&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] in collaboration with the Groups led by &lt;a href=&quot;http://www2.rowland.harvard.edu/people/yuki-sato&quot;&gt;Yuki Sato&lt;/a&gt; and 
+&lt;a href=&quot;http://shriram-ramanathan.org&quot;&gt;Shriram Ramanathan&lt;/a&gt; (Harvard University), we demonstrated 
 for the first time a metamaterial electric circuit integrated onto a silicon wafer that can dynamically 
 reconfigure the preferred conduction paths. This is enabled by introducing a correlated electron oxide thin film that undergoes a 
 sharp thermally-induced insulator-metal transition in the circuit.&lt;/p&gt;
 
 &lt;p&gt;The tunable metamaterial is designed with the aid of two interwoven 
-coordinate-transformation equations and implemented with a network of thin-film resistors and vanadium dioxide (\(VO_2\)), as shown in the figure top panels. 
+coordinate-transformation equations and implemented with a network of thin-film resistors and vanadium dioxide (\(VO_2\)), 
+as shown in the figure top panels. 
 The strong temperature dependence of \(VO_2\) electrical conductivity results in a significant modification of the resistor network behavior, 
 and we provided experimental evidence for a reconfigurable metamaterial electric circuit that not only mimics a continuous medium, 
 but is also capable of responding to thermal stimulation through dynamic variation of its spatial anisotropy.&lt;/p&gt;
@@ -3362,7 +3455,7 @@ the stacking of alternating subwavelength layers with negative and positive perm
  in the misprediction of additional extraordinary waves, as well as of the broadband Purcell effect.&lt;/p&gt;
 
 &lt;p&gt;Although the effective-medium-theory model describing the local response is independent of the positional 
- order of the layers and depends only on the permittivities of the two constituents and their filling fractions. However, 
+ order of the layers and depends only on the permittivities of the two constituents and their filling fractions, 
 one would intuitively expect the positional order of the layers to sensibly affect the nonlocal response.&lt;/p&gt;
 
 &lt;p&gt;Within this framework, in [&lt;a href=&quot;#IJ105_PRB_87_235116_2013&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we studied the nonlocal response of hyperbolic metamaterials 
@@ -3486,6 +3579,8 @@ This prototype study paves the way for a new class of miniaturized high-performa
 fiber-optic devices for high-resolution label-free optical biosensing, and represents an important step 
 forward in the “lab-on-fiber” technology roadmap.&lt;/p&gt;
 
+&lt;p&gt;We have also explored the sensing capabilities of optical-fiber &lt;a href=&quot;/projects/meta-tip&quot;&gt;meta-tips&lt;/a&gt;.&lt;/p&gt;
+
 &lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ106_OpEx_21_23531_2013&quot;&gt;Savoia, S., Ricciardi, A., Crescitelli, A., Granata, C., Esposito, E., Galdi, V., &amp;amp; Cusano, A. (2013). Surface sensitivity of Rayleigh anomalies in metallic nanogratings. &lt;i&gt;Optics Express&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;21&lt;/i&gt;&lt;/span&gt;(20), 23531–23542.&lt;/span&gt;
 
@@ -3603,7 +3698,11 @@ epsilon-negative and mu-negative media can give rise to resonant tunneling pheno
 (with total transmission and zero phase delay) when paired as a bilayer. 
 Starting from this basic configuration, several extensions and generalizations can be investigated.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ93_PRB_83_081105_2011&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we studied another counterintuitive resonant tunneling mechanism, 
+&lt;p&gt;In [&lt;a href=&quot;#IJ93_PRB_83_081105_2011&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], 
+in collaboration with 
+&lt;a href=&quot;https://www.seas.upenn.edu/~engheta/)&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania) 
+and &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt; (University of Texas at Austin), 
+we studied another counterintuitive resonant tunneling mechanism, 
 which entails pairing an epsilon-negative slab with a bilayer made of &lt;em&gt;double-positive&lt;/em&gt; 
 (i.e., positive-permittivity and permeability) media. In particular, one of the two double-positive media 
 can be chosen arbitrarily (even vacuum), while the other may exhibit extreme (either near-zero or very high) 
@@ -3881,7 +3980,7 @@ we render the resonance conditions sensitive to the circular polarization handed
 &lt;p&gt;More specifically, in [&lt;a href=&quot;#IJ108_JPD_47_025002_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we studied the resonant tunnelling effects that can occur in 
 trilayer structures featuring a 
 dielectric layer sandwiched between two magneto-optical-metal (e.g., \(Co_6Ag_{94}\)) layers. 
-We show that the resonance splitting associated with these phenomena can be exploited to enhance 
+We showed that the resonance splitting associated with these phenomena can be exploited to enhance 
 Faraday rotation at optical frequencies. Our results indicate that, in the presence of realistic loss levels, 
 a tri-layer structure of subwavelength thickness is capable of yielding sensible (∼10◦) 
 Faraday rotation with transmittance levels that are an order of magnitude larger than those 
@@ -4030,8 +4129,8 @@ of the above configurations need to be assessed numerically.&lt;/p&gt;
 &lt;p&gt;In a study in collaboration with &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/)&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania) and
 &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt; (University of Texas at Austin)
 [&lt;a href=&quot;#IJ101_PRB_86_115123_2012&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we studied in detail a slab of uniaxial 
-&lt;em&gt;epsilon-near-zero&lt;/em&gt; metamaterial with tilted optical axis, as schematized in the figure top panel. 
-(Also shown are the typical elliptic and hyperbolic equifrequency contours in the global 
+&lt;em&gt;epsilon-near-zero&lt;/em&gt; metamaterial with tilted optical axis, as schematized in the figure top panel
+(also shown are the typical elliptic and hyperbolic equifrequency contours in the global 
 and rotated spectral reference systems).&lt;/p&gt;
 
 &lt;p&gt;In particular, we derived a closed-form analytical solution for the Green’s function in terms 
