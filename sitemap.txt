@@ -20,6 +20,7 @@ http://fw-lab.org/join
 http://fw-lab.org/pages
 http://fw-lab.org/rss.xml
 http://fw-lab.org/sitemap.txt
+http://fw-lab.org/sitemap.xml
 http://fw-lab.org/assets/themes/lab/less/style.less
 http://fw-lab.org/assets/themes/lab/css/style.css
 http://fw-lab.org/tags
