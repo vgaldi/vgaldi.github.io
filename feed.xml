@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-03-09T09:59:13+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on non-Hermitian metasurfaces published in PRB</title><link href="/news/PRB-paper-NH-MS-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian metasurfaces published in PRB" /><published>2017-03-09T00:00:00+01:00</published><updated>2017-03-09T00:00:00+01:00</updated><id>/news/PRB-paper-NH-MS-published</id><content type="html" xml:base="/news/PRB-paper-NH-MS-published">&lt;p&gt;Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-03-09T10:10:41+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on non-Hermitian metasurfaces published in PRB</title><link href="/news/PRB-paper-NH-MS-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian metasurfaces published in PRB" /><published>2017-03-09T00:00:00+01:00</published><updated>2017-03-09T00:00:00+01:00</updated><id>/news/PRB-paper-NH-MS-published</id><content type="html" xml:base="/news/PRB-paper-NH-MS-published">&lt;p&gt;Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
  metasurfaces” [&lt;a href=&quot;#IJ123_PRB_95_115114_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 in collaboration with &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (University of Texas at Austin),
 has been published in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ123_PRB_95_115114_2017&quot;&gt;Savoia, S., Valagiannopoulos, C. A., Monticone, F., Castaldi, G., Galdi, V., &amp;amp; Alù, A. (2017). Magnified imaging based on non-Hermitian nonlocal cylindrical metasurfaces. &lt;i&gt;Phys. Rev. B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;95&lt;/i&gt;&lt;/span&gt;(11), 115114.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ123_PRB_95_115114_2017&quot;&gt;Savoia, S., Valagiannopoulos, C. A., Monticone, F., Castaldi, G., Galdi, V., &amp;amp; Alù, A. (2017). Magnified imaging based on non-Hermitian nonlocal cylindrical metasurfaces. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;95&lt;/i&gt;&lt;/span&gt;(11), 115114.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ123_PRB_95_115114_2017-materials&quot;&gt;
@@ -38,7 +38,7 @@ has been published in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
   &lt;pre id=&quot;IJ123_PRB_95_115114_2017-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ123_PRB_95_115114_2017,
   title = {Magnified imaging based on non-Hermitian nonlocal cylindrical metasurfaces},
   author = {Savoia, Silvio and Valagiannopoulos, Constantinos A. and Monticone, Francesco and Castaldi, Giuseppe and Galdi, Vincenzo and Al\`u, Andrea},
-  journal = {Phys. Rev. B},
+  journal = {Physical Review B},
   volume = {95},
   issue = {11},
   pages = {115114},
@@ -57,7 +57,7 @@ has been published in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
 in collaboration with Andrea Alù’s Group (University of Texas at Austin),
 has been published in Physical Review B.
 
-Savoia, S., Valagiannopoulos, C. A., Monticone, F., Castaldi, G., Galdi, V., &amp;amp; Alù, A. (2017). Magnified imaging based on non-Hermitian nonlocal cylindrical metasurfaces. Phys. Rev. B 95(11), 115114.
+Savoia, S., Valagiannopoulos, C. A., Monticone, F., Castaldi, G., Galdi, V., &amp;amp; Alù, A. (2017). Magnified imaging based on non-Hermitian nonlocal cylindrical metasurfaces. Physical Review B 95(11), 115114.
 
 
 
@@ -92,7 +92,7 @@ Savoia, S., Valagiannopoulos, C. A., Monticone, F., Castaldi, G., Galdi, V., &am
   @article{IJ123_PRB_95_115114_2017,
   title = {Magnified imaging based on non-Hermitian nonlocal cylindrical metasurfaces},
   author = {Savoia, Silvio and Valagiannopoulos, Constantinos A. and Monticone, Francesco and Castaldi, Giuseppe and Galdi, Vincenzo and Al\`u, Andrea},
-  journal = {Phys. Rev. B},
+  journal = {Physical Review B},
   volume = {95},
   issue = {11},
   pages = {115114},
