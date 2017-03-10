@@ -1,4 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-03-09T14:31:01+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on non-Hermitian metasurfaces published in PRB</title><link href="/news/PRB-paper-NH-MS-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian metasurfaces published in PRB" /><published>2017-03-09T00:00:00+01:00</published><updated>2017-03-09T00:00:00+01:00</updated><id>/news/PRB-paper-NH-MS-published</id><content type="html" xml:base="/news/PRB-paper-NH-MS-published">&lt;p&gt;Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-03-10T15:37:57+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on optical fiber meta-tips published in LSA</title><link href="/news/LSA-paper_meta-tip-published" rel="alternate" type="text/html" title="Our paper on optical fiber meta-tips published in LSA" /><published>2017-03-10T00:00:00+01:00</published><updated>2017-03-10T00:00:00+01:00</updated><id>/news/LSA-paper_meta-tip-published</id><content type="html" xml:base="/news/LSA-paper_meta-tip-published">&lt;p&gt;Our paper on “Optical fiber meta-tips” [&lt;a href=&quot;#IJ124_LSA_6_6226a_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+ in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group (University of Sannio)
+has been published in &lt;em&gt;Light: Science &amp;amp; Applications&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ124_LSA_6_6226a_2017&quot;&gt;Principe, M., Consales, M., Micco, A., Crescitelli, A., Castaldi, G., Esposito, E., … Cusano, A. (2017). Optical fiber meta-tips. &lt;i&gt;Light: Science &amp;amp; Applications&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;6&lt;/i&gt;&lt;/span&gt;, e16226.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ124_LSA_6_6226a_2017-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ124_LSA_6_6226a_2017-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ124_LSA_6_6226a_2017-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1038/lsa.2016.226&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ124_LSA_6_6226a_2017.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;http://www.nature.com/lsa/journal/v6/n3/suppinfo/lsa2016226s1.html?url=/lsa/journal/v6/n3/full/lsa2016226a.html&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ124_LSA_6_6226a_2017-abstract&quot; class=&quot;collapse&quot;&gt;We report on the first demonstration of a proof-of-principle optical fiber ‘meta-tip’, which integrates a phase-gradient plasmonic metasurface on the fiber tip. For illustration and validation purposes, we present numerical and experimental results pertaining to various prototypes implementing generalized forms of the Snell’s transmission/reflection laws at near-infrared wavelengths. In particular, we demonstrate several examples of beam steering and coupling with surface waves, in fairly good agreement with theory. Our results constitute a first step toward the integration of unprecedented (metasurface-enabled) light-manipulation capabilities in optical-fiber technology. By further enriching the emergent ‘lab-on-fiber’ framework, this may pave the way for the widespread diffusion of optical metasurfaces in real-world applications to communications, signal processing, imaging and sensing.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ124_LSA_6_6226a_2017-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ124_LSA_6_6226a_2017,
+  author = {Principe, Maria and Consales, Marco and Micco, Alberto and Crescitelli, Alessio and Castaldi, Giuseppe and Esposito, Emanuela and La Ferrara, Vera and Cutolo, Antonello and Galdi, Vincenzo and Cusano, Andrea},
+  title = {Optical fiber meta-tips},
+  journal = {Light: Science {\&amp;amp;} Applications},
+  volume = {6},
+  pages = {e16226},
+  year = {2017},
+  month = mar,
+  doi = {10.1038/lsa.2016.226},
+  note = {http://www.nature.com/lsa/journal/v6/n3/suppinfo/lsa2016226s1.html?url=/lsa/journal/v6/n3/full/lsa2016226a.html}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="metasurfaces" /><category term="optical fibers" /><category term="plasmonics" /><category term="lab-on-fiber" /><summary type="html">Our paper on “Optical fiber meta-tips” [1],
+ in collaboration with Andrea Cusano’s Group (University of Sannio)
+has been published in Light: Science &amp;amp; Applications.
+
+Principe, M., Consales, M., Micco, A., Crescitelli, A., Castaldi, G., Esposito, E., … Cusano, A. (2017). Optical fiber meta-tips. Light: Science &amp;amp; Applications 6, e16226.
+
+
+
+  
+    
+    Abstract
+    
+
+    BibTeX
+
+            
+    
+    DOI
+    
+
+    
+
+    
+      
+    
+    PDF
+    
+
+    
+    Supplements
+    
+  
+  
+
+  
+  We report on the first demonstration of a proof-of-principle optical fiber ‘meta-tip’, which integrates a phase-gradient plasmonic metasurface on the fiber tip. For illustration and validation purposes, we present numerical and experimental results pertaining to various prototypes implementing generalized forms of the Snell’s transmission/reflection laws at near-infrared wavelengths. In particular, we demonstrate several examples of beam steering and coupling with surface waves, in fairly good agreement with theory. Our results constitute a first step toward the integration of unprecedented (metasurface-enabled) light-manipulation capabilities in optical-fiber technology. By further enriching the emergent ‘lab-on-fiber’ framework, this may pave the way for the widespread diffusion of optical metasurfaces in real-world applications to communications, signal processing, imaging and sensing.
+  
+
+  @article{IJ124_LSA_6_6226a_2017,
+  author = {Principe, Maria and Consales, Marco and Micco, Alberto and Crescitelli, Alessio and Castaldi, Giuseppe and Esposito, Emanuela and La Ferrara, Vera and Cutolo, Antonello and Galdi, Vincenzo and Cusano, Andrea},
+  title = {Optical fiber meta-tips},
+  journal = {Light: Science {\&amp;amp;} Applications},
+  volume = {6},
+  pages = {e16226},
+  year = {2017},
+  month = mar,
+  doi = {10.1038/lsa.2016.226},
+  note = {http://www.nature.com/lsa/journal/v6/n3/suppinfo/lsa2016226s1.html?url=/lsa/journal/v6/n3/full/lsa2016226a.html}
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/meta-tip.png" /></entry><entry><title type="html">Our paper on non-Hermitian metasurfaces published in PRB</title><link href="/news/PRB-paper-NH-MS-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian metasurfaces published in PRB" /><published>2017-03-09T00:00:00+01:00</published><updated>2017-03-09T00:00:00+01:00</updated><id>/news/PRB-paper-NH-MS-published</id><content type="html" xml:base="/news/PRB-paper-NH-MS-published">&lt;p&gt;Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
  metasurfaces” [&lt;a href=&quot;#IJ123_PRB_95_115114_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (University of Texas at Austin),
 has been published in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
@@ -52,7 +153,7 @@ has been published in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
 
   
     
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="non-Hermitian" /><category term="metasurfaces" /><summary type="html">Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="non-Hermitian" /><category term="metasurfaces" /><category term="imaging" /><summary type="html">Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
  metasurfaces” [1],
 in collaboration with Andrea Alù’s Group (University of Texas at Austin),
 has been published in Physical Review B.
@@ -106,7 +207,7 @@ Savoia, S., Valagiannopoulos, C. A., Monticone, F., Castaldi, G., Galdi, V., &am
 in collaboration with &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (University of Texas at Austin),
 has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;An &lt;a href=&quot;http://arxiv.org/abs/1702.04101&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="non-Hermitian" /><category term="metasurfaces" /><summary type="html">Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
+&lt;p&gt;An &lt;a href=&quot;http://arxiv.org/abs/1702.04101&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="non-Hermitian" /><category term="metasurfaces" /><category term="imaging" /><summary type="html">Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
  metasurfaces,”
 in collaboration with Andrea Alù’s Group (University of Texas at Austin),
 has been accepted for publication in Physical Review B.
@@ -115,7 +216,7 @@ An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://se
 in collaboration with &lt;a href=&quot;http://capolino.eng.uci.edu&quot;&gt;Filippo Capolino&lt;/a&gt;’s Group (University of California at Irvine),
 has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/1610.00414&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="non-Hermitian" /><category term="nanophotonics" /><summary type="html">Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers,” 
+&lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/1610.00414&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="non-Hermitian" /><category term="nanophotonics" /><category term="plasmonics" /><category term="parity-time symmetry" /><summary type="html">Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers,” 
 in collaboration with Filippo Capolino’s Group (University of California at Irvine),
 has been accepted for publication in Physical Review B.
 
@@ -269,105 +370,4 @@ to several fields of science and engineering.&lt;/p&gt;
 
   
     
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><category term="metamaterials" /><category term="metasurfaces" /><category term="analog computing" /><category term="image processing" /><summary type="html"></summary></entry><entry><title type="html">Multiphysics metamaterials</title><link href="/projects/multiphysics-MTM" rel="alternate" type="text/html" title="Multiphysics metamaterials" /><published>2017-01-19T00:00:00+01:00</published><updated>2017-01-19T00:00:00+01:00</updated><id>/projects/multiphysics-MTM</id><content type="html" xml:base="/projects/multiphysics-MTM">&lt;p&gt;During the past few years, the &lt;a href=&quot;/projects/TO-MTM&quot;&gt;transformation-optics&lt;/a&gt; approach has been also successfully applied 
-to the manipulation of a variety of other different physical quantities like acoustic and elastic waves, 
-static magnetic and electric fields, and heat flux, in view of the mounting interest towards metamaterials 
-beyond electromagnetics.&lt;/p&gt;
-
-&lt;p&gt;Although it seems suggestive to coherently exploit these various approaches to design 
-multifunctional devices capable of performing multiple functions in different physical domains, 
-most studies available in the literature deal with the design of a single functionality in a given physical domain.&lt;/p&gt;
-
-&lt;p&gt;In collaboration with &lt;a href=&quot;http://www2.rowland.harvard.edu/people/yuki-sato&quot;&gt;Yuki Sato&lt;/a&gt;’s Group (Harvard University), 
-we have recently introduced an approach to the design of metamaterial shells 
-capable of governing different physicals phenomena in an independent fashion [&lt;a href=&quot;#IJ112_PRX_4_021025_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
-
-&lt;p&gt;From the mathematical viewpoint, our relies on the well-known coordinate-transformation framework. 
-Viewing the rerouting of energy flow as a distortion of space from a coordinate transformation, 
-this technique provides a powerful and systematic recipe for designing and fabricating artificial 
-structures that can mold the flow of a given physical quantity in a desired fashion.&lt;/p&gt;
-
-&lt;p&gt;Conventionally, this theory is applied to a single physical domain. 
-In our approach, we instead exploit separate but intertwined coordinate transformations to 
-simultaneously manipulate multiple physical phenomena in independent fashions. 
-Thus, for instance, a material may be designed to exhibit a particular thermal functionality while 
-its electrical functionality is made drastically different.&lt;/p&gt;
-
-&lt;p&gt;As a proof-of-concept example, we have synthesized and designed
- a metamaterial shell that behaves simultaneously as a thermal concentrator and an electrical invisibility 
- cloak. In such a shell, the thermal and electrical currents follow markedly different paths, 
- with the former concentrating in the inner region and the latter circumventing that region, as schematized
- in the figure top panel. The bottom panel shows instead the thermal and electrical responses, which exhibit 
- the expected behaviors.&lt;/p&gt;
-
-&lt;p&gt;Although the results of this study are based on theory and numerical simulations, 
-they do indicate that practical realization of these metamaterials should be within 
-reach of current fabrication technologies. Our numerical simulations indeed show that they 
-can be fabricated by means of small sub-blocks made of realistic materials, 
-such as aluminum nitride and silver conductive epoxies.&lt;/p&gt;
-
-&lt;p&gt;Such design may be considered as a first step towards a more general 
- framework that could be defined as “transformation-multiphysics”, which may be in principle extended and applied 
- to a variety of electrical, magnetic, acoustic, and thermal systems in various combinations, 
- and may be integrated in advanced materials, spanning multiple orders of magnitude in material scales.&lt;/p&gt;
-
-&lt;p&gt;Besides serving as a proof-of-principle, the independent manipulation of electrical and thermal currents 
- is also very important from the application viewpoint.
- One particularly intriguing application is the engineering of thermoelectric materials, 
- which hold great promises for energy recycling, by converting waste heat 
- (e.g., generated by the CPU of a computer) into additional electrical power. 
- For these materials, the independent control of electrical and thermal conductivities is of paramount importance, 
- and it may affect the figure of merit in ways unexplored in the past.&lt;/p&gt;
-
-&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ112_PRX_4_021025_2014&quot;&gt;Moccia, M., Castaldi, G., Savo, S., Sato, Y., &amp;amp; Galdi, V. (2014). Independent manipulation of heat and electrical current via bifunctional metamaterials. &lt;i&gt;Physical Review X&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;4&lt;/i&gt;&lt;/span&gt;(2), 021025.&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ112_PRX_4_021025_2014-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ112_PRX_4_021025_2014-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ112_PRX_4_021025_2014-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevX.4.021025&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ112_PRX_4_021025_2014.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ112_PRX_4_021025_2014-abstract&quot; class=&quot;collapse&quot;&gt;Spatial tailoring of the material constitutive properties is a well-known strategy to mold the local flow of given observables in different physical domains. Coordinate-transformation-based methods (e.g., transformation optics) offer a powerful and systematic approach to design anisotropic, spatially inhomogeneous artificial materials (metamaterials) capable of precisely manipulating wave-based (electromagnetic, acoustic, elastic) as well as diffusion-based (heat) phenomena in a desired fashion. However, as versatile as these approaches have been, most designs have thus far been limited to serving single-target functionalities in a given physical domain. Here, we present a step towards a “transformation multiphysics” framework that allows independent and simultaneous manipulation of multiple physical phenomena. As a proof of principle of this new scheme, we design and synthesize (in terms of realistic material constituents) a metamaterial shell that simultaneously behaves as a thermal concentrator and an electrical “invisibility cloak.” Our numerical results open up intriguing possibilities in the largely unexplored phase space of multifunctional metadevices, with a wide variety of potential applications to electrical, magnetic, acoustic, and thermal scenarios.&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ112_PRX_4_021025_2014-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ112_PRX_4_021025_2014,
-  title = {Independent manipulation of heat and electrical current via bifunctional metamaterials},
-  author = {Moccia, Massimo and Castaldi, Giuseppe and Savo, Salvatore and Sato, Yuki and Galdi, Vincenzo},
-  journal = {Physical Review X},
-  volume = {4},
-  issue = {2},
-  pages = {021025},
-  numpages = {14},
-  year = {2014},
-  month = may,
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevX.4.021025},
-  url = {http://link.aps.org/doi/10.1103/PhysRevX.4.021025}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><category term="metamaterials" /><category term="multiphysics" /><category term="cloaking" /><category term="thermoelectrics" /><summary type="html"></summary></entry></feed>
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><category term="metamaterials" /><category term="metasurfaces" /><category term="analog computing" /><category term="image processing" /><summary type="html"></summary></entry></feed>

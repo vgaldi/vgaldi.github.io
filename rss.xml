@@ -5,10 +5,73 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2017-03-09T14:31:01+01:00</lastBuildDate>
-        <pubDate>2017-03-09T14:31:01+01:00</pubDate>
+        <lastBuildDate>2017-03-10T15:37:57+01:00</lastBuildDate>
+        <pubDate>2017-03-10T15:37:57+01:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on optical fiber meta-tips published in LSA</title>
+                <description>&lt;p&gt;Our paper on “Optical fiber meta-tips” [&lt;a href=&quot;#IJ124_LSA_6_6226a_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+ in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group (University of Sannio)
+has been published in &lt;em&gt;Light: Science &amp;amp; Applications&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ124_LSA_6_6226a_2017&quot;&gt;Principe, M., Consales, M., Micco, A., Crescitelli, A., Castaldi, G., Esposito, E., … Cusano, A. (2017). Optical fiber meta-tips. &lt;i&gt;Light: Science &amp;amp; Applications&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;6&lt;/i&gt;&lt;/span&gt;, e16226.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ124_LSA_6_6226a_2017-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ124_LSA_6_6226a_2017-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ124_LSA_6_6226a_2017-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1038/lsa.2016.226&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ124_LSA_6_6226a_2017.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;http://www.nature.com/lsa/journal/v6/n3/suppinfo/lsa2016226s1.html?url=/lsa/journal/v6/n3/full/lsa2016226a.html&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ124_LSA_6_6226a_2017-abstract&quot; class=&quot;collapse&quot;&gt;We report on the first demonstration of a proof-of-principle optical fiber ‘meta-tip’, which integrates a phase-gradient plasmonic metasurface on the fiber tip. For illustration and validation purposes, we present numerical and experimental results pertaining to various prototypes implementing generalized forms of the Snell’s transmission/reflection laws at near-infrared wavelengths. In particular, we demonstrate several examples of beam steering and coupling with surface waves, in fairly good agreement with theory. Our results constitute a first step toward the integration of unprecedented (metasurface-enabled) light-manipulation capabilities in optical-fiber technology. By further enriching the emergent ‘lab-on-fiber’ framework, this may pave the way for the widespread diffusion of optical metasurfaces in real-world applications to communications, signal processing, imaging and sensing.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ124_LSA_6_6226a_2017-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ124_LSA_6_6226a_2017,
+  author = {Principe, Maria and Consales, Marco and Micco, Alberto and Crescitelli, Alessio and Castaldi, Giuseppe and Esposito, Emanuela and La Ferrara, Vera and Cutolo, Antonello and Galdi, Vincenzo and Cusano, Andrea},
+  title = {Optical fiber meta-tips},
+  journal = {Light: Science {\&amp;amp;} Applications},
+  volume = {6},
+  pages = {e16226},
+  year = {2017},
+  month = mar,
+  doi = {10.1038/lsa.2016.226},
+  note = {http://www.nature.com/lsa/journal/v6/n3/suppinfo/lsa2016226s1.html?url=/lsa/journal/v6/n3/full/lsa2016226a.html}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+</description>
+                <link>http://fw-lab.org/news/LSA-paper_meta-tip-published</link>
+                <guid>http://fw-lab.org/news/LSA-paper_meta-tip-published</guid>
+                <pubDate>2017-03-10T00:00:00+01:00</pubDate>
+        </item>
 
         <item>
                 <title>Our paper on non-Hermitian metasurfaces published in PRB</title>
@@ -438,7 +501,7 @@ light, thereby substantially expanding the functionalities of conventional and s
 applications ranging from optical processing to environmental monitoring, life science, safety and security.&lt;/p&gt;
 
 &lt;p&gt;In collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group (University of Sannio),
-we presented in [&lt;a href=&quot;#Principe-2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] a first proof-of-principle example of a “meta-tip”, featuring 
+we presented in [&lt;a href=&quot;#IJ124_LSA_6_6226a_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] a first proof-of-principle example of a “meta-tip”, featuring 
 a plasmonic metasurface integrated on the tip of an optical fiber, as schematized in the figure top panel.
 The metasurface was designed so as to impress a linear phase (constant gradient) profile along an in-plane direction. As
 typical for metasurface implementations based on a single layer of plasmonic nanoantennas, in order to achieve a full 
@@ -464,38 +527,50 @@ capabilities enabled by metasurfaces within the emerging lab-on-fiber technologi
 of novel type of surface waves for label-free &lt;a href=&quot;/projects/MTM_optical-sensing&quot;&gt;sensing applications&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Principe-2016&quot;&gt;Principe, M., Consales, M., Micco, A., Crescitelli, A., Castaldi, G., Esposito, E., … Cusano, A. (2016, September). &lt;i&gt;Optical fiber meta-tips&lt;/i&gt;.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ124_LSA_6_6226a_2017&quot;&gt;Principe, M., Consales, M., Micco, A., Crescitelli, A., Castaldi, G., Esposito, E., … Cusano, A. (2017). Optical fiber meta-tips. &lt;i&gt;Light: Science &amp;amp; Applications&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;6&lt;/i&gt;&lt;/span&gt;, e16226.&lt;/span&gt;
 
 
-&lt;div id=&quot;Principe-2016-materials&quot;&gt;
+&lt;div id=&quot;IJ124_LSA_6_6226a_2017-materials&quot;&gt;
   &lt;ul class=&quot;nav nav-pills&quot;&gt;
     
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ124_LSA_6_6226a_2017-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
 
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Principe-2016-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ124_LSA_6_6226a_2017-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
 
             
     
-
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1038/lsa.2016.226&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
     
 
     
-	&lt;li&gt;&lt;a href=&quot;http://aap.nature-lsa.cn:8080/cms/accessory/files/AAP-lsa2016226.pdf&quot;&gt;preprint&lt;/a&gt;&lt;/li&gt;
+
     
       
     
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ124_LSA_6_6226a_2017.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
 
+    
+    &lt;li&gt;&lt;a href=&quot;http://www.nature.com/lsa/journal/v6/n3/suppinfo/lsa2016226s1.html?url=/lsa/journal/v6/n3/full/lsa2016226a.html&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
     
   
   &lt;/ul&gt;
 
   
+  &lt;p id=&quot;IJ124_LSA_6_6226a_2017-abstract&quot; class=&quot;collapse&quot;&gt;We report on the first demonstration of a proof-of-principle optical fiber ‘meta-tip’, which integrates a phase-gradient plasmonic metasurface on the fiber tip. For illustration and validation purposes, we present numerical and experimental results pertaining to various prototypes implementing generalized forms of the Snell’s transmission/reflection laws at near-infrared wavelengths. In particular, we demonstrate several examples of beam steering and coupling with surface waves, in fairly good agreement with theory. Our results constitute a first step toward the integration of unprecedented (metasurface-enabled) light-manipulation capabilities in optical-fiber technology. By further enriching the emergent ‘lab-on-fiber’ framework, this may pave the way for the widespread diffusion of optical metasurfaces in real-world applications to communications, signal processing, imaging and sensing.&lt;/p&gt;
+  
 
-  &lt;pre id=&quot;Principe-2016-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@unpublished{Principe-2016,
-  author = {Principe, M. and Consales, M. and Micco, A. and Crescitelli, A. and Castaldi, G. and Esposito, E. and Ferrara, V. La and Cutolo, A. and Galdi, V. and Cusano, A.},
+  &lt;pre id=&quot;IJ124_LSA_6_6226a_2017-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ124_LSA_6_6226a_2017,
+  author = {Principe, Maria and Consales, Marco and Micco, Alberto and Crescitelli, Alessio and Castaldi, Giuseppe and Esposito, Emanuela and La Ferrara, Vera and Cutolo, Antonello and Galdi, Vincenzo and Cusano, Andrea},
   title = {Optical fiber meta-tips},
-  year = {2016},
-  month = sep,
-  preprint = {http://aap.nature-lsa.cn:8080/cms/accessory/files/AAP-lsa2016226.pdf}
+  journal = {Light: Science {\&amp;amp;} Applications},
+  volume = {6},
+  pages = {e16226},
+  year = {2017},
+  month = mar,
+  doi = {10.1038/lsa.2016.226},
+  note = {http://www.nature.com/lsa/journal/v6/n3/suppinfo/lsa2016226s1.html?url=/lsa/journal/v6/n3/full/lsa2016226a.html}
 }
 &lt;/pre&gt;
 

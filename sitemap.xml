@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>http://fw-lab.org/news/LSA-paper_meta-tip-published</loc>
+      
+        <lastmod>2017-03-10T00:00:00+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://fw-lab.org/news/PRB-paper-NH-MS-published</loc>
       
         <lastmod>2017-03-09T00:00:00+01:00</lastmod>
@@ -486,7 +501,7 @@
     <url>
       <loc>http://fw-lab.org/about</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -501,7 +516,7 @@
     <url>
       <loc>http://fw-lab.org/all-posts.json</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -516,7 +531,7 @@
     <url>
       <loc>http://fw-lab.org/archive</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -531,7 +546,7 @@
     <url>
       <loc>http://fw-lab.org/atom.xml</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -546,7 +561,7 @@
     <url>
       <loc>http://fw-lab.org/categories</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -561,7 +576,7 @@
     <url>
       <loc>http://fw-lab.org/contact</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -576,7 +591,7 @@
     <url>
       <loc>http://fw-lab.org/projects/</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -591,7 +606,7 @@
     <url>
       <loc>http://fw-lab.org/news/archive/</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -606,7 +621,7 @@
     <url>
       <loc>http://fw-lab.org/conferences/</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -621,7 +636,7 @@
     <url>
       <loc>http://fw-lab.org/preprints/</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -636,7 +651,7 @@
     <url>
       <loc>http://fw-lab.org/misc/</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -651,7 +666,7 @@
     <url>
       <loc>http://fw-lab.org/journals/</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -666,7 +681,7 @@
     <url>
       <loc>http://fw-lab.org/media/</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -681,7 +696,7 @@
     <url>
       <loc>http://fw-lab.org/books/</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -696,7 +711,7 @@
     <url>
       <loc>http://fw-lab.org/</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -711,7 +726,7 @@
     <url>
       <loc>http://fw-lab.org/news/</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -726,7 +741,7 @@
     <url>
       <loc>http://fw-lab.org/team/</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -741,7 +756,7 @@
     <url>
       <loc>http://fw-lab.org/join</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -756,7 +771,7 @@
     <url>
       <loc>http://fw-lab.org/pages</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -771,7 +786,7 @@
     <url>
       <loc>http://fw-lab.org/rss.xml</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -786,7 +801,7 @@
     <url>
       <loc>http://fw-lab.org/sitemap.txt</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -803,7 +818,7 @@
     <url>
       <loc>http://fw-lab.org/assets/themes/lab/less/style.less</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -818,7 +833,7 @@
     <url>
       <loc>http://fw-lab.org/assets/themes/lab/css/style.css</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -833,7 +848,7 @@
     <url>
       <loc>http://fw-lab.org/tags</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -848,7 +863,7 @@
     <url>
       <loc>http://fw-lab.org/feed.xml</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -863,7 +878,7 @@
     <url>
       <loc>http://fw-lab.org/feed.xslt.xml</loc>
       
-        <lastmod>2017-03-09T14:31:01+01:00</lastmod>
+        <lastmod>2017-03-10T15:37:57+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
