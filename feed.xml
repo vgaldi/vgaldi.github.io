@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-03-18T09:28:51+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on non-Hermitian photonic chains published in PRB</title><link href="/news/PRB-paper-EPD-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian photonic chains published in PRB" /><published>2017-03-18T00:00:00+01:00</published><updated>2017-03-18T00:00:00+01:00</updated><id>/news/PRB-paper-EPD-published</id><content type="html" xml:base="/news/PRB-paper-EPD-published">&lt;p&gt;Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers” 
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-03-18T09:40:10+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on non-Hermitian photonic chains published in PRB</title><link href="/news/PRB-paper-EPD-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian photonic chains published in PRB" /><published>2017-03-18T00:00:00+01:00</published><updated>2017-03-18T00:00:00+01:00</updated><id>/news/PRB-paper-EPD-published</id><content type="html" xml:base="/news/PRB-paper-EPD-published">&lt;p&gt;Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers” 
 [&lt;a href=&quot;#IJ125_PRB_95_104305_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] 
 in collaboration with &lt;a href=&quot;http://capolino.eng.uci.edu&quot;&gt;Filippo Capolino&lt;/a&gt;’s Group (University of California at Irvine),
 has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ125_PRB_95_104305_2017&quot;&gt;Othman, M. A. K., Galdi, V., &amp;amp; Capolino, F. (2017). Exceptional points of degeneracy and $\mathcalP\mathcalT$ symmetry in photonic coupled chains of scatterers. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;95&lt;/i&gt;&lt;/span&gt;(10), 104305.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ125_PRB_95_104305_2017&quot;&gt;Othman, M. A. K., Galdi, V., &amp;amp; Capolino, F. (2017). Exceptional points of degeneracy and PT symmetry in photonic coupled chains of scatterers. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;95&lt;/i&gt;&lt;/span&gt;(10), 104305.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ125_PRB_95_104305_2017-materials&quot;&gt;
@@ -24,6 +24,8 @@ has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;
     
       
     
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ125_PRB_95_104305_2017.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
 
     
   
@@ -34,7 +36,7 @@ has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;
   
 
   &lt;pre id=&quot;IJ125_PRB_95_104305_2017-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ125_PRB_95_104305_2017,
-  title = {Exceptional points of degeneracy and $\mathcal{P}\mathcal{T}$ symmetry in photonic coupled chains of scatterers},
+  title = {Exceptional points of degeneracy and PT symmetry in photonic coupled chains of scatterers},
   author = {Othman, Mohamed A. K. and Galdi, Vincenzo and Capolino, Filippo},
   journal = {Physical Review B},
   volume = {95},
@@ -56,7 +58,7 @@ has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;
 in collaboration with Filippo Capolino’s Group (University of California at Irvine),
 has been accepted for publication in Physical Review B.
 
-Othman, M. A. K., Galdi, V., &amp;amp; Capolino, F. (2017). Exceptional points of degeneracy and $\mathcalP\mathcalT$ symmetry in photonic coupled chains of scatterers. Physical Review B 95(10), 104305.
+Othman, M. A. K., Galdi, V., &amp;amp; Capolino, F. (2017). Exceptional points of degeneracy and PT symmetry in photonic coupled chains of scatterers. Physical Review B 95(10), 104305.
 
 
 
@@ -77,6 +79,8 @@ Othman, M. A. K., Galdi, V., &amp;amp; Capolino, F. (2017). Exceptional points o
     
       
     
+    PDF
+    
 
     
   
@@ -87,7 +91,7 @@ Othman, M. A. K., Galdi, V., &amp;amp; Capolino, F. (2017). Exceptional points o
   
 
   @article{IJ125_PRB_95_104305_2017,
-  title = {Exceptional points of degeneracy and $\mathcal{P}\mathcal{T}$ symmetry in photonic coupled chains of scatterers},
+  title = {Exceptional points of degeneracy and PT symmetry in photonic coupled chains of scatterers},
   author = {Othman, Mohamed A. K. and Galdi, Vincenzo and Capolino, Filippo},
   journal = {Physical Review B},
   volume = {95},
