@@ -1,4 +1,105 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-03-13T08:34:03+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on optical fiber meta-tips published in LSA</title><link href="/news/LSA-paper_meta-tip-published" rel="alternate" type="text/html" title="Our paper on optical fiber meta-tips published in LSA" /><published>2017-03-10T00:00:00+01:00</published><updated>2017-03-10T00:00:00+01:00</updated><id>/news/LSA-paper_meta-tip-published</id><content type="html" xml:base="/news/LSA-paper_meta-tip-published">&lt;p&gt;Our paper on “Optical fiber meta-tips” [&lt;a href=&quot;#IJ124_LSA_6_6226a_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-03-18T09:28:51+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on non-Hermitian photonic chains published in PRB</title><link href="/news/PRB-paper-EPD-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian photonic chains published in PRB" /><published>2017-03-18T00:00:00+01:00</published><updated>2017-03-18T00:00:00+01:00</updated><id>/news/PRB-paper-EPD-published</id><content type="html" xml:base="/news/PRB-paper-EPD-published">&lt;p&gt;Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers” 
+[&lt;a href=&quot;#IJ125_PRB_95_104305_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] 
+in collaboration with &lt;a href=&quot;http://capolino.eng.uci.edu&quot;&gt;Filippo Capolino&lt;/a&gt;’s Group (University of California at Irvine),
+has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ125_PRB_95_104305_2017&quot;&gt;Othman, M. A. K., Galdi, V., &amp;amp; Capolino, F. (2017). Exceptional points of degeneracy and $\mathcalP\mathcalT$ symmetry in photonic coupled chains of scatterers. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;95&lt;/i&gt;&lt;/span&gt;(10), 104305.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ125_PRB_95_104305_2017-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ125_PRB_95_104305_2017-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ125_PRB_95_104305_2017-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.95.104305&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ125_PRB_95_104305_2017-abstract&quot; class=&quot;collapse&quot;&gt;We demonstrate the existence of exceptional points of degeneracy (EPDs) of periodic eigenstates in non-Hermitian coupled chains of dipolar scatterers. Guided modes supported by these structures can exhibit an EPD in their dispersion diagram at which two or more Bloch eigenstates coalesce, in both their eigenvectors and eigenvalues. We show the emergence of a second-order modal EPD associated with the parity-time (PT) symmetry condition, at which each particle pair in the double chain exhibits balanced gain and loss. Furthermore, we also demonstrate a fourth-order EPD occurring at the band edge. Such a degeneracy condition was previously referred to as a degenerate band edge in lossless anisotropic photonic crystals. Here, we rigorously show it under the occurrence of gain and loss balance for a discrete guiding system. We identify a more general regime of gain and loss balance showing that PT symmetry is not necessary to attain EPDs. Moreover, we investigate the degree of detuning of the EPD when the geometrical symmetry or balanced condition is broken. Furthermore, we demonstrate a realistic implementation of the EPD in a coupled chain made of pairs of plasmonic nanospheres and active core-shell nanospheres at optical frequencies. These findings open avenues toward superior light localization and transport with application to high-Q resonators utilized in sensors, filters, low-threshold switching and lasing.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ125_PRB_95_104305_2017-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ125_PRB_95_104305_2017,
+  title = {Exceptional points of degeneracy and $\mathcal{P}\mathcal{T}$ symmetry in photonic coupled chains of scatterers},
+  author = {Othman, Mohamed A. K. and Galdi, Vincenzo and Capolino, Filippo},
+  journal = {Physical Review B},
+  volume = {95},
+  issue = {10},
+  pages = {104305},
+  numpages = {12},
+  year = {2017},
+  month = mar,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.95.104305},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.95.104305}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="non-Hermitian" /><category term="nanophotonics" /><category term="plasmonics" /><category term="parity-time symmetry" /><summary type="html">Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers” 
+[1] 
+in collaboration with Filippo Capolino’s Group (University of California at Irvine),
+has been accepted for publication in Physical Review B.
+
+Othman, M. A. K., Galdi, V., &amp;amp; Capolino, F. (2017). Exceptional points of degeneracy and $\mathcalP\mathcalT$ symmetry in photonic coupled chains of scatterers. Physical Review B 95(10), 104305.
+
+
+
+  
+    
+    Abstract
+    
+
+    BibTeX
+
+            
+    
+    DOI
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  
+
+  
+  We demonstrate the existence of exceptional points of degeneracy (EPDs) of periodic eigenstates in non-Hermitian coupled chains of dipolar scatterers. Guided modes supported by these structures can exhibit an EPD in their dispersion diagram at which two or more Bloch eigenstates coalesce, in both their eigenvectors and eigenvalues. We show the emergence of a second-order modal EPD associated with the parity-time (PT) symmetry condition, at which each particle pair in the double chain exhibits balanced gain and loss. Furthermore, we also demonstrate a fourth-order EPD occurring at the band edge. Such a degeneracy condition was previously referred to as a degenerate band edge in lossless anisotropic photonic crystals. Here, we rigorously show it under the occurrence of gain and loss balance for a discrete guiding system. We identify a more general regime of gain and loss balance showing that PT symmetry is not necessary to attain EPDs. Moreover, we investigate the degree of detuning of the EPD when the geometrical symmetry or balanced condition is broken. Furthermore, we demonstrate a realistic implementation of the EPD in a coupled chain made of pairs of plasmonic nanospheres and active core-shell nanospheres at optical frequencies. These findings open avenues toward superior light localization and transport with application to high-Q resonators utilized in sensors, filters, low-threshold switching and lasing.
+  
+
+  @article{IJ125_PRB_95_104305_2017,
+  title = {Exceptional points of degeneracy and $\mathcal{P}\mathcal{T}$ symmetry in photonic coupled chains of scatterers},
+  author = {Othman, Mohamed A. K. and Galdi, Vincenzo and Capolino, Filippo},
+  journal = {Physical Review B},
+  volume = {95},
+  issue = {10},
+  pages = {104305},
+  numpages = {12},
+  year = {2017},
+  month = mar,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.95.104305},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.95.104305}
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/EPD-chain.png" /></entry><entry><title type="html">Our paper on optical fiber meta-tips published in LSA</title><link href="/news/LSA-paper_meta-tip-published" rel="alternate" type="text/html" title="Our paper on optical fiber meta-tips published in LSA" /><published>2017-03-10T00:00:00+01:00</published><updated>2017-03-10T00:00:00+01:00</updated><id>/news/LSA-paper_meta-tip-published</id><content type="html" xml:base="/news/LSA-paper_meta-tip-published">&lt;p&gt;Our paper on “Optical fiber meta-tips” [&lt;a href=&quot;#IJ124_LSA_6_6226a_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
  in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group (University of Sannio)
 has been published in &lt;em&gt;Light: Science &amp;amp; Applications&lt;/em&gt;.&lt;/p&gt;
 
@@ -289,85 +390,4 @@ and explore engineering applications to &lt;strong&gt;communications and sensing
 
 &lt;p&gt;We are expecially interested in metamaterials, aperiodic order, ray chaos, and gravitational interferometry.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><summary type="html">The Fields &amp;amp; Waves Lab at the University of Sannio works at the boundary of physics and engineering. 
 We study fundamental physical aspects of wave propagation in complex media and scenarios, 
-and explore engineering applications to communications and sensing.</summary></entry><entry><title type="html">Metamaterial-based analog computing</title><link href="/projects/computational-MTM" rel="alternate" type="text/html" title="Metamaterial-based analog computing" /><published>2017-01-20T00:00:00+01:00</published><updated>2017-01-20T00:00:00+01:00</updated><id>/projects/computational-MTM</id><content type="html" xml:base="/projects/computational-MTM">&lt;p&gt;In collaboration with the Groups led by &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/)&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania) 
-and &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt; (University of Texas at Austin), we
-have put forward a general paradigm of “metamaterial analog computing” [&lt;a href=&quot;#IJ109_Science_343_160_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], 
-in which properly designed metamaterial blocks may perform ubiquitous mathematical operations, 
-such as spatial differentiation, integration or convolution, on the profile of the impinging light as 
-it propagates through them (see the conceptual schematic in the figure top panel).&lt;/p&gt;
-
-&lt;p&gt;Our idea is inspired by the earlier “calculating machines” in the form of mechanical, electronic, and hybrid analog computers, 
-which have been designed in the past to perform prescribed mathematical computations. 
-These solutions suffered from substantial limitations, including relatively large size and slow response, 
-and were quickly dropped with the advances on digital computers.&lt;/p&gt;
-
-&lt;p&gt;The figure bottom panel illustrates a possible application of our proposed 
-“computational metamaterials” as a Laplace filter for edge detection, 
-an increasingly common image processing technique that helps software find faces and identify objects in pictures.&lt;/p&gt;
-
-&lt;p&gt;These structures may be of subwavelength size, and several orders of magnitude smaller than conventional 
-lens-based optical signal processing systems. 
- In particular, we have proposed two possible architectures: specially designed subwavelength metasurfaces that 
- operate in the spatial Fourier domain, combined with graded-index (GRIN) slabs or fibers; 
- and layered metamaterials that engineer the desired operator’s Green’s function directly in the space domain.&lt;/p&gt;
-
-&lt;p&gt;These results (included as one of the Highlights in Optics in 2014 in &lt;a href=&quot;http://www.osa-opn.org/home/articles/volume_25/december_2014/extras/doing_math_with_light/&quot;&gt;“Optics &amp;amp; Photonics News”&lt;/a&gt;) may pave 
-the way to a re-birth of optical analog computers, but at the nanoscale, 
-entirely wave-based, integrable with nanophotonics and electronic, with potentially disruptive applications 
-to several fields of science and engineering.&lt;/p&gt;
-
-&lt;p&gt;A particularly intriguing follow-up would be the design of metadevices capable of solving
- differential and/or integral equations.&lt;/p&gt;
-
-&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ109_Science_343_160_2014&quot;&gt;Silva, A., Monticone, F., Castaldi, G., Galdi, V., Alù, A., &amp;amp; Engheta, N. (2014). Performing mathematical operations with metamaterials. &lt;i&gt;Science&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;343&lt;/i&gt;&lt;/span&gt;(6167), 160–163.&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ109_Science_343_160_2014-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ109_Science_343_160_2014-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ109_Science_343_160_2014-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1126/science.1242818&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ109_Science_343_160_2014.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ109_Science_343_160_2014_SM.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ109_Science_343_160_2014-abstract&quot; class=&quot;collapse&quot;&gt;We introduce the concept of metamaterial analog computing, based on suitably designed metamaterial blocks that can perform mathematical operations (such as spatial differentiation, integration, or convolution) on the profile of an impinging wave as it propagates through these blocks. Two approaches are presented to achieve such functionality: (i) subwavelength structured metascreens combined with graded-index waveguides and (ii) multilayered slabs designed to achieve a desired spatial Green’s function. Both techniques offer the possibility of miniaturized, potentially integrable, wave-based computing systems that are thinner than conventional lens-based optical signal and data processors by several orders of magnitude.&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ109_Science_343_160_2014-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ109_Science_343_160_2014,
-  author = {Silva, Alexandre and Monticone, Francesco and Castaldi, Giuseppe and Galdi, Vincenzo and Al{\`u}, Andrea and Engheta, Nader},
-  title = {{Performing mathematical operations with metamaterials}},
-  journal = {Science},
-  doi = {10.1126/science.1242818},
-  year = {2014},
-  volume = {343},
-  number = {6167},
-  pages = {160--163},
-  month = jan,
-  note = {/assets/papers/IJ109_Science_343_160_2014_SM.pdf}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><category term="metamaterials" /><category term="metasurfaces" /><category term="analog computing" /><category term="image processing" /><summary type="html"></summary></entry></feed>
+and explore engineering applications to communications and sensing.</summary></entry></feed>

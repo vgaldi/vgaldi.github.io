@@ -4,13 +4,76 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2017-03-13T08:34:03+01:00</updated>
+ <updated>2017-03-18T09:28:51+01:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
    <email>vgaldi@unisannio.it</email>
  </author>
 
+ 
+ <entry>
+   <title>Our paper on non-Hermitian photonic chains published in PRB</title>
+   <link href="http://fw-lab.org/news/PRB-paper-EPD-published"/>
+   <updated>2017-03-18T00:00:00+01:00</updated>
+   <id>http://fw-lab.org/news/PRB-paper-EPD-published</id>
+   <content type="html">&lt;p&gt;Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers” 
+[&lt;a href=&quot;#IJ125_PRB_95_104305_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] 
+in collaboration with &lt;a href=&quot;http://capolino.eng.uci.edu&quot;&gt;Filippo Capolino&lt;/a&gt;’s Group (University of California at Irvine),
+has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ125_PRB_95_104305_2017&quot;&gt;Othman, M. A. K., Galdi, V., &amp;amp; Capolino, F. (2017). Exceptional points of degeneracy and $\mathcalP\mathcalT$ symmetry in photonic coupled chains of scatterers. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;95&lt;/i&gt;&lt;/span&gt;(10), 104305.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ125_PRB_95_104305_2017-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ125_PRB_95_104305_2017-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ125_PRB_95_104305_2017-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.95.104305&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ125_PRB_95_104305_2017-abstract&quot; class=&quot;collapse&quot;&gt;We demonstrate the existence of exceptional points of degeneracy (EPDs) of periodic eigenstates in non-Hermitian coupled chains of dipolar scatterers. Guided modes supported by these structures can exhibit an EPD in their dispersion diagram at which two or more Bloch eigenstates coalesce, in both their eigenvectors and eigenvalues. We show the emergence of a second-order modal EPD associated with the parity-time (PT) symmetry condition, at which each particle pair in the double chain exhibits balanced gain and loss. Furthermore, we also demonstrate a fourth-order EPD occurring at the band edge. Such a degeneracy condition was previously referred to as a degenerate band edge in lossless anisotropic photonic crystals. Here, we rigorously show it under the occurrence of gain and loss balance for a discrete guiding system. We identify a more general regime of gain and loss balance showing that PT symmetry is not necessary to attain EPDs. Moreover, we investigate the degree of detuning of the EPD when the geometrical symmetry or balanced condition is broken. Furthermore, we demonstrate a realistic implementation of the EPD in a coupled chain made of pairs of plasmonic nanospheres and active core-shell nanospheres at optical frequencies. These findings open avenues toward superior light localization and transport with application to high-Q resonators utilized in sensors, filters, low-threshold switching and lasing.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ125_PRB_95_104305_2017-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ125_PRB_95_104305_2017,
+  title = {Exceptional points of degeneracy and $\mathcal{P}\mathcal{T}$ symmetry in photonic coupled chains of scatterers},
+  author = {Othman, Mohamed A. K. and Galdi, Vincenzo and Capolino, Filippo},
+  journal = {Physical Review B},
+  volume = {95},
+  issue = {10},
+  pages = {104305},
+  numpages = {12},
+  year = {2017},
+  month = mar,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.95.104305},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.95.104305}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Our paper on optical fiber meta-tips published in LSA</title>
