@@ -5,10 +5,24 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2017-04-20T12:41:14+02:00</lastBuildDate>
-        <pubDate>2017-04-20T12:41:14+02:00</pubDate>
+        <lastBuildDate>2017-05-29T09:23:00+02:00</lastBuildDate>
+        <pubDate>2017-05-29T09:23:00+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on metamaterial radomes accepted in IEEE-JMMCT</title>
+                <description>&lt;p&gt;Our paper on “ransformation-optics-based design of a metamaterial radome for extending the scanning angle of a phased array antenna,”
+in collaboration with &lt;a href=&quot;http://www.mbda-systems.com&quot;&gt;MBDA&lt;/a&gt;,
+has been accepted for publication in the &lt;em&gt;IEEE Journal of Multiscale and Multiphysics Computational Techniques&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/1703.03793&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/news/JMMCT-paper-MR-accepted</link>
+                <guid>http://fw-lab.org/news/JMMCT-paper-MR-accepted</guid>
+                <pubDate>2017-05-29T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Our paper on non-Hermitian photonic chains published in PRB</title>
@@ -142,7 +156,7 @@ has been published in &lt;em&gt;Light: Science &amp;amp; Applications&lt;/em&gt;
                 <title>Our paper on non-Hermitian metasurfaces published in PRB</title>
                 <description>&lt;p&gt;Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
  metasurfaces” [&lt;a href=&quot;#IJ123_PRB_95_115114_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
-in collaboration with &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (University of Texas at Austin),
+in collaboration with &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (University of Texas at Austin),
 has been published in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ123_PRB_95_115114_2017&quot;&gt;Savoia, S., Valagiannopoulos, C. A., Monticone, F., Castaldi, G., Galdi, V., &amp;amp; Alù, A. (2017). Magnified imaging based on non-Hermitian nonlocal cylindrical metasurfaces. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;95&lt;/i&gt;&lt;/span&gt;(11), 115114.&lt;/span&gt;
@@ -206,7 +220,7 @@ has been published in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
                 <title>Our paper on non-Hermitian metasurfaces accepted in PRB</title>
                 <description>&lt;p&gt;Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
  metasurfaces,”
-in collaboration with &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (University of Texas at Austin),
+in collaboration with &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (University of Texas at Austin),
 has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;An &lt;a href=&quot;http://arxiv.org/abs/1702.04101&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;
@@ -1298,7 +1312,7 @@ parallel-plate waveguide with deformable walls.&lt;/p&gt;
 &lt;p&gt;Since June 2014, he has been a Ph.D. student in Information Technologies for Engineering​at the 
 &lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, working in 
 the Fields &amp;amp; Waves Lab and the &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it&quot;&gt;Optoelectronics Group&lt;/a&gt;, 
-under the joint supervision of Proff. &lt;a href=&quot;/people/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; 
+under the joint supervision of Profs. &lt;a href=&quot;/people/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; 
 and &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;His current research activity is focused on the design, numerical modeling and fabrication of novel 
@@ -1315,7 +1329,7 @@ More generally, his scientific interests include: plasmonics, photonic crystals,
                 <title>Massimo Moccia</title>
                 <description>&lt;p&gt;&lt;strong&gt;Massimo Moccia&lt;/strong&gt; was born in Benevento, Italy on February 11, 1982.&lt;/p&gt;
 
-&lt;p&gt;He received the B.S. and M.S. degree in Telecommunications Engineering (&lt;em&gt;summa cum laude&lt;/em&gt;) from the 
+&lt;p&gt;He received the B.E. and M.E. degree in Telecommunications Engineering (&lt;em&gt;summa cum laude&lt;/em&gt;) from the 
 &lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;,
 Benevento, Italy, in 2005 and 2007 respectively. During his study program, he was a visiting student at the 
 &lt;a href=&quot;https://www.upv.es/index-en.html&quot;&gt;Polytechnic University of Valencia&lt;/a&gt; (2003-2004) and the &lt;a href=&quot;http://www.upc.edu/?set_language=en&quot;&gt;Polytechnic 
@@ -4692,7 +4706,7 @@ slabs and allow tailoring their properties without the need of extensive numeric
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;S. Bland, &lt;a href=&quot;http://www.materialstoday.com/computation-theory/podcasts/metamaterials-and-analog-computing/&quot;&gt;“Metamaterials and analog computing,”&lt;/a&gt;
-&lt;em&gt;Materials Today&lt;/em&gt;, Apr. 14, 2014&lt;/p&gt;
+&lt;em&gt;Materials Today&lt;/em&gt;, Apr. 14, 2014.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;http://www.automazionenews.it/un-ritorno-dei-computer-analogici/&quot;&gt;“Un ritorno dei computer analogici?”&lt;/a&gt;
