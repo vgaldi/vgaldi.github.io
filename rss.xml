@@ -5,10 +5,22 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2017-05-29T09:29:14+02:00</lastBuildDate>
-        <pubDate>2017-05-29T09:29:14+02:00</pubDate>
+        <lastBuildDate>2017-06-16T10:14:12+02:00</lastBuildDate>
+        <pubDate>2017-06-16T10:14:12+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on coding metasurfaces accepted in AdOM</title>
+                <description>&lt;p&gt;Our paper on “Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and sub-optimal design,”
+in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
+has been accepted for publication in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/news/AdOM-paper-MS-accepted</link>
+                <guid>http://fw-lab.org/news/AdOM-paper-MS-accepted</guid>
+                <pubDate>2017-06-16T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Our paper on metamaterial radomes accepted in IEEE-JMMCT</title>
