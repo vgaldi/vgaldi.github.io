@@ -5,8 +5,8 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2017-07-29T11:12:01+02:00</lastBuildDate>
-        <pubDate>2017-07-29T11:12:01+02:00</pubDate>
+        <lastBuildDate>2017-07-29T11:22:08+02:00</lastBuildDate>
+        <pubDate>2017-07-29T11:22:08+02:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -17,7 +17,7 @@
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published (early view) in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ127_AdOM_2017&quot;&gt;Moccia, M., Liu, S., Wu, R. Y., Castaldi, G., Andreone, A., Cui, T. J., &amp;amp; Galdi, V. (2017). Coding Metasurfaces for Diffuse Scattering: Scaling Laws, Bounds, and Suboptimal Design. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; 1700455.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ127_AdOM_2017&quot;&gt;Moccia, M., Liu, S., Wu, R. Y., Castaldi, G., Andreone, A., Cui, T. J., &amp;amp; Galdi, V. (2017). Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and suboptimal design. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; 1700455.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ127_AdOM_2017-materials&quot;&gt;
@@ -53,7 +53,7 @@ has been published (early view) in &lt;em&gt;Advanced Optical Materials&lt;/em&g
 
   &lt;pre id=&quot;IJ127_AdOM_2017-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ127_AdOM_2017,
   author = {Moccia, Massimo and Liu, Shuo and Wu, Rui Yuan and Castaldi, Giuseppe and Andreone, Antonello and Cui, Tie Jun and Galdi, Vincenzo},
-  title = {Coding Metasurfaces for Diffuse Scattering: Scaling Laws, Bounds, and Suboptimal Design},
+  title = {Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and suboptimal design},
   journal = {Advanced Optical Materials},
   issn = {2195-1071},
   url = {http://dx.doi.org/10.1002/adom.201700455},
@@ -90,11 +90,56 @@ has been accepted for publication in &lt;em&gt;Advanced Optical Materials&lt;/em
         <item>
                 <title>Our paper on metamaterial radomes published in IEEE-JMMCT</title>
                 <description>&lt;p&gt;Our paper on “Transformation-optics-based design of a metamaterial radome for extending the scanning 
-angle of a phased array antenna” [(missing reference)],
+angle of a phased array antenna” [&lt;a href=&quot;#IJ126_IEEE-JMMCT_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;http://www.mbda-systems.com&quot;&gt;MBDA&lt;/a&gt;,
 has been published (early view) in the &lt;em&gt;IEEE Journal of Multiscale and Multiphysics Computational Techniques&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;/ol&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ126_IEEE-JMMCT_2017&quot;&gt;Moccia, M., Castaldi, G., D’Alterio, G., Feo, M., Vitiello, R., &amp;amp; Galdi, V. (2017). Transformation-optics-based design of a metamaterial radome for extending the scanning angle of a phased array antenna. &lt;i&gt;IEEE Journal on Multiscale and Multiphysics Computational Techniques&lt;/i&gt;.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ126_IEEE-JMMCT_2017-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ126_IEEE-JMMCT_2017-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ126_IEEE-JMMCT_2017-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/JMMCT.2017.2713826&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ126_IEEE-JMMCT_2017.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ126_IEEE-JMMCT_2017-abstract&quot; class=&quot;collapse&quot;&gt;We apply the transformation-optics approach to the design of a metamaterial radome that can extend the scanning angle of a phased-array antenna. For moderate enhancement of the scanning angle, via suitable parameterization and optimization of the coordinate transformation, we obtain a design that admits a technologically viable, robust and potentially broadband implementation in terms of thin-metallic-plate inclusions. Our results, validated via finite-element-based numerical simulations, indicate an alternative route to the design of metamaterial radomes which does not require negative-valued and/or extreme constitutive parameters.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ126_IEEE-JMMCT_2017-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ126_IEEE-JMMCT_2017,
+  author = {Moccia, M. and Castaldi, G. and D'Alterio, G. and Feo, M. and Vitiello, R. and Galdi, V.},
+  journal = {IEEE Journal on Multiscale and Multiphysics Computational Techniques},
+  title = {Transformation-optics-based design of a metamaterial radome for extending the scanning angle of a phased array antenna},
+  year = {2017},
+  keywords = {Geometry;Metamaterials;Permeability;Permittivity;Phased arrays;Tensile stress;Metamaterials;phased-array antennas;radomes;transformation optics},
+  doi = {10.1109/JMMCT.2017.2713826},
+  month = jun
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
 
 </description>
                 <link>http://fw-lab.org/news/JMMCT-paper-MR-published</link>
