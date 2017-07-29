@@ -1,8 +1,119 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-07-06T12:15:06+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on coding metasurfaces accepted in AdOM</title><link href="/news/AdOM-paper-MS-accepted" rel="alternate" type="text/html" title="Our paper on coding metasurfaces accepted in AdOM" /><published>2017-06-16T00:00:00+02:00</published><updated>2017-06-16T00:00:00+02:00</updated><id>/news/AdOM-paper-MS-accepted</id><content type="html" xml:base="/news/AdOM-paper-MS-accepted">&lt;p&gt;Our paper on “Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and sub-optimal design,”
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-07-29T10:56:17+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on coding metasurfaces accepted in AdOM</title><link href="/news/AdOM-paper-MS-published" rel="alternate" type="text/html" title="Our paper on coding metasurfaces accepted in AdOM" /><published>2017-07-28T00:00:00+02:00</published><updated>2017-07-28T00:00:00+02:00</updated><id>/news/AdOM-paper-MS-published</id><content type="html" xml:base="/news/AdOM-paper-MS-published">&lt;p&gt;Our paper on “Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and sub-optimal design”
+[&lt;a href=&quot;#IJ127_AdOM_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
+has been published (early view) in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ127_AdOM_2017&quot;&gt;Moccia, M., Liu, S., Wu, R. Y., Castaldi, G., Andreone, A., Cui, T. J., &amp;amp; Galdi, V. Coding Metasurfaces for Diffuse Scattering: Scaling Laws, Bounds, and Suboptimal Design. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; 1700455.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ127_AdOM_2017-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ127_AdOM_2017-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ127_AdOM_2017-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1002/adom.201700455&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ127_AdOM_2017.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;http://onlinelibrary.wiley.com/store/10.1002/adom.201700455/asset/supinfo/adom201700455-sup-0001-S1.pdf?v=1&amp;amp;s=0ea1dc5e7c9bcef0a85fad9924885e5117d4b61b&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ127_AdOM_2017-abstract&quot; class=&quot;collapse&quot;&gt;Coding metasurfaces, based on the combination of two basic unit cells with out-of-phase responses, have been the subject of many recent studies aimed at achieving diffuse scattering, with potential applications to diverse fields ranging from radar-signature control to computational imaging. Here, via a theoretical study of the relevant scaling-laws, the physical mechanism underlying the scattering-signature reduction is elucidated, and some absolute and realistic bounds are analytically derived. Moreover, a simple, deterministic suboptimal design strategy is introduced that yields results comparable with those typically obtained by approaches based on brute-force numerical optimization, at a negligible fraction of their computational burden, thereby paving the way to the design of structures with arbitrarily large electrical size. Results are corroborated by rigorous full-wave numerical simulations and microwave experiments, and may be of interest in a variety of application fields, such as the design of low-scattering targets and illumination apertures for computational imaging, not necessarily restricted to electromagnetic scenarios.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ127_AdOM_2017-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ127_AdOM_2017,
+  author = {Moccia, Massimo and Liu, Shuo and Wu, Rui Yuan and Castaldi, Giuseppe and Andreone, Antonello and Cui, Tie Jun and Galdi, Vincenzo},
+  title = {Coding Metasurfaces for Diffuse Scattering: Scaling Laws, Bounds, and Suboptimal Design},
+  journal = {Advanced Optical Materials},
+  issn = {2195-1071},
+  url = {http://dx.doi.org/10.1002/adom.201700455},
+  doi = {10.1002/adom.201700455},
+  month = jul,
+  pages = {1700455},
+  note = {http://onlinelibrary.wiley.com/store/10.1002/adom.201700455/asset/supinfo/adom201700455-sup-0001-S1.pdf?v=1&amp;amp;s=0ea1dc5e7c9bcef0a85fad9924885e5117d4b61b}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="coding" /><category term="flat polynomials" /><category term="aperiodic" /><summary type="html">Our paper on “Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and sub-optimal design”
+[1],
+in collaboration with Tie Jun Cui’s Group (Southeast University),
+has been published (early view) in Advanced Optical Materials.
+
+Moccia, M., Liu, S., Wu, R. Y., Castaldi, G., Andreone, A., Cui, T. J., &amp;amp; Galdi, V. Coding Metasurfaces for Diffuse Scattering: Scaling Laws, Bounds, and Suboptimal Design. Advanced Optical Materials 1700455.
+
+
+
+  
+    
+    Abstract
+    
+
+    BibTeX
+
+            
+    
+    DOI
+    
+
+    
+
+    
+      
+    
+    PDF
+    
+
+    
+    Supplements
+    
+  
+  
+
+  
+  Coding metasurfaces, based on the combination of two basic unit cells with out-of-phase responses, have been the subject of many recent studies aimed at achieving diffuse scattering, with potential applications to diverse fields ranging from radar-signature control to computational imaging. Here, via a theoretical study of the relevant scaling-laws, the physical mechanism underlying the scattering-signature reduction is elucidated, and some absolute and realistic bounds are analytically derived. Moreover, a simple, deterministic suboptimal design strategy is introduced that yields results comparable with those typically obtained by approaches based on brute-force numerical optimization, at a negligible fraction of their computational burden, thereby paving the way to the design of structures with arbitrarily large electrical size. Results are corroborated by rigorous full-wave numerical simulations and microwave experiments, and may be of interest in a variety of application fields, such as the design of low-scattering targets and illumination apertures for computational imaging, not necessarily restricted to electromagnetic scenarios.
+  
+
+  @article{IJ127_AdOM_2017,
+  author = {Moccia, Massimo and Liu, Shuo and Wu, Rui Yuan and Castaldi, Giuseppe and Andreone, Antonello and Cui, Tie Jun and Galdi, Vincenzo},
+  title = {Coding Metasurfaces for Diffuse Scattering: Scaling Laws, Bounds, and Suboptimal Design},
+  journal = {Advanced Optical Materials},
+  issn = {2195-1071},
+  url = {http://dx.doi.org/10.1002/adom.201700455},
+  doi = {10.1002/adom.201700455},
+  month = jul,
+  pages = {1700455},
+  note = {http://onlinelibrary.wiley.com/store/10.1002/adom.201700455/asset/supinfo/adom201700455-sup-0001-S1.pdf?v=1&amp;amp;s=0ea1dc5e7c9bcef0a85fad9924885e5117d4b61b}
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MS-coded.png" /></entry><entry><title type="html">Our paper on coding metasurfaces accepted in AdOM</title><link href="/news/AdOM-paper-MS-accepted" rel="alternate" type="text/html" title="Our paper on coding metasurfaces accepted in AdOM" /><published>2017-06-16T00:00:00+02:00</published><updated>2017-06-16T00:00:00+02:00</updated><id>/news/AdOM-paper-MS-accepted</id><content type="html" xml:base="/news/AdOM-paper-MS-accepted">&lt;p&gt;Our paper on “Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and sub-optimal design,”
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been accepted for publication in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="coding" /><category term="flat polynomials" /><category term="aperiodic" /><summary type="html">Our paper on “Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and sub-optimal design,”
 in collaboration with Tie Jun Cui’s Group (Southeast University),
-has been accepted for publication in Advanced Optical Materials.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MS-coded.png" /></entry><entry><title type="html">Our paper on metamaterial radomes accepted in IEEE-JMMCT</title><link href="/news/JMMCT-paper-MR-accepted" rel="alternate" type="text/html" title="Our paper on metamaterial radomes accepted in IEEE-JMMCT" /><published>2017-05-29T00:00:00+02:00</published><updated>2017-05-29T00:00:00+02:00</updated><id>/news/JMMCT-paper-MR-accepted</id><content type="html" xml:base="/news/JMMCT-paper-MR-accepted">&lt;p&gt;Our paper on “Transformation-optics-based design of a metamaterial radome for extending the scanning angle of a phased array antenna,”
+has been accepted for publication in Advanced Optical Materials.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MS-coded.png" /></entry><entry><title type="html">Our paper on metamaterial radomes published in IEEE-JMMCT</title><link href="/news/JMMCT-paper-MR-published" rel="alternate" type="text/html" title="Our paper on metamaterial radomes published in IEEE-JMMCT" /><published>2017-06-08T00:00:00+02:00</published><updated>2017-06-08T00:00:00+02:00</updated><id>/news/JMMCT-paper-MR-published</id><content type="html" xml:base="/news/JMMCT-paper-MR-published">&lt;p&gt;Our paper on “Transformation-optics-based design of a metamaterial radome for extending the scanning 
+angle of a phased array antenna” [(missing reference)],
+in collaboration with &lt;a href=&quot;http://www.mbda-systems.com&quot;&gt;MBDA&lt;/a&gt;,
+has been published (early view) in the &lt;em&gt;IEEE Journal of Multiscale and Multiphysics Computational Techniques&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="radomes" /><category term="transformation optics" /><category term="antenna arrays" /><summary type="html">Our paper on “Transformation-optics-based design of a metamaterial radome for extending the scanning 
+angle of a phased array antenna” [(missing reference)],
+in collaboration with MBDA,
+has been published (early view) in the IEEE Journal of Multiscale and Multiphysics Computational Techniques.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MR.png" /></entry><entry><title type="html">Our paper on metamaterial radomes accepted in IEEE-JMMCT</title><link href="/news/JMMCT-paper-MR-accepted" rel="alternate" type="text/html" title="Our paper on metamaterial radomes accepted in IEEE-JMMCT" /><published>2017-05-29T00:00:00+02:00</published><updated>2017-05-29T00:00:00+02:00</updated><id>/news/JMMCT-paper-MR-accepted</id><content type="html" xml:base="/news/JMMCT-paper-MR-accepted">&lt;p&gt;Our paper on “Transformation-optics-based design of a metamaterial radome for extending the scanning angle of a phased array antenna,”
 in collaboration with &lt;a href=&quot;http://www.mbda-systems.com&quot;&gt;MBDA&lt;/a&gt;,
 has been accepted for publication in the &lt;em&gt;IEEE Journal of Multiscale and Multiphysics Computational Techniques&lt;/em&gt;.&lt;/p&gt;
 
@@ -116,7 +227,7 @@ Othman, M. A. K., Galdi, V., &amp;amp; Capolino, F. (2017). Exceptional points o
   doi = {10.1103/PhysRevB.95.104305},
   url = {http://link.aps.org/doi/10.1103/PhysRevB.95.104305}
 }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/EPD-chain.png" /></entry><entry><title type="html">Our paper on optical fiber meta-tips published in LSA</title><link href="/news/LSA-paper_meta-tip-published" rel="alternate" type="text/html" title="Our paper on optical fiber meta-tips published in LSA" /><published>2017-03-10T00:00:00+01:00</published><updated>2017-03-10T00:00:00+01:00</updated><id>/news/LSA-paper_meta-tip-published</id><content type="html" xml:base="/news/LSA-paper_meta-tip-published">&lt;p&gt;Our paper on “Optical fiber meta-tips” [&lt;a href=&quot;#IJ124_LSA_6_6226a_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
- in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group (University of Sannio)
+ in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group (University of Sannio),
 has been published in &lt;em&gt;Light: Science &amp;amp; Applications&lt;/em&gt;.&lt;/p&gt;
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ124_LSA_6_6226a_2017&quot;&gt;Principe, M., Consales, M., Micco, A., Crescitelli, A., Castaldi, G., Esposito, E., … Cusano, A. (2017). Optical fiber meta-tips. &lt;i&gt;Light: Science &amp;amp; Applications&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;6&lt;/i&gt;&lt;/span&gt;, e16226.&lt;/span&gt;
@@ -169,7 +280,7 @@ has been published in &lt;em&gt;Light: Science &amp;amp; Applications&lt;/em&gt;
   
     
 &lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="metasurfaces" /><category term="optical fibers" /><category term="plasmonics" /><category term="lab-on-fiber" /><summary type="html">Our paper on “Optical fiber meta-tips” [1],
- in collaboration with Andrea Cusano’s Group (University of Sannio)
+ in collaboration with Andrea Cusano’s Group (University of Sannio),
 has been published in Light: Science &amp;amp; Applications.
 
 Principe, M., Consales, M., Micco, A., Crescitelli, A., Castaldi, G., Esposito, E., … Cusano, A. (2017). Optical fiber meta-tips. Light: Science &amp;amp; Applications 6, e16226.
@@ -341,48 +452,4 @@ An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://se
 
 &lt;p&gt;Details on the design and implementation can be found &lt;a href=&quot;/about.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="website" /><summary type="html">The new website is on!
 
-Details on the design and implementation can be found here.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/website-launch.png" /></entry><entry><title type="html">About</title><link href="/misc/about" rel="alternate" type="text/html" title="About" /><published>2017-01-28T00:00:00+01:00</published><updated>2017-01-28T00:00:00+01:00</updated><id>/misc/about</id><content type="html" xml:base="/misc/about">&lt;div class=&quot;bigspacer&quot;&gt;&lt;/div&gt;
-&lt;div class=&quot;head&quot;&gt; Purpose &lt;/div&gt;
-&lt;div class=&quot;spacer&quot;&gt;&lt;/div&gt;
-&lt;p&gt;This new website is intended to showcase the main research activities and results of our Lab. 
-Lay summaries are provided to describe our &lt;a href=&quot;/projects&quot;&gt;research topics&lt;/a&gt; in an accessible way.
-More technical details are given in the &lt;a href=&quot;/categories.html#projects-ref&quot;&gt;project pages&lt;/a&gt;, together with the relevant publications.&lt;/p&gt;
-
-&lt;div class=&quot;bigspacer&quot;&gt;&lt;/div&gt;
-&lt;div class=&quot;head&quot;&gt; Design and implementation &lt;/div&gt;
-&lt;div class=&quot;spacer&quot;&gt;&lt;/div&gt;
-&lt;p&gt;The website is built with &lt;a href=&quot;http://jekyllbootstrap.com/&quot;&gt;Jekyll Bootstrap&lt;/a&gt;. 
-Bibliographies and citations are automatically generated
-via the &lt;a href=&quot;https://github.com/inukshuk/jekyll-scholar&quot;&gt;Jekyll Scholar&lt;/a&gt; plugin.&lt;/p&gt;
-
-&lt;div class=&quot;bigspacer&quot;&gt;&lt;/div&gt;
-&lt;div class=&quot;head&quot;&gt; Credits &lt;/div&gt;
-&lt;div class=&quot;spacer&quot;&gt;&lt;/div&gt;
-&lt;p&gt;We forked the open source templates that were kindly made available by the &lt;a href=&quot;http://bedford.io&quot;&gt;Bedford Lab&lt;/a&gt; 
-and the &lt;a href=&quot;http://drummondlab.org/&quot;&gt;Drummond Lab&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The banner images appearing in the homepage are adaptations of:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;em&gt;The great wave off Kanagawa&lt;/em&gt;, by Hokusai. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/File:Great_Wave_off_Kanagawa2.jpg&quot;&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Refraction 2.0&lt;/em&gt;, by Belem Lett. 
-Source: &lt;a href=&quot;http://www.abc.net.au/news/2010-08-27/belem-letts-painting-refraction-20/956554&quot;&gt;abc.net.au&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Symmetry E70 (butterflies)&lt;/em&gt;, by Maurits C. Escher. Source: &lt;a href=&quot;http://ayay.co.uk/arts/optical_illusion/m_c_escher/symmetry-watercolor-70-butterfly.jpg&quot;&gt;ayay&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;A chaotic system&lt;/em&gt;, by Annie Clavel. 
-Source: &lt;a href=&quot;http://www.annieclavel.com/galleries/ch/ch01&quot;&gt;annieclavel.com&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Gravitational waves&lt;/em&gt;, by Bahaar Dhawan Rohatgi. Source: &lt;a href=&quot;https://www.mojarto.com/artworks/bahaar-dhawan-rohatgi/gravitational-waves-195386&quot;&gt;Mojarto&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><category term="misc" /><summary type="html"></summary></entry><entry><title type="html">Join</title><link href="/misc/join" rel="alternate" type="text/html" title="Join" /><published>2017-01-27T00:00:00+01:00</published><updated>2017-01-27T00:00:00+01:00</updated><id>/misc/join</id><content type="html" xml:base="/misc/join">&lt;p&gt;We are always interested in applications from highly 
-motivated students and postdocs with strong backgrounds in mathematics and physics and good computer-programming skills.&lt;/p&gt;
-&lt;div class=&quot;bigspacer&quot;&gt;&lt;/div&gt;
-
-&lt;div class=&quot;head&quot;&gt; PhD students &lt;/div&gt;
-&lt;div class=&quot;spacer&quot;&gt;&lt;/div&gt;
-&lt;p&gt;If you are interested in pursuing a PhD in our Group, you can apply to the program in 
-&lt;a href=&quot;http://www.unisannio.it/en/didattica/corsi-di-studio/dottorato-di-ricerca/dottorato-tecnologie-informazione-ingegneria&quot;&gt;Information Technology for Engineering&lt;/a&gt; 
-at the &lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;. Department calls for PhD openings are usually posted in July, and applications are comparatively reviewed. 
-For inquiries, please send an email to vgaldi&lt;span style=&quot;display:none&quot;&gt;obfuscate&lt;/span&gt;@unisannio.it.&lt;/p&gt;
-&lt;div class=&quot;bigspacer&quot;&gt;&lt;/div&gt;
-
-&lt;div class=&quot;head&quot;&gt; Postdoctoral fellows &lt;/div&gt;
-&lt;div class=&quot;spacer&quot;&gt;&lt;/div&gt;
-&lt;p&gt;If you are interested in a postdoc position, please send a current CV, a short statement of research interests, and
-a list of three academic references to vgaldi&lt;span style=&quot;display:none&quot;&gt;obfuscate&lt;/span&gt;@unisannio.it.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><category term="misc" /><summary type="html"></summary></entry></feed>
+Details on the design and implementation can be found here.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/website-launch.png" /></entry></feed>
