@@ -5,19 +5,19 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2017-07-29T10:56:17+02:00</lastBuildDate>
-        <pubDate>2017-07-29T10:56:17+02:00</pubDate>
+        <lastBuildDate>2017-07-29T11:12:01+02:00</lastBuildDate>
+        <pubDate>2017-07-29T11:12:01+02:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
-                <title>Our paper on coding metasurfaces accepted in AdOM</title>
+                <title>Our paper on coding metasurfaces published in AdOM</title>
                 <description>&lt;p&gt;Our paper on “Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and sub-optimal design”
 [&lt;a href=&quot;#IJ127_AdOM_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published (early view) in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ127_AdOM_2017&quot;&gt;Moccia, M., Liu, S., Wu, R. Y., Castaldi, G., Andreone, A., Cui, T. J., &amp;amp; Galdi, V. Coding Metasurfaces for Diffuse Scattering: Scaling Laws, Bounds, and Suboptimal Design. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; 1700455.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ127_AdOM_2017&quot;&gt;Moccia, M., Liu, S., Wu, R. Y., Castaldi, G., Andreone, A., Cui, T. J., &amp;amp; Galdi, V. (2017). Coding Metasurfaces for Diffuse Scattering: Scaling Laws, Bounds, and Suboptimal Design. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; 1700455.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ127_AdOM_2017-materials&quot;&gt;
@@ -58,6 +58,7 @@ has been published (early view) in &lt;em&gt;Advanced Optical Materials&lt;/em&g
   issn = {2195-1071},
   url = {http://dx.doi.org/10.1002/adom.201700455},
   doi = {10.1002/adom.201700455},
+  year = {2017},
   month = jul,
   pages = {1700455},
   note = {http://onlinelibrary.wiley.com/store/10.1002/adom.201700455/asset/supinfo/adom201700455-sup-0001-S1.pdf?v=1&amp;amp;s=0ea1dc5e7c9bcef0a85fad9924885e5117d4b61b}
