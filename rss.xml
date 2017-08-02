@@ -5,8 +5,8 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2017-08-01T16:51:20+02:00</lastBuildDate>
-        <pubDate>2017-08-01T16:51:20+02:00</pubDate>
+        <lastBuildDate>2017-08-02T11:59:07+02:00</lastBuildDate>
+        <pubDate>2017-08-02T11:59:07+02:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -697,6 +697,103 @@ such as aluminum nitride and silver conductive epoxies.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/projects/multiphysics-MTM</link>
                 <guid>http://fw-lab.org/projects/multiphysics-MTM</guid>
+                <pubDate>2017-01-19T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Coding metasurfaces</title>
+                <description>
+&lt;p&gt;Coding metasurfaces, based on the combination of a limited number of basic unit cells, 
+have been the subject of intense research. In their simplest form, only two element-
+types (labeled as “1” and “0”) are employed, so that the meta-surface design can be effectively associated with 
+a 2D binary coding. 
+Further versatility can be introduced by employing more than two unit cells, 
+corresponding to multibit coding. Moreover, by exploiting &lt;em&gt;reconfigurable&lt;/em&gt; unit cells 
+(whose response can be switched, e.g., by means of a biased diode or a microelectromechanical system), 
+the coding is no longer irreversibly bound to the structure design, but can be controlled, e.g., via a&lt;br /&gt;
+field-programmable gate array.&lt;/p&gt;
+
+&lt;p&gt;Among the most prominent applications, particularly worth of mention are those to 
+field shaping in reverberating scenarios,
+computational imaging, and dynamic control of polarization, wavefront and scattering signature,
+ as well as of information entropy.&lt;/p&gt;
+
+&lt;p&gt;In a recent study [&lt;a href=&quot;#IJ127_AdOM_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
+we have addressed the design of coding metasurfaces for &lt;em&gt;diffuse scattering&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In particular, via a theoretical study of the relevant scaling-laws, we 
+elucidated the physical mechanism underlying the scattering-signature reduction, 
+and we analytically derived some absolute and realistic bounds. 
+Moreover, we introduced a simple, deterministic sub-optimal design strategy inspired by the theory of &lt;em&gt;flat polynomials&lt;/em&gt;.
+Such strategy, based on the so-called Golay-Rudin-Shapiro polynomials,
+ yields results comparable with those typically obtained by approaches based on the brute-force numerical optimization, 
+at a negligible fraction of their computational burden, thereby paving the way to the design of structures with 
+arbitrarily large electrical size.&lt;/p&gt;
+
+&lt;p&gt;The upper-left panel shows a typical radar-cross-section (RCS) pattern attained via our approach (P_3-type GRS polynomial), 
+for an operational frequency of 10 GHz. 
+As illustrated in the top-right panel, our numerical simulations are in good agreement with microwave measurements.
+Finally, the bottom panels show the (simulated and measured) comparison with a metallic 
+plate of same size, from which a significant reduction (&amp;gt;10 dB) of the RCS can be observed.&lt;/p&gt;
+
+&lt;p&gt;Our results may be of interest in a variety of application fields, such as the design of low-scattering targets 
+and illumination apertures for computational imaging, not necessarily restricted to electromagnetic scenarios.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ127_AdOM_2017&quot;&gt;Moccia, M., Liu, S., Wu, R. Y., Castaldi, G., Andreone, A., Cui, T. J., &amp;amp; Galdi, V. (2017). Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and suboptimal design. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; 1700455.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ127_AdOM_2017-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ127_AdOM_2017-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ127_AdOM_2017-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1002/adom.201700455&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ127_AdOM_2017.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;http://onlinelibrary.wiley.com/store/10.1002/adom.201700455/asset/supinfo/adom201700455-sup-0001-S1.pdf?v=1&amp;amp;s=0ea1dc5e7c9bcef0a85fad9924885e5117d4b61b&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ127_AdOM_2017-abstract&quot; class=&quot;collapse&quot;&gt;Coding metasurfaces, based on the combination of two basic unit cells with out-of-phase responses, have been the subject of many recent studies aimed at achieving diffuse scattering, with potential applications to diverse fields ranging from radar-signature control to computational imaging. Here, via a theoretical study of the relevant scaling-laws, the physical mechanism underlying the scattering-signature reduction is elucidated, and some absolute and realistic bounds are analytically derived. Moreover, a simple, deterministic suboptimal design strategy is introduced that yields results comparable with those typically obtained by approaches based on brute-force numerical optimization, at a negligible fraction of their computational burden, thereby paving the way to the design of structures with arbitrarily large electrical size. Results are corroborated by rigorous full-wave numerical simulations and microwave experiments, and may be of interest in a variety of application fields, such as the design of low-scattering targets and illumination apertures for computational imaging, not necessarily restricted to electromagnetic scenarios.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ127_AdOM_2017-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ127_AdOM_2017,
+  author = {Moccia, Massimo and Liu, Shuo and Wu, Rui Yuan and Castaldi, Giuseppe and Andreone, Antonello and Cui, Tie Jun and Galdi, Vincenzo},
+  title = {Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and suboptimal design},
+  journal = {Advanced Optical Materials},
+  issn = {2195-1071},
+  url = {http://dx.doi.org/10.1002/adom.201700455},
+  doi = {10.1002/adom.201700455},
+  year = {2017},
+  month = jul,
+  pages = {1700455},
+  note = {http://onlinelibrary.wiley.com/store/10.1002/adom.201700455/asset/supinfo/adom201700455-sup-0001-S1.pdf?v=1&amp;amp;s=0ea1dc5e7c9bcef0a85fad9924885e5117d4b61b}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://fw-lab.org/projects/coding_MS</link>
+                <guid>http://fw-lab.org/projects/coding_MS</guid>
                 <pubDate>2017-01-19T00:00:00+01:00</pubDate>
         </item>
 
