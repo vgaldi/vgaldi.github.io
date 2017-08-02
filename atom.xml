@@ -4,7 +4,7 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2017-08-02T12:11:15+02:00</updated>
+ <updated>2017-08-02T12:19:34+02:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
@@ -802,7 +802,7 @@ of novel type of surface waves for label-free &lt;a href=&quot;/projects/MTM_opt
  </entry>
  
  <entry>
-   <title>Coding metasurfaces</title>
+   <title>Coding metasurfaces for diffuse scattering</title>
    <link href="http://fw-lab.org/projects/coding_MS"/>
    <updated>2017-01-17T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/coding_MS</id>
@@ -834,10 +834,10 @@ Such strategy, based on the so-called Golay-Rudin-Shapiro polynomials,
 at a negligible fraction of their computational burden, thereby paving the way to the design of structures with 
 arbitrarily large electrical size.&lt;/p&gt;
 
-&lt;p&gt;The upper-left panel shows a typical radar-cross-section (RCS) pattern attained via our approach (\(\P_3\)-type GRS polynomial), 
+&lt;p&gt;The upper-left panel shows a typical radar-cross-section (RCS) pattern attained via our approach (\P_3\)-type GRS polynomial), 
 for an operational frequency of 10 GHz. 
 As illustrated in the top-right panel, our numerical simulations are in good agreement with microwave measurements.
-Finally, the bottom panels show the (simulated and measured) comparison with a metallic 
+Finally, the bottom panels show the simulated (left) and measured (right) comparisons with a metallic 
 plate of same size, from which a significant reduction (&amp;gt;10 dB) of the RCS can be observed.&lt;/p&gt;
 
 &lt;p&gt;Our results may be of interest in a variety of application fields, such as the design of low-scattering targets 
