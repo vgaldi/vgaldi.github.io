@@ -5,8 +5,8 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2017-08-02T12:19:34+02:00</lastBuildDate>
-        <pubDate>2017-08-02T12:19:34+02:00</pubDate>
+        <lastBuildDate>2017-08-02T12:34:26+02:00</lastBuildDate>
+        <pubDate>2017-08-02T12:34:26+02:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -802,7 +802,7 @@ of novel type of surface waves for label-free &lt;a href=&quot;/projects/MTM_opt
         <item>
                 <title>Coding metasurfaces for diffuse scattering</title>
                 <description>
-&lt;p&gt;Coding metasurfaces, based on the combination of a limited number of basic unit cells, 
+&lt;p&gt;&lt;em&gt;Digital&lt;/em&gt; and &lt;em&gt;coding&lt;/em&gt; metasurfaces, based on the combination of a limited number of basic unit cells, 
 have been the subject of intense research. In their simplest form, only two element-
 types (labeled as “1” and “0”) are employed, so that the meta-surface design can be effectively associated with 
 a 2D binary coding. 
@@ -824,12 +824,12 @@ we have addressed the design of coding metasurfaces for &lt;em&gt;diffuse scatte
 elucidated the physical mechanism underlying the scattering-signature reduction, 
 and we analytically derived some absolute and realistic bounds. 
 Moreover, we introduced a simple, deterministic sub-optimal design strategy inspired by the theory of &lt;em&gt;flat polynomials&lt;/em&gt;.
-Such strategy, based on the so-called Golay-Rudin-Shapiro polynomials,
+Such strategy, based on the so-called Golay-Rudin-Shapiro (GRS) polynomials,
  yields results comparable with those typically obtained by approaches based on the brute-force numerical optimization, 
 at a negligible fraction of their computational burden, thereby paving the way to the design of structures with 
 arbitrarily large electrical size.&lt;/p&gt;
 
-&lt;p&gt;The upper-left panel shows a typical radar-cross-section (RCS) pattern attained via our approach (\P_3\)-type GRS polynomial), 
+&lt;p&gt;The upper-left panel shows a typical radar-cross-section (RCS) pattern attained via our approach \(P_3\)-type GRS polynomial), 
 for an operational frequency of 10 GHz. 
 As illustrated in the top-right panel, our numerical simulations are in good agreement with microwave measurements.
 Finally, the bottom panels show the simulated (left) and measured (right) comparisons with a metallic 
