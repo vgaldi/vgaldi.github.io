@@ -27,7 +27,7 @@ http://fw-lab.org/tags
 http://fw-lab.org/feed.xml
 http://fw-lab.org/feed.xslt.xml
 
-http://fw-lab.org/news/PRB-paper-MPT-MTM-accepted
+http://fw-lab.org/news/PRB-paper-MPI-MTM-accepted
 http://fw-lab.org/news/AdOM-paper-MS-published
 http://fw-lab.org/news/AdOM-paper-MS-accepted
 http://fw-lab.org/news/JMMCT-paper-MR-published
