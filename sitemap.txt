@@ -29,9 +29,11 @@ http://fw-lab.org/feed.xslt.xml
 
 http://fw-lab.org/news/PRB-paper-MPI-MTM-accepted
 http://fw-lab.org/news/AdOM-paper-MS-published
+http://fw-lab.org/news/IEEE-APS-2017
 http://fw-lab.org/news/AdOM-paper-MS-accepted
 http://fw-lab.org/news/JMMCT-paper-MR-published
 http://fw-lab.org/news/JMMCT-paper-MR-accepted
+http://fw-lab.org/news/OFS-25
 http://fw-lab.org/news/PRB-paper-EPD-published
 http://fw-lab.org/news/LSA-paper_meta-tip-published
 http://fw-lab.org/news/PRB-paper-NH-MS-published

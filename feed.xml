@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-08-05T22:02:25+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on nonlocal metamaterials accepted in PRB</title><link href="/news/PRB-paper-MPI-MTM-accepted" rel="alternate" type="text/html" title="Our paper on nonlocal metamaterials accepted in PRB" /><published>2017-08-05T00:00:00+02:00</published><updated>2017-08-05T00:00:00+02:00</updated><id>/news/PRB-paper-MPI-MTM-accepted</id><content type="html" xml:base="/news/PRB-paper-MPI-MTM-accepted">&lt;p&gt;Our paper on “Enhancement and interplay of first- and second-order spatial 
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-08-06T07:09:47+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on nonlocal metamaterials accepted in PRB</title><link href="/news/PRB-paper-MPI-MTM-accepted" rel="alternate" type="text/html" title="Our paper on nonlocal metamaterials accepted in PRB" /><published>2017-08-05T00:00:00+02:00</published><updated>2017-08-05T00:00:00+02:00</updated><id>/news/PRB-paper-MPI-MTM-accepted</id><content type="html" xml:base="/news/PRB-paper-MPI-MTM-accepted">&lt;p&gt;Our paper on “Enhancement and interplay of first- and second-order spatial 
 dispersion in metamaterials with moderate-permittivity inclusions,”
 in collaboration with &lt;a href=&quot;https://sites.google.com/site/rizzacarlo81/&quot;&gt;Carlo Rizza&lt;/a&gt; (University of l’Aquila) and &lt;a href=&quot;http://www.ing.univaq.it/personale/scheda_personale.php?codice=511&quot;&gt;Alessandro Ciattoni&lt;/a&gt; (CNR-SPIN),
 has been accepted for publication as a Rapid Communication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
@@ -113,7 +113,158 @@ Moccia, M., Liu, S., Wu, R. Y., Castaldi, G., Andreone, A., Cui, T. J., &amp;amp
   month = jul,
   pages = {1700455},
   note = {http://onlinelibrary.wiley.com/store/10.1002/adom.201700455/asset/supinfo/adom201700455-sup-0001-S1.pdf?v=1&amp;amp;s=0ea1dc5e7c9bcef0a85fad9924885e5117d4b61b}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MS-coded.png" /></entry><entry><title type="html">Our paper on coding metasurfaces accepted in AdOM</title><link href="/news/AdOM-paper-MS-accepted" rel="alternate" type="text/html" title="Our paper on coding metasurfaces accepted in AdOM" /><published>2017-06-16T00:00:00+02:00</published><updated>2017-06-16T00:00:00+02:00</updated><id>/news/AdOM-paper-MS-accepted</id><content type="html" xml:base="/news/AdOM-paper-MS-accepted">&lt;p&gt;Our paper on “Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and sub-optimal design,”
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MS-coded.png" /></entry><entry><title type="html">Two talks presented at IEEE-APS/URSI 2017</title><link href="/news/IEEE-APS-2017" rel="alternate" type="text/html" title="Two talks presented at IEEE-APS/URSI 2017" /><published>2017-07-14T00:00:00+02:00</published><updated>2017-07-14T00:00:00+02:00</updated><id>/news/IEEE-APS-2017</id><content type="html" xml:base="/news/IEEE-APS-2017">&lt;p&gt;We have presented two talks 
+[&lt;a href=&quot;#Moccia_2017-USNC-URSI&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Principe_2017-USNC-URSI&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
+at the &lt;a href=&quot;http://2017apsursi.org/default.asp&quot;&gt;IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting&lt;/a&gt;
+San Diego, California, USA, July 9-14, 2017.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Moccia_2017-USNC-URSI&quot;&gt;Moccia, M., Liu, S., Wu, R. Y., Castaldi, G., Andreone, A., Cui, T. J., &amp;amp; Galdi, V. (2017). Coding metasurfaces for diffuse scattering: Theoretical bounds and sub-optimal design. In &lt;i&gt;Proc. USNC-URSI Radio Science Meeting&lt;/i&gt;. San Diego, CA, USA, July 9-14, 2017.&lt;/span&gt;
+
+
+&lt;div id=&quot;Moccia_2017-USNC-URSI-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Moccia_2017-USNC-URSI-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Moccia_2017-USNC-URSI-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Moccia_2017-USNC-URSI,
+  author = {Moccia, Massimo and Liu, Shuo and Wu, Rui Yuan and Castaldi, Giuseppe and Andreone, Antonello and Cui, Tie Jun and Galdi, Vincenzo},
+  booktitle = {Proc. USNC-URSI Radio Science Meeting},
+  title = {Coding metasurfaces for diffuse scattering: Theoretical bounds and sub-optimal design},
+  year = {2017},
+  organization = {San Diego, CA, USA, July 9-14, 2017},
+  month = jul
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Principe_2017-USNC-URSI&quot;&gt;Principe, M., Consales, M., Micco, A., Crescitelli, A., Castaldi, G., Esposito, E., … Cusano, A. (2017). Fiber-optics meta-tips for light manipulation and sensing. In &lt;i&gt;Proc. USNC-URSI Radio Science Meeting&lt;/i&gt;. San Diego, CA, USA, July 9-14, 2017.&lt;/span&gt;
+
+
+&lt;div id=&quot;Principe_2017-USNC-URSI-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Principe_2017-USNC-URSI-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Principe_2017-USNC-URSI-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Principe_2017-USNC-URSI,
+  author = {Principe, M. and Consales, M. and Micco, A. and Crescitelli, A. and Castaldi, G. and Esposito, E. and La Ferrara, V. and Cutolo, A. and Galdi, V. and Cusano, A.},
+  booktitle = {Proc. USNC-URSI Radio Science Meeting},
+  title = {Fiber-optics meta-tips for light manipulation and sensing},
+  year = {2017},
+  organization = {San Diego, CA, USA, July 9-14, 2017},
+  month = jul
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="coding" /><category term="flat polynomials" /><category term="aperiodic" /><category term="meta-tips" /><summary type="html">We have presented two talks 
+[1, 2]
+at the IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting
+San Diego, California, USA, July 9-14, 2017.
+
+Moccia, M., Liu, S., Wu, R. Y., Castaldi, G., Andreone, A., Cui, T. J., &amp;amp; Galdi, V. (2017). Coding metasurfaces for diffuse scattering: Theoretical bounds and sub-optimal design. In Proc. USNC-URSI Radio Science Meeting. San Diego, CA, USA, July 9-14, 2017.
+
+
+
+  
+    
+
+    BibTeX
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  
+
+  
+
+  @inproceedings{Moccia_2017-USNC-URSI,
+  author = {Moccia, Massimo and Liu, Shuo and Wu, Rui Yuan and Castaldi, Giuseppe and Andreone, Antonello and Cui, Tie Jun and Galdi, Vincenzo},
+  booktitle = {Proc. USNC-URSI Radio Science Meeting},
+  title = {Coding metasurfaces for diffuse scattering: Theoretical bounds and sub-optimal design},
+  year = {2017},
+  organization = {San Diego, CA, USA, July 9-14, 2017},
+  month = jul
+}
+
+
+  
+    
+
+Principe, M., Consales, M., Micco, A., Crescitelli, A., Castaldi, G., Esposito, E., … Cusano, A. (2017). Fiber-optics meta-tips for light manipulation and sensing. In Proc. USNC-URSI Radio Science Meeting. San Diego, CA, USA, July 9-14, 2017.
+
+
+
+  
+    
+
+    BibTeX
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  
+
+  
+
+  @inproceedings{Principe_2017-USNC-URSI,
+  author = {Principe, M. and Consales, M. and Micco, A. and Crescitelli, A. and Castaldi, G. and Esposito, E. and La Ferrara, V. and Cutolo, A. and Galdi, V. and Cusano, A.},
+  booktitle = {Proc. USNC-URSI Radio Science Meeting},
+  title = {Fiber-optics meta-tips for light manipulation and sensing},
+  year = {2017},
+  organization = {San Diego, CA, USA, July 9-14, 2017},
+  month = jul
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/IEEE-APS-2017.png" /></entry><entry><title type="html">Our paper on coding metasurfaces accepted in AdOM</title><link href="/news/AdOM-paper-MS-accepted" rel="alternate" type="text/html" title="Our paper on coding metasurfaces accepted in AdOM" /><published>2017-06-16T00:00:00+02:00</published><updated>2017-06-16T00:00:00+02:00</updated><id>/news/AdOM-paper-MS-accepted</id><content type="html" xml:base="/news/AdOM-paper-MS-accepted">&lt;p&gt;Our paper on “Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and sub-optimal design,”
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been accepted for publication in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="coding" /><category term="flat polynomials" /><category term="aperiodic" /><summary type="html">Our paper on “Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and sub-optimal design,”
 in collaboration with Tie Jun Cui’s Group (Southeast University),
@@ -220,7 +371,96 @@ has been accepted for publication in the &lt;em&gt;IEEE Journal of Multiscale an
 in collaboration with MBDA,
 has been accepted for publication in the IEEE Journal of Multiscale and Multiphysics Computational Techniques.
 
-An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MR.png" /></entry><entry><title type="html">Our paper on non-Hermitian photonic chains published in PRB</title><link href="/news/PRB-paper-EPD-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian photonic chains published in PRB" /><published>2017-03-18T00:00:00+01:00</published><updated>2017-03-18T00:00:00+01:00</updated><id>/news/PRB-paper-EPD-published</id><content type="html" xml:base="/news/PRB-paper-EPD-published">&lt;p&gt;Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers” 
+An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MR.png" /></entry><entry><title type="html">Two talks presented at OFS-25</title><link href="/news/OFS-25" rel="alternate" type="text/html" title="Two talks presented at OFS-25" /><published>2017-04-28T00:00:00+02:00</published><updated>2017-04-28T00:00:00+02:00</updated><id>/news/OFS-25</id><content type="html" xml:base="/news/OFS-25">&lt;p&gt;We have presented a talk 
+[&lt;a href=&quot;#Principe_2017-OFS&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+at the 
+&lt;a href=&quot;http://ofs-25.org&quot;&gt;25th Optical Fiber Sensors Conference (OFS)&lt;/a&gt;, Jeju, Korea, Apr. 24-28, 2017.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Principe_2017-OFS&quot;&gt;Principe, M., Consales, M., Micco, A., Crescitelli, A., Castaldi, G., Esposito, E., … Cusano, A. (2017). Optical fiber meta-tips: Perspectives in sensing applications. In Y. Chung, W. Jin, B. Lee, J. Canning, K. Nakamura, &amp;amp; L. Yuan (Eds.), &lt;i&gt;Proceedings of SPIE&lt;/i&gt; (Vol. 10323, p. 103233F). 25th Optical Fiber Sensors Conference (OFS), Jeju, Korea, Apr. 24-28, 2017.&lt;/span&gt;
+
+
+&lt;div id=&quot;Principe_2017-OFS-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Principe_2017-OFS-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1117/12.2265002&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Principe_2017-OFS-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Principe_2017-OFS,
+  author = {Principe, M. and Consales, M. and Micco, A. and Crescitelli, A. and Castaldi, G. and Esposito, E. and Ferrara, V. L. and Cutolo, A. and Galdi, V. and Cusano, A.},
+  editor = {Chung, Youngjoo and Jin, Wei and Lee, Byoungho and Canning, John and Nakamura, Kentaro and Yuan, Libo},
+  booktitle = {Proceedings of SPIE},
+  title = {Optical fiber meta-tips: Perspectives in sensing applications},
+  year = {2017},
+  volume = {10323},
+  pages = {103233F},
+  doi = {10.1117/12.2265002},
+  month = apr,
+  organization = {25th Optical Fiber Sensors Conference (OFS), Jeju, Korea, Apr. 24-28, 2017}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="meta-tips" /><category term="fibers" /><category term="sensors" /><summary type="html">We have presented a talk 
+[1]
+at the 
+25th Optical Fiber Sensors Conference (OFS), Jeju, Korea, Apr. 24-28, 2017.
+
+Principe, M., Consales, M., Micco, A., Crescitelli, A., Castaldi, G., Esposito, E., … Cusano, A. (2017). Optical fiber meta-tips: Perspectives in sensing applications. In Y. Chung, W. Jin, B. Lee, J. Canning, K. Nakamura, &amp;amp; L. Yuan (Eds.), Proceedings of SPIE (Vol. 10323, p. 103233F). 25th Optical Fiber Sensors Conference (OFS), Jeju, Korea, Apr. 24-28, 2017.
+
+
+
+  
+    
+
+    BibTeX
+
+            
+    
+    DOI
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  
+
+  
+
+  @inproceedings{Principe_2017-OFS,
+  author = {Principe, M. and Consales, M. and Micco, A. and Crescitelli, A. and Castaldi, G. and Esposito, E. and Ferrara, V. L. and Cutolo, A. and Galdi, V. and Cusano, A.},
+  editor = {Chung, Youngjoo and Jin, Wei and Lee, Byoungho and Canning, John and Nakamura, Kentaro and Yuan, Libo},
+  booktitle = {Proceedings of SPIE},
+  title = {Optical fiber meta-tips: Perspectives in sensing applications},
+  year = {2017},
+  volume = {10323},
+  pages = {103233F},
+  doi = {10.1117/12.2265002},
+  month = apr,
+  organization = {25th Optical Fiber Sensors Conference (OFS), Jeju, Korea, Apr. 24-28, 2017}
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/OFS-25.png" /></entry><entry><title type="html">Our paper on non-Hermitian photonic chains published in PRB</title><link href="/news/PRB-paper-EPD-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian photonic chains published in PRB" /><published>2017-03-18T00:00:00+01:00</published><updated>2017-03-18T00:00:00+01:00</updated><id>/news/PRB-paper-EPD-published</id><content type="html" xml:base="/news/PRB-paper-EPD-published">&lt;p&gt;Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers” 
 [&lt;a href=&quot;#IJ125_PRB_95_104305_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] 
 in collaboration with &lt;a href=&quot;http://capolino.eng.uci.edu&quot;&gt;Filippo Capolino&lt;/a&gt;’s Group (University of California at Irvine),
 has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
@@ -529,22 +769,4 @@ Savoia, S., Valagiannopoulos, C. A., Monticone, F., Castaldi, G., Galdi, V., &am
   month = mar,
   publisher = {American Physical Society},
   doi = {10.1103/PhysRevB.95.115114}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/NH-MS.png" /></entry><entry><title type="html">Our paper on non-Hermitian metasurfaces accepted in PRB</title><link href="/news/PRB-paper-NH-MS-accepted" rel="alternate" type="text/html" title="Our paper on non-Hermitian metasurfaces accepted in PRB" /><published>2017-02-15T00:00:00+01:00</published><updated>2017-02-15T00:00:00+01:00</updated><id>/news/PRB-paper-NH-MS-accepted</id><content type="html" xml:base="/news/PRB-paper-NH-MS-accepted">&lt;p&gt;Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
- metasurfaces,”
-in collaboration with &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (University of Texas at Austin),
-has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;An &lt;a href=&quot;http://arxiv.org/abs/1702.04101&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="non-Hermitian" /><category term="metasurfaces" /><category term="imaging" /><summary type="html">Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
- metasurfaces,”
-in collaboration with Andrea Alù’s Group (University of Texas at Austin),
-has been accepted for publication in Physical Review B.
-
-An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/NH-MS.png" /></entry><entry><title type="html">Our paper on non-Hermitian photonic chains accepted in PRB</title><link href="/news/PRB-paper-EPD-accepted" rel="alternate" type="text/html" title="Our paper on non-Hermitian photonic chains accepted in PRB" /><published>2017-02-10T00:00:00+01:00</published><updated>2017-02-10T00:00:00+01:00</updated><id>/news/PRB-paper-EPD-accepted</id><content type="html" xml:base="/news/PRB-paper-EPD-accepted">&lt;p&gt;Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers,” 
-in collaboration with &lt;a href=&quot;http://capolino.eng.uci.edu&quot;&gt;Filippo Capolino&lt;/a&gt;’s Group (University of California at Irvine),
-has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/1610.00414&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="non-Hermitian" /><category term="nanophotonics" /><category term="plasmonics" /><category term="parity-time symmetry" /><summary type="html">Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers,” 
-in collaboration with Filippo Capolino’s Group (University of California at Irvine),
-has been accepted for publication in Physical Review B.
-
-An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/EPD-chain.png" /></entry></feed>
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/NH-MS.png" /></entry></feed>

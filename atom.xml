@@ -4,7 +4,7 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2017-08-05T22:02:25+02:00</updated>
+ <updated>2017-08-06T07:09:47+02:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
@@ -82,6 +82,94 @@ has been published (early view) in &lt;em&gt;Advanced Optical Materials&lt;/em&g
   month = jul,
   pages = {1700455},
   note = {http://onlinelibrary.wiley.com/store/10.1002/adom.201700455/asset/supinfo/adom201700455-sup-0001-S1.pdf?v=1&amp;amp;s=0ea1dc5e7c9bcef0a85fad9924885e5117d4b61b}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Two talks presented at IEEE-APS/URSI 2017</title>
+   <link href="http://fw-lab.org/news/IEEE-APS-2017"/>
+   <updated>2017-07-14T00:00:00+02:00</updated>
+   <id>http://fw-lab.org/news/IEEE-APS-2017</id>
+   <content type="html">&lt;p&gt;We have presented two talks 
+[&lt;a href=&quot;#Moccia_2017-USNC-URSI&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Principe_2017-USNC-URSI&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
+at the &lt;a href=&quot;http://2017apsursi.org/default.asp&quot;&gt;IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting&lt;/a&gt;
+San Diego, California, USA, July 9-14, 2017.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Moccia_2017-USNC-URSI&quot;&gt;Moccia, M., Liu, S., Wu, R. Y., Castaldi, G., Andreone, A., Cui, T. J., &amp;amp; Galdi, V. (2017). Coding metasurfaces for diffuse scattering: Theoretical bounds and sub-optimal design. In &lt;i&gt;Proc. USNC-URSI Radio Science Meeting&lt;/i&gt;. San Diego, CA, USA, July 9-14, 2017.&lt;/span&gt;
+
+
+&lt;div id=&quot;Moccia_2017-USNC-URSI-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Moccia_2017-USNC-URSI-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Moccia_2017-USNC-URSI-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Moccia_2017-USNC-URSI,
+  author = {Moccia, Massimo and Liu, Shuo and Wu, Rui Yuan and Castaldi, Giuseppe and Andreone, Antonello and Cui, Tie Jun and Galdi, Vincenzo},
+  booktitle = {Proc. USNC-URSI Radio Science Meeting},
+  title = {Coding metasurfaces for diffuse scattering: Theoretical bounds and sub-optimal design},
+  year = {2017},
+  organization = {San Diego, CA, USA, July 9-14, 2017},
+  month = jul
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Principe_2017-USNC-URSI&quot;&gt;Principe, M., Consales, M., Micco, A., Crescitelli, A., Castaldi, G., Esposito, E., … Cusano, A. (2017). Fiber-optics meta-tips for light manipulation and sensing. In &lt;i&gt;Proc. USNC-URSI Radio Science Meeting&lt;/i&gt;. San Diego, CA, USA, July 9-14, 2017.&lt;/span&gt;
+
+
+&lt;div id=&quot;Principe_2017-USNC-URSI-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Principe_2017-USNC-URSI-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Principe_2017-USNC-URSI-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Principe_2017-USNC-URSI,
+  author = {Principe, M. and Consales, M. and Micco, A. and Crescitelli, A. and Castaldi, G. and Esposito, E. and La Ferrara, V. and Cutolo, A. and Galdi, V. and Cusano, A.},
+  booktitle = {Proc. USNC-URSI Radio Science Meeting},
+  title = {Fiber-optics meta-tips for light manipulation and sensing},
+  year = {2017},
+  organization = {San Diego, CA, USA, July 9-14, 2017},
+  month = jul
 }
 &lt;/pre&gt;
 
@@ -174,6 +262,63 @@ in collaboration with &lt;a href=&quot;http://www.mbda-systems.com&quot;&gt;MBDA
 has been accepted for publication in the &lt;em&gt;IEEE Journal of Multiscale and Multiphysics Computational Techniques&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/1703.03793&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Two talks presented at OFS-25</title>
+   <link href="http://fw-lab.org/news/OFS-25"/>
+   <updated>2017-04-28T00:00:00+02:00</updated>
+   <id>http://fw-lab.org/news/OFS-25</id>
+   <content type="html">&lt;p&gt;We have presented a talk 
+[&lt;a href=&quot;#Principe_2017-OFS&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+at the 
+&lt;a href=&quot;http://ofs-25.org&quot;&gt;25th Optical Fiber Sensors Conference (OFS)&lt;/a&gt;, Jeju, Korea, Apr. 24-28, 2017.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Principe_2017-OFS&quot;&gt;Principe, M., Consales, M., Micco, A., Crescitelli, A., Castaldi, G., Esposito, E., … Cusano, A. (2017). Optical fiber meta-tips: Perspectives in sensing applications. In Y. Chung, W. Jin, B. Lee, J. Canning, K. Nakamura, &amp;amp; L. Yuan (Eds.), &lt;i&gt;Proceedings of SPIE&lt;/i&gt; (Vol. 10323, p. 103233F). 25th Optical Fiber Sensors Conference (OFS), Jeju, Korea, Apr. 24-28, 2017.&lt;/span&gt;
+
+
+&lt;div id=&quot;Principe_2017-OFS-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Principe_2017-OFS-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1117/12.2265002&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Principe_2017-OFS-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Principe_2017-OFS,
+  author = {Principe, M. and Consales, M. and Micco, A. and Crescitelli, A. and Castaldi, G. and Esposito, E. and Ferrara, V. L. and Cutolo, A. and Galdi, V. and Cusano, A.},
+  editor = {Chung, Youngjoo and Jin, Wei and Lee, Byoungho and Canning, John and Nakamura, Kentaro and Yuan, Libo},
+  booktitle = {Proceedings of SPIE},
+  title = {Optical fiber meta-tips: Perspectives in sensing applications},
+  year = {2017},
+  volume = {10323},
+  pages = {103233F},
+  doi = {10.1117/12.2265002},
+  month = apr,
+  organization = {25th Optical Fiber Sensors Conference (OFS), Jeju, Korea, Apr. 24-28, 2017}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
 
 </content>
  </entry>
