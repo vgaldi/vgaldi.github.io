@@ -4,7 +4,7 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2017-08-06T07:25:06+02:00</updated>
+ <updated>2017-08-07T09:24:46+02:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
@@ -2045,22 +2045,26 @@ to drive the subsequent optimization process.&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>Dispersion engineering via nonlocal transformation optics</title>
-   <link href="http://fw-lab.org/projects/dispersion-engineering"/>
+   <title>Nonlocal effects in metamaterials</title>
+   <link href="http://fw-lab.org/projects/nonlocal-effects"/>
    <updated>2017-01-09T00:00:00+01:00</updated>
-   <id>http://fw-lab.org/projects/dispersion-engineering</id>
+   <id>http://fw-lab.org/projects/nonlocal-effects</id>
    <content type="html">
-&lt;p&gt;&lt;a href=&quot;/projects/TO-MTM&quot;&gt;Transformation optics&lt;/a&gt; has established itself as a powerful and versatile tool for the systematic design of artificial media. 
-By properly tailoring the spatial profile of materials, it is possible to bend light propagation at will, 
-so as to locally follow a given coordinate-distorted reference frame and to re-route the illumination around an object, 
-making it &lt;em&gt;effectively invisible&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Spatial dispersion, i.e., the &lt;em&gt;nonlocal&lt;/em&gt; character of the electromagnetic 
+constitutive relationships, is typically regarded as a negligible effect for most natural media. 
+However, there is currently a growing interest in its study, in view of its critical relevance in the homogenized 
+(effective-medium) modeling of many artificial electromagnetic materials of practical interest, as well as in a variety
+ of related effects 
+including artificial magnetism, wave splitting into multiple beams, beam tailoring, 
+and ultrafast nonlinear optical response. If, for most metamaterials, spatial dispersion is seen as a nuisance, 
+counterproductive for practical applications, its proper tailoring and engineering may add novel degrees of 
+freedom in the wave interaction with complex materials.&lt;/p&gt;
 
 &lt;p&gt;In [&lt;a href=&quot;#IJ98_PRL_108_063902_2012&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], in collaboration with 
 &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/)&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania) 
 and &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt; (University of Texas at Austin),
-we have extended the potential of this approach by enabling the manipulation and control of 
-&lt;em&gt;nonlocal&lt;/em&gt; light-matter interactions, which are becoming increasingly relevant in a variety of metamaterial applications, 
-including artificial magnetism and ultrafast nonlinear optics. 
+we have extended the &lt;a href=&quot;/projects/TO-MTM&quot;&gt;transformation-optics&lt;/a&gt; approach by enabling the manipulation and control of 
+&lt;em&gt;nonlocal&lt;/em&gt; light-matter interactions. 
 Instead of spatially-changing refractive properties, we proposed a framework of “transformation media” 
 that can tailor the wave interaction in the reciprocal space of spatial wave-numbers, 
 so as to produce desired nonlocal effects.&lt;/p&gt;
@@ -2093,6 +2097,10 @@ constitutive “blueprints”.&lt;/p&gt;
 
 &lt;p&gt;Our approach may open up new perspectives in the systematic design of metamaterials with broad field-manipulation capabilities as well as complex spatiotemporal dispersion effects, 
 with potential applications to nonreciprocal optics, topological photonics, and “&lt;a href=&quot;/projects/computational-MTM&quot;&gt;computational metamaterials&lt;/a&gt;.”&lt;/p&gt;
+
+&lt;p&gt;In a different, but related, study [&lt;a href=&quot;#IJ105_PRB_87_235116_2013&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;] we have investigated the emergence of 
+&lt;a href=&quot;/projects/aperiodic-ML&quot;&gt;aperiodic-order-induced nonlocal effects&lt;/a&gt;
+in multilayered metamaterials.&lt;/p&gt;
 
 &lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ98_PRL_108_063902_2012&quot;&gt;Castaldi, G., Galdi, V., Alù, A., &amp;amp; Engheta, N. (2012). Nonlocal transformation optics. &lt;i&gt;Physical Review Letters&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;108&lt;/i&gt;&lt;/span&gt;(6), 063902.&lt;/span&gt;
@@ -2244,6 +2252,57 @@ with potential applications to nonreciprocal optics, topological photonics, and 
   volume = {3},
   pages = {2},
   month = jul
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ105_PRB_87_235116_2013&quot;&gt;Savoia, S., Castaldi, G., &amp;amp; Galdi, V. (2013). Optical nonlocality in multilayered hyperbolic metamaterials based on Thue-Morse superlattices. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;87&lt;/i&gt;&lt;/span&gt;(23), 235116.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ105_PRB_87_235116_2013-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ105_PRB_87_235116_2013-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ105_PRB_87_235116_2013-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.87.235116&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ105_PRB_87_235116_2013.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ105_PRB_87_235116_2013-abstract&quot; class=&quot;collapse&quot;&gt;We show that hyperbolic electromagnetic metamaterials, implemented as multilayers based on two material constituents arranged according to the Thue-Morse aperiodic sequence, may exhibit strong nonlocal effects, manifested as the appearance of additional extraordinary waves which are not predicted by standard effective-medium-theory (local) models. From the mathematical viewpoint, these effects can be associated with stationary points of the transfer-matrix trace and can be effectively parametrized via the trace-map formalism. We show that their onset is accompanied by a strong wave-vector dependence in the effective constitutive parameters. Despite the inherent periodicity enforced by the unavoidable (Bloch-type) supercell terminations, we show that such strong nonlocality is retained at any arbitrarily high-order iteration, i.e., approaching the actual aperiodic regime. Moreover, for certain parameter configurations, at a given wavelength and for two given material layers, these effects may be significantly less prominent when the same layers are arranged in a standard periodic fashion. Our findings indicate that the (aperiodic) positional order of the layers constitutes an effective and technologically inexpensive additional degree of freedom in the engineering of optical nonlocality.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ105_PRB_87_235116_2013-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ105_PRB_87_235116_2013,
+  title = {Optical nonlocality in multilayered hyperbolic metamaterials based on Thue-Morse superlattices},
+  author = {Savoia, Silvio and Castaldi, Giuseppe and Galdi, Vincenzo},
+  journal = {Physical Review B},
+  volume = {87},
+  issue = {23},
+  pages = {235116},
+  numpages = {10},
+  year = {2013},
+  month = jun,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.87.235116},
+  url = {http://link.aps.org/doi/10.1103/PhysRevB.87.235116}
 }
 &lt;/pre&gt;
 
@@ -3832,7 +3891,7 @@ tunneling effects.&lt;/p&gt;
 &lt;p&gt;More recently, we have applied the transformation-optics approach to the design of metamaterial radomes for extending 
 the scanning angle of a phased array [&lt;a href=&quot;#IJ126_IEEE-JMMCT_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;10&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
 
-&lt;p&gt;We have also proposed other extensions to deal with &lt;a href=&quot;/projects/dispersion-engineering&quot;&gt;nonlocal&lt;/a&gt;, &lt;a href=&quot;/projects/non-Hermitian-MTM&quot;&gt;non-Hermitian&lt;/a&gt;, and &lt;a href=&quot;/projects/multiphysics-MTM&quot;&gt;multiphysics&lt;/a&gt; scenarios.&lt;/p&gt;
+&lt;p&gt;We have also proposed other extensions to deal with &lt;a href=&quot;/projects/nonlocal-effects&quot;&gt;nonlocal&lt;/a&gt;, &lt;a href=&quot;/projects/non-Hermitian-MTM&quot;&gt;non-Hermitian&lt;/a&gt;, and &lt;a href=&quot;/projects/multiphysics-MTM&quot;&gt;multiphysics&lt;/a&gt; scenarios.&lt;/p&gt;
 
 &lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ62_MOTL_50_3186_2008&quot;&gt;Gallina, I., Castaldi, G., &amp;amp; Galdi, V. (2008). A higher-order optical transformation for nonmagnetic cloaking. &lt;i&gt;Microwave and Optical Technology Letters&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;50&lt;/i&gt;&lt;/span&gt;(12), 3186–3190.&lt;/span&gt;
@@ -4394,7 +4453,7 @@ To the best of our knowledge, against the many implications and applications,
 this represents the first evidence in connection with optical nonlocality. Besides the inherent academic interest, 
 from the application viewpoint, this constitutes an important and technologically inexpensive additional 
 degree of freedom in the engineering of optical nonlocality, which may also be fruitfully exploited within 
-the recently introduced framework of &lt;a href=&quot;/projects/dispersion-enegineering&quot;&gt;nonlocal transformation optics&lt;/a&gt;.&lt;/p&gt;
+the recently introduced framework of &lt;a href=&quot;/projects/nonlocal-effects&quot;&gt;nonlocal transformation optics&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ105_PRB_87_235116_2013&quot;&gt;Savoia, S., Castaldi, G., &amp;amp; Galdi, V. (2013). Optical nonlocality in multilayered hyperbolic metamaterials based on Thue-Morse superlattices. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;87&lt;/i&gt;&lt;/span&gt;(23), 235116.&lt;/span&gt;
