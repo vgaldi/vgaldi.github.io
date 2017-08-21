@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-08-21T19:17:46+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on nonlocal metamaterials published in PRB</title><link href="/news/PRB-paper-MPI-MTM-published" rel="alternate" type="text/html" title="Our paper on nonlocal metamaterials published in PRB" /><published>2017-08-21T00:00:00+02:00</published><updated>2017-08-21T00:00:00+02:00</updated><id>/news/PRB-paper-MPI-MTM-published</id><content type="html" xml:base="/news/PRB-paper-MPI-MTM-published">&lt;p&gt;Our paper on “Enhancement and interplay of first- and second-order spatial 
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-08-21T19:36:51+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on nonlocal metamaterials published in PRB</title><link href="/news/PRB-paper-MPI-MTM-published" rel="alternate" type="text/html" title="Our paper on nonlocal metamaterials published in PRB" /><published>2017-08-21T00:00:00+02:00</published><updated>2017-08-21T00:00:00+02:00</updated><id>/news/PRB-paper-MPI-MTM-published</id><content type="html" xml:base="/news/PRB-paper-MPI-MTM-published">&lt;p&gt;Our paper on “Enhancement and interplay of first- and second-order spatial 
 dispersion in metamaterials with moderate-permittivity inclusions” [&lt;a href=&quot;#IJ128_PRB_96_081113_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 in collaboration with &lt;a href=&quot;https://sites.google.com/site/rizzacarlo81/&quot;&gt;Carlo Rizza&lt;/a&gt; (University of l’Aquila) and &lt;a href=&quot;http://www.ing.univaq.it/personale/scheda_personale.php?codice=511&quot;&gt;Alessandro Ciattoni&lt;/a&gt; (CNR-SPIN),
 has been published in &lt;em&gt;Physical Review B&lt;/em&gt; as a Rapid Communication.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ128_PRB_96_081113_2017&quot;&gt;Rizza, C., Galdi, V., &amp;amp; Ciattoni, A. (2017). Enhancement and interplay of first- and second-order spatial dispersion in metamaterials with moderate-permittivity inclusions. &lt;i&gt;Phys. Rev. B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;96&lt;/i&gt;&lt;/span&gt;(8), 081113.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ128_PRB_96_081113_2017&quot;&gt;Rizza, C., Galdi, V., &amp;amp; Ciattoni, A. (2017). Enhancement and interplay of first- and second-order spatial dispersion in metamaterials with moderate-permittivity inclusions. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;96&lt;/i&gt;&lt;/span&gt;(8), 081113.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ128_PRB_96_081113_2017-materials&quot;&gt;
@@ -38,7 +38,7 @@ has been published in &lt;em&gt;Physical Review B&lt;/em&gt; as a Rapid Communic
   &lt;pre id=&quot;IJ128_PRB_96_081113_2017-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ128_PRB_96_081113_2017,
   title = {Enhancement and interplay of first- and second-order spatial dispersion in metamaterials with moderate-permittivity inclusions},
   author = {Rizza, Carlo and Galdi, Vincenzo and Ciattoni, Alessandro},
-  journal = {Phys. Rev. B},
+  journal = {Physical Review B},
   volume = {96},
   issue = {8},
   pages = {081113},
@@ -58,7 +58,7 @@ dispersion in metamaterials with moderate-permittivity inclusions” [1]
 in collaboration with Carlo Rizza (University of l’Aquila) and Alessandro Ciattoni (CNR-SPIN),
 has been published in Physical Review B as a Rapid Communication.
 
-Rizza, C., Galdi, V., &amp;amp; Ciattoni, A. (2017). Enhancement and interplay of first- and second-order spatial dispersion in metamaterials with moderate-permittivity inclusions. Phys. Rev. B 96(8), 081113.
+Rizza, C., Galdi, V., &amp;amp; Ciattoni, A. (2017). Enhancement and interplay of first- and second-order spatial dispersion in metamaterials with moderate-permittivity inclusions. Physical Review B 96(8), 081113.
 
 
 
@@ -93,7 +93,7 @@ Rizza, C., Galdi, V., &amp;amp; Ciattoni, A. (2017). Enhancement and interplay o
   @article{IJ128_PRB_96_081113_2017,
   title = {Enhancement and interplay of first- and second-order spatial dispersion in metamaterials with moderate-permittivity inclusions},
   author = {Rizza, Carlo and Galdi, Vincenzo and Ciattoni, Alessandro},
-  journal = {Phys. Rev. B},
+  journal = {Physical Review B},
   volume = {96},
   issue = {8},
   pages = {081113},
