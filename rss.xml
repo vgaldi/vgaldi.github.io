@@ -5,10 +5,75 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2017-08-07T15:26:14+02:00</lastBuildDate>
-        <pubDate>2017-08-07T15:26:14+02:00</pubDate>
+        <lastBuildDate>2017-08-21T19:17:46+02:00</lastBuildDate>
+        <pubDate>2017-08-21T19:17:46+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on nonlocal metamaterials published in PRB</title>
+                <description>&lt;p&gt;Our paper on “Enhancement and interplay of first- and second-order spatial 
+dispersion in metamaterials with moderate-permittivity inclusions” [&lt;a href=&quot;#IJ128_PRB_96_081113_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+in collaboration with &lt;a href=&quot;https://sites.google.com/site/rizzacarlo81/&quot;&gt;Carlo Rizza&lt;/a&gt; (University of l’Aquila) and &lt;a href=&quot;http://www.ing.univaq.it/personale/scheda_personale.php?codice=511&quot;&gt;Alessandro Ciattoni&lt;/a&gt; (CNR-SPIN),
+has been published in &lt;em&gt;Physical Review B&lt;/em&gt; as a Rapid Communication.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ128_PRB_96_081113_2017&quot;&gt;Rizza, C., Galdi, V., &amp;amp; Ciattoni, A. (2017). Enhancement and interplay of first- and second-order spatial dispersion in metamaterials with moderate-permittivity inclusions. &lt;i&gt;Phys. Rev. B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;96&lt;/i&gt;&lt;/span&gt;(8), 081113.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ128_PRB_96_081113_2017-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ128_PRB_96_081113_2017-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ128_PRB_96_081113_2017-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.96.081113&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ128_PRB_96_081113_2017.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ128_PRB_96_081113_2017-abstract&quot; class=&quot;collapse&quot;&gt;We investigate a class of multilayered metamaterials characterized by moderate-permittivity inclusions and low average permittivity. Via first-principles calculations, we show that in such a scenario, first- and second-order spatial dispersions may exhibit a dramatic and nonresonant enhancement, and may become comparable with the local response. Their interplay gives access to a wealth of dispersion regimes encompassing additional extraordinary waves and topological phase transitions. In particular, we identify a configuration featuring bound and disconnected isofrequency contours. Since they do not rely on high-permittivity inclusions, our proposed metamaterials may constitute an attractive and technologically viable platform for engineering nonlocal effects in the optical range.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ128_PRB_96_081113_2017-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ128_PRB_96_081113_2017,
+  title = {Enhancement and interplay of first- and second-order spatial dispersion in metamaterials with moderate-permittivity inclusions},
+  author = {Rizza, Carlo and Galdi, Vincenzo and Ciattoni, Alessandro},
+  journal = {Phys. Rev. B},
+  volume = {96},
+  issue = {8},
+  pages = {081113},
+  numpages = {5},
+  year = {2017},
+  month = aug,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.96.081113},
+  url = {https://link.aps.org/doi/10.1103/PhysRevB.96.081113}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+</description>
+                <link>http://fw-lab.org/news/PRB-paper-MPI-MTM-published</link>
+                <guid>http://fw-lab.org/news/PRB-paper-MPI-MTM-published</guid>
+                <pubDate>2017-08-21T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Our paper on nonlocal metamaterials accepted in PRB</title>
@@ -2092,9 +2157,13 @@ constitutive “blueprints”.&lt;/p&gt;
 &lt;p&gt;Our approach may open up new perspectives in the systematic design of metamaterials with broad field-manipulation capabilities as well as complex spatiotemporal dispersion effects, 
 with potential applications to nonreciprocal optics, topological photonics, and “&lt;a href=&quot;/projects/computational-MTM&quot;&gt;computational metamaterials&lt;/a&gt;.”&lt;/p&gt;
 
-&lt;p&gt;In a different, but related, study [&lt;a href=&quot;#IJ105_PRB_87_235116_2013&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;] we have investigated the emergence of 
-&lt;a href=&quot;/projects/aperiodic-ML&quot;&gt;aperiodic-order-induced nonlocal effects&lt;/a&gt;
-in multilayered metamaterials.&lt;/p&gt;
+&lt;p&gt;More recently, in a study [&lt;a href=&quot;#IJ128_PRB_96_081113_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;] in collaboration with &lt;a href=&quot;https://sites.google.com/site/rizzacarlo81/&quot;&gt;Carlo Rizza&lt;/a&gt; (University of l’Aquila) 
+and &lt;a href=&quot;http://www.ing.univaq.it/personale/scheda_personale.php?codice=511&quot;&gt;Alessandro Ciattoni&lt;/a&gt; (CNR-SPIN), we have explored a novel class of structures, based &lt;em&gt;moderate-permittivity&lt;/em&gt; inclusions, for which 
+nonlocal effects are enhanced. Among other things, these results may significantly 
+boost the practical applicability of nonlocal transformation optics.&lt;/p&gt;
+
+&lt;p&gt;In a different, but related, study [&lt;a href=&quot;#IJ105_PRB_87_235116_2013&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;] we have investigated the emergence of 
+&lt;a href=&quot;/projects/aperiodic-ML&quot;&gt;aperiodic-order-induced nonlocal effects&lt;/a&gt; in multilayered metamaterials.&lt;/p&gt;
 
 &lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ98_PRL_108_063902_2012&quot;&gt;Castaldi, G., Galdi, V., Alù, A., &amp;amp; Engheta, N. (2012). Nonlocal transformation optics. &lt;i&gt;Physical Review Letters&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;108&lt;/i&gt;&lt;/span&gt;(6), 063902.&lt;/span&gt;
@@ -2246,6 +2315,57 @@ in multilayered metamaterials.&lt;/p&gt;
   volume = {3},
   pages = {2},
   month = jul
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ128_PRB_96_081113_2017&quot;&gt;Rizza, C., Galdi, V., &amp;amp; Ciattoni, A. (2017). Enhancement and interplay of first- and second-order spatial dispersion in metamaterials with moderate-permittivity inclusions. &lt;i&gt;Phys. Rev. B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;96&lt;/i&gt;&lt;/span&gt;(8), 081113.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ128_PRB_96_081113_2017-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ128_PRB_96_081113_2017-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ128_PRB_96_081113_2017-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.96.081113&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ128_PRB_96_081113_2017.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ128_PRB_96_081113_2017-abstract&quot; class=&quot;collapse&quot;&gt;We investigate a class of multilayered metamaterials characterized by moderate-permittivity inclusions and low average permittivity. Via first-principles calculations, we show that in such a scenario, first- and second-order spatial dispersions may exhibit a dramatic and nonresonant enhancement, and may become comparable with the local response. Their interplay gives access to a wealth of dispersion regimes encompassing additional extraordinary waves and topological phase transitions. In particular, we identify a configuration featuring bound and disconnected isofrequency contours. Since they do not rely on high-permittivity inclusions, our proposed metamaterials may constitute an attractive and technologically viable platform for engineering nonlocal effects in the optical range.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ128_PRB_96_081113_2017-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ128_PRB_96_081113_2017,
+  title = {Enhancement and interplay of first- and second-order spatial dispersion in metamaterials with moderate-permittivity inclusions},
+  author = {Rizza, Carlo and Galdi, Vincenzo and Ciattoni, Alessandro},
+  journal = {Phys. Rev. B},
+  volume = {96},
+  issue = {8},
+  pages = {081113},
+  numpages = {5},
+  year = {2017},
+  month = aug,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.96.081113},
+  url = {https://link.aps.org/doi/10.1103/PhysRevB.96.081113}
 }
 &lt;/pre&gt;
 
@@ -3721,7 +3841,7 @@ He has served as Associate Chair for Undergraduate Studies in Telecommunication 
 &lt;a href=&quot;http://www.bu.edu&quot;&gt;Boston University&lt;/a&gt;, 
 &lt;a href=&quot;http://www.mit.edu&quot;&gt;Massachusetts Institute of Technology&lt;/a&gt;, and &lt;a href=&quot;http://www.caltech.edu&quot;&gt;California Institute of Technology&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;He has co-edited two books, and co-authored over 120 papers in peer-reviewed international journals, 4 book chapters, and 140 conference papers (50 invited).&lt;/p&gt;
+&lt;p&gt;He has co-edited two books, and co-authored over 120 papers in peer-reviewed international journals, 7 book chapters, and 145 conference papers (50 invited).&lt;/p&gt;
 
 &lt;p&gt;He is currently serving as a Track Editor of the &lt;a href=&quot;http://www.ieeeaps.org/publications/ieee-transactions-on-antennas-and-propagations/ieee-tap-home&quot;&gt;&lt;em&gt;IEEE Transactions on Antennas and Propagation&lt;/em&gt;&lt;/a&gt;, 
 an Associate Editor of &lt;a href=&quot;http://www.heliyon.com/&quot;&gt;&lt;em&gt;Heliyon&lt;/em&gt;&lt;/a&gt; and of the &lt;a href=&quot;http://www.hindawi.com/journals/ijap/&quot;&gt;&lt;em&gt;International Journal of Antennas and Propagation&lt;/em&gt;&lt;/a&gt;, 
