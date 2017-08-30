@@ -4,13 +4,64 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2017-08-21T19:36:51+02:00</updated>
+ <updated>2017-08-30T14:26:29+02:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
    <email>vgaldi@unisannio.it</email>
  </author>
 
+ 
+ <entry>
+   <title>Invited talk presented at Metamaterials 2017</title>
+   <link href="http://fw-lab.org/news/Metamaterials-2017"/>
+   <updated>2017-08-30T00:00:00+02:00</updated>
+   <id>http://fw-lab.org/news/Metamaterials-2017</id>
+   <content type="html">&lt;p&gt;We have presented an invited talk
+[&lt;a href=&quot;#Galdi_2017-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+at the &lt;em&gt;11th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2017.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
+Marseille, France, Aug. 28-31, 2017.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Galdi_2017-Metamaterials&quot;&gt;Galdi, V. (2017). Metasurfaces for field manipulation and sensing. In &lt;i&gt;Proc. International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Marseille, France, Aug. 28-31, 2017 (to be presented).&lt;/span&gt;
+
+
+&lt;div id=&quot;Galdi_2017-Metamaterials-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Galdi_2017-Metamaterials-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Galdi_2017-Metamaterials-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Galdi_2017-Metamaterials,
+  author = {Galdi, Vincenzo},
+  booktitle = {Proc. International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  title = {Metasurfaces for field manipulation and sensing},
+  year = {2017},
+  organization = {Marseille, France, Aug. 28-31, 2017 (to be presented)},
+  month = aug
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Our paper on nonlocal metamaterials published in PRB</title>

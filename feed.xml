@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-08-21T19:36:51+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on nonlocal metamaterials published in PRB</title><link href="/news/PRB-paper-MPI-MTM-published" rel="alternate" type="text/html" title="Our paper on nonlocal metamaterials published in PRB" /><published>2017-08-21T00:00:00+02:00</published><updated>2017-08-21T00:00:00+02:00</updated><id>/news/PRB-paper-MPI-MTM-published</id><content type="html" xml:base="/news/PRB-paper-MPI-MTM-published">&lt;p&gt;Our paper on “Enhancement and interplay of first- and second-order spatial 
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-08-30T14:26:29+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Invited talk presented at Metamaterials 2017</title><link href="/news/Metamaterials-2017" rel="alternate" type="text/html" title="Invited talk presented at Metamaterials 2017" /><published>2017-08-30T00:00:00+02:00</published><updated>2017-08-30T00:00:00+02:00</updated><id>/news/Metamaterials-2017</id><content type="html" xml:base="/news/Metamaterials-2017">&lt;p&gt;We have presented an invited talk
+[&lt;a href=&quot;#Galdi_2017-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+at the &lt;em&gt;11th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2017.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
+Marseille, France, Aug. 28-31, 2017.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Galdi_2017-Metamaterials&quot;&gt;Galdi, V. (2017). Metasurfaces for field manipulation and sensing. In &lt;i&gt;Proc. International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Marseille, France, Aug. 28-31, 2017 (to be presented).&lt;/span&gt;
+
+
+&lt;div id=&quot;Galdi_2017-Metamaterials-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Galdi_2017-Metamaterials-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Galdi_2017-Metamaterials-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Galdi_2017-Metamaterials,
+  author = {Galdi, Vincenzo},
+  booktitle = {Proc. International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  title = {Metasurfaces for field manipulation and sensing},
+  year = {2017},
+  organization = {Marseille, France, Aug. 28-31, 2017 (to be presented)},
+  month = aug
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="coding" /><category term="flat polynomials" /><category term="aperiodic" /><category term="meta-tips" /><summary type="html">We have presented an invited talk
+[1]
+at the 11th International Congress on Engineered Material Platforms for Novel Wave Phenomena (Metamaterials),
+Marseille, France, Aug. 28-31, 2017.
+
+Galdi, V. (2017). Metasurfaces for field manipulation and sensing. In Proc. International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS). Marseille, France, Aug. 28-31, 2017 (to be presented).
+
+
+
+  
+    
+
+    BibTeX
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  
+
+  
+
+  @inproceedings{Galdi_2017-Metamaterials,
+  author = {Galdi, Vincenzo},
+  booktitle = {Proc. International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  title = {Metasurfaces for field manipulation and sensing},
+  year = {2017},
+  organization = {Marseille, France, Aug. 28-31, 2017 (to be presented)},
+  month = aug
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/Metamaterials-2017.png" /></entry><entry><title type="html">Our paper on nonlocal metamaterials published in PRB</title><link href="/news/PRB-paper-MPI-MTM-published" rel="alternate" type="text/html" title="Our paper on nonlocal metamaterials published in PRB" /><published>2017-08-21T00:00:00+02:00</published><updated>2017-08-21T00:00:00+02:00</updated><id>/news/PRB-paper-MPI-MTM-published</id><content type="html" xml:base="/news/PRB-paper-MPI-MTM-published">&lt;p&gt;Our paper on “Enhancement and interplay of first- and second-order spatial 
 dispersion in metamaterials with moderate-permittivity inclusions” [&lt;a href=&quot;#IJ128_PRB_96_081113_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 in collaboration with &lt;a href=&quot;https://sites.google.com/site/rizzacarlo81/&quot;&gt;Carlo Rizza&lt;/a&gt; (University of l’Aquila) and &lt;a href=&quot;http://www.ing.univaq.it/personale/scheda_personale.php?codice=511&quot;&gt;Alessandro Ciattoni&lt;/a&gt; (CNR-SPIN),
 has been published in &lt;em&gt;Physical Review B&lt;/em&gt; as a Rapid Communication.&lt;/p&gt;
@@ -670,105 +747,4 @@ Othman, M. A. K., Galdi, V., &amp;amp; Capolino, F. (2017). Exceptional points o
   publisher = {American Physical Society},
   doi = {10.1103/PhysRevB.95.104305},
   url = {http://link.aps.org/doi/10.1103/PhysRevB.95.104305}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/EPD-chain.png" /></entry><entry><title type="html">Our paper on optical fiber meta-tips published in LSA</title><link href="/news/LSA-paper_meta-tip-published" rel="alternate" type="text/html" title="Our paper on optical fiber meta-tips published in LSA" /><published>2017-03-10T00:00:00+01:00</published><updated>2017-03-10T00:00:00+01:00</updated><id>/news/LSA-paper_meta-tip-published</id><content type="html" xml:base="/news/LSA-paper_meta-tip-published">&lt;p&gt;Our paper on “Optical fiber meta-tips” [&lt;a href=&quot;#IJ124_LSA_6_6226a_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
- in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group (University of Sannio),
-has been published in &lt;em&gt;Light: Science &amp;amp; Applications&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ124_LSA_6_6226a_2017&quot;&gt;Principe, M., Consales, M., Micco, A., Crescitelli, A., Castaldi, G., Esposito, E., … Cusano, A. (2017). Optical fiber meta-tips. &lt;i&gt;Light: Science &amp;amp; Applications&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;6&lt;/i&gt;&lt;/span&gt;, e16226.&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ124_LSA_6_6226a_2017-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ124_LSA_6_6226a_2017-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ124_LSA_6_6226a_2017-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1038/lsa.2016.226&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ124_LSA_6_6226a_2017.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-    &lt;li&gt;&lt;a href=&quot;http://www.nature.com/lsa/journal/v6/n3/suppinfo/lsa2016226s1.html?url=/lsa/journal/v6/n3/full/lsa2016226a.html&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ124_LSA_6_6226a_2017-abstract&quot; class=&quot;collapse&quot;&gt;We report on the first demonstration of a proof-of-principle optical fiber ‘meta-tip’, which integrates a phase-gradient plasmonic metasurface on the fiber tip. For illustration and validation purposes, we present numerical and experimental results pertaining to various prototypes implementing generalized forms of the Snell’s transmission/reflection laws at near-infrared wavelengths. In particular, we demonstrate several examples of beam steering and coupling with surface waves, in fairly good agreement with theory. Our results constitute a first step toward the integration of unprecedented (metasurface-enabled) light-manipulation capabilities in optical-fiber technology. By further enriching the emergent ‘lab-on-fiber’ framework, this may pave the way for the widespread diffusion of optical metasurfaces in real-world applications to communications, signal processing, imaging and sensing.&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ124_LSA_6_6226a_2017-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ124_LSA_6_6226a_2017,
-  author = {Principe, Maria and Consales, Marco and Micco, Alberto and Crescitelli, Alessio and Castaldi, Giuseppe and Esposito, Emanuela and La Ferrara, Vera and Cutolo, Antonello and Galdi, Vincenzo and Cusano, Andrea},
-  title = {Optical fiber meta-tips},
-  journal = {Light: Science {\&amp;amp;} Applications},
-  volume = {6},
-  pages = {e16226},
-  year = {2017},
-  month = mar,
-  doi = {10.1038/lsa.2016.226},
-  note = {http://www.nature.com/lsa/journal/v6/n3/suppinfo/lsa2016226s1.html?url=/lsa/journal/v6/n3/full/lsa2016226a.html}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="metasurfaces" /><category term="optical fibers" /><category term="plasmonics" /><category term="lab-on-fiber" /><summary type="html">Our paper on “Optical fiber meta-tips” [1],
- in collaboration with Andrea Cusano’s Group (University of Sannio),
-has been published in Light: Science &amp;amp; Applications.
-
-Principe, M., Consales, M., Micco, A., Crescitelli, A., Castaldi, G., Esposito, E., … Cusano, A. (2017). Optical fiber meta-tips. Light: Science &amp;amp; Applications 6, e16226.
-
-
-
-  
-    
-    Abstract
-    
-
-    BibTeX
-
-            
-    
-    DOI
-    
-
-    
-
-    
-      
-    
-    PDF
-    
-
-    
-    Supplements
-    
-  
-  
-
-  
-  We report on the first demonstration of a proof-of-principle optical fiber ‘meta-tip’, which integrates a phase-gradient plasmonic metasurface on the fiber tip. For illustration and validation purposes, we present numerical and experimental results pertaining to various prototypes implementing generalized forms of the Snell’s transmission/reflection laws at near-infrared wavelengths. In particular, we demonstrate several examples of beam steering and coupling with surface waves, in fairly good agreement with theory. Our results constitute a first step toward the integration of unprecedented (metasurface-enabled) light-manipulation capabilities in optical-fiber technology. By further enriching the emergent ‘lab-on-fiber’ framework, this may pave the way for the widespread diffusion of optical metasurfaces in real-world applications to communications, signal processing, imaging and sensing.
-  
-
-  @article{IJ124_LSA_6_6226a_2017,
-  author = {Principe, Maria and Consales, Marco and Micco, Alberto and Crescitelli, Alessio and Castaldi, Giuseppe and Esposito, Emanuela and La Ferrara, Vera and Cutolo, Antonello and Galdi, Vincenzo and Cusano, Andrea},
-  title = {Optical fiber meta-tips},
-  journal = {Light: Science {\&amp;amp;} Applications},
-  volume = {6},
-  pages = {e16226},
-  year = {2017},
-  month = mar,
-  doi = {10.1038/lsa.2016.226},
-  note = {http://www.nature.com/lsa/journal/v6/n3/suppinfo/lsa2016226s1.html?url=/lsa/journal/v6/n3/full/lsa2016226a.html}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/meta-tip.png" /></entry></feed>
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/EPD-chain.png" /></entry></feed>
