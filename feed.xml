@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-08-30T14:26:29+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Invited talk presented at Metamaterials 2017</title><link href="/news/Metamaterials-2017" rel="alternate" type="text/html" title="Invited talk presented at Metamaterials 2017" /><published>2017-08-30T00:00:00+02:00</published><updated>2017-08-30T00:00:00+02:00</updated><id>/news/Metamaterials-2017</id><content type="html" xml:base="/news/Metamaterials-2017">&lt;p&gt;We have presented an invited talk
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-08-30T14:35:10+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Invited talk presented at Metamaterials 2017</title><link href="/news/Metamaterials-2017" rel="alternate" type="text/html" title="Invited talk presented at Metamaterials 2017" /><published>2017-08-30T00:00:00+02:00</published><updated>2017-08-30T00:00:00+02:00</updated><id>/news/Metamaterials-2017</id><content type="html" xml:base="/news/Metamaterials-2017">&lt;p&gt;We have presented an invited talk
 [&lt;a href=&quot;#Galdi_2017-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 at the &lt;em&gt;11th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2017.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
 Marseille, France, Aug. 28-31, 2017.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Galdi_2017-Metamaterials&quot;&gt;Galdi, V. (2017). Metasurfaces for field manipulation and sensing. In &lt;i&gt;Proc. International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Marseille, France, Aug. 28-31, 2017 (to be presented).&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Galdi_2017-Metamaterials&quot;&gt;Galdi, V. (2017). Metasurfaces for field manipulation and sensing. In &lt;i&gt;Proc. International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Marseille, France, Aug. 28-31, 2017.&lt;/span&gt;
 
 
 &lt;div id=&quot;Galdi_2017-Metamaterials-materials&quot;&gt;
@@ -32,7 +32,7 @@ Marseille, France, Aug. 28-31, 2017.&lt;/p&gt;
   booktitle = {Proc. International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
   title = {Metasurfaces for field manipulation and sensing},
   year = {2017},
-  organization = {Marseille, France, Aug. 28-31, 2017 (to be presented)},
+  organization = {Marseille, France, Aug. 28-31, 2017},
   month = aug
 }
 &lt;/pre&gt;
@@ -44,7 +44,7 @@ Marseille, France, Aug. 28-31, 2017.&lt;/p&gt;
 at the 11th International Congress on Engineered Material Platforms for Novel Wave Phenomena (Metamaterials),
 Marseille, France, Aug. 28-31, 2017.
 
-Galdi, V. (2017). Metasurfaces for field manipulation and sensing. In Proc. International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS). Marseille, France, Aug. 28-31, 2017 (to be presented).
+Galdi, V. (2017). Metasurfaces for field manipulation and sensing. In Proc. International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS). Marseille, France, Aug. 28-31, 2017.
 
 
 
@@ -73,7 +73,7 @@ Galdi, V. (2017). Metasurfaces for field manipulation and sensing. In Proc. Inte
   booktitle = {Proc. International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
   title = {Metasurfaces for field manipulation and sensing},
   year = {2017},
-  organization = {Marseille, France, Aug. 28-31, 2017 (to be presented)},
+  organization = {Marseille, France, Aug. 28-31, 2017},
   month = aug
 }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/Metamaterials-2017.png" /></entry><entry><title type="html">Our paper on nonlocal metamaterials published in PRB</title><link href="/news/PRB-paper-MPI-MTM-published" rel="alternate" type="text/html" title="Our paper on nonlocal metamaterials published in PRB" /><published>2017-08-21T00:00:00+02:00</published><updated>2017-08-21T00:00:00+02:00</updated><id>/news/PRB-paper-MPI-MTM-published</id><content type="html" xml:base="/news/PRB-paper-MPI-MTM-published">&lt;p&gt;Our paper on “Enhancement and interplay of first- and second-order spatial 
 dispersion in metamaterials with moderate-permittivity inclusions” [&lt;a href=&quot;#IJ128_PRB_96_081113_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]

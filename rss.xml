@@ -5,8 +5,8 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2017-08-30T14:26:29+02:00</lastBuildDate>
-        <pubDate>2017-08-30T14:26:29+02:00</pubDate>
+        <lastBuildDate>2017-08-30T14:35:10+02:00</lastBuildDate>
+        <pubDate>2017-08-30T14:35:10+02:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -17,7 +17,7 @@
 at the &lt;em&gt;11th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2017.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
 Marseille, France, Aug. 28-31, 2017.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Galdi_2017-Metamaterials&quot;&gt;Galdi, V. (2017). Metasurfaces for field manipulation and sensing. In &lt;i&gt;Proc. International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Marseille, France, Aug. 28-31, 2017 (to be presented).&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Galdi_2017-Metamaterials&quot;&gt;Galdi, V. (2017). Metasurfaces for field manipulation and sensing. In &lt;i&gt;Proc. International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Marseille, France, Aug. 28-31, 2017.&lt;/span&gt;
 
 
 &lt;div id=&quot;Galdi_2017-Metamaterials-materials&quot;&gt;
@@ -46,7 +46,7 @@ Marseille, France, Aug. 28-31, 2017.&lt;/p&gt;
   booktitle = {Proc. International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
   title = {Metasurfaces for field manipulation and sensing},
   year = {2017},
-  organization = {Marseille, France, Aug. 28-31, 2017 (to be presented)},
+  organization = {Marseille, France, Aug. 28-31, 2017},
   month = aug
 }
 &lt;/pre&gt;
