@@ -1,4 +1,157 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-08-30T14:35:10+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Invited talk presented at Metamaterials 2017</title><link href="/news/Metamaterials-2017" rel="alternate" type="text/html" title="Invited talk presented at Metamaterials 2017" /><published>2017-08-30T00:00:00+02:00</published><updated>2017-08-30T00:00:00+02:00</updated><id>/news/Metamaterials-2017</id><content type="html" xml:base="/news/Metamaterials-2017">&lt;p&gt;We have presented an invited talk
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-09-14T10:58:04+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Two talks presented at EOS Capri Meetings 2017</title><link href="/news/EOS-2017" rel="alternate" type="text/html" title="Two talks presented at EOS Capri Meetings 2017" /><published>2017-09-14T00:00:00+02:00</published><updated>2017-09-14T00:00:00+02:00</updated><id>/news/EOS-2017</id><content type="html" xml:base="/news/EOS-2017">&lt;p&gt;We have presented two talks
+[&lt;a href=&quot;#Scaravilli_OMS_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Moccia_ONS_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
+at the &lt;em&gt;7th EOS Topical Meeting on Optical Microsystems&lt;/em&gt; (&lt;a href=&quot;http://www.myeos.org/events/capri2017%20#Ous&quot;&gt;OµS&lt;/a&gt;) and the 
+&lt;em&gt;3rd EOS Topical Meeting on Optics at the Nanoscale&lt;/em&gt; (&lt;a href=&quot;http://www.myeos.org/events/capri2017%20#ONS&quot;&gt;ONS&lt;/a&gt;),
+Capri, Italy, Sep. 10-14, 2017.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Scaravilli_OMS_2017&quot;&gt;Scaravilli, M., Micco, A., Castaldi, G., Gioffrè, M., Coppola, G., Galdi, V., &amp;amp; Cusano, A. (2017). A study of Bloch-surface-wave sensing platforms for lab-on-fiber technology. In &lt;i&gt;Proc. 7th EOS Topical Meeting on Optical Microsystems (OMS’17)&lt;/i&gt;. Capri, Italy, Sep. 10-14, 2017.&lt;/span&gt;
+
+
+&lt;div id=&quot;Scaravilli_OMS_2017-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Scaravilli_OMS_2017-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Scaravilli_OMS_2017-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Scaravilli_OMS_2017,
+  author = {Scaravilli, Michele and Micco, Alberto and Castaldi, Giuseppe and Gioffr\`e, Mariano and Coppola, Giuseppe and Galdi, Vincenzo and Cusano, Andrea},
+  title = {A study of Bloch-surface-wave sensing platforms for lab-on-fiber technology},
+  booktitle = {Proc. 7th EOS Topical Meeting on Optical Microsystems (OMS'17)},
+  organization = {Capri, Italy, Sep. 10-14, 2017},
+  year = {2017},
+  month = sep
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Moccia_ONS_2017&quot;&gt;Moccia, M., Castaldi, G., Galdi, V., Liu, S., Wu, R. Y., Cui, T. J., … Andreone, A. (2017). Coding THz metasurfaces with sub-optimal design for diffuse scattering . In &lt;i&gt;Proc. 3rd EOS Topical Meeting on Optics at the Nanoscale (ONS’17)&lt;/i&gt;. Capri, Italy, Sep. 10-14, 2017.&lt;/span&gt;
+
+
+&lt;div id=&quot;Moccia_ONS_2017-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Moccia_ONS_2017-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Moccia_ONS_2017-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Moccia_ONS_2017,
+  author = {Moccia, M. and Castaldi, G. and Galdi, V. and Liu, S. and Wu, R. Y. and Cui, T. J. and Koral, C. and Papari, G. P. and Andreone, A.},
+  title = {Coding THz metasurfaces with sub-optimal design for diffuse scattering },
+  booktitle = {Proc. 3rd EOS Topical Meeting on Optics at the Nanoscale (ONS'17)},
+  organization = {Capri, Italy, Sep. 10-14, 2017},
+  year = {2017},
+  month = sep
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="coding" /><category term="flat polynomials" /><category term="aperiodic" /><category term="antenna arrays" /><summary type="html">We have presented two talks
+[1, 2]
+at the 7th EOS Topical Meeting on Optical Microsystems (OµS) and the 
+3rd EOS Topical Meeting on Optics at the Nanoscale (ONS),
+Capri, Italy, Sep. 10-14, 2017.
+
+Scaravilli, M., Micco, A., Castaldi, G., Gioffrè, M., Coppola, G., Galdi, V., &amp;amp; Cusano, A. (2017). A study of Bloch-surface-wave sensing platforms for lab-on-fiber technology. In Proc. 7th EOS Topical Meeting on Optical Microsystems (OMS’17). Capri, Italy, Sep. 10-14, 2017.
+
+
+
+  
+    
+
+    BibTeX
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  
+
+  
+
+  @inproceedings{Scaravilli_OMS_2017,
+  author = {Scaravilli, Michele and Micco, Alberto and Castaldi, Giuseppe and Gioffr\`e, Mariano and Coppola, Giuseppe and Galdi, Vincenzo and Cusano, Andrea},
+  title = {A study of Bloch-surface-wave sensing platforms for lab-on-fiber technology},
+  booktitle = {Proc. 7th EOS Topical Meeting on Optical Microsystems (OMS'17)},
+  organization = {Capri, Italy, Sep. 10-14, 2017},
+  year = {2017},
+  month = sep
+}
+
+
+  
+    
+
+Moccia, M., Castaldi, G., Galdi, V., Liu, S., Wu, R. Y., Cui, T. J., … Andreone, A. (2017). Coding THz metasurfaces with sub-optimal design for diffuse scattering . In Proc. 3rd EOS Topical Meeting on Optics at the Nanoscale (ONS’17). Capri, Italy, Sep. 10-14, 2017.
+
+
+
+  
+    
+
+    BibTeX
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  
+
+  
+
+  @inproceedings{Moccia_ONS_2017,
+  author = {Moccia, M. and Castaldi, G. and Galdi, V. and Liu, S. and Wu, R. Y. and Cui, T. J. and Koral, C. and Papari, G. P. and Andreone, A.},
+  title = {Coding THz metasurfaces with sub-optimal design for diffuse scattering },
+  booktitle = {Proc. 3rd EOS Topical Meeting on Optics at the Nanoscale (ONS'17)},
+  organization = {Capri, Italy, Sep. 10-14, 2017},
+  year = {2017},
+  month = sep
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/ICEAA-2017.png" /></entry><entry><title type="html">Invited talk presented at Metamaterials 2017</title><link href="/news/Metamaterials-2017" rel="alternate" type="text/html" title="Invited talk presented at Metamaterials 2017" /><published>2017-08-30T00:00:00+02:00</published><updated>2017-08-30T00:00:00+02:00</updated><id>/news/Metamaterials-2017</id><content type="html" xml:base="/news/Metamaterials-2017">&lt;p&gt;We have presented an invited talk
 [&lt;a href=&quot;#Galdi_2017-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 at the &lt;em&gt;11th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2017.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
 Marseille, France, Aug. 28-31, 2017.&lt;/p&gt;
@@ -642,109 +795,4 @@ Principe, M., Consales, M., Micco, A., Crescitelli, A., Castaldi, G., Esposito, 
   doi = {10.1117/12.2265002},
   month = apr,
   organization = {25th Optical Fiber Sensors Conference (OFS), Jeju, Korea, Apr. 24-28, 2017}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/OFS-25.png" /></entry><entry><title type="html">Our paper on non-Hermitian photonic chains published in PRB</title><link href="/news/PRB-paper-EPD-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian photonic chains published in PRB" /><published>2017-03-18T00:00:00+01:00</published><updated>2017-03-18T00:00:00+01:00</updated><id>/news/PRB-paper-EPD-published</id><content type="html" xml:base="/news/PRB-paper-EPD-published">&lt;p&gt;Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers” 
-[&lt;a href=&quot;#IJ125_PRB_95_104305_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] 
-in collaboration with &lt;a href=&quot;http://capolino.eng.uci.edu&quot;&gt;Filippo Capolino&lt;/a&gt;’s Group (University of California at Irvine),
-has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ125_PRB_95_104305_2017&quot;&gt;Othman, M. A. K., Galdi, V., &amp;amp; Capolino, F. (2017). Exceptional points of degeneracy and PT symmetry in photonic coupled chains of scatterers. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;95&lt;/i&gt;&lt;/span&gt;(10), 104305.&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ125_PRB_95_104305_2017-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ125_PRB_95_104305_2017-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ125_PRB_95_104305_2017-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.95.104305&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ125_PRB_95_104305_2017.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ125_PRB_95_104305_2017-abstract&quot; class=&quot;collapse&quot;&gt;We demonstrate the existence of exceptional points of degeneracy (EPDs) of periodic eigenstates in non-Hermitian coupled chains of dipolar scatterers. Guided modes supported by these structures can exhibit an EPD in their dispersion diagram at which two or more Bloch eigenstates coalesce, in both their eigenvectors and eigenvalues. We show the emergence of a second-order modal EPD associated with the parity-time (PT) symmetry condition, at which each particle pair in the double chain exhibits balanced gain and loss. Furthermore, we also demonstrate a fourth-order EPD occurring at the band edge. Such a degeneracy condition was previously referred to as a degenerate band edge in lossless anisotropic photonic crystals. Here, we rigorously show it under the occurrence of gain and loss balance for a discrete guiding system. We identify a more general regime of gain and loss balance showing that PT symmetry is not necessary to attain EPDs. Moreover, we investigate the degree of detuning of the EPD when the geometrical symmetry or balanced condition is broken. Furthermore, we demonstrate a realistic implementation of the EPD in a coupled chain made of pairs of plasmonic nanospheres and active core-shell nanospheres at optical frequencies. These findings open avenues toward superior light localization and transport with application to high-Q resonators utilized in sensors, filters, low-threshold switching and lasing.&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ125_PRB_95_104305_2017-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ125_PRB_95_104305_2017,
-  title = {Exceptional points of degeneracy and PT symmetry in photonic coupled chains of scatterers},
-  author = {Othman, Mohamed A. K. and Galdi, Vincenzo and Capolino, Filippo},
-  journal = {Physical Review B},
-  volume = {95},
-  issue = {10},
-  pages = {104305},
-  numpages = {12},
-  year = {2017},
-  month = mar,
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevB.95.104305},
-  url = {http://link.aps.org/doi/10.1103/PhysRevB.95.104305}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="non-Hermitian" /><category term="nanophotonics" /><category term="plasmonics" /><category term="parity-time symmetry" /><summary type="html">Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers” 
-[1] 
-in collaboration with Filippo Capolino’s Group (University of California at Irvine),
-has been accepted for publication in Physical Review B.
-
-Othman, M. A. K., Galdi, V., &amp;amp; Capolino, F. (2017). Exceptional points of degeneracy and PT symmetry in photonic coupled chains of scatterers. Physical Review B 95(10), 104305.
-
-
-
-  
-    
-    Abstract
-    
-
-    BibTeX
-
-            
-    
-    DOI
-    
-
-    
-
-    
-      
-    
-    PDF
-    
-
-    
-  
-  
-
-  
-  We demonstrate the existence of exceptional points of degeneracy (EPDs) of periodic eigenstates in non-Hermitian coupled chains of dipolar scatterers. Guided modes supported by these structures can exhibit an EPD in their dispersion diagram at which two or more Bloch eigenstates coalesce, in both their eigenvectors and eigenvalues. We show the emergence of a second-order modal EPD associated with the parity-time (PT) symmetry condition, at which each particle pair in the double chain exhibits balanced gain and loss. Furthermore, we also demonstrate a fourth-order EPD occurring at the band edge. Such a degeneracy condition was previously referred to as a degenerate band edge in lossless anisotropic photonic crystals. Here, we rigorously show it under the occurrence of gain and loss balance for a discrete guiding system. We identify a more general regime of gain and loss balance showing that PT symmetry is not necessary to attain EPDs. Moreover, we investigate the degree of detuning of the EPD when the geometrical symmetry or balanced condition is broken. Furthermore, we demonstrate a realistic implementation of the EPD in a coupled chain made of pairs of plasmonic nanospheres and active core-shell nanospheres at optical frequencies. These findings open avenues toward superior light localization and transport with application to high-Q resonators utilized in sensors, filters, low-threshold switching and lasing.
-  
-
-  @article{IJ125_PRB_95_104305_2017,
-  title = {Exceptional points of degeneracy and PT symmetry in photonic coupled chains of scatterers},
-  author = {Othman, Mohamed A. K. and Galdi, Vincenzo and Capolino, Filippo},
-  journal = {Physical Review B},
-  volume = {95},
-  issue = {10},
-  pages = {104305},
-  numpages = {12},
-  year = {2017},
-  month = mar,
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevB.95.104305},
-  url = {http://link.aps.org/doi/10.1103/PhysRevB.95.104305}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/EPD-chain.png" /></entry></feed>
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/OFS-25.png" /></entry></feed>
