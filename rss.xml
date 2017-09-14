@@ -5,10 +5,63 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2017-09-14T11:07:11+02:00</lastBuildDate>
-        <pubDate>2017-09-14T11:07:11+02:00</pubDate>
+        <lastBuildDate>2017-09-14T16:26:52+02:00</lastBuildDate>
+        <pubDate>2017-09-14T16:26:52+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Invited talk presented at ICEAA 2017</title>
+                <description>&lt;p&gt;We have presented an invited talk
+[&lt;a href=&quot;#Moccia_2017-ICEAA&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+at the &lt;em&gt;19th International Conference on Electromagnetics in Advanced Applications&lt;/em&gt; (&lt;a href=&quot;http://http://www.iceaa.net/j3/&quot;&gt;ICEAA&lt;/a&gt;),
+Verona, Italy, Sep. 11-15, 2017.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Moccia_2017-ICEAA&quot;&gt;Moccia, M., Castaldi, G., &amp;amp; Galdi, V. (2017). Some perspectives in aperiodically ordered antenna arrays and metasurfaces. In &lt;i&gt;Proc. 19th International Conference on Electromagnetics in Advanced Applications
+   (ICEAA)&lt;/i&gt;. Verona, Italy, Sep. 11-15, 2017.&lt;/span&gt;
+
+
+&lt;div id=&quot;Moccia_2017-ICEAA-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Moccia_2017-ICEAA-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Moccia_2017-ICEAA-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Moccia_2017-ICEAA,
+  author = {Moccia, Massimo and Castaldi, Giuseppe and Galdi, Vincenzo},
+  booktitle = {Proc. 19th International Conference on Electromagnetics in Advanced Applications
+     (ICEAA)},
+  title = {Some perspectives in aperiodically ordered antenna arrays and metasurfaces},
+  year = {2017},
+  organization = {Verona, Italy, Sep. 11-15, 2017},
+  month = sep
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+</description>
+                <link>http://fw-lab.org/news/ICEAA-2017</link>
+                <guid>http://fw-lab.org/news/ICEAA-2017</guid>
+                <pubDate>2017-09-14T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Two talks presented at EOS Capri Meetings 2017</title>
