@@ -4,7 +4,7 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2017-09-21T11:59:22+02:00</updated>
+ <updated>2017-10-08T17:59:50+02:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
@@ -13,12 +13,26 @@
 
  
  <entry>
+   <title>Special Session on Metamaterials at MetroAeroSpace 2018</title>
+   <link href="http://fw-lab.org/news/MAS-special-session"/>
+   <updated>2017-10-07T00:00:00+02:00</updated>
+   <id>http://fw-lab.org/news/MAS-special-session</id>
+   <content type="html">&lt;p&gt;The 5th IEEE International Workshop on Metrology for AeroSpace (&lt;a href=&quot;http://www.metroaerospace.org/index.php/&quot;&gt;MetroAeroSpace 2018&lt;/a&gt;) will convene in Rome, Italy, from June 20 - 22, 2018.&lt;/p&gt;
+
+&lt;p&gt;A special session on &lt;em&gt;Metamaterials for Aerospace&lt;/em&gt; is being organized by &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; (University of Sannio) and &lt;a href=&quot;http://www.dea.uniroma3.it/bilotti/index.php/en/&quot;&gt;Filiberto Bilotti&lt;/a&gt; (University of Roma Tre).&lt;/p&gt;
+
+&lt;p&gt;More details and the call for papers can be found &lt;a href=&quot;http://www.metroaerospace.org/index.php/special-session-8&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>EUPROMETA – 35th Doctoral School on Metamaterials</title>
    <link href="http://fw-lab.org/news/EUPROMETA-school"/>
    <updated>2017-09-21T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/EUPROMETA-school</id>
-   <content type="html">&lt;p&gt;The XXXV Edition of the &lt;a href=&quot;http://school.metamorphose-vi.org&quot;&gt;EUPROMETA&lt;/a&gt; Distributed Doctoral School on Metamaterials will be held on December 18-22, 2017 
-in Rome, Italy. The school will be focused on &lt;em&gt;Advanced Electromagnetic Materials and Surfaces for Novel Wave Phenomena&lt;/em&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;The XXXV Edition of the &lt;a href=&quot;http://school.metamorphose-vi.org&quot;&gt;EUPROMETA&lt;/a&gt; Distributed Doctoral School on Metamaterials will be held 
+in Rome, Italy, from December 18-22, 2017. The school will be focused on &lt;em&gt;Advanced Electromagnetic Materials and Surfaces for Novel Wave Phenomena&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;More details can be found &lt;a href=&quot;http://school.metamorphose-vi.org/index.php/component/content/article/8-schools/59-xxxv-school-rome-italy&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 

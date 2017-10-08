@@ -26,6 +26,7 @@ http://fw-lab.org/tags
 http://fw-lab.org/feed.xml
 http://fw-lab.org/feed.xslt.xml
 
+http://fw-lab.org/news/MAS-special-session
 http://fw-lab.org/news/EUPROMETA-school
 http://fw-lab.org/news/ICEAA-2017
 http://fw-lab.org/news/EOS-2017
