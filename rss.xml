@@ -5,10 +5,23 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2017-10-08T17:59:50+02:00</lastBuildDate>
-        <pubDate>2017-10-08T17:59:50+02:00</pubDate>
+        <lastBuildDate>2017-10-28T09:02:31+02:00</lastBuildDate>
+        <pubDate>2017-10-28T09:02:31+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Nanomaterials and Nanotechnology -- Special Collection on Optical Metamaterials and Metasurfaces</title>
+                <description>&lt;p&gt;The journal &lt;a href=&quot;http://journals.sagepub.com/home/nax&quot;&gt;&lt;em&gt;Nanomaterials and Nanotechnology&lt;/em&gt;&lt;/a&gt; will publish a 
+Special Collection on &lt;em&gt;Recent Advances and Trends in Optical Metamaterials and Metasurfaces&lt;/em&gt; (lead Guest Editor: Prof. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;More details and the call for papers can be found &lt;a href=&quot;http://www.metroaerospace.org/index.php/special-session-8&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/news/NN-special-collection</link>
+                <guid>http://fw-lab.org/news/NN-special-collection</guid>
+                <pubDate>2017-10-28T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Special Session on Metamaterials at MetroAeroSpace 2018</title>
@@ -317,7 +330,7 @@ has been accepted for publication as a Rapid Communication in &lt;em&gt;Physical
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published (early view) in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ127_AdOM_2017&quot;&gt;Moccia, M., Liu, S., Wu, R. Y., Castaldi, G., Andreone, A., Cui, T. J., &amp;amp; Galdi, V. (2017). Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and suboptimal design. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; 1700455.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ127_AdOM_2017&quot;&gt;Moccia, M., Liu, S., Wu, R. Y., Castaldi, G., Andreone, A., Cui, T. J., &amp;amp; Galdi, V. (2017). Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and suboptimal design. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;5&lt;/i&gt;&lt;/span&gt;(19), 1700455.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ127_AdOM_2017-materials&quot;&gt;
@@ -359,7 +372,9 @@ has been published (early view) in &lt;em&gt;Advanced Optical Materials&lt;/em&g
   url = {http://dx.doi.org/10.1002/adom.201700455},
   doi = {10.1002/adom.201700455},
   year = {2017},
-  month = jul,
+  volume = {5},
+  issue = {19},
+  month = oct,
   pages = {1700455},
   note = {http://onlinelibrary.wiley.com/store/10.1002/adom.201700455/asset/supinfo/adom201700455-sup-0001-S1.pdf?v=1&amp;amp;s=0ea1dc5e7c9bcef0a85fad9924885e5117d4b61b}
 }
@@ -1283,7 +1298,7 @@ plate of same size, from which a significant reduction (&amp;gt;10 dB) of the RC
 and illumination apertures for computational imaging, not necessarily restricted to electromagnetic scenarios.&lt;/p&gt;
 
 &lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ127_AdOM_2017&quot;&gt;Moccia, M., Liu, S., Wu, R. Y., Castaldi, G., Andreone, A., Cui, T. J., &amp;amp; Galdi, V. (2017). Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and suboptimal design. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; 1700455.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ127_AdOM_2017&quot;&gt;Moccia, M., Liu, S., Wu, R. Y., Castaldi, G., Andreone, A., Cui, T. J., &amp;amp; Galdi, V. (2017). Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and suboptimal design. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;5&lt;/i&gt;&lt;/span&gt;(19), 1700455.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ127_AdOM_2017-materials&quot;&gt;
@@ -1325,7 +1340,9 @@ and illumination apertures for computational imaging, not necessarily restricted
   url = {http://dx.doi.org/10.1002/adom.201700455},
   doi = {10.1002/adom.201700455},
   year = {2017},
-  month = jul,
+  volume = {5},
+  issue = {19},
+  month = oct,
   pages = {1700455},
   note = {http://onlinelibrary.wiley.com/store/10.1002/adom.201700455/asset/supinfo/adom201700455-sup-0001-S1.pdf?v=1&amp;amp;s=0ea1dc5e7c9bcef0a85fad9924885e5117d4b61b}
 }

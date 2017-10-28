@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-10-08T17:59:50+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Special Session on Metamaterials at MetroAeroSpace 2018</title><link href="/news/MAS-special-session" rel="alternate" type="text/html" title="Special Session on Metamaterials at MetroAeroSpace 2018" /><published>2017-10-07T00:00:00+02:00</published><updated>2017-10-07T00:00:00+02:00</updated><id>/news/MAS-special-session</id><content type="html" xml:base="/news/MAS-special-session">&lt;p&gt;The 5th IEEE International Workshop on Metrology for AeroSpace (&lt;a href=&quot;http://www.metroaerospace.org/index.php/&quot;&gt;MetroAeroSpace 2018&lt;/a&gt;) will convene in Rome, Italy, from June 20 - 22, 2018.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-10-28T09:02:31+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Nanomaterials and Nanotechnology – Special Collection on Optical Metamaterials and Metasurfaces</title><link href="/news/NN-special-collection" rel="alternate" type="text/html" title="Nanomaterials and Nanotechnology -- Special Collection on Optical Metamaterials and Metasurfaces" /><published>2017-10-28T00:00:00+02:00</published><updated>2017-10-28T00:00:00+02:00</updated><id>/news/NN-special-collection</id><content type="html" xml:base="/news/NN-special-collection">&lt;p&gt;The journal &lt;a href=&quot;http://journals.sagepub.com/home/nax&quot;&gt;&lt;em&gt;Nanomaterials and Nanotechnology&lt;/em&gt;&lt;/a&gt; will publish a 
+Special Collection on &lt;em&gt;Recent Advances and Trends in Optical Metamaterials and Metasurfaces&lt;/em&gt; (lead Guest Editor: Prof. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;More details and the call for papers can be found &lt;a href=&quot;http://www.metroaerospace.org/index.php/special-session-8&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="metasurfaces" /><category term="special collections" /><summary type="html">The journal Nanomaterials and Nanotechnology will publish a 
+Special Collection on Recent Advances and Trends in Optical Metamaterials and Metasurfaces (lead Guest Editor: Prof. Vincenzo Galdi)
+
+More details and the call for papers can be found here.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/NN-Sage.png" /></entry><entry><title type="html">Special Session on Metamaterials at MetroAeroSpace 2018</title><link href="/news/MAS-special-session" rel="alternate" type="text/html" title="Special Session on Metamaterials at MetroAeroSpace 2018" /><published>2017-10-07T00:00:00+02:00</published><updated>2017-10-07T00:00:00+02:00</updated><id>/news/MAS-special-session</id><content type="html" xml:base="/news/MAS-special-session">&lt;p&gt;The 5th IEEE International Workshop on Metrology for AeroSpace (&lt;a href=&quot;http://www.metroaerospace.org/index.php/&quot;&gt;MetroAeroSpace 2018&lt;/a&gt;) will convene in Rome, Italy, from June 20 - 22, 2018.&lt;/p&gt;
 
 &lt;p&gt;A special session on &lt;em&gt;Metamaterials for Aerospace&lt;/em&gt; is being organized by &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; (University of Sannio) and &lt;a href=&quot;http://www.dea.uniroma3.it/bilotti/index.php/en/&quot;&gt;Filiberto Bilotti&lt;/a&gt; (University of Roma Tre).&lt;/p&gt;
 
@@ -443,7 +449,7 @@ An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://se
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published (early view) in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ127_AdOM_2017&quot;&gt;Moccia, M., Liu, S., Wu, R. Y., Castaldi, G., Andreone, A., Cui, T. J., &amp;amp; Galdi, V. (2017). Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and suboptimal design. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; 1700455.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ127_AdOM_2017&quot;&gt;Moccia, M., Liu, S., Wu, R. Y., Castaldi, G., Andreone, A., Cui, T. J., &amp;amp; Galdi, V. (2017). Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and suboptimal design. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;5&lt;/i&gt;&lt;/span&gt;(19), 1700455.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ127_AdOM_2017-materials&quot;&gt;
@@ -485,7 +491,9 @@ has been published (early view) in &lt;em&gt;Advanced Optical Materials&lt;/em&g
   url = {http://dx.doi.org/10.1002/adom.201700455},
   doi = {10.1002/adom.201700455},
   year = {2017},
-  month = jul,
+  volume = {5},
+  issue = {19},
+  month = oct,
   pages = {1700455},
   note = {http://onlinelibrary.wiley.com/store/10.1002/adom.201700455/asset/supinfo/adom201700455-sup-0001-S1.pdf?v=1&amp;amp;s=0ea1dc5e7c9bcef0a85fad9924885e5117d4b61b}
 }
@@ -498,7 +506,7 @@ has been published (early view) in &lt;em&gt;Advanced Optical Materials&lt;/em&g
 in collaboration with Tie Jun Cui’s Group (Southeast University),
 has been published (early view) in Advanced Optical Materials.
 
-Moccia, M., Liu, S., Wu, R. Y., Castaldi, G., Andreone, A., Cui, T. J., &amp;amp; Galdi, V. (2017). Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and suboptimal design. Advanced Optical Materials 1700455.
+Moccia, M., Liu, S., Wu, R. Y., Castaldi, G., Andreone, A., Cui, T. J., &amp;amp; Galdi, V. (2017). Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and suboptimal design. Advanced Optical Materials 5(19), 1700455.
 
 
 
@@ -540,7 +548,9 @@ Moccia, M., Liu, S., Wu, R. Y., Castaldi, G., Andreone, A., Cui, T. J., &amp;amp
   url = {http://dx.doi.org/10.1002/adom.201700455},
   doi = {10.1002/adom.201700455},
   year = {2017},
-  month = jul,
+  volume = {5},
+  issue = {19},
+  month = oct,
   pages = {1700455},
   note = {http://onlinelibrary.wiley.com/store/10.1002/adom.201700455/asset/supinfo/adom201700455-sup-0001-S1.pdf?v=1&amp;amp;s=0ea1dc5e7c9bcef0a85fad9924885e5117d4b61b}
 }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MS-coded.png" /></entry><entry><title type="html">Two talks presented at IEEE-APS/URSI 2017</title><link href="/news/IEEE-APS-2017" rel="alternate" type="text/html" title="Two talks presented at IEEE-APS/URSI 2017" /><published>2017-07-14T00:00:00+02:00</published><updated>2017-07-14T00:00:00+02:00</updated><id>/news/IEEE-APS-2017</id><content type="html" xml:base="/news/IEEE-APS-2017">&lt;p&gt;We have presented two talks 
@@ -694,8 +704,4 @@ Principe, M., Consales, M., Micco, A., Crescitelli, A., Castaldi, G., Esposito, 
   year = {2017},
   organization = {San Diego, CA, USA, July 9-14, 2017},
   month = jul
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/IEEE-APS-2017.png" /></entry><entry><title type="html">Our paper on coding metasurfaces accepted in AdOM</title><link href="/news/AdOM-paper-MS-accepted" rel="alternate" type="text/html" title="Our paper on coding metasurfaces accepted in AdOM" /><published>2017-06-16T00:00:00+02:00</published><updated>2017-06-16T00:00:00+02:00</updated><id>/news/AdOM-paper-MS-accepted</id><content type="html" xml:base="/news/AdOM-paper-MS-accepted">&lt;p&gt;Our paper on “Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and sub-optimal design,”
-in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
-has been accepted for publication in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="coding" /><category term="flat polynomials" /><category term="aperiodic" /><summary type="html">Our paper on “Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and sub-optimal design,”
-in collaboration with Tie Jun Cui’s Group (Southeast University),
-has been accepted for publication in Advanced Optical Materials.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MS-coded.png" /></entry></feed>
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/IEEE-APS-2017.png" /></entry></feed>
