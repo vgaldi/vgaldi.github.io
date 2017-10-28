@@ -4,7 +4,7 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2017-10-28T09:12:01+02:00</updated>
+ <updated>2017-10-28T11:32:14+02:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
@@ -18,9 +18,11 @@
    <updated>2017-10-28T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/NN-special-collection</id>
    <content type="html">&lt;p&gt;The journal &lt;a href=&quot;http://journals.sagepub.com/home/nax&quot;&gt;&lt;em&gt;Nanomaterials and Nanotechnology&lt;/em&gt;&lt;/a&gt; will publish a 
-Special Collection on &lt;em&gt;Recent Advances and Trends in Optical Metamaterials and Metasurfaces&lt;/em&gt; (lead Guest Editor: &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt;)&lt;/p&gt;
+Special Collection on &lt;em&gt;Recent Advances and Trends in Optical Metamaterials and Metasurfaces&lt;/em&gt;, coordinated by the Guest Editors 
+&lt;a href=&quot;https://www.researchgate.net/profile/Mirko_Barbuto&quot;&gt;Mirko Barbuto&lt;/a&gt; (Niccolò Cusano University), &lt;a href=&quot;https://www.researchgate.net/profile/Alessio_Monti&quot;&gt;Alessio Monti&lt;/a&gt; (Niccolò Cusano University), and 
+&lt;a href=&quot;https://scholar.google.it/citations?user=FsG8urQAAAAJ&amp;amp;hl=it&quot;&gt;Maria Principe&lt;/a&gt; (University of Salerno), and &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt;  (University of Sannio).&lt;/p&gt;
 
-&lt;p&gt;More details and the call for papers can be found &lt;a href=&quot;http://www.metroaerospace.org/index.php/special-session-8&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More details and the call for papers can be found &lt;a href=&quot;http://journals.sagepub.com/page/nax/special-collections/call-for-papers/optical-metamaterials-and-metasurfaces&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 </content>
  </entry>
@@ -502,7 +504,7 @@ angle of a phased array antenna” [&lt;a href=&quot;#IJ126_IEEE-JMMCT_2017&quot
 in collaboration with &lt;a href=&quot;http://www.mbda-systems.com&quot;&gt;MBDA&lt;/a&gt;,
 has been published (early view) in the &lt;em&gt;IEEE Journal of Multiscale and Multiphysics Computational Techniques&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ126_IEEE-JMMCT_2017&quot;&gt;Moccia, M., Castaldi, G., D’Alterio, G., Feo, M., Vitiello, R., &amp;amp; Galdi, V. (2017). Transformation-optics-based design of a metamaterial radome for extending the scanning angle of a phased array antenna. &lt;i&gt;IEEE Journal on Multiscale and Multiphysics Computational Techniques&lt;/i&gt;.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ126_IEEE-JMMCT_2017&quot;&gt;Moccia, M., Castaldi, G., D’Alterio, G., Feo, M., Vitiello, R., &amp;amp; Galdi, V. (2017). Transformation-optics-based design of a metamaterial radome for extending the scanning angle of a phased array antenna. &lt;i&gt;IEEE Journal on Multiscale and Multiphysics Computational Techniques&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;2&lt;/i&gt;&lt;/span&gt;, 159–167.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ126_IEEE-JMMCT_2017-materials&quot;&gt;
@@ -523,8 +525,6 @@ has been published (early view) in the &lt;em&gt;IEEE Journal of Multiscale and 
     
       
     
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ126_IEEE-JMMCT_2017.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
 
     
   
@@ -539,9 +539,11 @@ has been published (early view) in the &lt;em&gt;IEEE Journal of Multiscale and 
   journal = {IEEE Journal on Multiscale and Multiphysics Computational Techniques},
   title = {Transformation-optics-based design of a metamaterial radome for extending the scanning angle of a phased array antenna},
   year = {2017},
-  keywords = {Geometry;Metamaterials;Permeability;Permittivity;Phased arrays;Tensile stress;Metamaterials;phased-array antennas;radomes;transformation optics},
   doi = {10.1109/JMMCT.2017.2713826},
-  month = jun
+  volume = {2},
+  number = {},
+  pages = {159--167},
+  month = {}
 }
 &lt;/pre&gt;
 
@@ -4710,7 +4712,7 @@ the scanning angle of a phased array [&lt;a href=&quot;#IJ126_IEEE-JMMCT_2017&qu
   
     
 &lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;IJ126_IEEE-JMMCT_2017&quot;&gt;Moccia, M., Castaldi, G., D’Alterio, G., Feo, M., Vitiello, R., &amp;amp; Galdi, V. (2017). Transformation-optics-based design of a metamaterial radome for extending the scanning angle of a phased array antenna. &lt;i&gt;IEEE Journal on Multiscale and Multiphysics Computational Techniques&lt;/i&gt;.&lt;/span&gt;
+&lt;li&gt;&lt;span id=&quot;IJ126_IEEE-JMMCT_2017&quot;&gt;Moccia, M., Castaldi, G., D’Alterio, G., Feo, M., Vitiello, R., &amp;amp; Galdi, V. (2017). Transformation-optics-based design of a metamaterial radome for extending the scanning angle of a phased array antenna. &lt;i&gt;IEEE Journal on Multiscale and Multiphysics Computational Techniques&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;2&lt;/i&gt;&lt;/span&gt;, 159–167.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ126_IEEE-JMMCT_2017-materials&quot;&gt;
@@ -4731,8 +4733,6 @@ the scanning angle of a phased array [&lt;a href=&quot;#IJ126_IEEE-JMMCT_2017&qu
     
       
     
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ126_IEEE-JMMCT_2017.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
 
     
   
@@ -4747,9 +4747,11 @@ the scanning angle of a phased array [&lt;a href=&quot;#IJ126_IEEE-JMMCT_2017&qu
   journal = {IEEE Journal on Multiscale and Multiphysics Computational Techniques},
   title = {Transformation-optics-based design of a metamaterial radome for extending the scanning angle of a phased array antenna},
   year = {2017},
-  keywords = {Geometry;Metamaterials;Permeability;Permittivity;Phased arrays;Tensile stress;Metamaterials;phased-array antennas;radomes;transformation optics},
   doi = {10.1109/JMMCT.2017.2713826},
-  month = jun
+  volume = {2},
+  number = {},
+  pages = {159--167},
+  month = {}
 }
 &lt;/pre&gt;
 
