@@ -4,13 +4,24 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2017-12-26T19:54:59+01:00</updated>
+ <updated>2018-01-05T18:21:50+01:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
    <email>vgaldi@unisannio.it</email>
  </author>
 
+ 
+ <entry>
+   <title>New lab member</title>
+   <link href="http://fw-lab.org/news/new-lab-member"/>
+   <updated>2017-12-01T00:00:00+01:00</updated>
+   <id>http://fw-lab.org/news/new-lab-member</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;/people/marino-coppolaro&quot;&gt;Marino Coppolaro&lt;/a&gt; has joined the Fields &amp;amp; Waves Lab as a Ph.D. student in Information Technologies for Engineering.
+His Ph.D. work will be focused on the study of nonlocal effects in metamaterials.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>2018 EurAAP Leopold B. Felsen Award</title>
@@ -1395,6 +1406,32 @@ and illumination apertures for computational imaging, not necessarily restricted
   
     
 &lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Marino Coppolaro</title>
+   <link href="http://fw-lab.org/team/marino-coppolaro"/>
+   <updated>2017-01-12T00:00:00+01:00</updated>
+   <id>http://fw-lab.org/team/marino-coppolaro</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Marino Coppolaro&lt;/strong&gt; was born in Benevento, Italy, on August 15, 1983.&lt;/p&gt;
+
+&lt;p&gt;He received his M.E. degree in Telecommunication Engineering (&lt;em&gt;summa cum laude&lt;/em&gt;) from the
+&lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, with a thesis project dealing with
+the genetic optimization of metallo-dielectric accelerating cavities with photonic bandgap.&lt;/p&gt;
+
+&lt;p&gt;From June 2012 to October 2014, he worked as a telecommunication engineer 
+at &lt;a href=&quot;https://www.artgroup-spa.com/en/&quot;&gt;ART Srl&lt;/a&gt; (Benevento, Italy).
+From to October 2014 to November 2017, he was a high-school teacher of computer-science.&lt;/p&gt;
+
+&lt;p&gt;Since December 2017, 
+he has been a Ph.D. student in Information Technologies for Engineering​at the 
+University of Sannio, working in 
+the Fields &amp;amp; Waves Lab 
+under the supervision of Prof. &lt;a href=&quot;/people/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;His current research activity is focused on the study of nonlocal effects in metamaterials.&lt;/p&gt;
+
 </content>
  </entry>
  
