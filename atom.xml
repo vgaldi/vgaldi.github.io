@@ -4,13 +4,28 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2018-01-19T21:31:51+01:00</updated>
+ <updated>2018-01-23T14:48:17+01:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
    <email>vgaldi@unisannio.it</email>
  </author>
 
+ 
+ <entry>
+   <title>Ph.D. defense</title>
+   <link href="http://fw-lab.org/news/Scaravilli_PhD_defense"/>
+   <updated>2018-01-23T00:00:00+01:00</updated>
+   <id>http://fw-lab.org/news/Scaravilli_PhD_defense</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;/team/michele-scaravilli&quot;&gt;Michele Scaravilli&lt;/a&gt; has successfully defended his Ph.D. dissertation 
+in Information Technologies for Engineering
+entitled 
+&lt;em&gt;“Bloch‐Surface‐Wave Assisted Lab‐on‐Fiber Optrodes”&lt;/em&gt;, supervised by
+Profs. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; 
+and &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>New lab member</title>
@@ -2108,12 +2123,10 @@ was achieved around 100 Hz. Understanding both the fundamental and the technical
 &lt;p&gt;He received his M.E. degree in Electrical Engineering (&lt;em&gt;summa cum laude&lt;/em&gt;) from the
 &lt;a href=&quot;http://www.unina.it/en_GB/home&quot;&gt;“Federico II” University of Naples&lt;/a&gt;, Italy, with a thesis project 
 dealing with the design and optimization of an anti-intrusion microwave sensor based on a 
-parallel-plate waveguide with deformable walls.&lt;/p&gt;
-
-&lt;p&gt;Since June 2014, he has been a Ph.D. student in Information Technologies for Engineering​at the 
-&lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, working in 
-the Fields &amp;amp; Waves Lab and the &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it&quot;&gt;Optoelectronics Group&lt;/a&gt;, 
-under the joint supervision of Profs. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; 
+parallel-plate waveguide with deformable walls. In 2018, he received the Ph.D. degree in Information Technologies for 
+Engineering​from the 
+&lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, defending a thesis on Bloch‐surface‐wave assisted lab‐on‐fiber optrodes,
+supervised by Profs. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; 
 and &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;His current research activity is focused on the design, numerical modeling and fabrication of novel 

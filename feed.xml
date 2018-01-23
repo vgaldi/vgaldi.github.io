@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-01-19T21:31:51+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">New lab member</title><link href="/news/new-lab-member" rel="alternate" type="text/html" title="New lab member" /><published>2017-12-01T00:00:00+01:00</published><updated>2017-12-01T00:00:00+01:00</updated><id>/news/new-lab-member</id><content type="html" xml:base="/news/new-lab-member">&lt;p&gt;&lt;a href=&quot;/team/marino-coppolaro&quot;&gt;Marino Coppolaro&lt;/a&gt; has joined the Fields &amp;amp; Waves Lab as a Ph.D. student in Information Technologies for Engineering.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-01-23T14:48:17+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Ph.D. defense</title><link href="/news/Scaravilli_PhD_defense" rel="alternate" type="text/html" title="Ph.D. defense" /><published>2018-01-23T00:00:00+01:00</published><updated>2018-01-23T00:00:00+01:00</updated><id>/news/Scaravilli_PhD_defense</id><content type="html" xml:base="/news/Scaravilli_PhD_defense">&lt;p&gt;&lt;a href=&quot;/team/michele-scaravilli&quot;&gt;Michele Scaravilli&lt;/a&gt; has successfully defended his Ph.D. dissertation 
+in Information Technologies for Engineering
+entitled 
+&lt;em&gt;“Bloch‐Surface‐Wave Assisted Lab‐on‐Fiber Optrodes”&lt;/em&gt;, supervised by
+Profs. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; 
+and &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="Michele Scaravilli" /><summary type="html">Michele Scaravilli has successfully defended his Ph.D. dissertation 
+in Information Technologies for Engineering
+entitled 
+“Bloch‐Surface‐Wave Assisted Lab‐on‐Fiber Optrodes”, supervised by
+Profs. Vincenzo Galdi 
+and Andrea Cusano.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/PhDone.jpg" /></entry><entry><title type="html">New lab member</title><link href="/news/new-lab-member" rel="alternate" type="text/html" title="New lab member" /><published>2017-12-01T00:00:00+01:00</published><updated>2017-12-01T00:00:00+01:00</updated><id>/news/new-lab-member</id><content type="html" xml:base="/news/new-lab-member">&lt;p&gt;&lt;a href=&quot;/team/marino-coppolaro&quot;&gt;Marino Coppolaro&lt;/a&gt; has joined the Fields &amp;amp; Waves Lab as a Ph.D. student in Information Technologies for Engineering.&lt;/p&gt;
 
 &lt;p&gt;His Ph.D. work will be focused on the study of nonlocal effects in metamaterials.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="Marino Coppolaro" /><summary type="html">Marino Coppolaro has joined the Fields &amp;amp; Waves Lab as a Ph.D. student in Information Technologies for Engineering.
 
@@ -492,14 +502,4 @@ Rizza, C., Galdi, V., &amp;amp; Ciattoni, A. (2017). Enhancement and interplay o
   publisher = {American Physical Society},
   doi = {10.1103/PhysRevB.96.081113},
   url = {https://link.aps.org/doi/10.1103/PhysRevB.96.081113}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MPI-MTM.png" /></entry><entry><title type="html">Our paper on nonlocal metamaterials accepted in PRB</title><link href="/news/PRB-paper-MPI-MTM-accepted" rel="alternate" type="text/html" title="Our paper on nonlocal metamaterials accepted in PRB" /><published>2017-08-05T00:00:00+02:00</published><updated>2017-08-05T00:00:00+02:00</updated><id>/news/PRB-paper-MPI-MTM-accepted</id><content type="html" xml:base="/news/PRB-paper-MPI-MTM-accepted">&lt;p&gt;Our paper on “Enhancement and interplay of first- and second-order spatial 
-dispersion in metamaterials with moderate-permittivity inclusions,”
-in collaboration with &lt;a href=&quot;https://sites.google.com/site/rizzacarlo81/&quot;&gt;Carlo Rizza&lt;/a&gt; (University of l’Aquila) and &lt;a href=&quot;http://www.ing.univaq.it/personale/scheda_personale.php?codice=511&quot;&gt;Alessandro Ciattoni&lt;/a&gt; (CNR-SPIN),
-has been accepted for publication as a Rapid Communication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/1701.06510&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="nonlocal" /><category term="homogenization" /><summary type="html">Our paper on “Enhancement and interplay of first- and second-order spatial 
-dispersion in metamaterials with moderate-permittivity inclusions,”
-in collaboration with Carlo Rizza (University of l’Aquila) and Alessandro Ciattoni (CNR-SPIN),
-has been accepted for publication as a Rapid Communication in Physical Review B.
-
-An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MPI-MTM.png" /></entry></feed>
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MPI-MTM.png" /></entry></feed>
