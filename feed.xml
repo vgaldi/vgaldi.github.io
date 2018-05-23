@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-05-22T21:49:57+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Roadmap on transformation optics published in JOPT</title><link href="/news/JOPT-TO-roadmap_published" rel="alternate" type="text/html" title="Roadmap on transformation optics published in JOPT" /><published>2018-05-22T00:00:00+02:00</published><updated>2018-05-22T00:00:00+02:00</updated><id>/news/JOPT-TO-roadmap_published</id><content type="html" xml:base="/news/JOPT-TO-roadmap_published">&lt;p&gt;The paper “Roadmap on transformation optics” [&lt;a href=&quot;#IJ129_JO_20_063001_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-05-23T17:54:21+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Roadmap on transformation optics published in JOPT</title><link href="/news/JOPT-TO-roadmap_published" rel="alternate" type="text/html" title="Roadmap on transformation optics published in JOPT" /><published>2018-05-22T00:00:00+02:00</published><updated>2018-05-22T00:00:00+02:00</updated><id>/news/JOPT-TO-roadmap_published</id><content type="html" xml:base="/news/JOPT-TO-roadmap_published">&lt;p&gt;The paper “Roadmap on transformation optics” [&lt;a href=&quot;#IJ129_JO_20_063001_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 has been published in the &lt;em&gt;Journal of Optics&lt;/em&gt;. Section 3 contains a
 perspective on &lt;a href=&quot;/projects/nonlocal-effects&quot;&gt;nonlocal&lt;/a&gt; and &lt;a href=&quot;/projects/non-Hermitian-MTM&quot;&gt;non-Hermitian&lt;/a&gt; extensions authored by Prof. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt;.&lt;/p&gt;
 
@@ -193,7 +193,7 @@ at the &lt;em&gt;19th International Conference on Electromagnetics in Advanced A
 Verona, Italy, Sep. 11-15, 2017.&lt;/p&gt;
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Moccia_2017-ICEAA&quot;&gt;Moccia, M., Castaldi, G., &amp;amp; Galdi, V. (2017). Some perspectives in aperiodically ordered antenna arrays and metasurfaces. In &lt;i&gt;Proc. 19th International Conference on Electromagnetics in Advanced Applications
-   (ICEAA)&lt;/i&gt;. Verona, Italy, Sep. 11-15, 2017.&lt;/span&gt;
+   (ICEAA)&lt;/i&gt; (pp. 733–735). Verona, Italy, Sep. 11-15, 2017.&lt;/span&gt;
 
 
 &lt;div id=&quot;Moccia_2017-ICEAA-materials&quot;&gt;
@@ -203,6 +203,8 @@ Verona, Italy, Sep. 11-15, 2017.&lt;/p&gt;
     &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Moccia_2017-ICEAA-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
 
             
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/ICEAA.2017.8065352&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
     
 
     
@@ -224,6 +226,8 @@ Verona, Italy, Sep. 11-15, 2017.&lt;/p&gt;
   title = {Some perspectives in aperiodically ordered antenna arrays and metasurfaces},
   year = {2017},
   organization = {Verona, Italy, Sep. 11-15, 2017},
+  doi = {10.1109/ICEAA.2017.8065352},
+  page = {733-735},
   month = sep
 }
 &lt;/pre&gt;
@@ -236,7 +240,7 @@ at the 19th International Conference on Electromagnetics in Advanced Application
 Verona, Italy, Sep. 11-15, 2017.
 
 Moccia, M., Castaldi, G., &amp;amp; Galdi, V. (2017). Some perspectives in aperiodically ordered antenna arrays and metasurfaces. In Proc. 19th International Conference on Electromagnetics in Advanced Applications
-   (ICEAA). Verona, Italy, Sep. 11-15, 2017.
+   (ICEAA) (pp. 733–735). Verona, Italy, Sep. 11-15, 2017.
 
 
 
@@ -246,6 +250,8 @@ Moccia, M., Castaldi, G., &amp;amp; Galdi, V. (2017). Some perspectives in aperi
     BibTeX
 
             
+    
+    DOI
     
 
     
@@ -267,6 +273,8 @@ Moccia, M., Castaldi, G., &amp;amp; Galdi, V. (2017). Some perspectives in aperi
   title = {Some perspectives in aperiodically ordered antenna arrays and metasurfaces},
   year = {2017},
   organization = {Verona, Italy, Sep. 11-15, 2017},
+  doi = {10.1109/ICEAA.2017.8065352},
+  page = {733-735},
   month = sep
 }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/ICEAA-2017.png" /></entry><entry><title type="html">Two talks presented at EOS Capri Meetings 2017</title><link href="/news/EOS-2017" rel="alternate" type="text/html" title="Two talks presented at EOS Capri Meetings 2017" /><published>2017-09-14T00:00:00+02:00</published><updated>2017-09-14T00:00:00+02:00</updated><id>/news/EOS-2017</id><content type="html" xml:base="/news/EOS-2017">&lt;p&gt;We have presented two talks
 [&lt;a href=&quot;#Scaravilli_OMS_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Moccia_ONS_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
@@ -426,7 +434,7 @@ Moccia, M., Castaldi, G., Galdi, V., Liu, S., Wu, R. Y., Cui, T. J., … Andreon
 at the &lt;em&gt;11th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2017.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
 Marseille, France, Aug. 28-31, 2017.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Galdi_2017-Metamaterials&quot;&gt;Galdi, V. (2017). Metasurfaces for field manipulation and sensing. In &lt;i&gt;Proc. International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Marseille, France, Aug. 28-31, 2017.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Galdi_2017-Metamaterials&quot;&gt;Galdi, V. (2017). Metasurfaces for field manipulation and sensing. In &lt;i&gt;Proc. International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt; (pp. 112–114). Marseille, France, Aug. 28-31, 2017.&lt;/span&gt;
 
 
 &lt;div id=&quot;Galdi_2017-Metamaterials-materials&quot;&gt;
@@ -436,6 +444,8 @@ Marseille, France, Aug. 28-31, 2017.&lt;/p&gt;
     &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Galdi_2017-Metamaterials-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
 
             
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/MetaMaterials.2017.8107857&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
     
 
     
@@ -456,6 +466,8 @@ Marseille, France, Aug. 28-31, 2017.&lt;/p&gt;
   title = {Metasurfaces for field manipulation and sensing},
   year = {2017},
   organization = {Marseille, France, Aug. 28-31, 2017},
+  doi = {10.1109/MetaMaterials.2017.8107857},
+  page = {112--114},
   month = aug
 }
 &lt;/pre&gt;
@@ -467,7 +479,7 @@ Marseille, France, Aug. 28-31, 2017.&lt;/p&gt;
 at the 11th International Congress on Engineered Material Platforms for Novel Wave Phenomena (Metamaterials),
 Marseille, France, Aug. 28-31, 2017.
 
-Galdi, V. (2017). Metasurfaces for field manipulation and sensing. In Proc. International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS). Marseille, France, Aug. 28-31, 2017.
+Galdi, V. (2017). Metasurfaces for field manipulation and sensing. In Proc. International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS) (pp. 112–114). Marseille, France, Aug. 28-31, 2017.
 
 
 
@@ -477,6 +489,8 @@ Galdi, V. (2017). Metasurfaces for field manipulation and sensing. In Proc. Inte
     BibTeX
 
             
+    
+    DOI
     
 
     
@@ -497,5 +511,7 @@ Galdi, V. (2017). Metasurfaces for field manipulation and sensing. In Proc. Inte
   title = {Metasurfaces for field manipulation and sensing},
   year = {2017},
   organization = {Marseille, France, Aug. 28-31, 2017},
+  doi = {10.1109/MetaMaterials.2017.8107857},
+  page = {112--114},
   month = aug
 }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/Metamaterials-2017.png" /></entry></feed>

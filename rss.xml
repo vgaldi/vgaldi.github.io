@@ -5,8 +5,8 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2018-05-22T21:49:57+02:00</lastBuildDate>
-        <pubDate>2018-05-22T21:49:57+02:00</pubDate>
+        <lastBuildDate>2018-05-23T17:54:21+02:00</lastBuildDate>
+        <pubDate>2018-05-23T17:54:21+02:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -185,7 +185,7 @@ at the &lt;em&gt;19th International Conference on Electromagnetics in Advanced A
 Verona, Italy, Sep. 11-15, 2017.&lt;/p&gt;
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Moccia_2017-ICEAA&quot;&gt;Moccia, M., Castaldi, G., &amp;amp; Galdi, V. (2017). Some perspectives in aperiodically ordered antenna arrays and metasurfaces. In &lt;i&gt;Proc. 19th International Conference on Electromagnetics in Advanced Applications
-   (ICEAA)&lt;/i&gt;. Verona, Italy, Sep. 11-15, 2017.&lt;/span&gt;
+   (ICEAA)&lt;/i&gt; (pp. 733–735). Verona, Italy, Sep. 11-15, 2017.&lt;/span&gt;
 
 
 &lt;div id=&quot;Moccia_2017-ICEAA-materials&quot;&gt;
@@ -195,6 +195,8 @@ Verona, Italy, Sep. 11-15, 2017.&lt;/p&gt;
     &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Moccia_2017-ICEAA-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
 
             
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/ICEAA.2017.8065352&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
     
 
     
@@ -216,6 +218,8 @@ Verona, Italy, Sep. 11-15, 2017.&lt;/p&gt;
   title = {Some perspectives in aperiodically ordered antenna arrays and metasurfaces},
   year = {2017},
   organization = {Verona, Italy, Sep. 11-15, 2017},
+  doi = {10.1109/ICEAA.2017.8065352},
+  page = {733-735},
   month = sep
 }
 &lt;/pre&gt;
@@ -326,7 +330,7 @@ Capri, Italy, Sep. 10-14, 2017.&lt;/p&gt;
 at the &lt;em&gt;11th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2017.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
 Marseille, France, Aug. 28-31, 2017.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Galdi_2017-Metamaterials&quot;&gt;Galdi, V. (2017). Metasurfaces for field manipulation and sensing. In &lt;i&gt;Proc. International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Marseille, France, Aug. 28-31, 2017.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Galdi_2017-Metamaterials&quot;&gt;Galdi, V. (2017). Metasurfaces for field manipulation and sensing. In &lt;i&gt;Proc. International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt; (pp. 112–114). Marseille, France, Aug. 28-31, 2017.&lt;/span&gt;
 
 
 &lt;div id=&quot;Galdi_2017-Metamaterials-materials&quot;&gt;
@@ -336,6 +340,8 @@ Marseille, France, Aug. 28-31, 2017.&lt;/p&gt;
     &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Galdi_2017-Metamaterials-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
 
             
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/MetaMaterials.2017.8107857&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
     
 
     
@@ -356,6 +362,8 @@ Marseille, France, Aug. 28-31, 2017.&lt;/p&gt;
   title = {Metasurfaces for field manipulation and sensing},
   year = {2017},
   organization = {Marseille, France, Aug. 28-31, 2017},
+  doi = {10.1109/MetaMaterials.2017.8107857},
+  page = {112--114},
   month = aug
 }
 &lt;/pre&gt;
@@ -4423,7 +4431,8 @@ tunneling effects.&lt;/p&gt;
 &lt;p&gt;More recently, we have applied the transformation-optics approach to the design of metamaterial radomes for extending 
 the scanning angle of a phased array [&lt;a href=&quot;#IJ126_IEEE-JMMCT_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;10&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
 
-&lt;p&gt;We have also proposed other extensions to deal with &lt;a href=&quot;/projects/nonlocal-effects&quot;&gt;nonlocal&lt;/a&gt;, &lt;a href=&quot;/projects/non-Hermitian-MTM&quot;&gt;non-Hermitian&lt;/a&gt;, and &lt;a href=&quot;/projects/multiphysics-MTM&quot;&gt;multiphysics&lt;/a&gt; scenarios.&lt;/p&gt;
+&lt;p&gt;We have also proposed other extensions to deal with &lt;a href=&quot;/projects/nonlocal-effects&quot;&gt;nonlocal&lt;/a&gt;, &lt;a href=&quot;/projects/non-Hermitian-MTM&quot;&gt;non-Hermitian&lt;/a&gt;, and &lt;a href=&quot;/projects/multiphysics-MTM&quot;&gt;multiphysics&lt;/a&gt; scenarios, 
+some of which are also included in a recent “roadmap” [&lt;a href=&quot;#IJ129_JO_20_063001_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;11&lt;/span&gt;&lt;/a&gt;] .&lt;/p&gt;
 
 &lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ62_MOTL_50_3186_2008&quot;&gt;Gallina, I., Castaldi, G., &amp;amp; Galdi, V. (2008). A higher-order optical transformation for nonmagnetic cloaking. &lt;i&gt;Microwave and Optical Technology Letters&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;50&lt;/i&gt;&lt;/span&gt;(12), 3186–3190.&lt;/span&gt;
@@ -4928,6 +4937,54 @@ the scanning angle of a phased array [&lt;a href=&quot;#IJ126_IEEE-JMMCT_2017&qu
   number = {},
   pages = {159--167},
   month = {}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ129_JO_20_063001_2018&quot;&gt;McCall, M., Pendry, J. B., Galdi, V., Lai, Y., Horsley, S. A. R., Li, J., … Cummer, S. A. (2018). Roadmap on transformation optics. &lt;i&gt;Journal of Optics&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;20&lt;/i&gt;&lt;/span&gt;(6), 063001.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ129_JO_20_063001_2018-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ129_JO_20_063001_2018-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ129_JO_20_063001_2018-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1088/2040-8986/aab976&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ129_JO_20_063001_2018.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ129_JO_20_063001_2018-abstract&quot; class=&quot;collapse&quot;&gt;Transformation optics asks, using Maxwell’s equations, what kind of electromagnetic medium recreates some smooth deformation of space? The guiding principle is Einstein’s principle of covariance: that any physical theory must take the same form in any coordinate system. This requirement fixes very precisely the required electromagnetic medium. The impact of this insight cannot be overestimated. Many practitioners were used to thinking that only a few analytic solutions to Maxwell’s equations existed, such as the monochromatic plane wave in a homogeneous, isotropic medium. At a stroke, transformation optics increases that landscape from ‘few’ to ‘infinity’, and to each of the infinitude of analytic solutions dreamt up by the researcher, there corresponds an electromagnetic medium capable of reproducing that solution precisely. The most striking example is the electromagnetic cloak, thought to be an unreachable dream of science fiction writers, but realised in the laboratory a few months after the papers proposing the possibility were published. But the practical challenges are considerable, requiring meta-media that are at once electrically and magnetically inhomogeneous and anisotropic. How far have we come since the first demonstrations over a decade ago? And what does the future hold? If the wizardry of perfect macroscopic optical invisibility still eludes us in practice, then what compromises still enable us to create interesting, useful, devices? While three-dimensional (3D) cloaking remains a significant technical challenge, much progress has been made in two dimensions. Carpet cloaking, wherein an object is hidden under a surface that appears optically flat, relaxes the constraints of extreme electromagnetic parameters. Surface wave cloaking guides sub-wavelength surface waves, making uneven surfaces appear flat. Two dimensions is also the setting in which conformal and complex coordinate transformations are realisable, and the possibilities in this restricted domain do not appear to have been exhausted yet. Beyond cloaking, the enhanced electromagnetic landscape provided by transformation optics has shown how fully analytic solutions can be found to a number of physical scenarios such as plasmonic systems used in electron energy loss spectroscopy and cathodoluminescence. Are there further fields to be enriched? A new twist to transformation optics was the extension to the spacetime domain. By applying transformations to spacetime, rather than just space, it was shown that events rather than objects could be hidden from view; transformation optics had provided a means of effectively redacting events from history. The hype quickly settled into serious nonlinear optical experiments that demonstrated the soundness of the idea, and it is now possible to consider the practical implications, particularly in optical signal processing, of having an ‘interrupt-without-interrupt’ facility that the so-called temporal cloak provides. Inevitable issues of dispersion in actual systems have only begun to be addressed. Now that time is included in the programme of transformation optics, it is natural to ask what role ideas from general relativity can play in shaping the future of transformation optics. Indeed, one of the earliest papers on transformation optics was provocatively titled ‘General Relativity in Electrical Engineering’. The answer that curvature does not enter directly into transformation optics merely encourages us to speculate on the role of transformation optics in defining laboratory analogues. Quite why Maxwell’s theory defines a ‘perfect’ transformation theory, while other areas of physics such as acoustics are not apparently quite so amenable, is a deep question whose precise, mathematical answer will help inform us of the extent to which similar ideas can be extended to other fields. The contributors to this Roadmap, who are all renowned practitioners or inventors of transformation optics, will give their perspectives into the field’s status and future development.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ129_JO_20_063001_2018-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ129_JO_20_063001_2018,
+  author = {McCall, Martin and Pendry, John B and Galdi, Vincenzo and Lai, Yun and Horsley, S A R and Li, Jensen and Zhu, Jian and Mitchell-Thomas, Rhiannon C and Quevedo-Teruel, Oscar and Tassin, Philippe and Ginis, Vincent and Martini, Enrica and Minatti, Gabriele and Maci, Stefano and Ebrahimpouri, Mahsa and Hao, Yang and Kinsler, Paul and Gratus, Jonathan and Lukens, Joseph M and Weiner, Andrew M and Leonhardt, Ulf and Smolyaninov, Igor I and Smolyaninova, Vera N and Thompson, Robert T and Wegener, Martin and Kadic, Muamer and Cummer, Steven A},
+  title = {Roadmap on transformation optics},
+  journal = {Journal of Optics},
+  volume = {20},
+  number = {6},
+  pages = {063001},
+  doi = {10.1088/2040-8986/aab976},
+  url = {http://stacks.iop.org/2040-8986/20/i=6/a=063001},
+  year = {2018}
 }
 &lt;/pre&gt;
 
