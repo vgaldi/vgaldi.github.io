@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-05-23T17:54:21+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Roadmap on transformation optics published in JOPT</title><link href="/news/JOPT-TO-roadmap_published" rel="alternate" type="text/html" title="Roadmap on transformation optics published in JOPT" /><published>2018-05-22T00:00:00+02:00</published><updated>2018-05-22T00:00:00+02:00</updated><id>/news/JOPT-TO-roadmap_published</id><content type="html" xml:base="/news/JOPT-TO-roadmap_published">&lt;p&gt;The paper “Roadmap on transformation optics” [&lt;a href=&quot;#IJ129_JO_20_063001_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-05-23T18:15:53+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Roadmap on transformation optics published in JOPT</title><link href="/news/JOPT-TO-roadmap_published" rel="alternate" type="text/html" title="Roadmap on transformation optics published in JOPT" /><published>2018-05-22T00:00:00+02:00</published><updated>2018-05-22T00:00:00+02:00</updated><id>/news/JOPT-TO-roadmap_published</id><content type="html" xml:base="/news/JOPT-TO-roadmap_published">&lt;p&gt;The paper “Roadmap on transformation optics” [&lt;a href=&quot;#IJ129_JO_20_063001_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 has been published in the &lt;em&gt;Journal of Optics&lt;/em&gt;. Section 3 contains a
 perspective on &lt;a href=&quot;/projects/nonlocal-effects&quot;&gt;nonlocal&lt;/a&gt; and &lt;a href=&quot;/projects/non-Hermitian-MTM&quot;&gt;non-Hermitian&lt;/a&gt; extensions authored by Prof. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt;.&lt;/p&gt;
 
@@ -467,7 +467,7 @@ Marseille, France, Aug. 28-31, 2017.&lt;/p&gt;
   year = {2017},
   organization = {Marseille, France, Aug. 28-31, 2017},
   doi = {10.1109/MetaMaterials.2017.8107857},
-  page = {112--114},
+  page = {112-114},
   month = aug
 }
 &lt;/pre&gt;
@@ -512,6 +512,6 @@ Galdi, V. (2017). Metasurfaces for field manipulation and sensing. In Proc. Inte
   year = {2017},
   organization = {Marseille, France, Aug. 28-31, 2017},
   doi = {10.1109/MetaMaterials.2017.8107857},
-  page = {112--114},
+  page = {112-114},
   month = aug
 }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/Metamaterials-2017.png" /></entry></feed>
