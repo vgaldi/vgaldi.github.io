@@ -5,10 +5,23 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2018-05-23T18:15:53+02:00</lastBuildDate>
-        <pubDate>2018-05-23T18:15:53+02:00</pubDate>
+        <lastBuildDate>2018-06-15T12:44:27+02:00</lastBuildDate>
+        <pubDate>2018-06-15T12:44:27+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on Bloch surface waves accepted in AdOM</title>
+                <description>&lt;p&gt;Our paper on “Excitation of Bloch surface waves on an optical fiber tip,”
+in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group, 
+&lt;a href=&quot;https://www.na.imm.cnr.it&quot;&gt;CNR-IMM&lt;/a&gt; and &lt;a href=&quot;http://www.enea.it/en&quot;&gt;ENEA&lt;/a&gt; 
+has been accepted for publication in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/news/AdOM-accepted</link>
+                <guid>http://fw-lab.org/news/AdOM-accepted</guid>
+                <pubDate>2018-06-15T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Roadmap on transformation optics published in JOPT</title>

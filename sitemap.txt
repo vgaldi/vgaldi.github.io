@@ -27,6 +27,7 @@ http://fw-lab.org/tags
 http://fw-lab.org/feed.xml
 http://fw-lab.org/feed.xslt.xml
 
+http://fw-lab.org/news/AdOM-accepted
 http://fw-lab.org/news/JOPT-TO-roadmap_published
 http://fw-lab.org/news/Scaravilli_PhD_defense
 http://fw-lab.org/news/new-lab-member
