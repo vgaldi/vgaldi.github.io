@@ -27,6 +27,7 @@ http://fw-lab.org/tags
 http://fw-lab.org/feed.xml
 http://fw-lab.org/feed.xslt.xml
 
+http://fw-lab.org/news/AdOM-published
 http://fw-lab.org/news/MAS-tutorial
 http://fw-lab.org/news/AdOM-accepted
 http://fw-lab.org/news/JOPT-TO-roadmap_published

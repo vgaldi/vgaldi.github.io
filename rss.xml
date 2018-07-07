@@ -5,10 +5,75 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2018-07-07T14:29:24+02:00</lastBuildDate>
-        <pubDate>2018-07-07T14:29:24+02:00</pubDate>
+        <lastBuildDate>2018-07-07T14:59:30+02:00</lastBuildDate>
+        <pubDate>2018-07-07T14:59:30+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on Bloch surface waves published in AdOM</title>
+                <description>&lt;p&gt;Our paper on “Excitation of Bloch surface waves on an optical fiber tip,”
+[&lt;a href=&quot;#IJ130_AdOM_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group, 
+&lt;a href=&quot;https://www.na.imm.cnr.it&quot;&gt;CNR-IMM&lt;/a&gt; and &lt;a href=&quot;http://www.enea.it/en&quot;&gt;ENEA&lt;/a&gt; 
+has been published in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ130_AdOM_2018&quot;&gt;Scaravilli, M., Micco, A., Castaldi, G., Coppola, G., Gioffrè, M., Iodice, M., … Cusano, A. (2018). Excitation of Bloch surface waves on an optical fiber tip. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; 1800477.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ130_AdOM_2018-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ130_AdOM_2018-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ130_AdOM_2018-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1002/adom.201800477&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ130_AdOM_2018.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadom.201800477&amp;amp;file=adom201800477-sup-0001-S1.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ130_AdOM_2018-abstract&quot; class=&quot;collapse&quot;&gt;The integration of structures supporting Bloch surface waves (BSWs) with optical fibers is highly desirable, since it would enable the development of high-figure-of-merit miniaturized all-fiber optrodes, opening new pathways within the “lab-on-fiber” roadmap. Here, the first experimental demonstration of grating-assisted excitation of BSWs on the tip of single-mode fibers in the near-infrared region is provided. This is attained via fabrication of a 1D diffraction grating on the fiber facet, and subsequent deposition of a 1D photonic crystal. In spite of a resonance broadening due to grating-induced morphological perturbations, the measured Q-factor of 50 is still higher than typical lab-on-tip plasmonic-probe benchmarks. With a view toward biomolecular sensing, a surface sensitivity of 1.22 nm nm−1 of homogeneous overlay deposited over the active region, which is in line with most plasmonic optrodes largely used in connection with optical fibers, is evaluated. The results also highlight the current limitations and the challenges to face for the development of advanced BSW-based fiber-tip platforms for biological sensing applications.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ130_AdOM_2018-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ130_AdOM_2018,
+  author = {Scaravilli, Michele and Micco, Alberto and Castaldi, Giuseppe and Coppola, Giuseppe and Gioffr\`e, Mariano and Iodice, Mario and La Ferrara, Vera and Galdi, Vincenzo and Cusano, Andrea},
+  title = {Excitation of Bloch surface waves on an optical fiber tip},
+  journal = {Advanced Optical Materials},
+  pages = {1800477},
+  year = {2018},
+  keywords = {diffraction gratings, lab-on-fiber, optical fiber sensors, photonic crystals, surface waves},
+  doi = {10.1002/adom.201800477},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.201800477},
+  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadom.201800477&amp;amp;file=adom201800477-sup-0001-S1.pdf}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+</description>
+                <link>http://fw-lab.org/news/AdOM-published</link>
+                <guid>http://fw-lab.org/news/AdOM-published</guid>
+                <pubDate>2018-07-05T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Tutorial Session on Metamaterials at MetroAeroSpace 2018</title>
@@ -5167,9 +5232,11 @@ Our results indicated that the attained sensitivities are in line with those exh
 plasmonic bioprobes, with the key advantage of exhibiting much narrower spectral resonances. 
 This prototype study paves the way for a new class of miniaturized high-performance surface-wave 
 fiber-optic devices for high-resolution label-free optical biosensing, and represents an important step 
-forward in the “lab-on-fiber” technology roadmap.&lt;/p&gt;
+forward in the “lab-on-fiber” technology roadmap.
+More recently [&lt;a href=&quot;#IJ130_AdOM_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], we have experimentally validated the above results, by demonstrating fro the first time&lt;br /&gt;
+the excitation of Bloch surface waves on the tip of an optical fiber.&lt;/p&gt;
 
-&lt;p&gt;We have also explored the sensing capabilities of optical-fiber &lt;a href=&quot;/projects/meta-tip&quot;&gt;meta-tips&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In a separate but related project, we have also explored the sensing capabilities of optical-fiber &lt;a href=&quot;/projects/meta-tip&quot;&gt;meta-tips&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ106_OpEx_21_23531_2013&quot;&gt;Savoia, S., Ricciardi, A., Crescitelli, A., Granata, C., Esposito, E., Galdi, V., &amp;amp; Cusano, A. (2013). Surface sensitivity of Rayleigh anomalies in metallic nanogratings. &lt;i&gt;Optics Express&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;21&lt;/i&gt;&lt;/span&gt;(20), 23531–23542.&lt;/span&gt;
@@ -5267,6 +5334,56 @@ forward in the “lab-on-fiber” technology roadmap.&lt;/p&gt;
   month = nov,
   year = {2016},
   doi = {10.1364/OE.24.027771}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ130_AdOM_2018&quot;&gt;Scaravilli, M., Micco, A., Castaldi, G., Coppola, G., Gioffrè, M., Iodice, M., … Cusano, A. (2018). Excitation of Bloch surface waves on an optical fiber tip. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; 1800477.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ130_AdOM_2018-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ130_AdOM_2018-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ130_AdOM_2018-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1002/adom.201800477&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ130_AdOM_2018.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadom.201800477&amp;amp;file=adom201800477-sup-0001-S1.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ130_AdOM_2018-abstract&quot; class=&quot;collapse&quot;&gt;The integration of structures supporting Bloch surface waves (BSWs) with optical fibers is highly desirable, since it would enable the development of high-figure-of-merit miniaturized all-fiber optrodes, opening new pathways within the “lab-on-fiber” roadmap. Here, the first experimental demonstration of grating-assisted excitation of BSWs on the tip of single-mode fibers in the near-infrared region is provided. This is attained via fabrication of a 1D diffraction grating on the fiber facet, and subsequent deposition of a 1D photonic crystal. In spite of a resonance broadening due to grating-induced morphological perturbations, the measured Q-factor of 50 is still higher than typical lab-on-tip plasmonic-probe benchmarks. With a view toward biomolecular sensing, a surface sensitivity of 1.22 nm nm−1 of homogeneous overlay deposited over the active region, which is in line with most plasmonic optrodes largely used in connection with optical fibers, is evaluated. The results also highlight the current limitations and the challenges to face for the development of advanced BSW-based fiber-tip platforms for biological sensing applications.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ130_AdOM_2018-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ130_AdOM_2018,
+  author = {Scaravilli, Michele and Micco, Alberto and Castaldi, Giuseppe and Coppola, Giuseppe and Gioffr\`e, Mariano and Iodice, Mario and La Ferrara, Vera and Galdi, Vincenzo and Cusano, Andrea},
+  title = {Excitation of Bloch surface waves on an optical fiber tip},
+  journal = {Advanced Optical Materials},
+  pages = {1800477},
+  year = {2018},
+  keywords = {diffraction gratings, lab-on-fiber, optical fiber sensors, photonic crystals, surface waves},
+  doi = {10.1002/adom.201800477},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.201800477},
+  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadom.201800477&amp;amp;file=adom201800477-sup-0001-S1.pdf}
 }
 &lt;/pre&gt;
 
