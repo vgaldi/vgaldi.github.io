@@ -4,13 +4,28 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2018-07-07T14:59:30+02:00</updated>
+ <updated>2018-07-09T21:17:53+02:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
    <email>vgaldi@unisannio.it</email>
  </author>
 
+ 
+ <entry>
+   <title>Two talks presented at IEEE-APS/URSI 2018</title>
+   <link href="http://fw-lab.org/news/IEEE-APS-2018"/>
+   <updated>2018-07-09T00:00:00+02:00</updated>
+   <id>http://fw-lab.org/news/IEEE-APS-2018</id>
+   <content type="html">&lt;p&gt;We have presented two talks 
+[(missing reference), (missing reference)]
+at the &lt;em&gt;IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting&lt;/em&gt; (&lt;a href=&quot;http://2018apsursi.org/default.asp&quot;&gt;IEEE-APS/URSI&lt;/a&gt;),
+Boston, MA, USA, July 8-13, 2018.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;/ol&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Our paper on Bloch surface waves published in AdOM</title>
