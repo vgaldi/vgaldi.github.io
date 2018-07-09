@@ -1,12 +1,155 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-07-09T21:17:53+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Two talks presented at IEEE-APS/URSI 2018</title><link href="/news/IEEE-APS-2018" rel="alternate" type="text/html" title="Two talks presented at IEEE-APS/URSI 2018" /><published>2018-07-09T00:00:00+02:00</published><updated>2018-07-09T00:00:00+02:00</updated><id>/news/IEEE-APS-2018</id><content type="html" xml:base="/news/IEEE-APS-2018">&lt;p&gt;We have presented two talks 
-[(missing reference), (missing reference)]
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-07-09T21:33:56+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Two talks presented at IEEE-APS/URSI 2018</title><link href="/news/IEEE-APS-2018" rel="alternate" type="text/html" title="Two talks presented at IEEE-APS/URSI 2018" /><published>2018-07-09T00:00:00+02:00</published><updated>2018-07-09T00:00:00+02:00</updated><id>/news/IEEE-APS-2018</id><content type="html" xml:base="/news/IEEE-APS-2018">&lt;p&gt;We have presented two talks 
+[&lt;a href=&quot;#Moccia_2018-USNC-URSI&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Castaldi_2018-USNC-URSI&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
 at the &lt;em&gt;IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting&lt;/em&gt; (&lt;a href=&quot;http://2018apsursi.org/default.asp&quot;&gt;IEEE-APS/URSI&lt;/a&gt;),
 Boston, MA, USA, July 8-13, 2018.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="homogenization" /><category term="effective medium theory" /><category term="metamaterials" /><category term="non-Hermitian" /><category term="spectral singularities" /><summary type="html">We have presented two talks 
-[(missing reference), (missing reference)]
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Moccia_2018-USNC-URSI&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2018). Spectral singularities in cylindrical non-Hermitian structures. In &lt;i&gt;USNC-URSI Radio Science Meeting&lt;/i&gt;. Boston, MA, USA, July 8-13, 2018.&lt;/span&gt;
+
+
+&lt;div id=&quot;Moccia_2018-USNC-URSI-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Moccia_2018-USNC-URSI-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Moccia_2018-USNC-URSI-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Moccia_2018-USNC-URSI,
+  author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
+  booktitle = {USNC-URSI Radio Science Meeting},
+  title = {Spectral singularities in cylindrical non-Hermitian structures},
+  year = {2018},
+  organization = {Boston, MA, USA, July 8-13, 2018},
+  month = jul
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Castaldi_2018-USNC-URSI&quot;&gt;Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2018). Boundary effects of weak nonlocality in multilayered dielectric metamaterials. In &lt;i&gt;USNC-URSI Radio Science Meeting&lt;/i&gt;. Boston, MA, USA, July 8-13, 2018.&lt;/span&gt;
+
+
+&lt;div id=&quot;Castaldi_2018-USNC-URSI-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Castaldi_2018-USNC-URSI-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Castaldi_2018-USNC-URSI-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Castaldi_2018-USNC-URSI,
+  author = {Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
+  booktitle = {USNC-URSI Radio Science Meeting},
+  title = {Boundary effects of weak nonlocality in multilayered dielectric metamaterials},
+  year = {2018},
+  organization = {Boston, MA, USA, July 8-13, 2018},
+  month = jul
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="homogenization" /><category term="effective medium theory" /><category term="metamaterials" /><category term="non-Hermitian" /><category term="spectral singularities" /><summary type="html">We have presented two talks 
+[1, 2]
 at the IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (IEEE-APS/URSI),
-Boston, MA, USA, July 8-13, 2018.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/IEEE-APS-2018.png" /></entry><entry><title type="html">Our paper on Bloch surface waves published in AdOM</title><link href="/news/AdOM-published" rel="alternate" type="text/html" title="Our paper on Bloch surface waves published in AdOM" /><published>2018-07-05T00:00:00+02:00</published><updated>2018-07-05T00:00:00+02:00</updated><id>/news/AdOM-published</id><content type="html" xml:base="/news/AdOM-published">&lt;p&gt;Our paper on “Excitation of Bloch surface waves on an optical fiber tip,”
+Boston, MA, USA, July 8-13, 2018.
+
+Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2018). Spectral singularities in cylindrical non-Hermitian structures. In USNC-URSI Radio Science Meeting. Boston, MA, USA, July 8-13, 2018.
+
+
+
+  
+    
+
+    BibTeX
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  
+
+  
+
+  @inproceedings{Moccia_2018-USNC-URSI,
+  author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
+  booktitle = {USNC-URSI Radio Science Meeting},
+  title = {Spectral singularities in cylindrical non-Hermitian structures},
+  year = {2018},
+  organization = {Boston, MA, USA, July 8-13, 2018},
+  month = jul
+}
+
+
+  
+    
+
+Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2018). Boundary effects of weak nonlocality in multilayered dielectric metamaterials. In USNC-URSI Radio Science Meeting. Boston, MA, USA, July 8-13, 2018.
+
+
+
+  
+    
+
+    BibTeX
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  
+
+  
+
+  @inproceedings{Castaldi_2018-USNC-URSI,
+  author = {Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
+  booktitle = {USNC-URSI Radio Science Meeting},
+  title = {Boundary effects of weak nonlocality in multilayered dielectric metamaterials},
+  year = {2018},
+  organization = {Boston, MA, USA, July 8-13, 2018},
+  month = jul
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/IEEE-APS-2018.png" /></entry><entry><title type="html">Our paper on Bloch surface waves published in AdOM</title><link href="/news/AdOM-published" rel="alternate" type="text/html" title="Our paper on Bloch surface waves published in AdOM" /><published>2018-07-05T00:00:00+02:00</published><updated>2018-07-05T00:00:00+02:00</updated><id>/news/AdOM-published</id><content type="html" xml:base="/news/AdOM-published">&lt;p&gt;Our paper on “Excitation of Bloch surface waves on an optical fiber tip,”
 [&lt;a href=&quot;#IJ130_AdOM_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group, 
 &lt;a href=&quot;https://www.na.imm.cnr.it&quot;&gt;CNR-IMM&lt;/a&gt; and &lt;a href=&quot;http://www.enea.it/en&quot;&gt;ENEA&lt;/a&gt; 
