@@ -5,10 +5,22 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2018-07-25T21:57:34+02:00</lastBuildDate>
-        <pubDate>2018-07-25T21:57:34+02:00</pubDate>
+        <lastBuildDate>2018-07-27T04:45:15+02:00</lastBuildDate>
+        <pubDate>2018-07-27T04:45:15+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on THz coding metasurfaces accepted in SciRep</title>
+                <description>&lt;p&gt;Our paper on “Suboptimal coding metasurfaces for terahertz diffuse scattering,”
+in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
+has been accepted for publication in &lt;em&gt;Scientific Reports&lt;/em&gt;.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/news/SREP-accepted</link>
+                <guid>http://fw-lab.org/news/SREP-accepted</guid>
+                <pubDate>2018-07-25T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Two talks presented at IEEE-APS/URSI 2018</title>
@@ -2374,13 +2386,12 @@ Engineering​from the
 supervised by Profs. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; 
 and &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;He is currently working as a postdoctoral researcher in the &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=featured&amp;amp;Itemid=435&quot;&gt;Optoelectronic Division&lt;/a&gt; 
-and the &lt;a href=&quot;http://fw-lab.org&quot;&gt;Fields &amp;amp; Waves Lab&lt;/a&gt; at the University of Sannio.&lt;/p&gt;
+&lt;p&gt;From January to June 2018, he was as a postdoctoral researcher in the &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=featured&amp;amp;Itemid=435&quot;&gt;Optoelectronic Division&lt;/a&gt; 
+and the &lt;a href=&quot;http://fw-lab.org&quot;&gt;Fields &amp;amp; Waves Lab&lt;/a&gt; at the University of Sannio. His research activities were 
+focused on the design, numerical modeling and fabrication of novel label-free optical fiber nanoprobes based 
+on the excitation of Bloch surface waves.&lt;/p&gt;
 
-&lt;p&gt;His research activity is focused on the design, numerical modeling and fabrication of novel 
-label-free optical fiber nanoprobes based on the excitation of Bloch surface waves, as well as SERS probes.
-More generally, his scientific interests include: plasmonics, photonic crystals, bio-photonics and optical fiber sensors.&lt;/p&gt;
-
+&lt;p&gt;Since July 2018, he has been working as a Product Engineer at &lt;a href=&quot;https://www.micron.com&quot;&gt;Micron Technology&lt;/a&gt;, Munich, Germany.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/team/michele-scaravilli</link>
                 <guid>http://fw-lab.org/team/michele-scaravilli</guid>
@@ -2708,6 +2719,29 @@ to drive the subsequent optimization process.&lt;/p&gt;
                 <link>http://fw-lab.org/projects/GW-beam-shaping</link>
                 <guid>http://fw-lab.org/projects/GW-beam-shaping</guid>
                 <pubDate>2017-01-10T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Silvio Savoia</title>
+                <description>&lt;p&gt;&lt;strong&gt;Silvio Savoia&lt;/strong&gt; was born in Benevento, Italy, in 1985.&lt;/p&gt;
+
+&lt;p&gt;He received the Master Degree in Telecommunication Engineering and the 
+Ph.D. degree in Information Engineering in 2010 and 2016, respectively, both from the &lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, 
+Benevento, Italy.&lt;/p&gt;
+
+&lt;p&gt;He has held visiting-student positions at &lt;a href=&quot;https://www.tno.nl/en/&quot;&gt;TNO Defence, Security and Safety&lt;/a&gt; (The Hague, NL, 2010), 
+the &lt;a href=&quot;https://www.utexas.edu&quot;&gt;University of Texas at Austin&lt;/a&gt; (2014), and 
+the &lt;a href=&quot;https://www.upenn.edu&quot;&gt;University of Pennsylvania&lt;/a&gt; (2015).
+In 2014, he was awarded an &lt;a href=&quot;https://www.ieeeaps.org&quot;&gt;IEEE-APS&lt;/a&gt; Doctoral Research Award.&lt;br /&gt;
+His research activities were focused on non-Hermitian metamaterials, optical sensing, and antenna design.&lt;/p&gt;
+
+&lt;p&gt;From October 2016 to January 2018, he was an antenna engineer at &lt;a href=&quot;http://www.greenwaves.it&quot;&gt;GreenWaves&lt;/a&gt;, Gorgonzola (MI), Italy.
+Since February 2018, he has been working as an RF engineer at &lt;a href=&quot;https://www.mbda-systems.com&quot;&gt;MBDA Italia&lt;/a&gt;, Bacoli (NA), Italy.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/team/silvio-savoia</link>
+                <guid>http://fw-lab.org/team/silvio-savoia</guid>
+                <pubDate>2017-01-09T00:00:00+01:00</pubDate>
         </item>
 
         <item>

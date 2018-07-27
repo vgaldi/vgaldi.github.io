@@ -27,6 +27,7 @@ http://fw-lab.org/tags
 http://fw-lab.org/feed.xml
 http://fw-lab.org/feed.xslt.xml
 
+http://fw-lab.org/news/SREP-accepted
 http://fw-lab.org/news/IEEE-APS-2018
 http://fw-lab.org/news/AdOM-published
 http://fw-lab.org/news/MAS-tutorial
@@ -72,6 +73,7 @@ http://fw-lab.org/team/michele-scaravilli
 http://fw-lab.org/team/massimo-moccia
 http://fw-lab.org/projects/pinball-scatterers
 http://fw-lab.org/projects/GW-beam-shaping
+http://fw-lab.org/team/silvio-savoia
 http://fw-lab.org/projects/nonlocal-effects
 http://fw-lab.org/projects/PQC-inplane
 http://fw-lab.org/team/giuseppe-castaldi
