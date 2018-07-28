@@ -1,9 +1,63 @@
----
----
 {
   "posts" : [
-    {% for post in site.categories.news %}
-    "{{ post.url }}"{% unless forloop.last %},{% endunless %}
-    {% endfor %}
+    
+    "/news/SREP-accepted",
+    
+    "/news/IEEE-APS-2018",
+    
+    "/news/AdOM-published",
+    
+    "/news/MAS-tutorial",
+    
+    "/news/AdOM-accepted",
+    
+    "/news/JOPT-TO-roadmap_published",
+    
+    "/news/Scaravilli_PhD_defense",
+    
+    "/news/new-lab-member",
+    
+    "/news/EurAAP-LBF-award",
+    
+    "/news/NN-special-collection",
+    
+    "/news/MAS-special-session",
+    
+    "/news/EUPROMETA-school",
+    
+    "/news/ICEAA-2017",
+    
+    "/news/EOS-2017",
+    
+    "/news/Metamaterials-2017",
+    
+    "/news/PRB-paper-MPI-MTM-published",
+    
+    "/news/PRB-paper-MPI-MTM-accepted",
+    
+    "/news/AdOM-paper-MS-published",
+    
+    "/news/IEEE-APS-2017",
+    
+    "/news/AdOM-paper-MS-accepted",
+    
+    "/news/JMMCT-paper-MR-published",
+    
+    "/news/JMMCT-paper-MR-accepted",
+    
+    "/news/OFS-25",
+    
+    "/news/PRB-paper-EPD-published",
+    
+    "/news/LSA-paper_meta-tip-published",
+    
+    "/news/PRB-paper-NH-MS-published",
+    
+    "/news/PRB-paper-NH-MS-accepted",
+    
+    "/news/PRB-paper-EPD-accepted",
+    
+    "/news/new-website"
+    
   ]
 }
