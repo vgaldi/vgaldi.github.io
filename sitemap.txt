@@ -27,6 +27,7 @@ http://fw-lab.org/tags
 http://fw-lab.org/feed.xml
 http://fw-lab.org/feed.xslt.xml
 
+http://fw-lab.org/news/PRB-paper-MPI-MTM-accepted
 http://fw-lab.org/news/SREP-published
 http://fw-lab.org/news/SREP-accepted
 http://fw-lab.org/news/IEEE-APS-2018
@@ -44,7 +45,7 @@ http://fw-lab.org/news/ICEAA-2017
 http://fw-lab.org/news/EOS-2017
 http://fw-lab.org/news/Metamaterials-2017
 http://fw-lab.org/news/PRB-paper-MPI-MTM-published
-http://fw-lab.org/news/PRB-paper-MPI-MTM-accepted
+http://fw-lab.org/news/PRB-paper-NL-ML-accepted
 http://fw-lab.org/news/AdOM-paper-MS-published
 http://fw-lab.org/news/IEEE-APS-2017
 http://fw-lab.org/news/AdOM-paper-MS-accepted

@@ -5,10 +5,24 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2018-08-09T18:33:12+02:00</lastBuildDate>
-        <pubDate>2018-08-09T18:33:12+02:00</pubDate>
+        <lastBuildDate>2018-08-27T21:35:29+02:00</lastBuildDate>
+        <pubDate>2018-08-27T21:35:29+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on nonlocal metamaterials accepted in PRAppl</title>
+                <description>&lt;p&gt;Our paper on “Boundary effects of weak nonlocality in multilayered dielectric metamaterials,”
+in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
+has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/prapplied/&quot;&gt;&lt;em&gt;Physical Review Applied&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/1712.08496&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/news/PRB-paper-MPI-MTM-accepted</link>
+                <guid>http://fw-lab.org/news/PRB-paper-MPI-MTM-accepted</guid>
+                <pubDate>2018-08-27T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Our paper on THz coding metasurfaces published in SciRep</title>
@@ -709,8 +723,8 @@ has been accepted for publication as a Rapid Communication in &lt;a href=&quot;h
 &lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/1701.06510&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;
 
 </description>
-                <link>http://fw-lab.org/news/PRB-paper-MPI-MTM-accepted</link>
-                <guid>http://fw-lab.org/news/PRB-paper-MPI-MTM-accepted</guid>
+                <link>http://fw-lab.org/news/PRB-paper-NL-ML-accepted</link>
+                <guid>http://fw-lab.org/news/PRB-paper-NL-ML-accepted</guid>
                 <pubDate>2017-08-05T00:00:00+02:00</pubDate>
         </item>
 
