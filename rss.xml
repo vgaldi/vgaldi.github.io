@@ -5,10 +5,172 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2018-08-27T21:35:29+02:00</lastBuildDate>
-        <pubDate>2018-08-27T21:35:29+02:00</pubDate>
+        <lastBuildDate>2018-08-29T22:13:05+02:00</lastBuildDate>
+        <pubDate>2018-08-29T22:13:05+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Four presentations at Metamaterials 2018</title>
+                <description>&lt;p&gt;We have presented four papers
+[&lt;a href=&quot;#Scaravilli_2018-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Castaldi_2018-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Moccia_2018-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Koral_2018-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;]
+at the &lt;em&gt;12th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2018.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
+Espoo, Finland, Aug. 27-30, 2018.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Scaravilli_2018-Metamaterials&quot;&gt;Scaravilli, M., Micco, A., Castaldi, G., Coppola, G., Gioffrè, Iodice, M., … Cusano, A. (2018). Fiber-tip coupling of Bloch surface waves. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Espoo, Finland, Aug. 27-30, 2018.&lt;/span&gt;
+
+
+&lt;div id=&quot;Scaravilli_2018-Metamaterials-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Scaravilli_2018-Metamaterials-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Scaravilli_2018-Metamaterials-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Scaravilli_2018-Metamaterials,
+  author = {Scaravilli, M. and Micco, A. and Castaldi, G. and Coppola, G. and Gioffr\`e and Iodice, M. and La Ferrara, V. and Galdi, V. and Cusano, A.},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  title = {Fiber-tip coupling of Bloch surface waves},
+  year = {2018},
+  organization = {Espoo, Finland, Aug. 27-30, 2018},
+  month = aug
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Castaldi_2018-Metamaterials&quot;&gt;Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2018). Revisiting the boundary effects of weak nonlocality in multilayered dielectric metamaterials: A trace and anti-trace map approach. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Espoo, Finland, Aug. 27-30, 2018.&lt;/span&gt;
+
+
+&lt;div id=&quot;Castaldi_2018-Metamaterials-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Castaldi_2018-Metamaterials-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Castaldi_2018-Metamaterials-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Castaldi_2018-Metamaterials,
+  author = {Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  title = {Revisiting the boundary effects of weak nonlocality in multilayered dielectric metamaterials: A trace and anti-trace map approach},
+  year = {2018},
+  organization = {Espoo, Finland, Aug. 27-30, 2018},
+  month = aug
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Moccia_2018-Metamaterials&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2018). A study of spectral singularities in non-Hermitian cylindrical core-shell geometries. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Espoo, Finland, Aug. 27-30, 2018.&lt;/span&gt;
+
+
+&lt;div id=&quot;Moccia_2018-Metamaterials-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Moccia_2018-Metamaterials-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Moccia_2018-Metamaterials-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Moccia_2018-Metamaterials,
+  author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  title = {A study of spectral singularities in non-Hermitian cylindrical core-shell geometries},
+  year = {2018},
+  organization = {Espoo, Finland, Aug. 27-30, 2018},
+  month = aug
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Koral_2018-Metamaterials&quot;&gt;Koral, C., Papari, G., Andreone, A., Moccia, M., Castaldi, G., Galdi, V., … Cui, T. J. (2018). Diffuse THz scattering via coding metasurfaces. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Espoo, Finland, Aug. 27-30, 2018.&lt;/span&gt;
+
+
+&lt;div id=&quot;Koral_2018-Metamaterials-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Koral_2018-Metamaterials-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Koral_2018-Metamaterials-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Koral_2018-Metamaterials,
+  author = {Koral, C. and Papari, G. and Andreone, A. and Moccia, M. and Castaldi, G. and Galdi, V. and Liu, S. and R.Y., Wu and Cui, T.J.},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  title = {Diffuse THz scattering via coding metasurfaces},
+  year = {2018},
+  organization = {Espoo, Finland, Aug. 27-30, 2018},
+  month = aug
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+</description>
+                <link>http://fw-lab.org/news/Metamaterials-2018</link>
+                <guid>http://fw-lab.org/news/Metamaterials-2018</guid>
+                <pubDate>2018-08-29T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Our paper on nonlocal metamaterials accepted in PRAppl</title>

@@ -27,6 +27,7 @@ http://fw-lab.org/tags
 http://fw-lab.org/feed.xml
 http://fw-lab.org/feed.xslt.xml
 
+http://fw-lab.org/news/Metamaterials-2018
 http://fw-lab.org/news/PRB-paper-MPI-MTM-accepted
 http://fw-lab.org/news/SREP-published
 http://fw-lab.org/news/SREP-accepted
