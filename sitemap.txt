@@ -6,7 +6,6 @@ http://fw-lab.org/atom.xml
 http://fw-lab.org/categories
 http://fw-lab.org/contact
 http://fw-lab.org/team/
-http://fw-lab.org/preprints/
 http://fw-lab.org/conferences/
 http://fw-lab.org/media/
 http://fw-lab.org/
@@ -27,6 +26,7 @@ http://fw-lab.org/tags
 http://fw-lab.org/feed.xml
 http://fw-lab.org/feed.xslt.xml
 
+http://fw-lab.org/news/PRAppl-paper-published
 http://fw-lab.org/news/Metamaterials-2018
 http://fw-lab.org/news/PRB-paper-MPI-MTM-accepted
 http://fw-lab.org/news/SREP-published

@@ -1,4 +1,109 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-08-29T22:13:05+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Four presentations at Metamaterials 2018</title><link href="/news/Metamaterials-2018" rel="alternate" type="text/html" title="Four presentations at Metamaterials 2018" /><published>2018-08-29T00:00:00+02:00</published><updated>2018-08-29T00:00:00+02:00</updated><id>/news/Metamaterials-2018</id><content type="html" xml:base="/news/Metamaterials-2018">&lt;p&gt;We have presented four papers
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-09-27T09:01:01+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on nonlocal metamaterials published in PRAppl</title><link href="/news/PRAppl-paper-published" rel="alternate" type="text/html" title="Our paper on nonlocal metamaterials published in PRAppl" /><published>2018-09-26T00:00:00+02:00</published><updated>2018-09-26T00:00:00+02:00</updated><id>/news/PRAppl-paper-published</id><content type="html" xml:base="/news/PRAppl-paper-published">&lt;p&gt;Our paper on “Boundary effects of weak nonlocality in multilayered dielectric metamaterials,”
+[&lt;a href=&quot;#IJ132_PRAppl_10_034060_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
+has been published in &lt;em&gt;Physical Review Applied&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ132_PRAppl_10_034060_2018&quot;&gt;Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2018). Boundary effects of weak nonlocality in multilayered dielectric metamaterials. &lt;i&gt;Physical Review Applied&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;10&lt;/i&gt;&lt;/span&gt;(3), 034060.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ132_PRAppl_10_034060_2018-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ132_PRAppl_10_034060_2018-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ132_PRAppl_10_034060_2018-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevApplied.10.034060&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ132_PRAppl_10_034060_2018.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ132_PRAppl_10_034060_2018-abstract&quot; class=&quot;collapse&quot;&gt;Nonlocal (spatial-dispersion) effects in multilayered metamaterials composed of periodic stacks of alternating, deeply subwavelength dielectric layers are known to be negligibly weak. Counterintuitively, under certain critical conditions, weak nonlocality may build up strong boundary effects that are not captured by conventional (local) effective-medium models based on simple mixing formulas. Here we show that this phenomenon can be fruitfully studied and understood in terms of error propagation in the iterated maps of the trace and antitrace of the optical transfer matrix of the multilayer. Our approach effectively parameterizes these peculiar effects via remarkably simple and insightful closed-form expressions, which enable direct identification of the critical parameters and regimes. We also show how these boundary effects can be captured by suitable nonlocal corrections.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ132_PRAppl_10_034060_2018-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ132_PRAppl_10_034060_2018,
+  title = {Boundary effects of weak nonlocality in multilayered dielectric metamaterials},
+  author = {Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
+  journal = {Physical Review Applied},
+  volume = {10},
+  issue = {3},
+  pages = {034060},
+  numpages = {13},
+  year = {2018},
+  month = sep,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevApplied.10.034060},
+  url = {https://link.aps.org/doi/10.1103/PhysRevApplied.10.034060}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="nonlocal" /><category term="homogenization" /><summary type="html">Our paper on “Boundary effects of weak nonlocality in multilayered dielectric metamaterials,”
+[1]
+in collaboration with Andrea Alù (ASRC-CUNY),
+has been published in Physical Review Applied.
+
+Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2018). Boundary effects of weak nonlocality in multilayered dielectric metamaterials. Physical Review Applied 10(3), 034060.
+
+
+
+  
+    
+    Abstract
+    
+
+    BibTeX
+
+            
+    
+    DOI
+    
+
+    
+
+    
+      
+    
+    PDF
+    
+
+    
+  
+  
+
+  
+  Nonlocal (spatial-dispersion) effects in multilayered metamaterials composed of periodic stacks of alternating, deeply subwavelength dielectric layers are known to be negligibly weak. Counterintuitively, under certain critical conditions, weak nonlocality may build up strong boundary effects that are not captured by conventional (local) effective-medium models based on simple mixing formulas. Here we show that this phenomenon can be fruitfully studied and understood in terms of error propagation in the iterated maps of the trace and antitrace of the optical transfer matrix of the multilayer. Our approach effectively parameterizes these peculiar effects via remarkably simple and insightful closed-form expressions, which enable direct identification of the critical parameters and regimes. We also show how these boundary effects can be captured by suitable nonlocal corrections.
+  
+
+  @article{IJ132_PRAppl_10_034060_2018,
+  title = {Boundary effects of weak nonlocality in multilayered dielectric metamaterials},
+  author = {Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
+  journal = {Physical Review Applied},
+  volume = {10},
+  issue = {3},
+  pages = {034060},
+  numpages = {13},
+  year = {2018},
+  month = sep,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevApplied.10.034060},
+  url = {https://link.aps.org/doi/10.1103/PhysRevApplied.10.034060}
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/EMT-breakdown.png" /></entry><entry><title type="html">Four presentations at Metamaterials 2018</title><link href="/news/Metamaterials-2018" rel="alternate" type="text/html" title="Four presentations at Metamaterials 2018" /><published>2018-08-29T00:00:00+02:00</published><updated>2018-08-29T00:00:00+02:00</updated><id>/news/Metamaterials-2018</id><content type="html" xml:base="/news/Metamaterials-2018">&lt;p&gt;We have presented four papers
 [&lt;a href=&quot;#Scaravilli_2018-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Castaldi_2018-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Moccia_2018-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Koral_2018-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;]
 at the &lt;em&gt;12th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2018.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
 Espoo, Finland, Aug. 27-30, 2018.&lt;/p&gt;
@@ -779,18 +884,4 @@ McCall, M., Pendry, J. B., Galdi, V., Lai, Y., Horsley, S. A. R., Li, J., … Cu
   doi = {10.1088/2040-8986/aab976},
   url = {http://stacks.iop.org/2040-8986/20/i=6/a=063001},
   year = {2018}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/TO-roadmap.jpg" /></entry><entry><title type="html">Ph.D. defense</title><link href="/news/Scaravilli_PhD_defense" rel="alternate" type="text/html" title="Ph.D. defense" /><published>2018-01-23T00:00:00+01:00</published><updated>2018-01-23T00:00:00+01:00</updated><id>/news/Scaravilli_PhD_defense</id><content type="html" xml:base="/news/Scaravilli_PhD_defense">&lt;p&gt;&lt;a href=&quot;/team/michele-scaravilli&quot;&gt;Michele Scaravilli&lt;/a&gt; has successfully defended his Ph.D. thesis 
-in Information Technologies for Engineering
-entitled 
-&lt;em&gt;“Bloch‐Surface‐Wave Assisted Lab‐on‐Fiber Optrodes”&lt;/em&gt;, supervised by
-Profs. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; 
-and &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Congratulations Dr. Scaravilli!&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="Michele Scaravilli" /><summary type="html">Michele Scaravilli has successfully defended his Ph.D. thesis 
-in Information Technologies for Engineering
-entitled 
-“Bloch‐Surface‐Wave Assisted Lab‐on‐Fiber Optrodes”, supervised by
-Profs. Vincenzo Galdi 
-and Andrea Cusano.
-
-Congratulations Dr. Scaravilli!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/PhDone.jpg" /></entry></feed>
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/TO-roadmap.jpg" /></entry></feed>

@@ -5,10 +5,75 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2018-08-29T22:13:05+02:00</lastBuildDate>
-        <pubDate>2018-08-29T22:13:05+02:00</pubDate>
+        <lastBuildDate>2018-09-27T09:01:01+02:00</lastBuildDate>
+        <pubDate>2018-09-27T09:01:01+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on nonlocal metamaterials published in PRAppl</title>
+                <description>&lt;p&gt;Our paper on “Boundary effects of weak nonlocality in multilayered dielectric metamaterials,”
+[&lt;a href=&quot;#IJ132_PRAppl_10_034060_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
+has been published in &lt;em&gt;Physical Review Applied&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ132_PRAppl_10_034060_2018&quot;&gt;Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2018). Boundary effects of weak nonlocality in multilayered dielectric metamaterials. &lt;i&gt;Physical Review Applied&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;10&lt;/i&gt;&lt;/span&gt;(3), 034060.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ132_PRAppl_10_034060_2018-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ132_PRAppl_10_034060_2018-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ132_PRAppl_10_034060_2018-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevApplied.10.034060&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ132_PRAppl_10_034060_2018.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ132_PRAppl_10_034060_2018-abstract&quot; class=&quot;collapse&quot;&gt;Nonlocal (spatial-dispersion) effects in multilayered metamaterials composed of periodic stacks of alternating, deeply subwavelength dielectric layers are known to be negligibly weak. Counterintuitively, under certain critical conditions, weak nonlocality may build up strong boundary effects that are not captured by conventional (local) effective-medium models based on simple mixing formulas. Here we show that this phenomenon can be fruitfully studied and understood in terms of error propagation in the iterated maps of the trace and antitrace of the optical transfer matrix of the multilayer. Our approach effectively parameterizes these peculiar effects via remarkably simple and insightful closed-form expressions, which enable direct identification of the critical parameters and regimes. We also show how these boundary effects can be captured by suitable nonlocal corrections.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ132_PRAppl_10_034060_2018-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ132_PRAppl_10_034060_2018,
+  title = {Boundary effects of weak nonlocality in multilayered dielectric metamaterials},
+  author = {Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
+  journal = {Physical Review Applied},
+  volume = {10},
+  issue = {3},
+  pages = {034060},
+  numpages = {13},
+  year = {2018},
+  month = sep,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevApplied.10.034060},
+  url = {https://link.aps.org/doi/10.1103/PhysRevApplied.10.034060}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+</description>
+                <link>http://fw-lab.org/news/PRAppl-paper-published</link>
+                <guid>http://fw-lab.org/news/PRAppl-paper-published</guid>
+                <pubDate>2018-09-26T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Four presentations at Metamaterials 2018</title>
@@ -3095,7 +3160,10 @@ and &lt;a href=&quot;http://www.ing.univaq.it/personale/scheda_personale.php?cod
 nonlocal effects are enhanced. Among other things, these results may significantly 
 boost the practical applicability of nonlocal transformation optics.&lt;/p&gt;
 
-&lt;p&gt;In a different, but related, study [&lt;a href=&quot;#IJ105_PRB_87_235116_2013&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;] we have investigated the emergence of 
+&lt;p&gt;Moreover, in a recent study [&lt;a href=&quot;#IJ132_PRAppl_10_034060_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;] in collaboration with &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt;, we have explored the &lt;em&gt;boundary effects&lt;/em&gt; that can enhance the (otherwise neglibibly weak) 
+nonlocality in multilayered dielectric metamaterials wity &lt;em&gt;deeply subwavelength&lt;/em&gt; layers.&lt;/p&gt;
+
+&lt;p&gt;In a different, but related, study [&lt;a href=&quot;#IJ105_PRB_87_235116_2013&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;6&lt;/span&gt;&lt;/a&gt;] we have investigated the emergence of 
 &lt;a href=&quot;/projects/aperiodic-ML&quot;&gt;aperiodic-order-induced nonlocal effects&lt;/a&gt; in multilayered metamaterials.&lt;/p&gt;
 
 &lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
@@ -3299,6 +3367,57 @@ boost the practical applicability of nonlocal transformation optics.&lt;/p&gt;
   publisher = {American Physical Society},
   doi = {10.1103/PhysRevB.96.081113},
   url = {https://link.aps.org/doi/10.1103/PhysRevB.96.081113}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ132_PRAppl_10_034060_2018&quot;&gt;Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2018). Boundary effects of weak nonlocality in multilayered dielectric metamaterials. &lt;i&gt;Physical Review Applied&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;10&lt;/i&gt;&lt;/span&gt;(3), 034060.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ132_PRAppl_10_034060_2018-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ132_PRAppl_10_034060_2018-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ132_PRAppl_10_034060_2018-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevApplied.10.034060&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ132_PRAppl_10_034060_2018.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ132_PRAppl_10_034060_2018-abstract&quot; class=&quot;collapse&quot;&gt;Nonlocal (spatial-dispersion) effects in multilayered metamaterials composed of periodic stacks of alternating, deeply subwavelength dielectric layers are known to be negligibly weak. Counterintuitively, under certain critical conditions, weak nonlocality may build up strong boundary effects that are not captured by conventional (local) effective-medium models based on simple mixing formulas. Here we show that this phenomenon can be fruitfully studied and understood in terms of error propagation in the iterated maps of the trace and antitrace of the optical transfer matrix of the multilayer. Our approach effectively parameterizes these peculiar effects via remarkably simple and insightful closed-form expressions, which enable direct identification of the critical parameters and regimes. We also show how these boundary effects can be captured by suitable nonlocal corrections.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ132_PRAppl_10_034060_2018-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ132_PRAppl_10_034060_2018,
+  title = {Boundary effects of weak nonlocality in multilayered dielectric metamaterials},
+  author = {Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
+  journal = {Physical Review Applied},
+  volume = {10},
+  issue = {3},
+  pages = {034060},
+  numpages = {13},
+  year = {2018},
+  month = sep,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevApplied.10.034060},
+  url = {https://link.aps.org/doi/10.1103/PhysRevApplied.10.034060}
 }
 &lt;/pre&gt;
 
@@ -4808,7 +4927,7 @@ inverse scattering, millimeter-wave radars, and gravitational interferometry.&lt
 
 &lt;p&gt;Dr. Galdi is a &lt;em&gt;Fellow&lt;/em&gt; of the &lt;a href=&quot;http://www.ieee.org&quot;&gt;IEEE&lt;/a&gt;, a member of the &lt;a href=&quot;http://www.ligo.org/&quot;&gt;LIGO Scientific Collaboration&lt;/a&gt;, the &lt;a href=&quot;http://www.osa.org/en-us/home/&quot;&gt;Optical Society of America&lt;/a&gt;, and 
 &lt;a href=&quot;http://www.sigmaxi.org/&quot;&gt;Sigma Xi&lt;/a&gt;.
-He is also is the recipient of an &lt;em&gt;Outstanding Associate Editor Award&lt;/em&gt; (IEEE Transactions on Antennas and Propagation, 2014) and a &lt;a href=&quot;http://www.ursi.org&quot;&gt;URSI&lt;/a&gt; &lt;em&gt;Young Scientist Award&lt;/em&gt; (2001).&lt;/p&gt;
+He is also the recipient of an &lt;em&gt;Outstanding Associate Editor Award&lt;/em&gt; (IEEE Transactions on Antennas and Propagation, 2014) and a &lt;a href=&quot;http://www.ursi.org&quot;&gt;URSI&lt;/a&gt; &lt;em&gt;Young Scientist Award&lt;/em&gt; (2001).&lt;/p&gt;
 
 &lt;p&gt;He is the co-founder of &lt;a href=&quot;http://www.mantid.it&quot;&gt;MANTID&lt;/a&gt; srl, a spinoff company of the University of Sannio.&lt;/p&gt;
 
