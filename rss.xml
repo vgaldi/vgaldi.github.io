@@ -5,8 +5,8 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2018-10-19T11:41:30+02:00</lastBuildDate>
-        <pubDate>2018-10-19T11:41:30+02:00</pubDate>
+        <lastBuildDate>2018-10-19T16:24:30+02:00</lastBuildDate>
+        <pubDate>2018-10-19T16:24:30+02:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -489,7 +489,7 @@ in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.
 &lt;a href=&quot;https://www.na.imm.cnr.it&quot;&gt;CNR-IMM&lt;/a&gt; and &lt;a href=&quot;http://www.enea.it/en&quot;&gt;ENEA&lt;/a&gt; 
 has been published in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ130_AdOM_2018&quot;&gt;Scaravilli, M., Micco, A., Castaldi, G., Coppola, G., Gioffrè, M., Iodice, M., … Cusano, A. (2018). Excitation of Bloch surface waves on an optical fiber tip. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; 1800477.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ130_AdOM_2018&quot;&gt;Scaravilli, M., Micco, A., Castaldi, G., Coppola, G., Gioffrè, M., Iodice, M., … Cusano, A. (2018). Excitation of Bloch surface waves on an optical fiber tip. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;6&lt;/i&gt;&lt;/span&gt;(9), 1800477.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ130_AdOM_2018-materials&quot;&gt;
@@ -528,7 +528,10 @@ has been published in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
   title = {Excitation of Bloch surface waves on an optical fiber tip},
   journal = {Advanced Optical Materials},
   pages = {1800477},
+  volume = {6},
+  issue = {9},
   year = {2018},
+  month = oct,
   keywords = {diffraction gratings, lab-on-fiber, optical fiber sensors, photonic crystals, surface waves},
   doi = {10.1002/adom.201800477},
   url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.201800477},
@@ -6017,7 +6020,7 @@ More recently [&lt;a href=&quot;#IJ130_AdOM_2018&quot;&gt;&lt;span style=&quot;v
   
     
 &lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;IJ130_AdOM_2018&quot;&gt;Scaravilli, M., Micco, A., Castaldi, G., Coppola, G., Gioffrè, M., Iodice, M., … Cusano, A. (2018). Excitation of Bloch surface waves on an optical fiber tip. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; 1800477.&lt;/span&gt;
+&lt;li&gt;&lt;span id=&quot;IJ130_AdOM_2018&quot;&gt;Scaravilli, M., Micco, A., Castaldi, G., Coppola, G., Gioffrè, M., Iodice, M., … Cusano, A. (2018). Excitation of Bloch surface waves on an optical fiber tip. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;6&lt;/i&gt;&lt;/span&gt;(9), 1800477.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ130_AdOM_2018-materials&quot;&gt;
@@ -6056,7 +6059,10 @@ More recently [&lt;a href=&quot;#IJ130_AdOM_2018&quot;&gt;&lt;span style=&quot;v
   title = {Excitation of Bloch surface waves on an optical fiber tip},
   journal = {Advanced Optical Materials},
   pages = {1800477},
+  volume = {6},
+  issue = {9},
   year = {2018},
+  month = oct,
   keywords = {diffraction gratings, lab-on-fiber, optical fiber sensors, photonic crystals, surface waves},
   doi = {10.1002/adom.201800477},
   url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.201800477},
@@ -6725,6 +6731,10 @@ slabs and allow tailoring their properties without the need of extensive numeric
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;http://www.ansa.it/web/notizie/specializzati/scienza/2014/01/10/mantelli-invisibilita-nuovi-computer_9874922.html&quot;&gt;“Dai mantelli dell’invisibilità i nuovi computer,”&lt;/a&gt;
 &lt;em&gt;ANSA&lt;/em&gt;, Jan. 10, 2014.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.sciencedaily.com/releases/2014/01/140109143758.htm&quot;&gt;“Theory for metamaterials that act as an analog computer,”&lt;/a&gt;
+&lt;em&gt;Science Daily&lt;/em&gt;, Jan. 9, 2014.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
