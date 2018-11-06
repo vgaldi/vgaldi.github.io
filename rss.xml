@@ -5,10 +5,23 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2018-10-19T16:24:30+02:00</lastBuildDate>
-        <pubDate>2018-10-19T16:24:30+02:00</pubDate>
+        <lastBuildDate>2018-11-06T08:29:21+01:00</lastBuildDate>
+        <pubDate>2018-11-06T08:29:21+01:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on aperiodically ordered nonlocal metamaterials accepted in PRB</title>
+                <description>&lt;p&gt;Our paper on “Aperiodic-order-induced enhancement of weak nonlocality in multilayered dielectric metamaterials”
+has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/prb/&quot;&gt;&lt;em&gt;Physical Review B&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;An &lt;a href=&quot;http://arxiv.org/abs/1811.01258&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/news/PRB-paper-ThM-accepted</link>
+                <guid>http://fw-lab.org/news/PRB-paper-ThM-accepted</guid>
+                <pubDate>2018-11-03T00:00:00+01:00</pubDate>
+        </item>
 
         <item>
                 <title>Our paper on space-time-coding digital metasurfaces published in NatComms</title>
@@ -1963,7 +1976,7 @@ of novel type of surface waves for label-free &lt;a href=&quot;/projects/MTM_opt
         </item>
 
         <item>
-                <title>Coding metasurfaces for diffuse scattering</title>
+                <title>Digital coding metasurfaces</title>
                 <description>
 &lt;p&gt;&lt;em&gt;Digital&lt;/em&gt; and &lt;em&gt;coding&lt;/em&gt; metasurfaces, based on the combination of a limited number of basic unit cells, 
 have been the subject of intense research. In their simplest form, only two element-
