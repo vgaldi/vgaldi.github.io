@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-11-22T10:15:42+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on aperiodically ordered nonlocal metamaterials published in PRB</title><link href="/news/PRB-paper-ThM-published" rel="alternate" type="text/html" title="Our paper on aperiodically ordered nonlocal metamaterials published in PRB" /><published>2018-11-22T00:00:00+01:00</published><updated>2018-11-22T00:00:00+01:00</updated><id>/news/PRB-paper-ThM-published</id><content type="html" xml:base="/news/PRB-paper-ThM-published">&lt;p&gt;Our paper on “Aperiodic-order-induced enhancement of weak nonlocality in multilayered dielectric metamaterials”
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-11-22T10:40:45+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on aperiodically ordered nonlocal metamaterials published in PRB</title><link href="/news/PRB-paper-ThM-published" rel="alternate" type="text/html" title="Our paper on aperiodically ordered nonlocal metamaterials published in PRB" /><published>2018-11-22T00:00:00+01:00</published><updated>2018-11-22T00:00:00+01:00</updated><id>/news/PRB-paper-ThM-published</id><content type="html" xml:base="/news/PRB-paper-ThM-published">&lt;p&gt;Our paper on “Aperiodic-order-induced enhancement of weak nonlocality in multilayered dielectric metamaterials”
 [&lt;a href=&quot;#IJ134_PRB_98_195128_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 has been published in [&lt;em&gt;Physical Review B&lt;/em&gt;].&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ134_PRB_98_195128_2018&quot;&gt;Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2018). Aperiodic order induced enhancement of weak nonlocality in multilayered dielectric metamaterials. &lt;i&gt;Phys. Rev. B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;98&lt;/i&gt;&lt;/span&gt;(19), 195128.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ134_PRB_98_195128_2018&quot;&gt;Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2018). Aperiodic order induced enhancement of weak nonlocality in multilayered dielectric metamaterials. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;98&lt;/i&gt;&lt;/span&gt;(19), 195128.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ134_PRB_98_195128_2018-materials&quot;&gt;
@@ -56,7 +56,7 @@ has been published in [&lt;em&gt;Physical Review B&lt;/em&gt;].&lt;/p&gt;
   &lt;pre id=&quot;IJ134_PRB_98_195128_2018-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ134_PRB_98_195128_2018,
   title = {Aperiodic order induced enhancement of weak nonlocality in multilayered dielectric metamaterials},
   author = {Coppolaro, Marino and Castaldi, Giuseppe and Galdi, Vincenzo},
-  journal = {Phys. Rev. B},
+  journal = {Physical Review B},
   volume = {98},
   issue = {19},
   pages = {195128},
@@ -74,7 +74,7 @@ has been published in [&lt;em&gt;Physical Review B&lt;/em&gt;].&lt;/p&gt;
 [1]
 has been published in [Physical Review B].
 
-Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2018). Aperiodic order induced enhancement of weak nonlocality in multilayered dielectric metamaterials. Phys. Rev. B 98(19), 195128.
+Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2018). Aperiodic order induced enhancement of weak nonlocality in multilayered dielectric metamaterials. Physical Review B 98(19), 195128.
 
 
 
@@ -128,7 +128,7 @@ Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2018). Aperiodic order induced
   @article{IJ134_PRB_98_195128_2018,
   title = {Aperiodic order induced enhancement of weak nonlocality in multilayered dielectric metamaterials},
   author = {Coppolaro, Marino and Castaldi, Giuseppe and Galdi, Vincenzo},
-  journal = {Phys. Rev. B},
+  journal = {Physical Review B},
   volume = {98},
   issue = {19},
   pages = {195128},
