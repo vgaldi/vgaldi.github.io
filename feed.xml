@@ -1,4 +1,143 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-11-06T08:29:21+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on aperiodically ordered nonlocal metamaterials accepted in PRB</title><link href="/news/PRB-paper-ThM-accepted" rel="alternate" type="text/html" title="Our paper on aperiodically ordered nonlocal metamaterials accepted in PRB" /><published>2018-11-03T00:00:00+01:00</published><updated>2018-11-03T00:00:00+01:00</updated><id>/news/PRB-paper-ThM-accepted</id><content type="html" xml:base="/news/PRB-paper-ThM-accepted">&lt;p&gt;Our paper on “Aperiodic-order-induced enhancement of weak nonlocality in multilayered dielectric metamaterials”
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-11-22T10:15:42+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on aperiodically ordered nonlocal metamaterials published in PRB</title><link href="/news/PRB-paper-ThM-published" rel="alternate" type="text/html" title="Our paper on aperiodically ordered nonlocal metamaterials published in PRB" /><published>2018-11-22T00:00:00+01:00</published><updated>2018-11-22T00:00:00+01:00</updated><id>/news/PRB-paper-ThM-published</id><content type="html" xml:base="/news/PRB-paper-ThM-published">&lt;p&gt;Our paper on “Aperiodic-order-induced enhancement of weak nonlocality in multilayered dielectric metamaterials”
+[&lt;a href=&quot;#IJ134_PRB_98_195128_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+has been published in [&lt;em&gt;Physical Review B&lt;/em&gt;].&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ134_PRB_98_195128_2018&quot;&gt;Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2018). Aperiodic order induced enhancement of weak nonlocality in multilayered dielectric metamaterials. &lt;i&gt;Phys. Rev. B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;98&lt;/i&gt;&lt;/span&gt;(19), 195128.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ134_PRB_98_195128_2018-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ134_PRB_98_195128_2018-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ134_PRB_98_195128_2018-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.98.195128&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ134_PRB_98_195128_2018.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ134_PRB_98_195128_2018-abstract&quot; class=&quot;collapse&quot;&gt;Recent studies on fully dielectric multilayered metamaterials have shown that
+	the negligibly small nonlocal effects (spatial dispersion) typically observed
+	in the limit of deeply subwavelength layers may be significantly enhanced by
+	peculiar boundary effects occurring in certain critical parameter regimes.
+	These phenomena, observed so far in periodic and randomly disordered
+	geometries, are manifested as strong differences between the exact optical
+	response of finite-size metamaterial samples and the prediction from
+	conventional effective-theory-medium models based on mixing formulae. Here,
+	with specific focus on the Thue-Morse geometry, we make a first step toward
+	extending the studies above to the middle-ground of aperiodically ordered
+	multilayers, lying in between perfect periodicity and disorder. We show that,
+	also for these geometries, there exist critical parameter ranges that favor the
+	buildup of boundary effects leading to strong enhancement of the (otherwise
+	negligibly weak) nonlocality. However, the underlying mechanisms are
+	fundamentally different from those observed in the periodic case, and exhibit
+	typical footprints (e.g., fractal gaps, quasi-localized states) that are
+	distinctive of aperiodic order. The outcomes of our study indicate that
+	aperiodic order plays a key role in the buildup of the aforementioned boundary
+	effects, and may also find potential applications to optical sensors, absorbers
+	and lasers.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ134_PRB_98_195128_2018-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ134_PRB_98_195128_2018,
+  title = {Aperiodic order induced enhancement of weak nonlocality in multilayered dielectric metamaterials},
+  author = {Coppolaro, Marino and Castaldi, Giuseppe and Galdi, Vincenzo},
+  journal = {Phys. Rev. B},
+  volume = {98},
+  issue = {19},
+  pages = {195128},
+  numpages = {12},
+  year = {2018},
+  month = nov,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.98.195128}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="nonlocal" /><category term="homogenization" /><category term="aperiodic" /><summary type="html">Our paper on “Aperiodic-order-induced enhancement of weak nonlocality in multilayered dielectric metamaterials”
+[1]
+has been published in [Physical Review B].
+
+Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2018). Aperiodic order induced enhancement of weak nonlocality in multilayered dielectric metamaterials. Phys. Rev. B 98(19), 195128.
+
+
+
+  
+    
+    Abstract
+    
+
+    BibTeX
+
+            
+    
+    DOI
+    
+
+    
+
+    
+      
+    
+    PDF
+    
+
+    
+  
+  
+
+  
+  Recent studies on fully dielectric multilayered metamaterials have shown that
+	the negligibly small nonlocal effects (spatial dispersion) typically observed
+	in the limit of deeply subwavelength layers may be significantly enhanced by
+	peculiar boundary effects occurring in certain critical parameter regimes.
+	These phenomena, observed so far in periodic and randomly disordered
+	geometries, are manifested as strong differences between the exact optical
+	response of finite-size metamaterial samples and the prediction from
+	conventional effective-theory-medium models based on mixing formulae. Here,
+	with specific focus on the Thue-Morse geometry, we make a first step toward
+	extending the studies above to the middle-ground of aperiodically ordered
+	multilayers, lying in between perfect periodicity and disorder. We show that,
+	also for these geometries, there exist critical parameter ranges that favor the
+	buildup of boundary effects leading to strong enhancement of the (otherwise
+	negligibly weak) nonlocality. However, the underlying mechanisms are
+	fundamentally different from those observed in the periodic case, and exhibit
+	typical footprints (e.g., fractal gaps, quasi-localized states) that are
+	distinctive of aperiodic order. The outcomes of our study indicate that
+	aperiodic order plays a key role in the buildup of the aforementioned boundary
+	effects, and may also find potential applications to optical sensors, absorbers
+	and lasers.
+  
+
+  @article{IJ134_PRB_98_195128_2018,
+  title = {Aperiodic order induced enhancement of weak nonlocality in multilayered dielectric metamaterials},
+  author = {Coppolaro, Marino and Castaldi, Giuseppe and Galdi, Vincenzo},
+  journal = {Phys. Rev. B},
+  volume = {98},
+  issue = {19},
+  pages = {195128},
+  numpages = {12},
+  year = {2018},
+  month = nov,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.98.195128}
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/ThM_NL-ML.png" /></entry><entry><title type="html">Our paper on aperiodically ordered nonlocal metamaterials accepted in PRB</title><link href="/news/PRB-paper-ThM-accepted" rel="alternate" type="text/html" title="Our paper on aperiodically ordered nonlocal metamaterials accepted in PRB" /><published>2018-11-03T00:00:00+01:00</published><updated>2018-11-03T00:00:00+01:00</updated><id>/news/PRB-paper-ThM-accepted</id><content type="html" xml:base="/news/PRB-paper-ThM-accepted">&lt;p&gt;Our paper on “Aperiodic-order-induced enhancement of weak nonlocality in multilayered dielectric metamaterials”
 has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/prb/&quot;&gt;&lt;em&gt;Physical Review B&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;An &lt;a href=&quot;http://arxiv.org/abs/1811.01258&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="nonlocal" /><category term="homogenization" /><category term="aperiodic" /><summary type="html">Our paper on “Aperiodic-order-induced enhancement of weak nonlocality in multilayered dielectric metamaterials”
@@ -892,10 +1031,4 @@ Scaravilli, M., Micco, A., Castaldi, G., Coppola, G., Gioffrè, M., Iodice, M., 
   doi = {10.1002/adom.201800477},
   url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.201800477},
   note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadom.201800477&amp;amp;file=adom201800477-sup-0001-S1.pdf}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/BSW.png" /></entry><entry><title type="html">Tutorial Session on Metamaterials at MetroAeroSpace 2018</title><link href="/news/MAS-tutorial" rel="alternate" type="text/html" title="Tutorial Session on Metamaterials at MetroAeroSpace 2018" /><published>2018-06-20T00:00:00+02:00</published><updated>2018-06-20T00:00:00+02:00</updated><id>/news/MAS-tutorial</id><content type="html" xml:base="/news/MAS-tutorial">&lt;p&gt;A Tutorial Session on &lt;em&gt;Metamaterials&lt;/em&gt; was held at the 5th IEEE International Workshop on Metrology 
-for AeroSpace (&lt;a href=&quot;http://www.metroaerospace.org/index.php/&quot;&gt;MetroAeroSpace 2018&lt;/a&gt;) in Rome, Italy. Tutorial lectures were given by Profs.
-&lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; (University of Sannio), &lt;a href=&quot;https://www.researchgate.net/profile/Alessio_Monti&quot;&gt;Alessio Monti&lt;/a&gt; (Niccolò Cusano University),
-and &lt;a href=&quot;https://www.researchgate.net/profile/Mirko_Barbuto&quot;&gt;Mirko Barbuto&lt;/a&gt; (Niccolò Cusano University).&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="MetroAeroSpace" /><category term="metamaterials" /><category term="tutorials" /><summary type="html">A Tutorial Session on Metamaterials was held at the 5th IEEE International Workshop on Metrology 
-for AeroSpace (MetroAeroSpace 2018) in Rome, Italy. Tutorial lectures were given by Profs.
-Vincenzo Galdi (University of Sannio), Alessio Monti (Niccolò Cusano University),
-and Mirko Barbuto (Niccolò Cusano University).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MAS-2018.png" /></entry></feed>
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/BSW.png" /></entry></feed>
