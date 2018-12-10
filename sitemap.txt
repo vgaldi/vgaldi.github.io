@@ -27,6 +27,7 @@ http://fw-lab.org/tags
 http://fw-lab.org/feed.xml
 http://fw-lab.org/feed.xslt.xml
 
+http://fw-lab.org/news/EurAAP-LBF-award
 http://fw-lab.org/news/PRB-paper-ThM-published
 http://fw-lab.org/news/PRB-paper-ThM-accepted
 http://fw-lab.org/news/NatComm-published

@@ -4,13 +4,48 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2018-11-22T10:40:45+01:00</updated>
+ <updated>2018-12-10T09:50:55+01:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
    <email>vgaldi@unisannio.it</email>
  </author>
 
+ 
+ <entry>
+   <title>2019 EurAAP Leopold B. Felsen Award</title>
+   <link href="http://fw-lab.org/news/EurAAP-LBF-award"/>
+   <updated>2018-12-10T00:00:00+01:00</updated>
+   <id>http://fw-lab.org/news/EurAAP-LBF-award</id>
+   <content type="html">&lt;p&gt;The call for nominations for the &lt;em&gt;2019 EurAAP Leopold B. Felsen Award for Excellence in Electrodynamics&lt;/em&gt; is open.&lt;/p&gt;
+
+&lt;p&gt;The Award was originally established jointly by the University of Siena and the University of Sannio, 
+funded through a donation from Michael and Judy Felsen in fulfillment of the last wishes of their father, 
+Professor Leo Felsen (1924-2005). Since 2015, the Award is established by the 
+&lt;a href=&quot;http://www.euraap.org&quot;&gt;European Association on Antennas and Propagation&lt;/a&gt; (EurAAP).&lt;/p&gt;
+
+&lt;p&gt;The main purpose of the Award is to keep alive Prof. Felsen’s memory and scientific legacy, 
+as well as to foster academic excellence in the electromagnetics community, 
+by giving recognition to outstanding fundamental contributions from early stage researchers in electrodynamics.&lt;/p&gt;
+
+&lt;p&gt;The Award, by nomination only, will be presented annually, as a career award, to an early stage researcher. 
+Eligible nominees should be under 40 years of age at the submission deadline. 
+Previous awardees (also from the former Sannio and Siena editions) are not eligible.&lt;/p&gt;
+
+&lt;p&gt;The Award consists of a prize of 4,000 euro, which will be funded by the Felsen Family through a donation, 
+and will be officially presented at the banquet of the upcoming 
+[13th European Conference on Antennas and Propagation] (EuCAP 2019).&lt;/p&gt;
+
+&lt;p&gt;Candidates from all areas of Electromagnetics are eligible to apply. 
+Selection will be based on quality and significance of the candidates’ contributions to the field, and on the 
+recommendation of the referees.&lt;/p&gt;
+
+&lt;p&gt;The deadline for submission of the nominations is &lt;strong&gt;January 31, 2019&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;More details can be found &lt;a href=&quot;http://www.eucap2019.org/conference/awards#EURAAP_LEOPOLDB_FELSEN_AWARD&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Our paper on aperiodically ordered nonlocal metamaterials published in PRB</title>
