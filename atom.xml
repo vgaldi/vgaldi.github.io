@@ -4,13 +4,24 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2019-01-18T16:58:52+01:00</updated>
+ <updated>2019-01-29T12:03:06+01:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
    <email>vgaldi@unisannio.it</email>
  </author>
 
+ 
+ <entry>
+   <title>Our paper on meta-tip sensors accepted in NMNT</title>
+   <link href="http://fw-lab.org/news/NMNT-paper-meta-tip-accepted"/>
+   <updated>2019-01-29T00:00:00+01:00</updated>
+   <id>http://fw-lab.org/news/NMNT-paper-meta-tip-accepted</id>
+   <content type="html">&lt;p&gt;Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications”
+has been accepted for publication in &lt;a href=&quot;https://journals.sagepub.com/home/nax&quot;&gt;&lt;em&gt;Nanomaterials and Nanotechnology&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>MIT student externship</title>

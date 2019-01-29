@@ -27,6 +27,7 @@ http://fw-lab.org/tags
 http://fw-lab.org/feed.xml
 http://fw-lab.org/feed.xslt.xml
 
+http://fw-lab.org/news/NMNT-paper-meta-tip-accepted
 http://fw-lab.org/news/MIT_externship
 http://fw-lab.org/news/EurAAP-LBF-award
 http://fw-lab.org/news/PRB-paper-ThM-published
