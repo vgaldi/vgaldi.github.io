@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-02-05T20:16:29+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on meta-tip sensors accepted in NMNT</title><link href="/news/NMNT-paper-meta-tip-accepted" rel="alternate" type="text/html" title="Our paper on meta-tip sensors accepted in NMNT" /><published>2019-01-29T00:00:00+01:00</published><updated>2019-01-29T00:00:00+01:00</updated><id>/news/NMNT-paper-meta-tip-accepted</id><content type="html" xml:base="/news/NMNT-paper-meta-tip-accepted">&lt;p&gt;Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications”
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-02-07T10:19:04+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on meta-tip sensors accepted in NMNT</title><link href="/news/NMNT-paper-meta-tip-accepted" rel="alternate" type="text/html" title="Our paper on meta-tip sensors accepted in NMNT" /><published>2019-01-29T00:00:00+01:00</published><updated>2019-01-29T00:00:00+01:00</updated><id>/news/NMNT-paper-meta-tip-accepted</id><content type="html" xml:base="/news/NMNT-paper-meta-tip-accepted">&lt;p&gt;Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications”
 has been accepted for publication in &lt;a href=&quot;https://journals.sagepub.com/home/nax&quot;&gt;&lt;em&gt;Nanomaterials and Nanotechnology&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="metasurfaces" /><category term="optical fibers" /><category term="plasmonics" /><category term="lab-on-fiber" /><summary type="html">Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications”
 has been accepted for publication in Nanomaterials and Nanotechnology.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/NN-Sage.png" /></entry><entry><title type="html">MIT student externship</title><link href="/news/MIT_externship" rel="alternate" type="text/html" title="MIT student externship" /><published>2019-01-10T00:00:00+01:00</published><updated>2019-01-10T00:00:00+01:00</updated><id>/news/MIT_externship</id><content type="html" xml:base="/news/MIT_externship">&lt;p&gt;Olivia Chong and Manuel Morales have temporarily joined the Fields &amp;amp; Waves Lab within the framework of the &lt;a href=&quot;https://alum.mit.edu/communitiesmit-students/student-externships&quot;&gt;MIT student externship program&lt;/a&gt;.&lt;/p&gt;
 
@@ -425,6 +425,8 @@ Espoo, Finland, Aug. 27-30, 2018.&lt;/p&gt;
 
             
     
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/MetaMaterials.2018.8534044&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
 
     
 
@@ -444,6 +446,7 @@ Espoo, Finland, Aug. 27-30, 2018.&lt;/p&gt;
   title = {Fiber-tip coupling of Bloch surface waves},
   year = {2018},
   organization = {Espoo, Finland, Aug. 27-30, 2018},
+  doi = {10.1109/MetaMaterials.2018.8534044},
   month = aug
 }
 &lt;/pre&gt;
@@ -461,6 +464,8 @@ Espoo, Finland, Aug. 27-30, 2018.&lt;/p&gt;
     &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Castaldi_2018-Metamaterials-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
 
             
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/MetaMaterials.2018.8534149&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
     
 
     
@@ -481,6 +486,7 @@ Espoo, Finland, Aug. 27-30, 2018.&lt;/p&gt;
   title = {Revisiting the boundary effects of weak nonlocality in multilayered dielectric metamaterials: A trace and anti-trace map approach},
   year = {2018},
   organization = {Espoo, Finland, Aug. 27-30, 2018},
+  doi = {10.1109/MetaMaterials.2018.8534149},
   month = aug
 }
 &lt;/pre&gt;
@@ -498,6 +504,8 @@ Espoo, Finland, Aug. 27-30, 2018.&lt;/p&gt;
     &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Moccia_2018-Metamaterials-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
 
             
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/MetaMaterials.2018.8534116&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
     
 
     
@@ -518,6 +526,7 @@ Espoo, Finland, Aug. 27-30, 2018.&lt;/p&gt;
   title = {A study of spectral singularities in non-Hermitian cylindrical core-shell geometries},
   year = {2018},
   organization = {Espoo, Finland, Aug. 27-30, 2018},
+  doi = {10.1109/MetaMaterials.2018.8534116},
   month = aug
 }
 &lt;/pre&gt;
@@ -535,6 +544,8 @@ Espoo, Finland, Aug. 27-30, 2018.&lt;/p&gt;
     &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Koral_2018-Metamaterials-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
 
             
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/MetaMaterials.2018.8534087&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
     
 
     
@@ -555,6 +566,7 @@ Espoo, Finland, Aug. 27-30, 2018.&lt;/p&gt;
   title = {Diffuse THz scattering via coding metasurfaces},
   year = {2018},
   organization = {Espoo, Finland, Aug. 27-30, 2018},
+  doi = {10.1109/MetaMaterials.2018.8534087},
   month = aug
 }
 &lt;/pre&gt;
@@ -577,6 +589,8 @@ Scaravilli, M., Micco, A., Castaldi, G., Coppola, G., Gioffrè, Iodice, M., … 
 
             
     
+    DOI
+    
 
     
 
@@ -596,6 +610,7 @@ Scaravilli, M., Micco, A., Castaldi, G., Coppola, G., Gioffrè, Iodice, M., … 
   title = {Fiber-tip coupling of Bloch surface waves},
   year = {2018},
   organization = {Espoo, Finland, Aug. 27-30, 2018},
+  doi = {10.1109/MetaMaterials.2018.8534044},
   month = aug
 }
 
@@ -613,6 +628,8 @@ Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2018). Revisiting the boundary effe
     BibTeX
 
             
+    
+    DOI
     
 
     
@@ -633,6 +650,7 @@ Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2018). Revisiting the boundary effe
   title = {Revisiting the boundary effects of weak nonlocality in multilayered dielectric metamaterials: A trace and anti-trace map approach},
   year = {2018},
   organization = {Espoo, Finland, Aug. 27-30, 2018},
+  doi = {10.1109/MetaMaterials.2018.8534149},
   month = aug
 }
 
@@ -650,6 +668,8 @@ Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2018). A study of spect
     BibTeX
 
             
+    
+    DOI
     
 
     
@@ -670,6 +690,7 @@ Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2018). A study of spect
   title = {A study of spectral singularities in non-Hermitian cylindrical core-shell geometries},
   year = {2018},
   organization = {Espoo, Finland, Aug. 27-30, 2018},
+  doi = {10.1109/MetaMaterials.2018.8534116},
   month = aug
 }
 
@@ -687,6 +708,8 @@ Koral, C., Papari, G., Andreone, A., Moccia, M., Castaldi, G., Galdi, V., … Cu
     BibTeX
 
             
+    
+    DOI
     
 
     
@@ -707,6 +730,7 @@ Koral, C., Papari, G., Andreone, A., Moccia, M., Castaldi, G., Galdi, V., … Cu
   title = {Diffuse THz scattering via coding metasurfaces},
   year = {2018},
   organization = {Espoo, Finland, Aug. 27-30, 2018},
+  doi = {10.1109/MetaMaterials.2018.8534087},
   month = aug
 }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/Metamaterials-2018.jpg" /></entry><entry><title type="html">Our paper on nonlocal metamaterials accepted in PRAppl</title><link href="/news/PRB-paper-MPI-MTM-accepted" rel="alternate" type="text/html" title="Our paper on nonlocal metamaterials accepted in PRAppl" /><published>2018-08-27T00:00:00+02:00</published><updated>2018-08-27T00:00:00+02:00</updated><id>/news/PRB-paper-MPI-MTM-accepted</id><content type="html" xml:base="/news/PRB-paper-MPI-MTM-accepted">&lt;p&gt;Our paper on “Boundary effects of weak nonlocality in multilayered dielectric metamaterials,”
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),

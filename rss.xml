@@ -5,8 +5,8 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2019-02-05T20:16:29+01:00</lastBuildDate>
-        <pubDate>2019-02-05T20:16:29+01:00</pubDate>
+        <lastBuildDate>2019-02-07T10:19:04+01:00</lastBuildDate>
+        <pubDate>2019-02-07T10:19:04+01:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -311,6 +311,8 @@ Espoo, Finland, Aug. 27-30, 2018.&lt;/p&gt;
 
             
     
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/MetaMaterials.2018.8534044&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
 
     
 
@@ -330,6 +332,7 @@ Espoo, Finland, Aug. 27-30, 2018.&lt;/p&gt;
   title = {Fiber-tip coupling of Bloch surface waves},
   year = {2018},
   organization = {Espoo, Finland, Aug. 27-30, 2018},
+  doi = {10.1109/MetaMaterials.2018.8534044},
   month = aug
 }
 &lt;/pre&gt;
@@ -347,6 +350,8 @@ Espoo, Finland, Aug. 27-30, 2018.&lt;/p&gt;
     &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Castaldi_2018-Metamaterials-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
 
             
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/MetaMaterials.2018.8534149&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
     
 
     
@@ -367,6 +372,7 @@ Espoo, Finland, Aug. 27-30, 2018.&lt;/p&gt;
   title = {Revisiting the boundary effects of weak nonlocality in multilayered dielectric metamaterials: A trace and anti-trace map approach},
   year = {2018},
   organization = {Espoo, Finland, Aug. 27-30, 2018},
+  doi = {10.1109/MetaMaterials.2018.8534149},
   month = aug
 }
 &lt;/pre&gt;
@@ -384,6 +390,8 @@ Espoo, Finland, Aug. 27-30, 2018.&lt;/p&gt;
     &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Moccia_2018-Metamaterials-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
 
             
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/MetaMaterials.2018.8534116&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
     
 
     
@@ -404,6 +412,7 @@ Espoo, Finland, Aug. 27-30, 2018.&lt;/p&gt;
   title = {A study of spectral singularities in non-Hermitian cylindrical core-shell geometries},
   year = {2018},
   organization = {Espoo, Finland, Aug. 27-30, 2018},
+  doi = {10.1109/MetaMaterials.2018.8534116},
   month = aug
 }
 &lt;/pre&gt;
@@ -421,6 +430,8 @@ Espoo, Finland, Aug. 27-30, 2018.&lt;/p&gt;
     &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Koral_2018-Metamaterials-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
 
             
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/MetaMaterials.2018.8534087&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
     
 
     
@@ -441,6 +452,7 @@ Espoo, Finland, Aug. 27-30, 2018.&lt;/p&gt;
   title = {Diffuse THz scattering via coding metasurfaces},
   year = {2018},
   organization = {Espoo, Finland, Aug. 27-30, 2018},
+  doi = {10.1109/MetaMaterials.2018.8534087},
   month = aug
 }
 &lt;/pre&gt;
