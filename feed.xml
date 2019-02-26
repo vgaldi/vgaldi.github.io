@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-02-13T12:17:54+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on meta-tip sensors accepted in NMNT</title><link href="/news/NMNT-paper-meta-tip-accepted" rel="alternate" type="text/html" title="Our paper on meta-tip sensors accepted in NMNT" /><published>2019-01-29T00:00:00+01:00</published><updated>2019-01-29T00:00:00+01:00</updated><id>/news/NMNT-paper-meta-tip-accepted</id><content type="html" xml:base="/news/NMNT-paper-meta-tip-accepted">&lt;p&gt;Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications”
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-02-26T14:53:07+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on meta-tip sensors published in NMNT</title><link href="/news/NMNT-paper-meta-tip-published" rel="alternate" type="text/html" title="Our paper on meta-tip sensors published in NMNT" /><published>2019-02-26T00:00:00+01:00</published><updated>2019-02-26T00:00:00+01:00</updated><id>/news/NMNT-paper-meta-tip-published</id><content type="html" xml:base="/news/NMNT-paper-meta-tip-published">&lt;p&gt;Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications,”
+in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group, 
+has been published in &lt;em&gt;Nanomaterials and Nanotechnology&lt;/em&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="metasurfaces" /><category term="optical fibers" /><category term="plasmonics" /><category term="lab-on-fiber" /><summary type="html">Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications,”
+in collaboration with Andrea Cusano’s Group, 
+has been published in Nanomaterials and Nanotechnology.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MetaTip_NMNT.png" /></entry><entry><title type="html">Our paper on meta-tip sensors accepted in NMNT</title><link href="/news/NMNT-paper-meta-tip-accepted" rel="alternate" type="text/html" title="Our paper on meta-tip sensors accepted in NMNT" /><published>2019-01-29T00:00:00+01:00</published><updated>2019-01-29T00:00:00+01:00</updated><id>/news/NMNT-paper-meta-tip-accepted</id><content type="html" xml:base="/news/NMNT-paper-meta-tip-accepted">&lt;p&gt;Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications”
 has been accepted for publication in &lt;a href=&quot;https://journals.sagepub.com/home/nax&quot;&gt;&lt;em&gt;Nanomaterials and Nanotechnology&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="metasurfaces" /><category term="optical fibers" /><category term="plasmonics" /><category term="lab-on-fiber" /><summary type="html">Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications”
 has been accepted for publication in Nanomaterials and Nanotechnology.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/NN-Sage.png" /></entry><entry><title type="html">MIT student externship</title><link href="/news/MIT_externship" rel="alternate" type="text/html" title="MIT student externship" /><published>2019-01-10T00:00:00+01:00</published><updated>2019-01-10T00:00:00+01:00</updated><id>/news/MIT_externship</id><content type="html" xml:base="/news/MIT_externship">&lt;p&gt;Olivia Chong and Manuel Morales have temporarily joined the Fields &amp;amp; Waves Lab within the framework of the &lt;a href=&quot;https://alum.mit.edu/communitiesmit-students/student-externships&quot;&gt;MIT student externship program&lt;/a&gt;.&lt;/p&gt;
 
@@ -740,109 +744,4 @@ has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/p
 in collaboration with Andrea Alù (ASRC-CUNY),
 has been accepted for publication in Physical Review Applied.
 
-An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/PRAppl.jpg" /></entry><entry><title type="html">Our paper on THz coding metasurfaces published in SciRep</title><link href="/news/SREP-published" rel="alternate" type="text/html" title="Our paper on THz coding metasurfaces published in SciRep" /><published>2018-08-09T00:00:00+02:00</published><updated>2018-08-09T00:00:00+02:00</updated><id>/news/SREP-published</id><content type="html" xml:base="/news/SREP-published">&lt;p&gt;Our paper on “Suboptimal coding metasurfaces for terahertz diffuse scattering,”
-[&lt;a href=&quot;#IJ131_SREP_8_11908_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
-in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
-has been published in &lt;em&gt;Scientific Reports&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ131_SREP_8_11908_2018&quot;&gt;Moccia, M., Koral, C., Papari, G. P., Liu, S., Zhang, L., Wu, R. Y., … Andreone, A. (2018). Suboptimal coding metasurfaces for terahertz diffuse scattering. &lt;i&gt;Scientific Reports&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;8&lt;/i&gt;&lt;/span&gt;, 11908.&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ131_SREP_8_11908_2018-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ131_SREP_8_11908_2018-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ131_SREP_8_11908_2018-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1038/s41598-018-30375-z&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ131_SREP_8_11908_2018.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-    &lt;li&gt;&lt;a href=&quot;https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-018-30375-z/MediaObjects/41598_2018_30375_MOESM1_ESM.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ131_SREP_8_11908_2018-abstract&quot; class=&quot;collapse&quot;&gt;Coding metasurfaces, composed of only two types of elements arranged according to a binary code, are attracting a steadily increasing interest in many application scenarios. In this study, we apply this concept to attain diffuse scattering at THz frequencies. Building up on previously derived theoretical results, we carry out a suboptimal metasurface design based on a simple, deterministic and computationally inexpensive algorithm that can be applied to arbitrarily large structures. For experimental validation, we fabricate and characterize three prototypes working at 1 THz, which, in accordance with numerical predictions, exhibit significant reductions of the radar cross-section, with reasonably good frequency and angular stability. Besides the radar-signature control, our results may also find potentially interesting applications to diffusive imaging, computational imaging, and (scaled to optical wavelengths) photovoltaics.&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ131_SREP_8_11908_2018-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ131_SREP_8_11908_2018,
-  author = {Moccia, Massimo and Koral, Can and Papari, Gian Paolo and Liu, Shuo and Zhang, Lei and Wu, Rui Yuan and Castaldi, Giuseppe and Cui, Tie Jun and Galdi, Vincenzo and Andreone, Antonello},
-  title = {Suboptimal coding metasurfaces for terahertz diffuse scattering},
-  journal = {Scientific Reports},
-  year = {2018},
-  volume = {8},
-  pages = {11908},
-  month = aug,
-  url = {https://www.nature.com/articles/s41598-018-30375-z},
-  doi = {10.1038/s41598-018-30375-z},
-  note = {https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-018-30375-z/MediaObjects/41598_2018_30375_MOESM1_ESM.pdf}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="coding" /><category term="flat polynomials" /><category term="aperiodic" /><category term="terahertz" /><summary type="html">Our paper on “Suboptimal coding metasurfaces for terahertz diffuse scattering,”
-[1]
-in collaboration with Tie Jun Cui’s Group (Southeast University),
-has been published in Scientific Reports.
-
-Moccia, M., Koral, C., Papari, G. P., Liu, S., Zhang, L., Wu, R. Y., … Andreone, A. (2018). Suboptimal coding metasurfaces for terahertz diffuse scattering. Scientific Reports 8, 11908.
-
-
-
-  
-    
-    Abstract
-    
-
-    BibTeX
-
-            
-    
-    DOI
-    
-
-    
-
-    
-      
-    
-    PDF
-    
-
-    
-    Supplements
-    
-  
-  
-
-  
-  Coding metasurfaces, composed of only two types of elements arranged according to a binary code, are attracting a steadily increasing interest in many application scenarios. In this study, we apply this concept to attain diffuse scattering at THz frequencies. Building up on previously derived theoretical results, we carry out a suboptimal metasurface design based on a simple, deterministic and computationally inexpensive algorithm that can be applied to arbitrarily large structures. For experimental validation, we fabricate and characterize three prototypes working at 1 THz, which, in accordance with numerical predictions, exhibit significant reductions of the radar cross-section, with reasonably good frequency and angular stability. Besides the radar-signature control, our results may also find potentially interesting applications to diffusive imaging, computational imaging, and (scaled to optical wavelengths) photovoltaics.
-  
-
-  @article{IJ131_SREP_8_11908_2018,
-  author = {Moccia, Massimo and Koral, Can and Papari, Gian Paolo and Liu, Shuo and Zhang, Lei and Wu, Rui Yuan and Castaldi, Giuseppe and Cui, Tie Jun and Galdi, Vincenzo and Andreone, Antonello},
-  title = {Suboptimal coding metasurfaces for terahertz diffuse scattering},
-  journal = {Scientific Reports},
-  year = {2018},
-  volume = {8},
-  pages = {11908},
-  month = aug,
-  url = {https://www.nature.com/articles/s41598-018-30375-z},
-  doi = {10.1038/s41598-018-30375-z},
-  note = {https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-018-30375-z/MediaObjects/41598_2018_30375_MOESM1_ESM.pdf}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/THz_MS.png" /></entry></feed>
+An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/PRAppl.jpg" /></entry></feed>

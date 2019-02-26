@@ -5,10 +5,21 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2019-02-13T12:17:54+01:00</lastBuildDate>
-        <pubDate>2019-02-13T12:17:54+01:00</pubDate>
+        <lastBuildDate>2019-02-26T14:53:07+01:00</lastBuildDate>
+        <pubDate>2019-02-26T14:53:07+01:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on meta-tip sensors published in NMNT</title>
+                <description>&lt;p&gt;Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications,”
+in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group, 
+has been published in &lt;em&gt;Nanomaterials and Nanotechnology&lt;/em&gt;.&lt;/p&gt;
+</description>
+                <link>http://fw-lab.org/news/NMNT-paper-meta-tip-published</link>
+                <guid>http://fw-lab.org/news/NMNT-paper-meta-tip-published</guid>
+                <pubDate>2019-02-26T00:00:00+01:00</pubDate>
+        </item>
 
         <item>
                 <title>Our paper on meta-tip sensors accepted in NMNT</title>
@@ -2067,7 +2078,7 @@ curves) are in fairly good agreement with the experimental intensity profiles (s
 We also carried out polarization-controlled measurements, which confirmed the theoretically predicted response.&lt;/p&gt;
 
 &lt;p&gt;This proof-of-principle meta-tip demonstration paves the way to the integration of the exceptional field-manipulation
-capabilities enabled by metasurfaces within the emerging lab-on-fiber technologies. Also of great interest is the excitation
+capabilities enabled by metasurfaces within the emerging lab-on-fiber technologies. More recently [&lt;a href=&quot;#IJ135_NMNT_9_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], we have also studied the excitation
 of novel type of surface waves for label-free &lt;a href=&quot;/projects/MTM_optical-sensing&quot;&gt;sensing applications&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
@@ -2115,6 +2126,51 @@ of novel type of surface waves for label-free &lt;a href=&quot;/projects/MTM_opt
   month = mar,
   doi = {10.1038/lsa.2016.226},
   note = {http://www.nature.com/lsa/journal/v6/n3/suppinfo/lsa2016226s1.html?url=/lsa/journal/v6/n3/full/lsa2016226a.html}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ135_NMNT_9_2019&quot;&gt;Principe, M., Consales, M., Castaldi, G., Galdi, V., &amp;amp; Cusano, A. (2019). Evaluation of fiber-optic phase-gradient meta-tips for sensing applications. &lt;i&gt;Nanomaterials and Nanotechnology&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;9&lt;/i&gt;&lt;/span&gt;.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ135_NMNT_9_2019-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ135_NMNT_9_2019-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ135_NMNT_9_2019-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1177/1847980419832724&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ135_NMNT_9_2019.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ135_NMNT_9_2019-abstract&quot; class=&quot;collapse&quot;&gt;Recently, within the emerging framework of “lab-on-fiber” technologies, we successfully demonstrated the integration of phase-gradient plasmonic metasurfaces on the tip of an optical fiber. The resulting optical-fiber “meta-tips” promise to empower the typical fiber-optics application scenarios (e.g. sensing, telecommunications, imaging, etc.) with the advanced light-manipulation capabilities endowed by metasurfaces. Here, we explore more in detail the possibility to exploit this platform in label-free biological or chemical sensing applications. Specifically, we carry out a parametric study of the surface sensitivity and show that phase-gradient metasurfaces generally outperform their gradient-free counterparts, without imposing additional fabrication complexity. Therefore, the phase gradient can be effectively exploited as an additional degree of freedom in the design of high-sensitivity devices.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ135_NMNT_9_2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ135_NMNT_9_2019,
+  author = {Principe, M and Consales, M and Castaldi, G and Galdi, V and Cusano, A},
+  title = {Evaluation of fiber-optic phase-gradient meta-tips for sensing applications},
+  journal = {Nanomaterials and Nanotechnology},
+  volume = {9},
+  year = {2019},
+  doi = {10.1177/1847980419832724}
 }
 &lt;/pre&gt;
 
@@ -6224,7 +6280,7 @@ fiber-optic devices for high-resolution label-free optical biosensing, and repre
 forward in the “lab-on-fiber” technology roadmap.
 More recently [&lt;a href=&quot;#IJ130_AdOM_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], we have experimentally validated the above results, by demonstrating for the first time the excitation of Bloch surface waves on the tip of an optical fiber.&lt;/p&gt;
 
-&lt;p&gt;In a separate but related project, we have also explored the sensing capabilities of optical-fiber &lt;a href=&quot;/projects/meta-tip&quot;&gt;meta-tips&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In a separate but related project [&lt;a href=&quot;#IJ135_NMNT_9_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;], we have recently explored the sensing capabilities of optical-fiber &lt;a href=&quot;/projects/meta-tip&quot;&gt;meta-tips&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ106_OpEx_21_23531_2013&quot;&gt;Savoia, S., Ricciardi, A., Crescitelli, A., Granata, C., Esposito, E., Galdi, V., &amp;amp; Cusano, A. (2013). Surface sensitivity of Rayleigh anomalies in metallic nanogratings. &lt;i&gt;Optics Express&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;21&lt;/i&gt;&lt;/span&gt;(20), 23531–23542.&lt;/span&gt;
@@ -6375,6 +6431,51 @@ More recently [&lt;a href=&quot;#IJ130_AdOM_2018&quot;&gt;&lt;span style=&quot;v
   doi = {10.1002/adom.201800477},
   url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.201800477},
   note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadom.201800477&amp;amp;file=adom201800477-sup-0001-S1.pdf}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ135_NMNT_9_2019&quot;&gt;Principe, M., Consales, M., Castaldi, G., Galdi, V., &amp;amp; Cusano, A. (2019). Evaluation of fiber-optic phase-gradient meta-tips for sensing applications. &lt;i&gt;Nanomaterials and Nanotechnology&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;9&lt;/i&gt;&lt;/span&gt;.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ135_NMNT_9_2019-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ135_NMNT_9_2019-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ135_NMNT_9_2019-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1177/1847980419832724&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ135_NMNT_9_2019.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ135_NMNT_9_2019-abstract&quot; class=&quot;collapse&quot;&gt;Recently, within the emerging framework of “lab-on-fiber” technologies, we successfully demonstrated the integration of phase-gradient plasmonic metasurfaces on the tip of an optical fiber. The resulting optical-fiber “meta-tips” promise to empower the typical fiber-optics application scenarios (e.g. sensing, telecommunications, imaging, etc.) with the advanced light-manipulation capabilities endowed by metasurfaces. Here, we explore more in detail the possibility to exploit this platform in label-free biological or chemical sensing applications. Specifically, we carry out a parametric study of the surface sensitivity and show that phase-gradient metasurfaces generally outperform their gradient-free counterparts, without imposing additional fabrication complexity. Therefore, the phase gradient can be effectively exploited as an additional degree of freedom in the design of high-sensitivity devices.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ135_NMNT_9_2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ135_NMNT_9_2019,
+  author = {Principe, M and Consales, M and Castaldi, G and Galdi, V and Cusano, A},
+  title = {Evaluation of fiber-optic phase-gradient meta-tips for sensing applications},
+  journal = {Nanomaterials and Nanotechnology},
+  volume = {9},
+  year = {2019},
+  doi = {10.1177/1847980419832724}
 }
 &lt;/pre&gt;
 
