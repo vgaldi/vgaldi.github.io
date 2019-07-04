@@ -4,7 +4,7 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2019-07-04T10:17:04+02:00</updated>
+ <updated>2019-07-04T20:50:32+02:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
@@ -21,6 +21,56 @@
 has been accepted for publication in the &lt;a href=&quot;https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8&quot;&gt;&lt;em&gt;IEEE Transactions on Antennas and Propagation&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/1907.01616&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Talk presented at EuCAP 2019</title>
+   <link href="http://fw-lab.org/news/EuCAP-2019"/>
+   <updated>2019-04-03T00:00:00+02:00</updated>
+   <id>http://fw-lab.org/news/EuCAP-2019</id>
+   <content type="html">&lt;p&gt;We have presented a talk
+[&lt;a href=&quot;#Moccia_EuCAP2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] at the &lt;em&gt;13th European Conference on Antennas and Propagation&lt;/em&gt; (&lt;a href=&quot;https://www.eucap2019.org&quot;&gt;EuCAP&lt;/a&gt;),
+Krakow, Poland, Mar. 31-Apr. 5, 2019.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Moccia_EuCAP2019&quot;&gt;Moccia, M., Castaldi, G., &amp;amp; Galdi, V. (2019). Nonlocal and non-Hermitian extensions of transformation optics. In &lt;i&gt;Proc. 13th European Conference on Antennas and Propagation (EuCAP)&lt;/i&gt;. Krakow, Poland, Mar. 31-Apr. 5, 2019.&lt;/span&gt;
+
+
+&lt;div id=&quot;Moccia_EuCAP2019-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Moccia_EuCAP2019-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Moccia_EuCAP2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Moccia_EuCAP2019,
+  author = {Moccia, Massimo and Castaldi, Giuseppe and Galdi, Vincenzo},
+  title = {Nonlocal and non-Hermitian extensions of transformation optics},
+  booktitle = {Proc. 13th European Conference on Antennas and Propagation (EuCAP)},
+  organization = {Krakow, Poland, Mar. 31-Apr. 5, 2019},
+  month = mar,
+  year = {2019}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
 </content>
  </entry>
  
