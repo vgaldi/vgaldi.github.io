@@ -5,10 +5,22 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2019-04-24T11:47:04+02:00</lastBuildDate>
-        <pubDate>2019-04-24T11:47:04+02:00</pubDate>
+        <lastBuildDate>2019-07-04T10:17:04+02:00</lastBuildDate>
+        <pubDate>2019-07-04T10:17:04+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on spectral singularities accepted in IEEE-TAP</title>
+                <description>&lt;p&gt;Our paper on “Harnessing spectral singularities in non-Hermitian cylindrical structures,” in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
+has been accepted for publication in the &lt;a href=&quot;https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8&quot;&gt;&lt;em&gt;IEEE Transactions on Antennas and Propagation&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/1907.01616&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;
+</description>
+                <link>http://fw-lab.org/news/IEEE-TAP-paper-NH-CYL-accepted</link>
+                <guid>http://fw-lab.org/news/IEEE-TAP-paper-NH-CYL-accepted</guid>
+                <pubDate>2019-07-04T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Our paper on meta-tip sensors published in NMNT</title>
