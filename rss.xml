@@ -5,10 +5,98 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2019-07-04T20:50:32+02:00</lastBuildDate>
-        <pubDate>2019-07-04T20:50:32+02:00</pubDate>
+        <lastBuildDate>2019-07-12T16:37:14-04:00</lastBuildDate>
+        <pubDate>2019-07-12T16:37:14-04:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Two talks presented at IEEE-APS/URSI 2019</title>
+                <description>&lt;p&gt;We have presented two talks 
+[&lt;a href=&quot;#Coppolaro_URSI-USNC2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Zhang_URSI-USNC2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
+at the &lt;em&gt;IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting&lt;/em&gt; (&lt;a href=&quot;http://2019apsursi.org/default.asp&quot;&gt;IEEE-APS/URSI&lt;/a&gt;),
+Atlanta, GA, USA, July 7-12, 2019.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Coppolaro_URSI-USNC2019&quot;&gt;Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2019). Non-Hermitian doping of epsilon-near-zero media. In &lt;i&gt;USNC-URSI Radio Science Meeting&lt;/i&gt;. Atlanta, GA, USA, July 7-12, 2019.&lt;/span&gt;
+
+
+&lt;div id=&quot;Coppolaro_URSI-USNC2019-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Coppolaro_URSI-USNC2019-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Coppolaro_URSI-USNC2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Coppolaro_URSI-USNC2019,
+  author = {Coppolaro, Marino and Moccia, Massimo and Castaldi, Giuseppe and Engheta, Nader and Galdi, Vincenzo},
+  title = {Non-Hermitian doping of epsilon-near-zero media},
+  booktitle = {USNC-URSI Radio Science Meeting},
+  organization = {Atlanta, GA, USA, July 7-12, 2019},
+  month = jul,
+  year = {2019}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Zhang_URSI-USNC2019&quot;&gt;Zhang, L., Chen, X. Q., Liu, S., Zhang, Q., Zhao, J., Dai, J. Y., … Cui, T. J. (2019). Digital metasurfaces based on spatio-temporal coding. In &lt;i&gt;USNC-URSI Radio Science Meeting&lt;/i&gt;. Atlanta, GA, USA, July 7-12, 2019.&lt;/span&gt;
+
+
+&lt;div id=&quot;Zhang_URSI-USNC2019-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Zhang_URSI-USNC2019-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Zhang_URSI-USNC2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Zhang_URSI-USNC2019,
+  author = {Zhang, Lei and Chen, Xiao Qing and Liu, Shuo and Zhang, Qian and Zhao, Jie and Dai, Jun Yan and Bai, Guo Dong and Wan, Xiang and Cheng, Qiang and Castaldi, Giuseppe and Galdi, Vincenzo and Cui, Tie Jun},
+  title = {Digital metasurfaces based on spatio-temporal coding},
+  booktitle = {USNC-URSI Radio Science Meeting},
+  organization = {Atlanta, GA, USA, July 7-12, 2019},
+  month = jul,
+  year = {2019}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+</description>
+                <link>http://fw-lab.org/news/IEEE-APS-2019</link>
+                <guid>http://fw-lab.org/news/IEEE-APS-2019</guid>
+                <pubDate>2019-07-12T00:00:00-04:00</pubDate>
+        </item>
 
         <item>
                 <title>Our paper on spectral singularities accepted in IEEE-TAP</title>
@@ -19,7 +107,7 @@ has been accepted for publication in the &lt;a href=&quot;https://ieeexplore.iee
 </description>
                 <link>http://fw-lab.org/news/IEEE-TAP-paper-NH-CYL-accepted</link>
                 <guid>http://fw-lab.org/news/IEEE-TAP-paper-NH-CYL-accepted</guid>
-                <pubDate>2019-07-04T00:00:00+02:00</pubDate>
+                <pubDate>2019-07-04T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -69,7 +157,7 @@ Krakow, Poland, Mar. 31-Apr. 5, 2019.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/news/EuCAP-2019</link>
                 <guid>http://fw-lab.org/news/EuCAP-2019</guid>
-                <pubDate>2019-04-03T00:00:00+02:00</pubDate>
+                <pubDate>2019-04-03T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -127,7 +215,7 @@ has been published in &lt;em&gt;Nanomaterials and Nanotechnology&lt;/em&gt;.&lt;
 </description>
                 <link>http://fw-lab.org/news/NMNT-paper-meta-tip-published</link>
                 <guid>http://fw-lab.org/news/NMNT-paper-meta-tip-published</guid>
-                <pubDate>2019-02-26T00:00:00+01:00</pubDate>
+                <pubDate>2019-02-26T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -138,7 +226,7 @@ has been accepted for publication in &lt;a href=&quot;https://journals.sagepub.c
 </description>
                 <link>http://fw-lab.org/news/NMNT-paper-meta-tip-accepted</link>
                 <guid>http://fw-lab.org/news/NMNT-paper-meta-tip-accepted</guid>
-                <pubDate>2019-01-29T00:00:00+01:00</pubDate>
+                <pubDate>2019-01-29T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -150,7 +238,7 @@ has been accepted for publication in &lt;a href=&quot;https://journals.sagepub.c
 </description>
                 <link>http://fw-lab.org/news/MIT_externship</link>
                 <guid>http://fw-lab.org/news/MIT_externship</guid>
-                <pubDate>2019-01-10T00:00:00+01:00</pubDate>
+                <pubDate>2019-01-10T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -185,7 +273,7 @@ recommendation of the referees.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/news/EurAAP-LBF-award</link>
                 <guid>http://fw-lab.org/news/EurAAP-LBF-award</guid>
-                <pubDate>2018-12-10T00:00:00+01:00</pubDate>
+                <pubDate>2018-12-10T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -267,7 +355,7 @@ has been published in [&lt;em&gt;Physical Review B&lt;/em&gt;].&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/news/PRB-paper-ThM-published</link>
                 <guid>http://fw-lab.org/news/PRB-paper-ThM-published</guid>
-                <pubDate>2018-11-22T00:00:00+01:00</pubDate>
+                <pubDate>2018-11-22T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -280,7 +368,7 @@ has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/p
 </description>
                 <link>http://fw-lab.org/news/PRB-paper-ThM-accepted</link>
                 <guid>http://fw-lab.org/news/PRB-paper-ThM-accepted</guid>
-                <pubDate>2018-11-03T00:00:00+01:00</pubDate>
+                <pubDate>2018-11-03T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -345,7 +433,7 @@ has been published in &lt;em&gt;Nature Communications&lt;/em&gt;.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/news/NatComm-published</link>
                 <guid>http://fw-lab.org/news/NatComm-published</guid>
-                <pubDate>2018-10-18T00:00:00+02:00</pubDate>
+                <pubDate>2018-10-18T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -410,7 +498,7 @@ has been published in &lt;em&gt;Physical Review Applied&lt;/em&gt;.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/news/PRAppl-paper-published</link>
                 <guid>http://fw-lab.org/news/PRAppl-paper-published</guid>
-                <pubDate>2018-09-26T00:00:00+02:00</pubDate>
+                <pubDate>2018-09-26T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -584,7 +672,7 @@ Espoo, Finland, Aug. 27-30, 2018.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/news/Metamaterials-2018</link>
                 <guid>http://fw-lab.org/news/Metamaterials-2018</guid>
-                <pubDate>2018-08-29T00:00:00+02:00</pubDate>
+                <pubDate>2018-08-29T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -598,7 +686,7 @@ has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/p
 </description>
                 <link>http://fw-lab.org/news/PRB-paper-MPI-MTM-accepted</link>
                 <guid>http://fw-lab.org/news/PRB-paper-MPI-MTM-accepted</guid>
-                <pubDate>2018-08-27T00:00:00+02:00</pubDate>
+                <pubDate>2018-08-27T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -663,7 +751,7 @@ has been published in &lt;em&gt;Scientific Reports&lt;/em&gt;.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/news/SREP-published</link>
                 <guid>http://fw-lab.org/news/SREP-published</guid>
-                <pubDate>2018-08-09T00:00:00+02:00</pubDate>
+                <pubDate>2018-08-09T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -675,7 +763,7 @@ has been accepted for publication in &lt;a href=&quot;https://www.nature.com/sre
 </description>
                 <link>http://fw-lab.org/news/SREP-accepted</link>
                 <guid>http://fw-lab.org/news/SREP-accepted</guid>
-                <pubDate>2018-07-25T00:00:00+02:00</pubDate>
+                <pubDate>2018-07-25T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -763,7 +851,7 @@ Boston, MA, USA, July 8-13, 2018.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/news/IEEE-APS-2018</link>
                 <guid>http://fw-lab.org/news/IEEE-APS-2018</guid>
-                <pubDate>2018-07-09T00:00:00+02:00</pubDate>
+                <pubDate>2018-07-09T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -831,7 +919,7 @@ has been published in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/news/AdOM-published</link>
                 <guid>http://fw-lab.org/news/AdOM-published</guid>
-                <pubDate>2018-07-05T00:00:00+02:00</pubDate>
+                <pubDate>2018-07-05T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -844,7 +932,7 @@ and &lt;a href=&quot;https://www.researchgate.net/profile/Mirko_Barbuto&quot;&gt
 </description>
                 <link>http://fw-lab.org/news/MAS-tutorial</link>
                 <guid>http://fw-lab.org/news/MAS-tutorial</guid>
-                <pubDate>2018-06-20T00:00:00+02:00</pubDate>
+                <pubDate>2018-06-20T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -857,7 +945,7 @@ has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wile
 </description>
                 <link>http://fw-lab.org/news/AdOM-accepted</link>
                 <guid>http://fw-lab.org/news/AdOM-accepted</guid>
-                <pubDate>2018-06-15T00:00:00+02:00</pubDate>
+                <pubDate>2018-06-15T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -918,7 +1006,7 @@ perspective on &lt;a href=&quot;/projects/nonlocal-effects&quot;&gt;nonlocal&lt;
 </description>
                 <link>http://fw-lab.org/news/JOPT-TO-roadmap_published</link>
                 <guid>http://fw-lab.org/news/JOPT-TO-roadmap_published</guid>
-                <pubDate>2018-05-22T00:00:00+02:00</pubDate>
+                <pubDate>2018-05-22T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -935,7 +1023,7 @@ and &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?optio
 </description>
                 <link>http://fw-lab.org/news/Scaravilli_PhD_defense</link>
                 <guid>http://fw-lab.org/news/Scaravilli_PhD_defense</guid>
-                <pubDate>2018-01-23T00:00:00+01:00</pubDate>
+                <pubDate>2018-01-23T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -947,7 +1035,7 @@ and &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?optio
 </description>
                 <link>http://fw-lab.org/news/new-lab-member</link>
                 <guid>http://fw-lab.org/news/new-lab-member</guid>
-                <pubDate>2017-12-01T00:00:00+01:00</pubDate>
+                <pubDate>2017-12-01T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -982,7 +1070,7 @@ recommendation of the referees.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/news/EurAAP-LBF-award</link>
                 <guid>http://fw-lab.org/news/EurAAP-LBF-award</guid>
-                <pubDate>2017-11-17T00:00:00+01:00</pubDate>
+                <pubDate>2017-11-17T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -997,7 +1085,7 @@ Profs. &lt;a href=&quot;https://www.researchgate.net/profile/Mirko_Barbuto&quot;
 </description>
                 <link>http://fw-lab.org/news/NN-special-collection</link>
                 <guid>http://fw-lab.org/news/NN-special-collection</guid>
-                <pubDate>2017-10-28T00:00:00+02:00</pubDate>
+                <pubDate>2017-10-28T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -1011,7 +1099,7 @@ Profs. &lt;a href=&quot;https://www.researchgate.net/profile/Mirko_Barbuto&quot;
 </description>
                 <link>http://fw-lab.org/news/MAS-special-session</link>
                 <guid>http://fw-lab.org/news/MAS-special-session</guid>
-                <pubDate>2017-10-07T00:00:00+02:00</pubDate>
+                <pubDate>2017-10-07T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -1024,7 +1112,7 @@ in Rome, Italy, from December 18-22, 2017. The school will be focused on &lt;em&
 </description>
                 <link>http://fw-lab.org/news/EUPROMETA-school</link>
                 <guid>http://fw-lab.org/news/EUPROMETA-school</guid>
-                <pubDate>2017-09-21T00:00:00+02:00</pubDate>
+                <pubDate>2017-09-21T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -1081,7 +1169,7 @@ Verona, Italy, Sep. 11-15, 2017.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/news/ICEAA-2017</link>
                 <guid>http://fw-lab.org/news/ICEAA-2017</guid>
-                <pubDate>2017-09-14T00:00:00+02:00</pubDate>
+                <pubDate>2017-09-14T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -1170,7 +1258,7 @@ Capri, Italy, Sep. 10-14, 2017.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/news/EOS-2017</link>
                 <guid>http://fw-lab.org/news/EOS-2017</guid>
-                <pubDate>2017-09-14T00:00:00+02:00</pubDate>
+                <pubDate>2017-09-14T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -1225,7 +1313,7 @@ Marseille, France, Aug. 28-31, 2017.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/news/Metamaterials-2017</link>
                 <guid>http://fw-lab.org/news/Metamaterials-2017</guid>
-                <pubDate>2017-08-30T00:00:00+02:00</pubDate>
+                <pubDate>2017-08-30T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -1290,7 +1378,7 @@ has been published in &lt;em&gt;Physical Review B&lt;/em&gt; as a Rapid Communic
 </description>
                 <link>http://fw-lab.org/news/PRB-paper-MPI-MTM-published</link>
                 <guid>http://fw-lab.org/news/PRB-paper-MPI-MTM-published</guid>
-                <pubDate>2017-08-21T00:00:00+02:00</pubDate>
+                <pubDate>2017-08-21T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -1305,7 +1393,7 @@ has been accepted for publication as a Rapid Communication in &lt;a href=&quot;h
 </description>
                 <link>http://fw-lab.org/news/PRB-paper-NL-ML-accepted</link>
                 <guid>http://fw-lab.org/news/PRB-paper-NL-ML-accepted</guid>
-                <pubDate>2017-08-05T00:00:00+02:00</pubDate>
+                <pubDate>2017-08-05T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -1372,7 +1460,7 @@ has been published (early view) in &lt;em&gt;Advanced Optical Materials&lt;/em&g
 </description>
                 <link>http://fw-lab.org/news/AdOM-paper-MS-published</link>
                 <guid>http://fw-lab.org/news/AdOM-paper-MS-published</guid>
-                <pubDate>2017-07-28T00:00:00+02:00</pubDate>
+                <pubDate>2017-07-28T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -1460,7 +1548,7 @@ San Diego, California, USA, July 9-14, 2017.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/news/IEEE-APS-2017</link>
                 <guid>http://fw-lab.org/news/IEEE-APS-2017</guid>
-                <pubDate>2017-07-14T00:00:00+02:00</pubDate>
+                <pubDate>2017-07-14T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -1472,7 +1560,7 @@ has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wile
 </description>
                 <link>http://fw-lab.org/news/AdOM-paper-MS-accepted</link>
                 <guid>http://fw-lab.org/news/AdOM-paper-MS-accepted</guid>
-                <pubDate>2017-06-16T00:00:00+02:00</pubDate>
+                <pubDate>2017-06-16T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -1534,7 +1622,7 @@ has been published (early view) in the &lt;em&gt;IEEE Journal of Multiscale and 
 </description>
                 <link>http://fw-lab.org/news/JMMCT-paper-MR-published</link>
                 <guid>http://fw-lab.org/news/JMMCT-paper-MR-published</guid>
-                <pubDate>2017-06-08T00:00:00+02:00</pubDate>
+                <pubDate>2017-06-08T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -1548,7 +1636,7 @@ has been accepted for publication in the &lt;a href=&quot;https://ieeexplore.iee
 </description>
                 <link>http://fw-lab.org/news/JMMCT-paper-MR-accepted</link>
                 <guid>http://fw-lab.org/news/JMMCT-paper-MR-accepted</guid>
-                <pubDate>2017-05-29T00:00:00+02:00</pubDate>
+                <pubDate>2017-05-29T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -1605,7 +1693,7 @@ at the
 </description>
                 <link>http://fw-lab.org/news/OFS-25</link>
                 <guid>http://fw-lab.org/news/OFS-25</guid>
-                <pubDate>2017-04-28T00:00:00+02:00</pubDate>
+                <pubDate>2017-04-28T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -1670,7 +1758,7 @@ has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;
 </description>
                 <link>http://fw-lab.org/news/PRB-paper-EPD-published</link>
                 <guid>http://fw-lab.org/news/PRB-paper-EPD-published</guid>
-                <pubDate>2017-03-18T00:00:00+01:00</pubDate>
+                <pubDate>2017-03-18T00:00:00-04:00</pubDate>
         </item>
 
         <item>
@@ -1733,7 +1821,7 @@ has been published in &lt;em&gt;Light: Science &amp;amp; Applications&lt;/em&gt;
 </description>
                 <link>http://fw-lab.org/news/LSA-paper_meta-tip-published</link>
                 <guid>http://fw-lab.org/news/LSA-paper_meta-tip-published</guid>
-                <pubDate>2017-03-10T00:00:00+01:00</pubDate>
+                <pubDate>2017-03-10T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -1797,7 +1885,7 @@ has been published in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/news/PRB-paper-NH-MS-published</link>
                 <guid>http://fw-lab.org/news/PRB-paper-NH-MS-published</guid>
-                <pubDate>2017-03-09T00:00:00+01:00</pubDate>
+                <pubDate>2017-03-09T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -1812,7 +1900,7 @@ has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/p
 </description>
                 <link>http://fw-lab.org/news/PRB-paper-NH-MS-accepted</link>
                 <guid>http://fw-lab.org/news/PRB-paper-NH-MS-accepted</guid>
-                <pubDate>2017-02-15T00:00:00+01:00</pubDate>
+                <pubDate>2017-02-15T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -1826,7 +1914,7 @@ has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/p
 </description>
                 <link>http://fw-lab.org/news/PRB-paper-EPD-accepted</link>
                 <guid>http://fw-lab.org/news/PRB-paper-EPD-accepted</guid>
-                <pubDate>2017-02-10T00:00:00+01:00</pubDate>
+                <pubDate>2017-02-10T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -1838,7 +1926,7 @@ has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/p
 </description>
                 <link>http://fw-lab.org/news/new-website</link>
                 <guid>http://fw-lab.org/news/new-website</guid>
-                <pubDate>2017-02-09T00:00:00+01:00</pubDate>
+                <pubDate>2017-02-09T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -1879,7 +1967,7 @@ Source: &lt;a href=&quot;http://www.annieclavel.com/galleries/ch/ch01&quot;&gt;a
 </description>
                 <link>http://fw-lab.org/misc/about</link>
                 <guid>http://fw-lab.org/misc/about</guid>
-                <pubDate>2017-01-28T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-28T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -1904,7 +1992,7 @@ a list of three academic references to vgaldi&lt;span style=&quot;display:none&q
 </description>
                 <link>http://fw-lab.org/misc/join</link>
                 <guid>http://fw-lab.org/misc/join</guid>
-                <pubDate>2017-01-27T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-27T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -1930,7 +2018,7 @@ a list of three academic references to vgaldi&lt;span style=&quot;display:none&q
 </description>
                 <link>http://fw-lab.org/misc/contact</link>
                 <guid>http://fw-lab.org/misc/contact</guid>
-                <pubDate>2017-01-25T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-25T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -1943,7 +2031,7 @@ and explore engineering applications to &lt;strong&gt;communications and sensing
 </description>
                 <link>http://fw-lab.org/misc/home/home</link>
                 <guid>http://fw-lab.org/misc/home/home</guid>
-                <pubDate>2017-01-22T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-22T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -2034,7 +2122,7 @@ to several fields of science and engineering.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/projects/computational-MTM</link>
                 <guid>http://fw-lab.org/projects/computational-MTM</guid>
-                <pubDate>2017-01-20T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-20T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -2145,7 +2233,7 @@ such as aluminum nitride and silver conductive epoxies.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/projects/multiphysics-MTM</link>
                 <guid>http://fw-lab.org/projects/multiphysics-MTM</guid>
-                <pubDate>2017-01-19T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-19T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -2289,7 +2377,7 @@ of novel type of surface waves for label-free &lt;a href=&quot;/projects/MTM_opt
 </description>
                 <link>http://fw-lab.org/projects/meta-tip</link>
                 <guid>http://fw-lab.org/projects/meta-tip</guid>
-                <pubDate>2017-01-18T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-18T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -2494,7 +2582,7 @@ and illumination apertures for computational imaging, not necessarily restricted
 </description>
                 <link>http://fw-lab.org/projects/coding_MS</link>
                 <guid>http://fw-lab.org/projects/coding_MS</guid>
-                <pubDate>2017-01-17T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-17T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -2520,7 +2608,7 @@ under the supervision of Prof. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vi
 </description>
                 <link>http://fw-lab.org/team/marino-coppolaro</link>
                 <guid>http://fw-lab.org/team/marino-coppolaro</guid>
-                <pubDate>2017-01-12T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-12T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -2544,7 +2632,7 @@ agglomeration chemistry, and intracellular membrane communication in the &lt;a h
 </description>
                 <link>http://fw-lab.org/team/joseph-tien</link>
                 <guid>http://fw-lab.org/team/joseph-tien</guid>
-                <pubDate>2017-01-11T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-11T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -2697,7 +2785,7 @@ as well as the synthetic emulation of multi-path wireless channels.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/projects/billiard-cavities</link>
                 <guid>http://fw-lab.org/projects/billiard-cavities</guid>
-                <pubDate>2017-01-11T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-11T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -2993,7 +3081,7 @@ the element scattering responde, and the array size.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/projects/aperiodic-tiling_arrays</link>
                 <guid>http://fw-lab.org/projects/aperiodic-tiling_arrays</guid>
-                <pubDate>2017-01-11T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-11T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -3182,7 +3270,7 @@ was achieved around 100 Hz. Understanding both the fundamental and the technical
 </description>
                 <link>http://fw-lab.org/projects/GW-coating</link>
                 <guid>http://fw-lab.org/projects/GW-coating</guid>
-                <pubDate>2017-01-11T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-11T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -3207,7 +3295,7 @@ on the excitation of Bloch surface waves.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/team/michele-scaravilli</link>
                 <guid>http://fw-lab.org/team/michele-scaravilli</guid>
-                <pubDate>2017-01-10T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-10T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -3231,7 +3319,7 @@ fiber-optics sensors, and nanotechnologies.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/team/massimo-moccia</link>
                 <guid>http://fw-lab.org/team/massimo-moccia</guid>
-                <pubDate>2017-01-10T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-10T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -3383,7 +3471,7 @@ is the possible exploitation of the inherent richness and complexity of the RCS 
 </description>
                 <link>http://fw-lab.org/projects/pinball-scatterers</link>
                 <guid>http://fw-lab.org/projects/pinball-scatterers</guid>
-                <pubDate>2017-01-10T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-10T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -3530,7 +3618,7 @@ to drive the subsequent optimization process.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/projects/GW-beam-shaping</link>
                 <guid>http://fw-lab.org/projects/GW-beam-shaping</guid>
-                <pubDate>2017-01-10T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-10T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -3553,7 +3641,7 @@ Since February 2018, he has been working as an RF engineer at &lt;a href=&quot;h
 </description>
                 <link>http://fw-lab.org/team/silvio-savoia</link>
                 <guid>http://fw-lab.org/team/silvio-savoia</guid>
-                <pubDate>2017-01-09T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-09T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -4002,7 +4090,7 @@ metamaterials.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/projects/nonlocal-effects</link>
                 <guid>http://fw-lab.org/projects/nonlocal-effects</guid>
-                <pubDate>2017-01-09T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-09T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -4478,7 +4566,7 @@ Instead, our study highlights the critical role played by short-range interactio
 </description>
                 <link>http://fw-lab.org/projects/PQC-inplane</link>
                 <guid>http://fw-lab.org/projects/PQC-inplane</guid>
-                <pubDate>2017-01-09T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-09T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -4500,7 +4588,7 @@ Commission B International Symposium on Electromagnetic Theory.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/team/ilaria-gallina</link>
                 <guid>http://fw-lab.org/team/ilaria-gallina</guid>
-                <pubDate>2017-01-08T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-08T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -4523,7 +4611,7 @@ electromagnetic chaos, antenna array diagnostics, and phase retrieval.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/team/giuseppe-castaldi</link>
                 <guid>http://fw-lab.org/team/giuseppe-castaldi</guid>
-                <pubDate>2017-01-08T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-08T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -4999,7 +5087,7 @@ optical components and devices.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/projects/non-Hermitian-MTM</link>
                 <guid>http://fw-lab.org/projects/non-Hermitian-MTM</guid>
-                <pubDate>2017-01-08T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-08T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -5423,7 +5511,7 @@ biological sensors based on periodic nanostructures currently available on the m
 </description>
                 <link>http://fw-lab.org/projects/PQC-outplane</link>
                 <guid>http://fw-lab.org/projects/PQC-outplane</guid>
-                <pubDate>2017-01-08T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-08T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -5458,7 +5546,7 @@ He is also the recipient of an &lt;em&gt;Outstanding Associate Editor Award&lt;/
 </description>
                 <link>http://fw-lab.org/team/vincenzo-galdi</link>
                 <guid>http://fw-lab.org/team/vincenzo-galdi</guid>
-                <pubDate>2017-01-07T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-07T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -5555,7 +5643,7 @@ This can overcome significant constraints that limit innovation in information p
 </description>
                 <link>http://fw-lab.org/projects/reconfigurable-MTM</link>
                 <guid>http://fw-lab.org/projects/reconfigurable-MTM</guid>
-                <pubDate>2017-01-07T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-07T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -6167,7 +6255,7 @@ some of which are also included in a recent “roadmap” [&lt;a href=&quot;#IJ1
 </description>
                 <link>http://fw-lab.org/projects/TO-MTM</link>
                 <guid>http://fw-lab.org/projects/TO-MTM</guid>
-                <pubDate>2017-01-06T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-06T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -6346,7 +6434,7 @@ nonlocality in aperiodically ordered multilayered dielectric metamaterials wity 
 </description>
                 <link>http://fw-lab.org/projects/aperiodic-ML</link>
                 <guid>http://fw-lab.org/projects/aperiodic-ML</guid>
-                <pubDate>2017-01-05T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-05T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -6594,7 +6682,7 @@ More recently [&lt;a href=&quot;#IJ130_AdOM_2018&quot;&gt;&lt;span style=&quot;v
 </description>
                 <link>http://fw-lab.org/projects/MTM_optical-sensing</link>
                 <guid>http://fw-lab.org/projects/MTM_optical-sensing</guid>
-                <pubDate>2017-01-05T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-05T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -6857,7 +6945,7 @@ in the previous numerical studies.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/projects/MTM_anomalous-transmission</link>
                 <guid>http://fw-lab.org/projects/MTM_anomalous-transmission</guid>
-                <pubDate>2017-01-05T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-05T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -7016,7 +7104,7 @@ and can be exploited to design compact (wavelength-sized) optical isolators for 
 </description>
                 <link>http://fw-lab.org/projects/nonreciprocal-MTM</link>
                 <guid>http://fw-lab.org/projects/nonreciprocal-MTM</guid>
-                <pubDate>2017-01-04T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-04T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -7113,7 +7201,7 @@ slabs and allow tailoring their properties without the need of extensive numeric
 </description>
                 <link>http://fw-lab.org/projects/extreme-parameter_MTM</link>
                 <guid>http://fw-lab.org/projects/extreme-parameter_MTM</guid>
-                <pubDate>2017-01-04T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-04T00:00:00-05:00</pubDate>
         </item>
 
         <item>
@@ -7259,7 +7347,7 @@ slabs and allow tailoring their properties without the need of extensive numeric
 </description>
                 <link>http://fw-lab.org/media/media</link>
                 <guid>http://fw-lab.org/media/media</guid>
-                <pubDate>2017-01-03T00:00:00+01:00</pubDate>
+                <pubDate>2017-01-03T00:00:00-05:00</pubDate>
         </item>
 
 
