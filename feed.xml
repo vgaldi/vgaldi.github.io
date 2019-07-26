@@ -1,4 +1,103 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-07-12T16:37:14-04:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Two talks presented at IEEE-APS/URSI 2019</title><link href="/news/IEEE-APS-2019" rel="alternate" type="text/html" title="Two talks presented at IEEE-APS/URSI 2019" /><published>2019-07-12T00:00:00-04:00</published><updated>2019-07-12T00:00:00-04:00</updated><id>/news/IEEE-APS-2019</id><content type="html" xml:base="/news/IEEE-APS-2019">&lt;p&gt;We have presented two talks 
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-07-26T22:02:12+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on spectral singularities published in IEEE-TAP</title><link href="/news/IEEE-TAP-paper-NH-CYL-published" rel="alternate" type="text/html" title="Our paper on spectral singularities published in IEEE-TAP" /><published>2019-07-16T00:00:00+02:00</published><updated>2019-07-16T00:00:00+02:00</updated><id>/news/IEEE-TAP-paper-NH-CYL-published</id><content type="html" xml:base="/news/IEEE-TAP-paper-NH-CYL-published">&lt;p&gt;Our paper on “Harnessing spectral singularities in non-Hermitian cylindrical structures,” 
+[&lt;a href=&quot;#IJ136_IEEE-TAP_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
+has been published in the &lt;em&gt;IEEE Transactions on Antennas and Propagation&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ136_IEEE-TAP_2019&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2019). Harnessing spectral singularities in non-Hermitian cylindrical structures. &lt;i&gt;IEEE Transactions on Antennas and Propagation&lt;/i&gt; (early view).&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ136_IEEE-TAP_2019-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ136_IEEE-TAP_2019-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ136_IEEE-TAP_2019-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/TAP.2019.2927861&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ136_IEEE-TAP_2019.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ136_IEEE-TAP_2019-abstract&quot; class=&quot;collapse&quot;&gt;Non-Hermitian systems characterized by suitable spatial distributions of gain and loss can exhibit “spectral singularities” in the form of zero-width resonances associated to real-frequency poles in the scattering operator. Here, we study this intriguing phenomenon in connection with cylindrical geometries, and explore possible applications to controlling and tailoring in unconventional ways the scattering response of sub-wavelength and wavelength-sized objects. Among the possible implications and applications, we illustrate the additional degrees of freedom available in the scattering-absorption-extinction tradeoff, and address the engineering of zero-forward-scattering, transverse scattering, and gain-controlled reconfigurability of the scattering pattern, also paying attention to stability issues. Our results may open up new vistas in active and reconfigurable nanophotonics platforms.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ136_IEEE-TAP_2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ136_IEEE-TAP_2019,
+  author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
+  journal = {IEEE Transactions on Antennas and Propagation},
+  title = {Harnessing spectral singularities in non-Hermitian cylindrical structures},
+  year = {2019},
+  volume = {},
+  number = {early view},
+  pages = {},
+  doi = {10.1109/TAP.2019.2927861},
+  month = {}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="non-Hermitian" /><summary type="html">Our paper on “Harnessing spectral singularities in non-Hermitian cylindrical structures,” 
+[1]
+in collaboration with Andrea Alù (ASRC-CUNY),
+has been published in the IEEE Transactions on Antennas and Propagation.
+
+Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2019). Harnessing spectral singularities in non-Hermitian cylindrical structures. IEEE Transactions on Antennas and Propagation (early view).
+
+
+
+  
+    
+    Abstract
+    
+
+    BibTeX
+
+            
+    
+    DOI
+    
+
+    
+
+    
+      
+    
+    PDF
+    
+
+    
+  
+  
+
+  
+  Non-Hermitian systems characterized by suitable spatial distributions of gain and loss can exhibit “spectral singularities” in the form of zero-width resonances associated to real-frequency poles in the scattering operator. Here, we study this intriguing phenomenon in connection with cylindrical geometries, and explore possible applications to controlling and tailoring in unconventional ways the scattering response of sub-wavelength and wavelength-sized objects. Among the possible implications and applications, we illustrate the additional degrees of freedom available in the scattering-absorption-extinction tradeoff, and address the engineering of zero-forward-scattering, transverse scattering, and gain-controlled reconfigurability of the scattering pattern, also paying attention to stability issues. Our results may open up new vistas in active and reconfigurable nanophotonics platforms.
+  
+
+  @article{IJ136_IEEE-TAP_2019,
+  author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
+  journal = {IEEE Transactions on Antennas and Propagation},
+  title = {Harnessing spectral singularities in non-Hermitian cylindrical structures},
+  year = {2019},
+  volume = {},
+  number = {early view},
+  pages = {},
+  doi = {10.1109/TAP.2019.2927861},
+  month = {}
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/NH-CYL.png" /></entry><entry><title type="html">Two talks presented at IEEE-APS/URSI 2019</title><link href="/news/IEEE-APS-2019" rel="alternate" type="text/html" title="Two talks presented at IEEE-APS/URSI 2019" /><published>2019-07-12T00:00:00+02:00</published><updated>2019-07-12T00:00:00+02:00</updated><id>/news/IEEE-APS-2019</id><content type="html" xml:base="/news/IEEE-APS-2019">&lt;p&gt;We have presented two talks 
 [&lt;a href=&quot;#Coppolaro_URSI-USNC2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Zhang_URSI-USNC2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
 at the &lt;em&gt;IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting&lt;/em&gt; (&lt;a href=&quot;http://2019apsursi.org/default.asp&quot;&gt;IEEE-APS/URSI&lt;/a&gt;),
 Atlanta, GA, USA, July 7-12, 2019.&lt;/p&gt;
@@ -149,13 +248,13 @@ Zhang, L., Chen, X. Q., Liu, S., Zhang, Q., Zhao, J., Dai, J. Y., … Cui, T. J.
   organization = {Atlanta, GA, USA, July 7-12, 2019},
   month = jul,
   year = {2019}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/APS-2019.png" /></entry><entry><title type="html">Our paper on spectral singularities accepted in IEEE-TAP</title><link href="/news/IEEE-TAP-paper-NH-CYL-accepted" rel="alternate" type="text/html" title="Our paper on spectral singularities accepted in IEEE-TAP" /><published>2019-07-04T00:00:00-04:00</published><updated>2019-07-04T00:00:00-04:00</updated><id>/news/IEEE-TAP-paper-NH-CYL-accepted</id><content type="html" xml:base="/news/IEEE-TAP-paper-NH-CYL-accepted">&lt;p&gt;Our paper on “Harnessing spectral singularities in non-Hermitian cylindrical structures,” in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/APS-2019.png" /></entry><entry><title type="html">Our paper on spectral singularities accepted in IEEE-TAP</title><link href="/news/IEEE-TAP-paper-NH-CYL-accepted" rel="alternate" type="text/html" title="Our paper on spectral singularities accepted in IEEE-TAP" /><published>2019-07-04T00:00:00+02:00</published><updated>2019-07-04T00:00:00+02:00</updated><id>/news/IEEE-TAP-paper-NH-CYL-accepted</id><content type="html" xml:base="/news/IEEE-TAP-paper-NH-CYL-accepted">&lt;p&gt;Our paper on “Harnessing spectral singularities in non-Hermitian cylindrical structures,” in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 has been accepted for publication in the &lt;a href=&quot;https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8&quot;&gt;&lt;em&gt;IEEE Transactions on Antennas and Propagation&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/1907.01616&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="non-Hermitian" /><summary type="html">Our paper on “Harnessing spectral singularities in non-Hermitian cylindrical structures,” in collaboration with Andrea Alù (ASRC-CUNY),
 has been accepted for publication in the IEEE Transactions on Antennas and Propagation.
 
-An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/IEEE-TAP.png" /></entry><entry><title type="html">Talk presented at EuCAP 2019</title><link href="/news/EuCAP-2019" rel="alternate" type="text/html" title="Talk presented at EuCAP 2019" /><published>2019-04-03T00:00:00-04:00</published><updated>2019-04-03T00:00:00-04:00</updated><id>/news/EuCAP-2019</id><content type="html" xml:base="/news/EuCAP-2019">&lt;p&gt;We have presented a talk
+An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/IEEE-TAP.png" /></entry><entry><title type="html">Talk presented at EuCAP 2019</title><link href="/news/EuCAP-2019" rel="alternate" type="text/html" title="Talk presented at EuCAP 2019" /><published>2019-04-03T00:00:00+02:00</published><updated>2019-04-03T00:00:00+02:00</updated><id>/news/EuCAP-2019</id><content type="html" xml:base="/news/EuCAP-2019">&lt;p&gt;We have presented a talk
 [&lt;a href=&quot;#Moccia_EuCAP2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] at the &lt;em&gt;13th European Conference on Antennas and Propagation&lt;/em&gt; (&lt;a href=&quot;https://www.eucap2019.org&quot;&gt;EuCAP&lt;/a&gt;),
 Krakow, Poland, Mar. 31-Apr. 5, 2019.&lt;/p&gt;
 
@@ -230,7 +329,7 @@ Moccia, M., Castaldi, G., &amp;amp; Galdi, V. (2019). Nonlocal and non-Hermitian
   organization = {Krakow, Poland, Mar. 31-Apr. 5, 2019},
   month = mar,
   year = {2019}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/EuCAP.jpg" /></entry><entry><title type="html">Our paper on meta-tip sensors published in NMNT</title><link href="/news/NMNT-paper-meta-tip-published" rel="alternate" type="text/html" title="Our paper on meta-tip sensors published in NMNT" /><published>2019-02-26T00:00:00-05:00</published><updated>2019-02-26T00:00:00-05:00</updated><id>/news/NMNT-paper-meta-tip-published</id><content type="html" xml:base="/news/NMNT-paper-meta-tip-published">&lt;p&gt;Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications,”
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/EuCAP.jpg" /></entry><entry><title type="html">Our paper on meta-tip sensors published in NMNT</title><link href="/news/NMNT-paper-meta-tip-published" rel="alternate" type="text/html" title="Our paper on meta-tip sensors published in NMNT" /><published>2019-02-26T00:00:00+01:00</published><updated>2019-02-26T00:00:00+01:00</updated><id>/news/NMNT-paper-meta-tip-published</id><content type="html" xml:base="/news/NMNT-paper-meta-tip-published">&lt;p&gt;Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications,”
 [&lt;a href=&quot;#IJ135_NMNT_9_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group, 
 has been published in &lt;em&gt;Nanomaterials and Nanotechnology&lt;/em&gt;.&lt;/p&gt;
@@ -323,13 +422,13 @@ Principe, M., Consales, M., Castaldi, G., Galdi, V., &amp;amp; Cusano, A. (2019)
   volume = {9},
   year = {2019},
   doi = {10.1177/1847980419832724}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MetaTip_NMNT.png" /></entry><entry><title type="html">Our paper on meta-tip sensors accepted in NMNT</title><link href="/news/NMNT-paper-meta-tip-accepted" rel="alternate" type="text/html" title="Our paper on meta-tip sensors accepted in NMNT" /><published>2019-01-29T00:00:00-05:00</published><updated>2019-01-29T00:00:00-05:00</updated><id>/news/NMNT-paper-meta-tip-accepted</id><content type="html" xml:base="/news/NMNT-paper-meta-tip-accepted">&lt;p&gt;Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications”
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MetaTip_NMNT.png" /></entry><entry><title type="html">Our paper on meta-tip sensors accepted in NMNT</title><link href="/news/NMNT-paper-meta-tip-accepted" rel="alternate" type="text/html" title="Our paper on meta-tip sensors accepted in NMNT" /><published>2019-01-29T00:00:00+01:00</published><updated>2019-01-29T00:00:00+01:00</updated><id>/news/NMNT-paper-meta-tip-accepted</id><content type="html" xml:base="/news/NMNT-paper-meta-tip-accepted">&lt;p&gt;Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications”
 has been accepted for publication in &lt;a href=&quot;https://journals.sagepub.com/home/nax&quot;&gt;&lt;em&gt;Nanomaterials and Nanotechnology&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="metasurfaces" /><category term="optical fibers" /><category term="plasmonics" /><category term="lab-on-fiber" /><summary type="html">Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications”
-has been accepted for publication in Nanomaterials and Nanotechnology.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/NN-Sage.png" /></entry><entry><title type="html">MIT student externship</title><link href="/news/MIT_externship" rel="alternate" type="text/html" title="MIT student externship" /><published>2019-01-10T00:00:00-05:00</published><updated>2019-01-10T00:00:00-05:00</updated><id>/news/MIT_externship</id><content type="html" xml:base="/news/MIT_externship">&lt;p&gt;Olivia Chong and Manuel Morales have temporarily joined the Fields &amp;amp; Waves Lab within the framework of the &lt;a href=&quot;https://alum.mit.edu/communitiesmit-students/student-externships&quot;&gt;MIT student externship program&lt;/a&gt;.&lt;/p&gt;
+has been accepted for publication in Nanomaterials and Nanotechnology.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/NN-Sage.png" /></entry><entry><title type="html">MIT student externship</title><link href="/news/MIT_externship" rel="alternate" type="text/html" title="MIT student externship" /><published>2019-01-10T00:00:00+01:00</published><updated>2019-01-10T00:00:00+01:00</updated><id>/news/MIT_externship</id><content type="html" xml:base="/news/MIT_externship">&lt;p&gt;Olivia Chong and Manuel Morales have temporarily joined the Fields &amp;amp; Waves Lab within the framework of the &lt;a href=&quot;https://alum.mit.edu/communitiesmit-students/student-externships&quot;&gt;MIT student externship program&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;They will be working on the study of &lt;a href=&quot;/projects/computational-MTM&quot;&gt;metamaterial-based analog computing&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="MIT externship" /><category term="students" /><summary type="html">Olivia Chong and Manuel Morales have temporarily joined the Fields &amp;amp; Waves Lab within the framework of the MIT student externship program.
 
-They will be working on the study of metamaterial-based analog computing.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MIT_externship.jpg" /></entry><entry><title type="html">2019 EurAAP Leopold B. Felsen Award</title><link href="/news/EurAAP-LBF-award" rel="alternate" type="text/html" title="2019 EurAAP Leopold B. Felsen Award" /><published>2018-12-10T00:00:00-05:00</published><updated>2018-12-10T00:00:00-05:00</updated><id>/news/EurAAP-LBF-award</id><content type="html" xml:base="/news/EurAAP-LBF-award">&lt;p&gt;The call for nominations for the &lt;em&gt;2019 EurAAP Leopold B. Felsen Award for Excellence in Electrodynamics&lt;/em&gt; is open.&lt;/p&gt;
+They will be working on the study of metamaterial-based analog computing.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MIT_externship.jpg" /></entry><entry><title type="html">2019 EurAAP Leopold B. Felsen Award</title><link href="/news/EurAAP-LBF-award" rel="alternate" type="text/html" title="2019 EurAAP Leopold B. Felsen Award" /><published>2018-12-10T00:00:00+01:00</published><updated>2018-12-10T00:00:00+01:00</updated><id>/news/EurAAP-LBF-award</id><content type="html" xml:base="/news/EurAAP-LBF-award">&lt;p&gt;The call for nominations for the &lt;em&gt;2019 EurAAP Leopold B. Felsen Award for Excellence in Electrodynamics&lt;/em&gt; is open.&lt;/p&gt;
 
 &lt;p&gt;The Award was originally established jointly by the University of Siena and the University of Sannio, 
 funded through a donation from Michael and Judy Felsen in fulfillment of the last wishes of their father, 
@@ -379,7 +478,7 @@ recommendation of the referees.
 
 The deadline for submission of the nominations is January 31, 2019.
 
-More details can be found here.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/EurAAP_LBF_award.png" /></entry><entry><title type="html">Our paper on aperiodically ordered nonlocal metamaterials published in PRB</title><link href="/news/PRB-paper-ThM-published" rel="alternate" type="text/html" title="Our paper on aperiodically ordered nonlocal metamaterials published in PRB" /><published>2018-11-22T00:00:00-05:00</published><updated>2018-11-22T00:00:00-05:00</updated><id>/news/PRB-paper-ThM-published</id><content type="html" xml:base="/news/PRB-paper-ThM-published">&lt;p&gt;Our paper on “Aperiodic-order-induced enhancement of weak nonlocality in multilayered dielectric metamaterials”
+More details can be found here.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/EurAAP_LBF_award.png" /></entry><entry><title type="html">Our paper on aperiodically ordered nonlocal metamaterials published in PRB</title><link href="/news/PRB-paper-ThM-published" rel="alternate" type="text/html" title="Our paper on aperiodically ordered nonlocal metamaterials published in PRB" /><published>2018-11-22T00:00:00+01:00</published><updated>2018-11-22T00:00:00+01:00</updated><id>/news/PRB-paper-ThM-published</id><content type="html" xml:base="/news/PRB-paper-ThM-published">&lt;p&gt;Our paper on “Aperiodic-order-induced enhancement of weak nonlocality in multilayered dielectric metamaterials”
 [&lt;a href=&quot;#IJ134_PRB_98_195128_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 has been published in [&lt;em&gt;Physical Review B&lt;/em&gt;].&lt;/p&gt;
 
@@ -518,115 +617,10 @@ Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2018). Aperiodic order induced
   month = nov,
   publisher = {American Physical Society},
   doi = {10.1103/PhysRevB.98.195128}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/ThM_NL-ML.png" /></entry><entry><title type="html">Our paper on aperiodically ordered nonlocal metamaterials accepted in PRB</title><link href="/news/PRB-paper-ThM-accepted" rel="alternate" type="text/html" title="Our paper on aperiodically ordered nonlocal metamaterials accepted in PRB" /><published>2018-11-03T00:00:00-04:00</published><updated>2018-11-03T00:00:00-04:00</updated><id>/news/PRB-paper-ThM-accepted</id><content type="html" xml:base="/news/PRB-paper-ThM-accepted">&lt;p&gt;Our paper on “Aperiodic-order-induced enhancement of weak nonlocality in multilayered dielectric metamaterials”
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/ThM_NL-ML.png" /></entry><entry><title type="html">Our paper on aperiodically ordered nonlocal metamaterials accepted in PRB</title><link href="/news/PRB-paper-ThM-accepted" rel="alternate" type="text/html" title="Our paper on aperiodically ordered nonlocal metamaterials accepted in PRB" /><published>2018-11-03T00:00:00+01:00</published><updated>2018-11-03T00:00:00+01:00</updated><id>/news/PRB-paper-ThM-accepted</id><content type="html" xml:base="/news/PRB-paper-ThM-accepted">&lt;p&gt;Our paper on “Aperiodic-order-induced enhancement of weak nonlocality in multilayered dielectric metamaterials”
 has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/prb/&quot;&gt;&lt;em&gt;Physical Review B&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;An &lt;a href=&quot;http://arxiv.org/abs/1811.01258&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="nonlocal" /><category term="homogenization" /><category term="aperiodic" /><summary type="html">Our paper on “Aperiodic-order-induced enhancement of weak nonlocality in multilayered dielectric metamaterials”
 has been accepted for publication in Physical Review B.
 
-An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/PRB.png" /></entry><entry><title type="html">Our paper on space-time-coding digital metasurfaces published in NatComms</title><link href="/news/NatComm-published" rel="alternate" type="text/html" title="Our paper on space-time-coding digital metasurfaces published in NatComms" /><published>2018-10-18T00:00:00-04:00</published><updated>2018-10-18T00:00:00-04:00</updated><id>/news/NatComm-published</id><content type="html" xml:base="/news/NatComm-published">&lt;p&gt;Our paper on “Space-time-coding digital metasurfaces,”
-[&lt;a href=&quot;#IJ133_NatComm_9_4334_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
-in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
-has been published in &lt;em&gt;Nature Communications&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ133_NatComm_9_4334_2018&quot;&gt;Zhang, L., Chen, X. Q., Liu, S., Zhang, Q., Zhao, J., Dai, J. Y., … Cui, T. J. (2018). Space-time-coding digital metasurfaces. &lt;i&gt;Nature Communications&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;9&lt;/i&gt;&lt;/span&gt;(1), 4334.&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ133_NatComm_9_4334_2018-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ133_NatComm_9_4334_2018-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ133_NatComm_9_4334_2018-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1038/s41467-018-06802-0&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ133_NatComm_9_4334_2018.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-    &lt;li&gt;&lt;a href=&quot;https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-018-06802-0/MediaObjects/41467_2018_6802_MOESM1_ESM.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ133_NatComm_9_4334_2018-abstract&quot; class=&quot;collapse&quot;&gt;The recently proposed digital coding metasurfaces make it possible to control electromagnetic (EM) waves in real time, and allow the implementation of many different functionalities in a programmable way. However, current configurations are only space-encoded, and do not exploit the temporal dimension. Here, we propose a general theory of space-time modulated digital coding metasurfaces to obtain simultaneous manipulations of EM waves in both space and frequency domains, i.e., to control the propagation direction and harmonic power distribution simultaneously. As proof-of-principle application examples, we consider harmonic beam steering, beam shaping, and scattering-signature control. For validation, we realize a prototype controlled by a field-programmable gate array, which implements the harmonic beam steering via an optimized space-time coding sequence. Numerical and experimental results, in good agreement, demonstrate good performance of the proposed approach, with potential applications to diverse fields such as wireless communications, cognitive radars, adaptive beamforming, holographic imaging.&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ133_NatComm_9_4334_2018-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ133_NatComm_9_4334_2018,
-  author = {Zhang, Lei and Chen, Xiao Qing and Liu, Shuo and Zhang, Qian and Zhao, Jie and Dai, Jun Yan and Bai, Guo Dong and Wan, Xiang and Cheng, Qiang and Castaldi, Giuseppe and Galdi, Vincenzo and Cui, Tie Jun},
-  title = {Space-time-coding digital metasurfaces},
-  journal = {Nature Communications},
-  year = {2018},
-  volume = {9},
-  number = {1},
-  pages = {4334},
-  doi = {10.1038/s41467-018-06802-0},
-  note = {https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-018-06802-0/MediaObjects/41467_2018_6802_MOESM1_ESM.pdf},
-  month = oct
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="coding" /><category term="space-time" /><summary type="html">Our paper on “Space-time-coding digital metasurfaces,”
-[1]
-in collaboration with Tie Jun Cui’s Group (Southeast University),
-has been published in Nature Communications.
-
-Zhang, L., Chen, X. Q., Liu, S., Zhang, Q., Zhao, J., Dai, J. Y., … Cui, T. J. (2018). Space-time-coding digital metasurfaces. Nature Communications 9(1), 4334.
-
-
-
-  
-    
-    Abstract
-    
-
-    BibTeX
-
-            
-    
-    DOI
-    
-
-    
-
-    
-      
-    
-    PDF
-    
-
-    
-    Supplements
-    
-  
-  
-
-  
-  The recently proposed digital coding metasurfaces make it possible to control electromagnetic (EM) waves in real time, and allow the implementation of many different functionalities in a programmable way. However, current configurations are only space-encoded, and do not exploit the temporal dimension. Here, we propose a general theory of space-time modulated digital coding metasurfaces to obtain simultaneous manipulations of EM waves in both space and frequency domains, i.e., to control the propagation direction and harmonic power distribution simultaneously. As proof-of-principle application examples, we consider harmonic beam steering, beam shaping, and scattering-signature control. For validation, we realize a prototype controlled by a field-programmable gate array, which implements the harmonic beam steering via an optimized space-time coding sequence. Numerical and experimental results, in good agreement, demonstrate good performance of the proposed approach, with potential applications to diverse fields such as wireless communications, cognitive radars, adaptive beamforming, holographic imaging.
-  
-
-  @article{IJ133_NatComm_9_4334_2018,
-  author = {Zhang, Lei and Chen, Xiao Qing and Liu, Shuo and Zhang, Qian and Zhao, Jie and Dai, Jun Yan and Bai, Guo Dong and Wan, Xiang and Cheng, Qiang and Castaldi, Giuseppe and Galdi, Vincenzo and Cui, Tie Jun},
-  title = {Space-time-coding digital metasurfaces},
-  journal = {Nature Communications},
-  year = {2018},
-  volume = {9},
-  number = {1},
-  pages = {4334},
-  doi = {10.1038/s41467-018-06802-0},
-  note = {https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-018-06802-0/MediaObjects/41467_2018_6802_MOESM1_ESM.pdf},
-  month = oct
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/STC-MS.png" /></entry></feed>
+An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/PRB.png" /></entry></feed>

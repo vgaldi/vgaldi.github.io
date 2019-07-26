@@ -4,7 +4,7 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2019-07-12T16:37:14-04:00</updated>
+ <updated>2019-07-26T22:02:12+02:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
@@ -13,9 +13,70 @@
 
  
  <entry>
+   <title>Our paper on spectral singularities published in IEEE-TAP</title>
+   <link href="http://fw-lab.org/news/IEEE-TAP-paper-NH-CYL-published"/>
+   <updated>2019-07-16T00:00:00+02:00</updated>
+   <id>http://fw-lab.org/news/IEEE-TAP-paper-NH-CYL-published</id>
+   <content type="html">&lt;p&gt;Our paper on “Harnessing spectral singularities in non-Hermitian cylindrical structures,” 
+[&lt;a href=&quot;#IJ136_IEEE-TAP_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
+has been published in the &lt;em&gt;IEEE Transactions on Antennas and Propagation&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ136_IEEE-TAP_2019&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2019). Harnessing spectral singularities in non-Hermitian cylindrical structures. &lt;i&gt;IEEE Transactions on Antennas and Propagation&lt;/i&gt; (early view).&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ136_IEEE-TAP_2019-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ136_IEEE-TAP_2019-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ136_IEEE-TAP_2019-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/TAP.2019.2927861&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ136_IEEE-TAP_2019.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ136_IEEE-TAP_2019-abstract&quot; class=&quot;collapse&quot;&gt;Non-Hermitian systems characterized by suitable spatial distributions of gain and loss can exhibit “spectral singularities” in the form of zero-width resonances associated to real-frequency poles in the scattering operator. Here, we study this intriguing phenomenon in connection with cylindrical geometries, and explore possible applications to controlling and tailoring in unconventional ways the scattering response of sub-wavelength and wavelength-sized objects. Among the possible implications and applications, we illustrate the additional degrees of freedom available in the scattering-absorption-extinction tradeoff, and address the engineering of zero-forward-scattering, transverse scattering, and gain-controlled reconfigurability of the scattering pattern, also paying attention to stability issues. Our results may open up new vistas in active and reconfigurable nanophotonics platforms.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ136_IEEE-TAP_2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ136_IEEE-TAP_2019,
+  author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
+  journal = {IEEE Transactions on Antennas and Propagation},
+  title = {Harnessing spectral singularities in non-Hermitian cylindrical structures},
+  year = {2019},
+  volume = {},
+  number = {early view},
+  pages = {},
+  doi = {10.1109/TAP.2019.2927861},
+  month = {}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Two talks presented at IEEE-APS/URSI 2019</title>
    <link href="http://fw-lab.org/news/IEEE-APS-2019"/>
-   <updated>2019-07-12T00:00:00-04:00</updated>
+   <updated>2019-07-12T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/IEEE-APS-2019</id>
    <content type="html">&lt;p&gt;We have presented two talks 
 [&lt;a href=&quot;#Coppolaro_URSI-USNC2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Zhang_URSI-USNC2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
@@ -103,7 +164,7 @@ Atlanta, GA, USA, July 7-12, 2019.&lt;/p&gt;
  <entry>
    <title>Our paper on spectral singularities accepted in IEEE-TAP</title>
    <link href="http://fw-lab.org/news/IEEE-TAP-paper-NH-CYL-accepted"/>
-   <updated>2019-07-04T00:00:00-04:00</updated>
+   <updated>2019-07-04T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/IEEE-TAP-paper-NH-CYL-accepted</id>
    <content type="html">&lt;p&gt;Our paper on “Harnessing spectral singularities in non-Hermitian cylindrical structures,” in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 has been accepted for publication in the &lt;a href=&quot;https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8&quot;&gt;&lt;em&gt;IEEE Transactions on Antennas and Propagation&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
@@ -115,7 +176,7 @@ has been accepted for publication in the &lt;a href=&quot;https://ieeexplore.iee
  <entry>
    <title>Talk presented at EuCAP 2019</title>
    <link href="http://fw-lab.org/news/EuCAP-2019"/>
-   <updated>2019-04-03T00:00:00-04:00</updated>
+   <updated>2019-04-03T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/EuCAP-2019</id>
    <content type="html">&lt;p&gt;We have presented a talk
 [&lt;a href=&quot;#Moccia_EuCAP2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] at the &lt;em&gt;13th European Conference on Antennas and Propagation&lt;/em&gt; (&lt;a href=&quot;https://www.eucap2019.org&quot;&gt;EuCAP&lt;/a&gt;),
@@ -165,7 +226,7 @@ Krakow, Poland, Mar. 31-Apr. 5, 2019.&lt;/p&gt;
  <entry>
    <title>Our paper on meta-tip sensors published in NMNT</title>
    <link href="http://fw-lab.org/news/NMNT-paper-meta-tip-published"/>
-   <updated>2019-02-26T00:00:00-05:00</updated>
+   <updated>2019-02-26T00:00:00+01:00</updated>
    <id>http://fw-lab.org/news/NMNT-paper-meta-tip-published</id>
    <content type="html">&lt;p&gt;Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications,”
 [&lt;a href=&quot;#IJ135_NMNT_9_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
@@ -223,7 +284,7 @@ has been published in &lt;em&gt;Nanomaterials and Nanotechnology&lt;/em&gt;.&lt;
  <entry>
    <title>Our paper on meta-tip sensors accepted in NMNT</title>
    <link href="http://fw-lab.org/news/NMNT-paper-meta-tip-accepted"/>
-   <updated>2019-01-29T00:00:00-05:00</updated>
+   <updated>2019-01-29T00:00:00+01:00</updated>
    <id>http://fw-lab.org/news/NMNT-paper-meta-tip-accepted</id>
    <content type="html">&lt;p&gt;Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications”
 has been accepted for publication in &lt;a href=&quot;https://journals.sagepub.com/home/nax&quot;&gt;&lt;em&gt;Nanomaterials and Nanotechnology&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
@@ -234,7 +295,7 @@ has been accepted for publication in &lt;a href=&quot;https://journals.sagepub.c
  <entry>
    <title>MIT student externship</title>
    <link href="http://fw-lab.org/news/MIT_externship"/>
-   <updated>2019-01-10T00:00:00-05:00</updated>
+   <updated>2019-01-10T00:00:00+01:00</updated>
    <id>http://fw-lab.org/news/MIT_externship</id>
    <content type="html">&lt;p&gt;Olivia Chong and Manuel Morales have temporarily joined the Fields &amp;amp; Waves Lab within the framework of the &lt;a href=&quot;https://alum.mit.edu/communitiesmit-students/student-externships&quot;&gt;MIT student externship program&lt;/a&gt;.&lt;/p&gt;
 
@@ -246,7 +307,7 @@ has been accepted for publication in &lt;a href=&quot;https://journals.sagepub.c
  <entry>
    <title>2019 EurAAP Leopold B. Felsen Award</title>
    <link href="http://fw-lab.org/news/EurAAP-LBF-award"/>
-   <updated>2018-12-10T00:00:00-05:00</updated>
+   <updated>2018-12-10T00:00:00+01:00</updated>
    <id>http://fw-lab.org/news/EurAAP-LBF-award</id>
    <content type="html">&lt;p&gt;The call for nominations for the &lt;em&gt;2019 EurAAP Leopold B. Felsen Award for Excellence in Electrodynamics&lt;/em&gt; is open.&lt;/p&gt;
 
@@ -281,7 +342,7 @@ recommendation of the referees.&lt;/p&gt;
  <entry>
    <title>Our paper on aperiodically ordered nonlocal metamaterials published in PRB</title>
    <link href="http://fw-lab.org/news/PRB-paper-ThM-published"/>
-   <updated>2018-11-22T00:00:00-05:00</updated>
+   <updated>2018-11-22T00:00:00+01:00</updated>
    <id>http://fw-lab.org/news/PRB-paper-ThM-published</id>
    <content type="html">&lt;p&gt;Our paper on “Aperiodic-order-induced enhancement of weak nonlocality in multilayered dielectric metamaterials”
 [&lt;a href=&quot;#IJ134_PRB_98_195128_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
@@ -363,7 +424,7 @@ has been published in [&lt;em&gt;Physical Review B&lt;/em&gt;].&lt;/p&gt;
  <entry>
    <title>Our paper on aperiodically ordered nonlocal metamaterials accepted in PRB</title>
    <link href="http://fw-lab.org/news/PRB-paper-ThM-accepted"/>
-   <updated>2018-11-03T00:00:00-04:00</updated>
+   <updated>2018-11-03T00:00:00+01:00</updated>
    <id>http://fw-lab.org/news/PRB-paper-ThM-accepted</id>
    <content type="html">&lt;p&gt;Our paper on “Aperiodic-order-induced enhancement of weak nonlocality in multilayered dielectric metamaterials”
 has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/prb/&quot;&gt;&lt;em&gt;Physical Review B&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
@@ -376,7 +437,7 @@ has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/p
  <entry>
    <title>Our paper on space-time-coding digital metasurfaces published in NatComms</title>
    <link href="http://fw-lab.org/news/NatComm-published"/>
-   <updated>2018-10-18T00:00:00-04:00</updated>
+   <updated>2018-10-18T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/NatComm-published</id>
    <content type="html">&lt;p&gt;Our paper on “Space-time-coding digital metasurfaces,”
 [&lt;a href=&quot;#IJ133_NatComm_9_4334_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
@@ -441,7 +502,7 @@ has been published in &lt;em&gt;Nature Communications&lt;/em&gt;.&lt;/p&gt;
  <entry>
    <title>Our paper on nonlocal metamaterials published in PRAppl</title>
    <link href="http://fw-lab.org/news/PRAppl-paper-published"/>
-   <updated>2018-09-26T00:00:00-04:00</updated>
+   <updated>2018-09-26T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/PRAppl-paper-published</id>
    <content type="html">&lt;p&gt;Our paper on “Boundary effects of weak nonlocality in multilayered dielectric metamaterials,”
 [&lt;a href=&quot;#IJ132_PRAppl_10_034060_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
@@ -506,7 +567,7 @@ has been published in &lt;em&gt;Physical Review Applied&lt;/em&gt;.&lt;/p&gt;
  <entry>
    <title>Four presentations at Metamaterials 2018</title>
    <link href="http://fw-lab.org/news/Metamaterials-2018"/>
-   <updated>2018-08-29T00:00:00-04:00</updated>
+   <updated>2018-08-29T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/Metamaterials-2018</id>
    <content type="html">&lt;p&gt;We have presented four papers
 [&lt;a href=&quot;#Scaravilli_2018-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Castaldi_2018-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Moccia_2018-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Koral_2018-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;]
@@ -680,7 +741,7 @@ Espoo, Finland, Aug. 27-30, 2018.&lt;/p&gt;
  <entry>
    <title>Our paper on nonlocal metamaterials accepted in PRAppl</title>
    <link href="http://fw-lab.org/news/PRB-paper-MPI-MTM-accepted"/>
-   <updated>2018-08-27T00:00:00-04:00</updated>
+   <updated>2018-08-27T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/PRB-paper-MPI-MTM-accepted</id>
    <content type="html">&lt;p&gt;Our paper on “Boundary effects of weak nonlocality in multilayered dielectric metamaterials,”
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
@@ -694,7 +755,7 @@ has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/p
  <entry>
    <title>Our paper on THz coding metasurfaces published in SciRep</title>
    <link href="http://fw-lab.org/news/SREP-published"/>
-   <updated>2018-08-09T00:00:00-04:00</updated>
+   <updated>2018-08-09T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/SREP-published</id>
    <content type="html">&lt;p&gt;Our paper on “Suboptimal coding metasurfaces for terahertz diffuse scattering,”
 [&lt;a href=&quot;#IJ131_SREP_8_11908_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
@@ -759,7 +820,7 @@ has been published in &lt;em&gt;Scientific Reports&lt;/em&gt;.&lt;/p&gt;
  <entry>
    <title>Our paper on THz coding metasurfaces accepted in SciRep</title>
    <link href="http://fw-lab.org/news/SREP-accepted"/>
-   <updated>2018-07-25T00:00:00-04:00</updated>
+   <updated>2018-07-25T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/SREP-accepted</id>
    <content type="html">&lt;p&gt;Our paper on “Suboptimal coding metasurfaces for terahertz diffuse scattering,”
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
@@ -771,7 +832,7 @@ has been accepted for publication in &lt;a href=&quot;https://www.nature.com/sre
  <entry>
    <title>Two talks presented at IEEE-APS/URSI 2018</title>
    <link href="http://fw-lab.org/news/IEEE-APS-2018"/>
-   <updated>2018-07-09T00:00:00-04:00</updated>
+   <updated>2018-07-09T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/IEEE-APS-2018</id>
    <content type="html">&lt;p&gt;We have presented two talks 
 [&lt;a href=&quot;#Moccia_2018-USNC-URSI&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Castaldi_2018-USNC-URSI&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
@@ -859,7 +920,7 @@ Boston, MA, USA, July 8-13, 2018.&lt;/p&gt;
  <entry>
    <title>Our paper on Bloch surface waves published in AdOM</title>
    <link href="http://fw-lab.org/news/AdOM-published"/>
-   <updated>2018-07-05T00:00:00-04:00</updated>
+   <updated>2018-07-05T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/AdOM-published</id>
    <content type="html">&lt;p&gt;Our paper on “Excitation of Bloch surface waves on an optical fiber tip,”
 [&lt;a href=&quot;#IJ130_AdOM_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
@@ -927,7 +988,7 @@ has been published in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
  <entry>
    <title>Tutorial Session on Metamaterials at MetroAeroSpace 2018</title>
    <link href="http://fw-lab.org/news/MAS-tutorial"/>
-   <updated>2018-06-20T00:00:00-04:00</updated>
+   <updated>2018-06-20T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/MAS-tutorial</id>
    <content type="html">&lt;p&gt;A Tutorial Session on &lt;em&gt;Metamaterials&lt;/em&gt; was held at the 5th IEEE International Workshop on Metrology 
 for AeroSpace (&lt;a href=&quot;http://www.metroaerospace.org/index.php/&quot;&gt;MetroAeroSpace 2018&lt;/a&gt;) in Rome, Italy. Tutorial lectures were given by Profs.
@@ -940,7 +1001,7 @@ and &lt;a href=&quot;https://www.researchgate.net/profile/Mirko_Barbuto&quot;&gt
  <entry>
    <title>Our paper on Bloch surface waves accepted in AdOM</title>
    <link href="http://fw-lab.org/news/AdOM-accepted"/>
-   <updated>2018-06-15T00:00:00-04:00</updated>
+   <updated>2018-06-15T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/AdOM-accepted</id>
    <content type="html">&lt;p&gt;Our paper on “Excitation of Bloch surface waves on an optical fiber tip,”
 in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group, 
@@ -953,7 +1014,7 @@ has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wile
  <entry>
    <title>Roadmap on transformation optics published in JOPT</title>
    <link href="http://fw-lab.org/news/JOPT-TO-roadmap_published"/>
-   <updated>2018-05-22T00:00:00-04:00</updated>
+   <updated>2018-05-22T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/JOPT-TO-roadmap_published</id>
    <content type="html">&lt;p&gt;The paper “Roadmap on transformation optics” [&lt;a href=&quot;#IJ129_JO_20_063001_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 has been published in the &lt;em&gt;Journal of Optics&lt;/em&gt;. Section 3 contains a
@@ -1014,7 +1075,7 @@ perspective on &lt;a href=&quot;/projects/nonlocal-effects&quot;&gt;nonlocal&lt;
  <entry>
    <title>Ph.D. defense</title>
    <link href="http://fw-lab.org/news/Scaravilli_PhD_defense"/>
-   <updated>2018-01-23T00:00:00-05:00</updated>
+   <updated>2018-01-23T00:00:00+01:00</updated>
    <id>http://fw-lab.org/news/Scaravilli_PhD_defense</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/team/michele-scaravilli&quot;&gt;Michele Scaravilli&lt;/a&gt; has successfully defended his Ph.D. thesis 
 in Information Technologies for Engineering
@@ -1031,7 +1092,7 @@ and &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?optio
  <entry>
    <title>New lab member</title>
    <link href="http://fw-lab.org/news/new-lab-member"/>
-   <updated>2017-12-01T00:00:00-05:00</updated>
+   <updated>2017-12-01T00:00:00+01:00</updated>
    <id>http://fw-lab.org/news/new-lab-member</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;/team/marino-coppolaro&quot;&gt;Marino Coppolaro&lt;/a&gt; has joined the Fields &amp;amp; Waves Lab as a Ph.D. student in Information Technologies for Engineering.&lt;/p&gt;
 
@@ -1043,7 +1104,7 @@ and &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?optio
  <entry>
    <title>2018 EurAAP Leopold B. Felsen Award</title>
    <link href="http://fw-lab.org/news/EurAAP-LBF-award"/>
-   <updated>2017-11-17T00:00:00-05:00</updated>
+   <updated>2017-11-17T00:00:00+01:00</updated>
    <id>http://fw-lab.org/news/EurAAP-LBF-award</id>
    <content type="html">&lt;p&gt;The call for nominations for the &lt;em&gt;2018 EurAAP Leopold B. Felsen Award for Excellence in Electrodynamics&lt;/em&gt; is open.&lt;/p&gt;
 
@@ -1078,7 +1139,7 @@ recommendation of the referees.&lt;/p&gt;
  <entry>
    <title>Nanomaterials and Nanotechnology – Special Collection on Optical Metamaterials and Metasurfaces</title>
    <link href="http://fw-lab.org/news/NN-special-collection"/>
-   <updated>2017-10-28T00:00:00-04:00</updated>
+   <updated>2017-10-28T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/NN-special-collection</id>
    <content type="html">&lt;p&gt;The journal &lt;a href=&quot;http://journals.sagepub.com/home/nax&quot;&gt;&lt;em&gt;Nanomaterials and Nanotechnology&lt;/em&gt;&lt;/a&gt; will publish a 
 Special Collection on &lt;em&gt;Recent Advances and Trends in Optical Metamaterials and Metasurfaces&lt;/em&gt;, coordinated by the Guest Editors 
@@ -1093,7 +1154,7 @@ Profs. &lt;a href=&quot;https://www.researchgate.net/profile/Mirko_Barbuto&quot;
  <entry>
    <title>Special Session on Metamaterials at MetroAeroSpace 2018</title>
    <link href="http://fw-lab.org/news/MAS-special-session"/>
-   <updated>2017-10-07T00:00:00-04:00</updated>
+   <updated>2017-10-07T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/MAS-special-session</id>
    <content type="html">&lt;p&gt;The 5th IEEE International Workshop on Metrology for AeroSpace (&lt;a href=&quot;http://www.metroaerospace.org/index.php/&quot;&gt;MetroAeroSpace 2018&lt;/a&gt;) will convene in Rome, Italy, from June 20 - 22, 2018.&lt;/p&gt;
 
@@ -1107,7 +1168,7 @@ Profs. &lt;a href=&quot;https://www.researchgate.net/profile/Mirko_Barbuto&quot;
  <entry>
    <title>EUPROMETA – 35th Doctoral School on Metamaterials</title>
    <link href="http://fw-lab.org/news/EUPROMETA-school"/>
-   <updated>2017-09-21T00:00:00-04:00</updated>
+   <updated>2017-09-21T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/EUPROMETA-school</id>
    <content type="html">&lt;p&gt;The XXXV Edition of the &lt;a href=&quot;http://school.metamorphose-vi.org&quot;&gt;EUPROMETA&lt;/a&gt; Distributed Doctoral School on Metamaterials will be held 
 in Rome, Italy, from December 18-22, 2017. The school will be focused on &lt;em&gt;Advanced Electromagnetic Materials and Surfaces for Novel Wave Phenomena&lt;/em&gt;.&lt;/p&gt;
@@ -1120,7 +1181,7 @@ in Rome, Italy, from December 18-22, 2017. The school will be focused on &lt;em&
  <entry>
    <title>Invited talk presented at ICEAA 2017</title>
    <link href="http://fw-lab.org/news/ICEAA-2017"/>
-   <updated>2017-09-14T00:00:00-04:00</updated>
+   <updated>2017-09-14T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/ICEAA-2017</id>
    <content type="html">&lt;p&gt;We have presented an invited talk
 [&lt;a href=&quot;#Moccia_2017-ICEAA&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
@@ -1177,7 +1238,7 @@ Verona, Italy, Sep. 11-15, 2017.&lt;/p&gt;
  <entry>
    <title>Two talks presented at EOS Capri Meetings 2017</title>
    <link href="http://fw-lab.org/news/EOS-2017"/>
-   <updated>2017-09-14T00:00:00-04:00</updated>
+   <updated>2017-09-14T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/EOS-2017</id>
    <content type="html">&lt;p&gt;We have presented two talks
 [&lt;a href=&quot;#Scaravilli_OMS_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Moccia_ONS_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
@@ -1266,7 +1327,7 @@ Capri, Italy, Sep. 10-14, 2017.&lt;/p&gt;
  <entry>
    <title>Invited talk presented at Metamaterials 2017</title>
    <link href="http://fw-lab.org/news/Metamaterials-2017"/>
-   <updated>2017-08-30T00:00:00-04:00</updated>
+   <updated>2017-08-30T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/Metamaterials-2017</id>
    <content type="html">&lt;p&gt;We have presented an invited talk
 [&lt;a href=&quot;#Galdi_2017-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
@@ -1321,7 +1382,7 @@ Marseille, France, Aug. 28-31, 2017.&lt;/p&gt;
  <entry>
    <title>Our paper on nonlocal metamaterials published in PRB</title>
    <link href="http://fw-lab.org/news/PRB-paper-MPI-MTM-published"/>
-   <updated>2017-08-21T00:00:00-04:00</updated>
+   <updated>2017-08-21T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/PRB-paper-MPI-MTM-published</id>
    <content type="html">&lt;p&gt;Our paper on “Enhancement and interplay of first- and second-order spatial 
 dispersion in metamaterials with moderate-permittivity inclusions” [&lt;a href=&quot;#IJ128_PRB_96_081113_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
@@ -1386,7 +1447,7 @@ has been published in &lt;em&gt;Physical Review B&lt;/em&gt; as a Rapid Communic
  <entry>
    <title>Our paper on nonlocal metamaterials accepted in PRB</title>
    <link href="http://fw-lab.org/news/PRB-paper-NL-ML-accepted"/>
-   <updated>2017-08-05T00:00:00-04:00</updated>
+   <updated>2017-08-05T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/PRB-paper-NL-ML-accepted</id>
    <content type="html">&lt;p&gt;Our paper on “Enhancement and interplay of first- and second-order spatial 
 dispersion in metamaterials with moderate-permittivity inclusions,”
@@ -1401,7 +1462,7 @@ has been accepted for publication as a Rapid Communication in &lt;a href=&quot;h
  <entry>
    <title>Our paper on coding metasurfaces published in AdOM</title>
    <link href="http://fw-lab.org/news/AdOM-paper-MS-published"/>
-   <updated>2017-07-28T00:00:00-04:00</updated>
+   <updated>2017-07-28T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/AdOM-paper-MS-published</id>
    <content type="html">&lt;p&gt;Our paper on “Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and sub-optimal design”
 [&lt;a href=&quot;#IJ127_AdOM_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
@@ -1468,7 +1529,7 @@ has been published (early view) in &lt;em&gt;Advanced Optical Materials&lt;/em&g
  <entry>
    <title>Two talks presented at IEEE-APS/URSI 2017</title>
    <link href="http://fw-lab.org/news/IEEE-APS-2017"/>
-   <updated>2017-07-14T00:00:00-04:00</updated>
+   <updated>2017-07-14T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/IEEE-APS-2017</id>
    <content type="html">&lt;p&gt;We have presented two talks 
 [&lt;a href=&quot;#Moccia_2017-USNC-URSI&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Principe_2017-USNC-URSI&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
@@ -1556,7 +1617,7 @@ San Diego, California, USA, July 9-14, 2017.&lt;/p&gt;
  <entry>
    <title>Our paper on coding metasurfaces accepted in AdOM</title>
    <link href="http://fw-lab.org/news/AdOM-paper-MS-accepted"/>
-   <updated>2017-06-16T00:00:00-04:00</updated>
+   <updated>2017-06-16T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/AdOM-paper-MS-accepted</id>
    <content type="html">&lt;p&gt;Our paper on “Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and sub-optimal design,”
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
@@ -1568,7 +1629,7 @@ has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wile
  <entry>
    <title>Our paper on metamaterial radomes published in IEEE-JMMCT</title>
    <link href="http://fw-lab.org/news/JMMCT-paper-MR-published"/>
-   <updated>2017-06-08T00:00:00-04:00</updated>
+   <updated>2017-06-08T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/JMMCT-paper-MR-published</id>
    <content type="html">&lt;p&gt;Our paper on “Transformation-optics-based design of a metamaterial radome for extending the scanning 
 angle of a phased array antenna” [&lt;a href=&quot;#IJ126_IEEE-JMMCT_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
@@ -1630,7 +1691,7 @@ has been published (early view) in the &lt;em&gt;IEEE Journal of Multiscale and 
  <entry>
    <title>Our paper on metamaterial radomes accepted in IEEE-JMMCT</title>
    <link href="http://fw-lab.org/news/JMMCT-paper-MR-accepted"/>
-   <updated>2017-05-29T00:00:00-04:00</updated>
+   <updated>2017-05-29T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/JMMCT-paper-MR-accepted</id>
    <content type="html">&lt;p&gt;Our paper on “Transformation-optics-based design of a metamaterial radome for extending the scanning angle of a phased array antenna,”
 in collaboration with &lt;a href=&quot;http://www.mbda-systems.com&quot;&gt;MBDA&lt;/a&gt;,
@@ -1644,7 +1705,7 @@ has been accepted for publication in the &lt;a href=&quot;https://ieeexplore.iee
  <entry>
    <title>Talk presented at OFS-25</title>
    <link href="http://fw-lab.org/news/OFS-25"/>
-   <updated>2017-04-28T00:00:00-04:00</updated>
+   <updated>2017-04-28T00:00:00+02:00</updated>
    <id>http://fw-lab.org/news/OFS-25</id>
    <content type="html">&lt;p&gt;We have presented a talk 
 [&lt;a href=&quot;#Principe_2017-OFS&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
@@ -1701,7 +1762,7 @@ at the
  <entry>
    <title>Our paper on non-Hermitian photonic chains published in PRB</title>
    <link href="http://fw-lab.org/news/PRB-paper-EPD-published"/>
-   <updated>2017-03-18T00:00:00-04:00</updated>
+   <updated>2017-03-18T00:00:00+01:00</updated>
    <id>http://fw-lab.org/news/PRB-paper-EPD-published</id>
    <content type="html">&lt;p&gt;Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers” 
 [&lt;a href=&quot;#IJ125_PRB_95_104305_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] 
@@ -1766,7 +1827,7 @@ has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;
  <entry>
    <title>Our paper on optical fiber meta-tips published in LSA</title>
    <link href="http://fw-lab.org/news/LSA-paper_meta-tip-published"/>
-   <updated>2017-03-10T00:00:00-05:00</updated>
+   <updated>2017-03-10T00:00:00+01:00</updated>
    <id>http://fw-lab.org/news/LSA-paper_meta-tip-published</id>
    <content type="html">&lt;p&gt;Our paper on “Optical fiber meta-tips” [&lt;a href=&quot;#IJ124_LSA_6_6226a_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
  in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group (University of Sannio),
@@ -1829,7 +1890,7 @@ has been published in &lt;em&gt;Light: Science &amp;amp; Applications&lt;/em&gt;
  <entry>
    <title>Our paper on non-Hermitian metasurfaces published in PRB</title>
    <link href="http://fw-lab.org/news/PRB-paper-NH-MS-published"/>
-   <updated>2017-03-09T00:00:00-05:00</updated>
+   <updated>2017-03-09T00:00:00+01:00</updated>
    <id>http://fw-lab.org/news/PRB-paper-NH-MS-published</id>
    <content type="html">&lt;p&gt;Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
  metasurfaces” [&lt;a href=&quot;#IJ123_PRB_95_115114_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
@@ -1893,7 +1954,7 @@ has been published in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
  <entry>
    <title>Our paper on non-Hermitian metasurfaces accepted in PRB</title>
    <link href="http://fw-lab.org/news/PRB-paper-NH-MS-accepted"/>
-   <updated>2017-02-15T00:00:00-05:00</updated>
+   <updated>2017-02-15T00:00:00+01:00</updated>
    <id>http://fw-lab.org/news/PRB-paper-NH-MS-accepted</id>
    <content type="html">&lt;p&gt;Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
  metasurfaces,”
@@ -1908,7 +1969,7 @@ has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/p
  <entry>
    <title>Our paper on non-Hermitian photonic chains accepted in PRB</title>
    <link href="http://fw-lab.org/news/PRB-paper-EPD-accepted"/>
-   <updated>2017-02-10T00:00:00-05:00</updated>
+   <updated>2017-02-10T00:00:00+01:00</updated>
    <id>http://fw-lab.org/news/PRB-paper-EPD-accepted</id>
    <content type="html">&lt;p&gt;Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers,” 
 in collaboration with &lt;a href=&quot;http://capolino.eng.uci.edu&quot;&gt;Filippo Capolino&lt;/a&gt;’s Group (University of California at Irvine),
@@ -1922,7 +1983,7 @@ has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/p
  <entry>
    <title>New website</title>
    <link href="http://fw-lab.org/news/new-website"/>
-   <updated>2017-02-09T00:00:00-05:00</updated>
+   <updated>2017-02-09T00:00:00+01:00</updated>
    <id>http://fw-lab.org/news/new-website</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;The new website is on!&lt;/strong&gt;&lt;/p&gt;
 
@@ -1934,7 +1995,7 @@ has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/p
  <entry>
    <title>About</title>
    <link href="http://fw-lab.org/misc/about"/>
-   <updated>2017-01-28T00:00:00-05:00</updated>
+   <updated>2017-01-28T00:00:00+01:00</updated>
    <id>http://fw-lab.org/misc/about</id>
    <content type="html">
 &lt;div class=&quot;bigspacer&quot;&gt;&lt;/div&gt;
@@ -1975,7 +2036,7 @@ Source: &lt;a href=&quot;http://www.annieclavel.com/galleries/ch/ch01&quot;&gt;a
  <entry>
    <title>Join</title>
    <link href="http://fw-lab.org/misc/join"/>
-   <updated>2017-01-27T00:00:00-05:00</updated>
+   <updated>2017-01-27T00:00:00+01:00</updated>
    <id>http://fw-lab.org/misc/join</id>
    <content type="html">
 &lt;p&gt;We are always interested in applications from highly 
@@ -2000,7 +2061,7 @@ a list of three academic references to vgaldi&lt;span style=&quot;display:none&q
  <entry>
    <title>Contact</title>
    <link href="http://fw-lab.org/misc/contact"/>
-   <updated>2017-01-25T00:00:00-05:00</updated>
+   <updated>2017-01-25T00:00:00+01:00</updated>
    <id>http://fw-lab.org/misc/contact</id>
    <content type="html">
 &lt;iframe class=&quot;pull-right&quot; src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3005.1750946569277!2d14.775529015533246!3d41.130703479288435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x133a3a727fde0107%3A0xa21cf6c92083118e!2sUniversit%C3%A0+degli+Studi+del+Sannio+-+Dipartimento+di+Ingegneria!5e0!3m2!1sen!2sus!4v1486115015466&quot; width=&quot;400&quot; height=&quot;300&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -2026,7 +2087,7 @@ a list of three academic references to vgaldi&lt;span style=&quot;display:none&q
  <entry>
    <title>Fields & Waves Lab</title>
    <link href="http://fw-lab.org/misc/home/home"/>
-   <updated>2017-01-22T00:00:00-05:00</updated>
+   <updated>2017-01-22T00:00:00+01:00</updated>
    <id>http://fw-lab.org/misc/home/home</id>
    <content type="html">&lt;p&gt;The Fields &amp;amp; Waves Lab at the University of Sannio works at the boundary of physics and engineering. 
 We study fundamental physical aspects of &lt;strong&gt;wave propagation&lt;/strong&gt; in complex media and scenarios, 
@@ -2039,7 +2100,7 @@ and explore engineering applications to &lt;strong&gt;communications and sensing
  <entry>
    <title>Metamaterial-based analog computing</title>
    <link href="http://fw-lab.org/projects/computational-MTM"/>
-   <updated>2017-01-20T00:00:00-05:00</updated>
+   <updated>2017-01-20T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/computational-MTM</id>
    <content type="html">
 &lt;p&gt;In collaboration with the Groups led by &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/)&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania) 
@@ -2130,7 +2191,7 @@ to several fields of science and engineering.&lt;/p&gt;
  <entry>
    <title>Multiphysics metamaterials</title>
    <link href="http://fw-lab.org/projects/multiphysics-MTM"/>
-   <updated>2017-01-19T00:00:00-05:00</updated>
+   <updated>2017-01-19T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/multiphysics-MTM</id>
    <content type="html">
 &lt;p&gt;During the past few years, the &lt;a href=&quot;/projects/TO-MTM&quot;&gt;transformation-optics&lt;/a&gt; approach has been also successfully applied 
@@ -2241,7 +2302,7 @@ such as aluminum nitride and silver conductive epoxies.&lt;/p&gt;
  <entry>
    <title>Optical fiber meta-tips</title>
    <link href="http://fw-lab.org/projects/meta-tip"/>
-   <updated>2017-01-18T00:00:00-05:00</updated>
+   <updated>2017-01-18T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/meta-tip</id>
    <content type="html">
 &lt;p&gt;Metasurfaces are 2-D implementations of metamaterials that are eliciting a growing attention in view the
@@ -2385,7 +2446,7 @@ of novel type of surface waves for label-free &lt;a href=&quot;/projects/MTM_opt
  <entry>
    <title>Digital coding metasurfaces</title>
    <link href="http://fw-lab.org/projects/coding_MS"/>
-   <updated>2017-01-17T00:00:00-05:00</updated>
+   <updated>2017-01-17T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/coding_MS</id>
    <content type="html">
 &lt;p&gt;&lt;em&gt;Digital&lt;/em&gt; and &lt;em&gt;coding&lt;/em&gt; metasurfaces, based on the combination of a limited number of basic unit cells, 
@@ -2590,7 +2651,7 @@ and illumination apertures for computational imaging, not necessarily restricted
  <entry>
    <title>Marino Coppolaro</title>
    <link href="http://fw-lab.org/team/marino-coppolaro"/>
-   <updated>2017-01-12T00:00:00-05:00</updated>
+   <updated>2017-01-12T00:00:00+01:00</updated>
    <id>http://fw-lab.org/team/marino-coppolaro</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Marino Coppolaro&lt;/strong&gt; was born in Benevento, Italy, on August 15, 1983.&lt;/p&gt;
 
@@ -2616,7 +2677,7 @@ under the supervision of Prof. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vi
  <entry>
    <title>Joseph Tien</title>
    <link href="http://fw-lab.org/team/joseph-tien"/>
-   <updated>2017-01-11T00:00:00-05:00</updated>
+   <updated>2017-01-11T00:00:00+01:00</updated>
    <id>http://fw-lab.org/team/joseph-tien</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Joseph Tien&lt;/strong&gt; was born in Los Angeles, CA, USA on November 8, 1991.&lt;/p&gt;
 
@@ -2640,7 +2701,7 @@ agglomeration chemistry, and intracellular membrane communication in the &lt;a h
  <entry>
    <title>Ray-chaotic “billiard” cavities</title>
    <link href="http://fw-lab.org/projects/billiard-cavities"/>
-   <updated>2017-01-11T00:00:00-05:00</updated>
+   <updated>2017-01-11T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/billiard-cavities</id>
    <content type="html">
 &lt;p&gt;Ray chaos, i.e., exponential sensitivity of ray trajectories to launching conditions, 
@@ -2793,7 +2854,7 @@ as well as the synthetic emulation of multi-path wireless channels.&lt;/p&gt;
  <entry>
    <title>Aperiodic-tiling antenna arrays</title>
    <link href="http://fw-lab.org/projects/aperiodic-tiling_arrays"/>
-   <updated>2017-01-11T00:00:00-05:00</updated>
+   <updated>2017-01-11T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/aperiodic-tiling_arrays</id>
    <content type="html">
 &lt;p&gt;Our Group has been among the pioneers in the application of aperiodically ordered structures in electromagnetics.&lt;/p&gt;
@@ -3089,7 +3150,7 @@ the element scattering responde, and the array size.&lt;/p&gt;
  <entry>
    <title>Optimized mirror coatings</title>
    <link href="http://fw-lab.org/projects/GW-coating"/>
-   <updated>2017-01-11T00:00:00-05:00</updated>
+   <updated>2017-01-11T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/GW-coating</id>
    <content type="html">
 &lt;p&gt;For second-generation gravitational-wave interferometric detectors such as &lt;a href=&quot;https://www.advancedligo.mit.edu&quot;&gt;Advanced LIGO&lt;/a&gt;, 
@@ -3278,7 +3339,7 @@ was achieved around 100 Hz. Understanding both the fundamental and the technical
  <entry>
    <title>Michele Scaravilli</title>
    <link href="http://fw-lab.org/team/michele-scaravilli"/>
-   <updated>2017-01-10T00:00:00-05:00</updated>
+   <updated>2017-01-10T00:00:00+01:00</updated>
    <id>http://fw-lab.org/team/michele-scaravilli</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Michele Scaravilli&lt;/strong&gt; was born in Caserta, Italy, on December 9, 1988.&lt;/p&gt;
 
@@ -3303,7 +3364,7 @@ on the excitation of Bloch surface waves.&lt;/p&gt;
  <entry>
    <title>Massimo Moccia</title>
    <link href="http://fw-lab.org/team/massimo-moccia"/>
-   <updated>2017-01-10T00:00:00-05:00</updated>
+   <updated>2017-01-10T00:00:00+01:00</updated>
    <id>http://fw-lab.org/team/massimo-moccia</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Massimo Moccia&lt;/strong&gt; was born in Benevento, Italy on February 11, 1982.&lt;/p&gt;
 
@@ -3327,7 +3388,7 @@ fiber-optics sensors, and nanotechnologies.&lt;/p&gt;
  <entry>
    <title>Ray-chaotic “pinball” scatterers</title>
    <link href="http://fw-lab.org/projects/pinball-scatterers"/>
-   <updated>2017-01-10T00:00:00-05:00</updated>
+   <updated>2017-01-10T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/pinball-scatterers</id>
    <content type="html">
 &lt;p&gt;Other intriguing examples of ray chaos can be found in &lt;em&gt;open&lt;/em&gt; configurations such as (n&amp;gt;3)-disk “pinballs”, 
@@ -3479,7 +3540,7 @@ is the possible exploitation of the inherent richness and complexity of the RCS 
  <entry>
    <title>Laser beam shaping</title>
    <link href="http://fw-lab.org/projects/GW-beam-shaping"/>
-   <updated>2017-01-10T00:00:00-05:00</updated>
+   <updated>2017-01-10T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/GW-beam-shaping</id>
    <content type="html">
 &lt;p&gt;In addition to the geometric optimization of the &lt;a href=&quot;/projects/GW-coating&quot;&gt;coating design&lt;/a&gt;,
@@ -3626,7 +3687,7 @@ to drive the subsequent optimization process.&lt;/p&gt;
  <entry>
    <title>Silvio Savoia</title>
    <link href="http://fw-lab.org/team/silvio-savoia"/>
-   <updated>2017-01-09T00:00:00-05:00</updated>
+   <updated>2017-01-09T00:00:00+01:00</updated>
    <id>http://fw-lab.org/team/silvio-savoia</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Silvio Savoia&lt;/strong&gt; was born in Benevento, Italy, in 1985.&lt;/p&gt;
 
@@ -3649,7 +3710,7 @@ Since February 2018, he has been working as an RF engineer at &lt;a href=&quot;h
  <entry>
    <title>Nonlocal effects in metamaterials</title>
    <link href="http://fw-lab.org/projects/nonlocal-effects"/>
-   <updated>2017-01-09T00:00:00-05:00</updated>
+   <updated>2017-01-09T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/nonlocal-effects</id>
    <content type="html">
 &lt;p&gt;Spatial dispersion, i.e., the &lt;em&gt;nonlocal&lt;/em&gt; character of the electromagnetic 
@@ -4098,7 +4159,7 @@ metamaterials.&lt;/p&gt;
  <entry>
    <title>Photonic quasicrystals: in-plane properties</title>
    <link href="http://fw-lab.org/projects/PQC-inplane"/>
-   <updated>2017-01-09T00:00:00-05:00</updated>
+   <updated>2017-01-09T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/PQC-inplane</id>
    <content type="html">
 &lt;p&gt;Photonic crystals are artificial materials capable of exhibiting photonic bandgaps, 
@@ -4574,7 +4635,7 @@ Instead, our study highlights the critical role played by short-range interactio
  <entry>
    <title>Ilaria Gallina</title>
    <link href="http://fw-lab.org/team/ilaria-gallina"/>
-   <updated>2017-01-08T00:00:00-05:00</updated>
+   <updated>2017-01-08T00:00:00+01:00</updated>
    <id>http://fw-lab.org/team/ilaria-gallina</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Ilaria Gallina&lt;/strong&gt; was born in Salerno, Italy, in 1979.&lt;/p&gt;
 
@@ -4596,7 +4657,7 @@ Commission B International Symposium on Electromagnetic Theory.&lt;/p&gt;
  <entry>
    <title>Giuseppe Castaldi</title>
    <link href="http://fw-lab.org/team/giuseppe-castaldi"/>
-   <updated>2017-01-08T00:00:00-05:00</updated>
+   <updated>2017-01-08T00:00:00+01:00</updated>
    <id>http://fw-lab.org/team/giuseppe-castaldi</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Giuseppe Castaldi&lt;/strong&gt; was born in Benevento, Italy, in 1968.&lt;/p&gt;
 
@@ -4619,7 +4680,7 @@ electromagnetic chaos, antenna array diagnostics, and phase retrieval.&lt;/p&gt;
  <entry>
    <title>Non-Hermitian metamaterials</title>
    <link href="http://fw-lab.org/projects/non-Hermitian-MTM"/>
-   <updated>2017-01-08T00:00:00-05:00</updated>
+   <updated>2017-01-08T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/non-Hermitian-MTM</id>
    <content type="html">
 &lt;p&gt;&lt;em&gt;Parity-time&lt;/em&gt; (PT) symmetry is a fascinating concept introduced in quantum physics in order to make sense of &lt;em&gt;non-Hermitian&lt;/em&gt; Hamiltonians.
@@ -4669,14 +4730,17 @@ we applied the &lt;em&gt;supersymmetry&lt;/em&gt; concept to the design of non-H
 higher-order mode-selection functionalities, 
 with potential applications to mode-division multiplexing in optical links.&lt;/p&gt;
 
-&lt;p&gt;More recently, in collaboration with &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (University of Texas at Austin),
+&lt;p&gt;More recently, in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 we have explored cylindrical lensing systems composed of pairs of metasurfaces with suitably tailored non-Hermitian
 and nonlocal properties in order to attain &lt;em&gt;magnified
-imaging&lt;/em&gt; with reduced aberrations [&lt;a href=&quot;#IJ123_PRB_95_115114_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;7&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
+imaging&lt;/em&gt; with reduced aberrations [&lt;a href=&quot;#IJ123_PRB_95_115114_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;7&lt;/span&gt;&lt;/a&gt;]. Moreover, we have studied 
+non-Hermitian core-shell configurations exhibiting &lt;em&gt;spectral singularities&lt;/em&gt; ﻿
+and have﻿explored possible applications to controlling and tailoring in unconventional ways the scattering 
+response of sub-wavelength and wavelength-sized objects [&lt;a href=&quot;#IJ136_IEEE-TAP_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;8&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
 
 &lt;p&gt;In collaboration with &lt;a href=&quot;http://capolino.eng.uci.edu&quot;&gt;Filippo Capolino&lt;/a&gt;’s Group (University of California at Irvine), we have
 also explored the emergence of &lt;em&gt;exceptional points&lt;/em&gt; in non-Hermitian photonic coupled chains of scatterers 
-[&lt;a href=&quot;#IJ125_PRB_95_104305_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;8&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
+[&lt;a href=&quot;#IJ125_PRB_95_104305_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;9&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
 
 &lt;p&gt;Our results may find potentially intriguing applicability to a variety of exotic
 light-matter interaction effects (e.g., unidirectional invisibility, coherent
@@ -5038,6 +5102,54 @@ optical components and devices.&lt;/p&gt;
   
     
 &lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ136_IEEE-TAP_2019&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2019). Harnessing spectral singularities in non-Hermitian cylindrical structures. &lt;i&gt;IEEE Transactions on Antennas and Propagation&lt;/i&gt; (early view).&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ136_IEEE-TAP_2019-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ136_IEEE-TAP_2019-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ136_IEEE-TAP_2019-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/TAP.2019.2927861&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ136_IEEE-TAP_2019.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ136_IEEE-TAP_2019-abstract&quot; class=&quot;collapse&quot;&gt;Non-Hermitian systems characterized by suitable spatial distributions of gain and loss can exhibit “spectral singularities” in the form of zero-width resonances associated to real-frequency poles in the scattering operator. Here, we study this intriguing phenomenon in connection with cylindrical geometries, and explore possible applications to controlling and tailoring in unconventional ways the scattering response of sub-wavelength and wavelength-sized objects. Among the possible implications and applications, we illustrate the additional degrees of freedom available in the scattering-absorption-extinction tradeoff, and address the engineering of zero-forward-scattering, transverse scattering, and gain-controlled reconfigurability of the scattering pattern, also paying attention to stability issues. Our results may open up new vistas in active and reconfigurable nanophotonics platforms.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ136_IEEE-TAP_2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ136_IEEE-TAP_2019,
+  author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
+  journal = {IEEE Transactions on Antennas and Propagation},
+  title = {Harnessing spectral singularities in non-Hermitian cylindrical structures},
+  year = {2019},
+  volume = {},
+  number = {early view},
+  pages = {},
+  doi = {10.1109/TAP.2019.2927861},
+  month = {}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;IJ125_PRB_95_104305_2017&quot;&gt;Othman, M. A. K., Galdi, V., &amp;amp; Capolino, F. (2017). Exceptional points of degeneracy and PT symmetry in photonic coupled chains of scatterers. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;95&lt;/i&gt;&lt;/span&gt;(10), 104305.&lt;/span&gt;
 
 
@@ -5095,7 +5207,7 @@ optical components and devices.&lt;/p&gt;
  <entry>
    <title>Photonic quasicrystals: out-of-plane properties</title>
    <link href="http://fw-lab.org/projects/PQC-outplane"/>
-   <updated>2017-01-08T00:00:00-05:00</updated>
+   <updated>2017-01-08T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/PQC-outplane</id>
    <content type="html">
 &lt;p&gt;Our Group has been among the first to study the &lt;em&gt;out-of-plane&lt;/em&gt; properties of photonic quasicrystals.&lt;/p&gt;
@@ -5308,7 +5420,7 @@ biological sensors based on periodic nanostructures currently available on the m
   
     
 &lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;IJ88_OpEx_18_17280_2010&quot;&gt;Pisco, M., Ricciardi, A., Gallina, I., Castaldi, G., Campopiano, S., Cutolo, A., … Galdi, V. (2010). Tuning efficiency and sensitivity of guided resonances in photonic crystals and quasi-crystals: a comparative study. &lt;i&gt;Opt. Express&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;18&lt;/i&gt;&lt;/span&gt;(16), 17280–17293.&lt;/span&gt;
+&lt;li&gt;&lt;span id=&quot;IJ88_OpEx_18_17280_2010&quot;&gt;Pisco, M., Ricciardi, A., Gallina, I., Castaldi, G., Campopiano, S., Cutolo, A., … Galdi, V. (2010). Tuning efficiency and sensitivity of guided resonances in photonic crystals and quasi-crystals: a comparative study. &lt;i&gt;Optics Express&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;18&lt;/i&gt;&lt;/span&gt;(16), 17280–17293.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ88_OpEx_18_17280_2010-materials&quot;&gt;
@@ -5342,7 +5454,7 @@ biological sensors based on periodic nanostructures currently available on the m
 
   &lt;pre id=&quot;IJ88_OpEx_18_17280_2010-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ88_OpEx_18_17280_2010,
   author = {Pisco, Marco and Ricciardi, Armando and Gallina, Ilaria and Castaldi, Giuseppe and Campopiano, Stefania and Cutolo, Antonello and Cusano, Andrea and Galdi, Vincenzo},
-  journal = {Opt. Express},
+  journal = {Optics Express},
   keywords = {All-optical devices; Resonance; Optical sensing and sensors ; Photonic crystals},
   number = {16},
   pages = {17280--17293},
@@ -5519,7 +5631,7 @@ biological sensors based on periodic nanostructures currently available on the m
  <entry>
    <title>Vincenzo Galdi</title>
    <link href="http://fw-lab.org/team/vincenzo-galdi"/>
-   <updated>2017-01-07T00:00:00-05:00</updated>
+   <updated>2017-01-07T00:00:00+01:00</updated>
    <id>http://fw-lab.org/team/vincenzo-galdi</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Vincenzo Galdi&lt;/strong&gt; received the Laurea degree (&lt;em&gt;summa cum laude&lt;/em&gt;) in electrical engineering and the Ph.D. degree in applied electromagnetics from the &lt;a href=&quot;http://web.unisa.it/en&quot;&gt;University of Salerno&lt;/a&gt;, 
 Italy, in 1995 and 1999, respectively.&lt;/p&gt;
@@ -5554,7 +5666,7 @@ He is also the recipient of an &lt;em&gt;Outstanding Associate Editor Award&lt;/
  <entry>
    <title>Reconfigurable metamaterial electric circuits</title>
    <link href="http://fw-lab.org/projects/reconfigurable-MTM"/>
-   <updated>2017-01-07T00:00:00-05:00</updated>
+   <updated>2017-01-07T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/reconfigurable-MTM</id>
    <content type="html">
 &lt;p&gt;When designing an electronic system, the influence of the surrounding environment can be considered either 
@@ -5651,7 +5763,7 @@ This can overcome significant constraints that limit innovation in information p
  <entry>
    <title>Transformation optics</title>
    <link href="http://fw-lab.org/projects/TO-MTM"/>
-   <updated>2017-01-06T00:00:00-05:00</updated>
+   <updated>2017-01-06T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/TO-MTM</id>
    <content type="html">
 &lt;p&gt;Transformation optics has been a major catalyst for the formidable advances 
@@ -6263,7 +6375,7 @@ some of which are also included in a recent “roadmap” [&lt;a href=&quot;#IJ1
  <entry>
    <title>Optical nonlocality in aperiodic multilayered hyperbolic and dielectric metamaterials</title>
    <link href="http://fw-lab.org/projects/aperiodic-ML"/>
-   <updated>2017-01-05T00:00:00-05:00</updated>
+   <updated>2017-01-05T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/aperiodic-ML</id>
    <content type="html">
 &lt;p&gt;Hyperbolic metamaterials are characterized by uniaxally 
@@ -6442,7 +6554,7 @@ nonlocality in aperiodically ordered multilayered dielectric metamaterials wity 
  <entry>
    <title>Optical sensing</title>
    <link href="http://fw-lab.org/projects/MTM_optical-sensing"/>
-   <updated>2017-01-05T00:00:00-05:00</updated>
+   <updated>2017-01-05T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/MTM_optical-sensing</id>
    <content type="html">
 &lt;p&gt;Metamaterials and artificial materials can find important applications to optical sensing.
@@ -6690,7 +6802,7 @@ More recently [&lt;a href=&quot;#IJ130_AdOM_2018&quot;&gt;&lt;span style=&quot;v
  <entry>
    <title>Anomalous transmission</title>
    <link href="http://fw-lab.org/projects/MTM_anomalous-transmission"/>
-   <updated>2017-01-05T00:00:00-05:00</updated>
+   <updated>2017-01-05T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/MTM_anomalous-transmission</id>
    <content type="html">
 &lt;p&gt;Metamaterials can give rise to a broad variety of &lt;em&gt;anomalous&lt;/em&gt; transmission effects.
@@ -6953,7 +7065,7 @@ in the previous numerical studies.&lt;/p&gt;
  <entry>
    <title>Nonreciprocal metamaterials</title>
    <link href="http://fw-lab.org/projects/nonreciprocal-MTM"/>
-   <updated>2017-01-04T00:00:00-05:00</updated>
+   <updated>2017-01-04T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/nonreciprocal-MTM</id>
    <content type="html">
 &lt;p&gt;Nonreciprocal light propagation effects are of great interest
@@ -7112,7 +7224,7 @@ and can be exploited to design compact (wavelength-sized) optical isolators for 
  <entry>
    <title>Extreme-parameter metamaterials</title>
    <link href="http://fw-lab.org/projects/extreme-parameter_MTM"/>
-   <updated>2017-01-04T00:00:00-05:00</updated>
+   <updated>2017-01-04T00:00:00+01:00</updated>
    <id>http://fw-lab.org/projects/extreme-parameter_MTM</id>
    <content type="html">
 &lt;p&gt;Metamaterials with &lt;em&gt;extreme parameters&lt;/em&gt; (e.g., very small or very large components of the constitutive 
@@ -7209,7 +7321,7 @@ slabs and allow tailoring their properties without the need of extensive numeric
  <entry>
    <title>Media</title>
    <link href="http://fw-lab.org/media/media"/>
-   <updated>2017-01-03T00:00:00-05:00</updated>
+   <updated>2017-01-03T00:00:00+01:00</updated>
    <id>http://fw-lab.org/media/media</id>
    <content type="html">
 &lt;h2 id=&quot;selected-media-highlights-on-our-research&quot;&gt;Selected media highlights on our research&lt;/h2&gt;
