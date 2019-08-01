@@ -27,6 +27,7 @@ http://fw-lab.org/tags
 http://fw-lab.org/feed.xml
 http://fw-lab.org/feed.xslt.xml
 
+http://fw-lab.org/news/AM-accepted
 http://fw-lab.org/news/IEEE-TAP-paper-NH-CYL-published
 http://fw-lab.org/news/IEEE-APS-2019
 http://fw-lab.org/news/IEEE-TAP-paper-NH-CYL-accepted
