@@ -5,10 +5,73 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2019-08-01T20:02:57+02:00</lastBuildDate>
-        <pubDate>2019-08-01T20:02:57+02:00</pubDate>
+        <lastBuildDate>2019-08-17T21:18:34+02:00</lastBuildDate>
+        <pubDate>2019-08-17T21:18:34+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on nonreciprocal space-time-coding metasurfaces published in AdvMat</title>
+                <description>&lt;p&gt;Our paper on “Breaking reciprocity with space-time-coding digital metasurfaces,”
+[&lt;a href=&quot;#IJ137_AM_1904069_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
+has been published in &lt;em&gt;Advanced Materials&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ137_AM_1904069_2019&quot;&gt;Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Castaldi, G., … Cui, T. J. (2019). Breaking reciprocity with space-time-coding digital metasurfaces. &lt;i&gt;Advanced Materials&lt;/i&gt; (early view), 1904069.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ137_AM_1904069_2019-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ137_AM_1904069_2019-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ137_AM_1904069_2019-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1002/adma.201904069&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ137_AM_1904069_2019.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadma.201904069&amp;amp;file=adma201904069-sup-0001-S1.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ137_AM_1904069_2019-abstract&quot; class=&quot;collapse&quot;&gt;Metasurfaces are artificially engineered ultrathin structures that can finely tailor and control electromagnetic wavefronts. There is currently a strong interest in exploring their capability to lift some fundamental limitations dictated by Lorentz reciprocity, which have strong implications in communication, heat management, and energy harvesting. Time-varying approaches have emerged as attractive alternatives to conventional schemes relying on magnetic or nonlinear materials, but experimental evidence is currently limited to devices such as circulators and antennas. Here, the recently proposed concept of space-time-coding digital metasurfaces is leveraged to break reciprocity. Moreover, it is shown that such nonreciprocal effects can be controlled dynamically. This approach relies on inducing suitable spatiotemporal phase gradients in a programmable way via digital modulation of the metasurface-elements’ phase repsonse, which enable anomalous reflections accompanied by frequency conversions. A prototype operating at microwave frequencies is designed and fabricated for proof-of-concept validation. Measured results are in good agreement with theory, hence providing the first experimental evidence of nonreciprocal reflection effects enabled by space-time-modulated digital metasurfaces. The proposed concept and platform set the stage for “on-demand” realization of nonreciprocal effects, in programmable or reconfigurable fashions, which may find several promising applications, including frequency conversion, Doppler frequency illusion, optical isolation, and unidirectional transmission.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ137_AM_1904069_2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ137_AM_1904069_2019,
+  author = {Zhang, Lei and Chen, Xiao Qing and Shao, Rui Wen and Dai, Jun Yan and Cheng, Qiang and Castaldi, Giuseppe and Galdi, Vincenzo and Cui, Tie Jun},
+  title = {Breaking reciprocity with space-time-coding digital metasurfaces},
+  journal = {Advanced Materials},
+  volume = {},
+  number = {early view},
+  pages = {1904069},
+  year = {2019},
+  doi = {10.1002/adma.201904069},
+  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadma.201904069&amp;amp;file=adma201904069-sup-0001-S1.pdf}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://fw-lab.org/news/AM-published</link>
+                <guid>http://fw-lab.org/news/AM-published</guid>
+                <pubDate>2019-08-17T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Our paper on nonreciprocal space-time-coding metasurfaces accepted in AdvMat</title>
@@ -2491,7 +2554,8 @@ plate of same size, from which a significant reduction (&amp;gt;10 dB) of the RC
 &lt;p&gt;More recently, we have extended these results to the THz range [&lt;a href=&quot;#IJ131_SREP_8_11908_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]. 
 We have also proposed &lt;em&gt;space-time modulated&lt;/em&gt; digital coding metasurfaces to obtain simultaneous manipulations of 
 electromagnetic waves in both space and frequency domains, i.e., to control the propagation direction 
-and harmonic power distribution simultaneously [&lt;a href=&quot;#IJ133_NatComm_9_4334_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
+and harmonic power distribution simultaneously [&lt;a href=&quot;#IJ133_NatComm_9_4334_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], and to break Lorentz reciprocity
+[&lt;a href=&quot;#IJ137_AM_1904069_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
 
 &lt;p&gt;Our results may be of interest in a variety of application fields, such as the design of low-scattering targets 
 and illumination apertures for computational imaging, not necessarily restricted to electromagnetic scenarios.&lt;/p&gt;
@@ -2646,6 +2710,56 @@ and illumination apertures for computational imaging, not necessarily restricted
   doi = {10.1038/s41467-018-06802-0},
   note = {https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-018-06802-0/MediaObjects/41467_2018_6802_MOESM1_ESM.pdf},
   month = oct
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;IJ137_AM_1904069_2019&quot;&gt;Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Castaldi, G., … Cui, T. J. (2019). Breaking reciprocity with space-time-coding digital metasurfaces. &lt;i&gt;Advanced Materials&lt;/i&gt; (early view), 1904069.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ137_AM_1904069_2019-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ137_AM_1904069_2019-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ137_AM_1904069_2019-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1002/adma.201904069&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ137_AM_1904069_2019.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadma.201904069&amp;amp;file=adma201904069-sup-0001-S1.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ137_AM_1904069_2019-abstract&quot; class=&quot;collapse&quot;&gt;Metasurfaces are artificially engineered ultrathin structures that can finely tailor and control electromagnetic wavefronts. There is currently a strong interest in exploring their capability to lift some fundamental limitations dictated by Lorentz reciprocity, which have strong implications in communication, heat management, and energy harvesting. Time-varying approaches have emerged as attractive alternatives to conventional schemes relying on magnetic or nonlinear materials, but experimental evidence is currently limited to devices such as circulators and antennas. Here, the recently proposed concept of space-time-coding digital metasurfaces is leveraged to break reciprocity. Moreover, it is shown that such nonreciprocal effects can be controlled dynamically. This approach relies on inducing suitable spatiotemporal phase gradients in a programmable way via digital modulation of the metasurface-elements’ phase repsonse, which enable anomalous reflections accompanied by frequency conversions. A prototype operating at microwave frequencies is designed and fabricated for proof-of-concept validation. Measured results are in good agreement with theory, hence providing the first experimental evidence of nonreciprocal reflection effects enabled by space-time-modulated digital metasurfaces. The proposed concept and platform set the stage for “on-demand” realization of nonreciprocal effects, in programmable or reconfigurable fashions, which may find several promising applications, including frequency conversion, Doppler frequency illusion, optical isolation, and unidirectional transmission.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ137_AM_1904069_2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ137_AM_1904069_2019,
+  author = {Zhang, Lei and Chen, Xiao Qing and Shao, Rui Wen and Dai, Jun Yan and Cheng, Qiang and Castaldi, Giuseppe and Galdi, Vincenzo and Cui, Tie Jun},
+  title = {Breaking reciprocity with space-time-coding digital metasurfaces},
+  journal = {Advanced Materials},
+  volume = {},
+  number = {early view},
+  pages = {1904069},
+  year = {2019},
+  doi = {10.1002/adma.201904069},
+  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadma.201904069&amp;amp;file=adma201904069-sup-0001-S1.pdf}
 }
 &lt;/pre&gt;
 
