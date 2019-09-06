@@ -5,18 +5,54 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2019-09-06T16:53:14+02:00</lastBuildDate>
-        <pubDate>2019-09-06T16:53:14+02:00</pubDate>
+        <lastBuildDate>2019-09-06T17:18:23+02:00</lastBuildDate>
+        <pubDate>2019-09-06T17:18:23+02:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
                 <title>Talk presented at NANOP 2019</title>
                 <description>&lt;p&gt;We have presented a talk
-[(missing reference)] at the &lt;em&gt;Nanophotonics and Micro/Nano Optics International Conference&lt;/em&gt; (&lt;a href=&quot;https://premc.org/conferences/nanop-nanophotonics-micro-nano-optics/&quot;&gt;NANOP&lt;/a&gt;),
+[&lt;a href=&quot;#DiMeo_NANOP19&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] at the &lt;em&gt;Nanophotonics and Micro/Nano Optics International Conference&lt;/em&gt; (&lt;a href=&quot;https://premc.org/conferences/nanop-nanophotonics-micro-nano-optics/&quot;&gt;NANOP&lt;/a&gt;),
 Munich, Germany, Sep. 4-7, 2019.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;/ol&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;DiMeo_NANOP19&quot;&gt;Di Meo, V., Crescitelli, A., Sandomenico, A., Moccia, M., Galdi, V., Portaccio, M., … Esposito, E. (2019). Pixeled metasurface for multiwavelength  detection of vitamin D3. In &lt;i&gt;Nanophotonics and Micro/Nano Optics International Conference (NANOP)&lt;/i&gt;. Munich, Germany, Sep. 4-7, 2019.&lt;/span&gt;
+
+
+&lt;div id=&quot;DiMeo_NANOP19-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#DiMeo_NANOP19-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;DiMeo_NANOP19-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{DiMeo_NANOP19,
+  author = {Di Meo, V. and Crescitelli, A. and Sandomenico, A. and Moccia, M. and Galdi, V. and Portaccio, M. and Lepore, M. and Rendina, I. and Ruvo, M. and Esposito, E.},
+  title = {Pixeled metasurface for multiwavelength  detection of vitamin D3},
+  booktitle = {Nanophotonics and Micro/Nano Optics International Conference (NANOP)},
+  organization = {Munich, Germany, Sep. 4-7, 2019},
+  month = sep,
+  year = {2019}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
 
 </description>
                 <link>http://fw-lab.org/news/NANOP-2019</link>
