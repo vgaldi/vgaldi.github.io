@@ -4,13 +4,27 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2019-08-21T22:26:54+02:00</updated>
+ <updated>2019-09-06T16:53:14+02:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
    <email>vgaldi@unisannio.it</email>
  </author>
 
+ 
+ <entry>
+   <title>Talk presented at NANOP 2019</title>
+   <link href="http://fw-lab.org/news/NANOP-2019"/>
+   <updated>2019-09-06T00:00:00+02:00</updated>
+   <id>http://fw-lab.org/news/NANOP-2019</id>
+   <content type="html">&lt;p&gt;We have presented a talk
+[(missing reference)] at the &lt;em&gt;Nanophotonics and Micro/Nano Optics International Conference&lt;/em&gt; (&lt;a href=&quot;https://premc.org/conferences/nanop-nanophotonics-micro-nano-optics/&quot;&gt;NANOP&lt;/a&gt;),
+Munich, Germany, Sep. 4-7, 2019.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;/ol&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Prof. Galdi joins OpEx Editorial Board</title>
@@ -5784,7 +5798,7 @@ He has served as Associate Chair for Undergraduate Studies in Telecommunication 
 
 &lt;p&gt;He is currently serving as a Track Editor of the &lt;a href=&quot;http://www.ieeeaps.org/publications/ieee-transactions-on-antennas-and-propagations/ieee-tap-home&quot;&gt;&lt;em&gt;IEEE Transactions on Antennas and Propagation&lt;/em&gt;&lt;/a&gt;, 
 an Associate Editor of &lt;a href=&quot;https://www.osapublishing.org/oe/home.cfm&quot;&gt;&lt;em&gt;Optics Express&lt;/em&gt;&lt;/a&gt; and &lt;a href=&quot;http://www.heliyon.com/&quot;&gt;&lt;em&gt;Heliyon&lt;/em&gt;&lt;/a&gt;, 
-and a regular reviewer for many journals, conferences and funding agencies. He has served as an Associate Editor of &lt;a href=&quot;http://www.mdpi.com/journal/applsci&quot;&gt;&lt;em&gt;Applied Sciences&lt;/em&gt;&lt;/a&gt; (2017-2019), 
+and a regular reviewer for many journals, conferences and funding agencies. He has served as an Associate Editor of &lt;a href=&quot;http://www.mdpi.com/journal/applsci&quot;&gt;&lt;em&gt;Applied Sciences&lt;/em&gt;&lt;/a&gt; (2017-2019) 
 and of the &lt;a href=&quot;http://www.hindawi.com/journals/ijap/&quot;&gt;&lt;em&gt;International Journal of Antennas and Propagation&lt;/em&gt;&lt;/a&gt; (2012-2019).&lt;/p&gt;
 
 &lt;p&gt;His research interests encompass wave interactions with complex structures and media, multiphysics metamaterials, electromagnetic chaos, 
