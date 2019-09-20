@@ -4,13 +4,262 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2019-09-06T17:18:23+02:00</updated>
+ <updated>2019-09-20T22:24:46+02:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
    <email>vgaldi@unisannio.it</email>
  </author>
 
+ 
+ <entry>
+   <title>Best Poster Award at Metamaterials 2019</title>
+   <link href="http://fw-lab.org/news/award-Metamaterials-2019"/>
+   <updated>2019-09-20T00:00:00+02:00</updated>
+   <id>http://fw-lab.org/news/award-Metamaterials-2019</id>
+   <content type="html">&lt;p&gt;Our paper entitled &lt;em&gt;“Some ideas for non-Hermitian doping of epsilon-near-zero media”&lt;/em&gt; 
+[&lt;a href=&quot;#Coppolaro_Metamaterials2019b&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] received the &lt;em&gt;Best Poster Award&lt;/em&gt; at the &lt;em&gt;13th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2019.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
+Rome, Italy, Sep. 16-19, 2019.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Coppolaro_Metamaterials2019b&quot;&gt;Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2019). Some ideas for non-Hermitian doping of epsilon-near-zero media. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Rome, Italy, Sep. 16-19, 2019.&lt;/span&gt;
+
+
+&lt;div id=&quot;Coppolaro_Metamaterials2019b-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Coppolaro_Metamaterials2019b-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Coppolaro_Metamaterials2019b-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Coppolaro_Metamaterials2019b,
+  author = {Coppolaro, M. and Moccia, M. and Castaldi, G. and Engheta, N. and Galdi, V.},
+  title = {Some ideas for non-Hermitian doping of epsilon-near-zero media},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {Rome, Italy, Sep. 16-19, 2019},
+  month = sep,
+  year = {2019}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Five presentations at Metamaterials 2019</title>
+   <link href="http://fw-lab.org/news/Metamaterials-2019"/>
+   <updated>2019-09-19T00:00:00+02:00</updated>
+   <id>http://fw-lab.org/news/Metamaterials-2019</id>
+   <content type="html">&lt;p&gt;We have presented five papers
+[&lt;a href=&quot;#Moccia_Metamaterials2019b&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Coppolaro_Metamaterials2019b&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Moccia_Metamaterials2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Zhang_Metamaterials2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Coppolaro_Metamaterials2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;], 
+at the &lt;em&gt;13th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2019.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
+Rome, Italy, Sep. 16-19, 2019.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Moccia_Metamaterials2019b&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2019). Spectral singularities in non-Hermitian cylindrical geometries. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Rome, Italy, Sep. 16-19, 2019.&lt;/span&gt;
+
+
+&lt;div id=&quot;Moccia_Metamaterials2019b-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Moccia_Metamaterials2019b-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Moccia_Metamaterials2019b-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Moccia_Metamaterials2019b,
+  author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
+  title = {Spectral singularities in non-Hermitian cylindrical geometries},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {Rome, Italy, Sep. 16-19, 2019},
+  month = sep,
+  year = {2019}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Coppolaro_Metamaterials2019b&quot;&gt;Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2019). Some ideas for non-Hermitian doping of epsilon-near-zero media. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Rome, Italy, Sep. 16-19, 2019.&lt;/span&gt;
+
+
+&lt;div id=&quot;Coppolaro_Metamaterials2019b-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Coppolaro_Metamaterials2019b-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Coppolaro_Metamaterials2019b-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Coppolaro_Metamaterials2019b,
+  author = {Coppolaro, M. and Moccia, M. and Castaldi, G. and Engheta, N. and Galdi, V.},
+  title = {Some ideas for non-Hermitian doping of epsilon-near-zero media},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {Rome, Italy, Sep. 16-19, 2019},
+  month = sep,
+  year = {2019}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Moccia_Metamaterials2019&quot;&gt;Moccia, M., Castaldi, G., &amp;amp; Galdi, V. (2019). Nonlocal and non-Hermitian transformation optics. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Rome, Italy, Sep. 16-19, 2019.&lt;/span&gt;
+
+
+&lt;div id=&quot;Moccia_Metamaterials2019-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Moccia_Metamaterials2019-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Moccia_Metamaterials2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Moccia_Metamaterials2019,
+  author = {Moccia, M. and Castaldi, G. and Galdi, V.},
+  title = {Nonlocal and non-Hermitian transformation optics},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {Rome, Italy, Sep. 16-19, 2019},
+  month = sep,
+  year = {2019}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Zhang_Metamaterials2019&quot;&gt;Zhang, L., Chen, X. Q., Liu, S., Zhang, Q., Zhao, J., Dai, J. Y., … Cui, T. J. (2019). Space-time-coding digital metasurfaces. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Rome, Italy, Sep. 16-19, 2019.&lt;/span&gt;
+
+
+&lt;div id=&quot;Zhang_Metamaterials2019-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Zhang_Metamaterials2019-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Zhang_Metamaterials2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Zhang_Metamaterials2019,
+  author = {Zhang, Lei and Chen, Xiao Qing and Liu, Shuo and Zhang, Qian and Zhao, Jie and Dai, Jun Yan and Bai, Guo Dong and Wan, Xiang and Cheng, Qiang and Castaldi, Giuseppe and Galdi, Vincenzo and Cui, Tie Jun},
+  title = {Space-time-coding digital metasurfaces},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {Rome, Italy, Sep. 16-19, 2019},
+  month = sep,
+  year = {2019}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Coppolaro_Metamaterials2019&quot;&gt;Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2019). Enhancement of weak nonlocality in aperiodically ordered multilayered dielectric metamaterials. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Rome, Italy, Sep. 16-19, 2019.&lt;/span&gt;
+
+
+&lt;div id=&quot;Coppolaro_Metamaterials2019-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Coppolaro_Metamaterials2019-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Coppolaro_Metamaterials2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Coppolaro_Metamaterials2019,
+  author = {Coppolaro, M. and Castaldi, G. and Galdi, V.},
+  title = {Enhancement of weak nonlocality in aperiodically ordered multilayered dielectric metamaterials},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {Rome, Italy, Sep. 16-19, 2019},
+  month = sep,
+  year = {2019}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Talk presented at NANOP 2019</title>

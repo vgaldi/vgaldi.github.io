@@ -1,4 +1,452 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-09-06T17:18:23+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Talk presented at NANOP 2019</title><link href="/news/NANOP-2019" rel="alternate" type="text/html" title="Talk presented at NANOP 2019" /><published>2019-09-06T00:00:00+02:00</published><updated>2019-09-06T00:00:00+02:00</updated><id>/news/NANOP-2019</id><content type="html" xml:base="/news/NANOP-2019">&lt;p&gt;We have presented a talk
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-09-20T22:24:46+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Best Poster Award at Metamaterials 2019</title><link href="/news/award-Metamaterials-2019" rel="alternate" type="text/html" title="Best Poster Award at Metamaterials 2019" /><published>2019-09-20T00:00:00+02:00</published><updated>2019-09-20T00:00:00+02:00</updated><id>/news/award-Metamaterials-2019</id><content type="html" xml:base="/news/award-Metamaterials-2019">&lt;p&gt;Our paper entitled &lt;em&gt;“Some ideas for non-Hermitian doping of epsilon-near-zero media”&lt;/em&gt; 
+[&lt;a href=&quot;#Coppolaro_Metamaterials2019b&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] received the &lt;em&gt;Best Poster Award&lt;/em&gt; at the &lt;em&gt;13th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2019.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
+Rome, Italy, Sep. 16-19, 2019.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Coppolaro_Metamaterials2019b&quot;&gt;Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2019). Some ideas for non-Hermitian doping of epsilon-near-zero media. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Rome, Italy, Sep. 16-19, 2019.&lt;/span&gt;
+
+
+&lt;div id=&quot;Coppolaro_Metamaterials2019b-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Coppolaro_Metamaterials2019b-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Coppolaro_Metamaterials2019b-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Coppolaro_Metamaterials2019b,
+  author = {Coppolaro, M. and Moccia, M. and Castaldi, G. and Engheta, N. and Galdi, V.},
+  title = {Some ideas for non-Hermitian doping of epsilon-near-zero media},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {Rome, Italy, Sep. 16-19, 2019},
+  month = sep,
+  year = {2019}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="non-Hermitian" /><category term="epsilon near zero" /><category term="award" /><summary type="html">Our paper entitled “Some ideas for non-Hermitian doping of epsilon-near-zero media” 
+[1] received the Best Poster Award at the 13th International Congress on Engineered Material Platforms for Novel Wave Phenomena (Metamaterials),
+Rome, Italy, Sep. 16-19, 2019.
+
+Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2019). Some ideas for non-Hermitian doping of epsilon-near-zero media. In International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS). Rome, Italy, Sep. 16-19, 2019.
+
+
+
+  
+    
+
+    BibTeX
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  
+
+  
+
+  @inproceedings{Coppolaro_Metamaterials2019b,
+  author = {Coppolaro, M. and Moccia, M. and Castaldi, G. and Engheta, N. and Galdi, V.},
+  title = {Some ideas for non-Hermitian doping of epsilon-near-zero media},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {Rome, Italy, Sep. 16-19, 2019},
+  month = sep,
+  year = {2019}
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/award.png" /></entry><entry><title type="html">Five presentations at Metamaterials 2019</title><link href="/news/Metamaterials-2019" rel="alternate" type="text/html" title="Five presentations at Metamaterials 2019" /><published>2019-09-19T00:00:00+02:00</published><updated>2019-09-19T00:00:00+02:00</updated><id>/news/Metamaterials-2019</id><content type="html" xml:base="/news/Metamaterials-2019">&lt;p&gt;We have presented five papers
+[&lt;a href=&quot;#Moccia_Metamaterials2019b&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Coppolaro_Metamaterials2019b&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Moccia_Metamaterials2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Zhang_Metamaterials2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Coppolaro_Metamaterials2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;], 
+at the &lt;em&gt;13th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2019.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
+Rome, Italy, Sep. 16-19, 2019.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Moccia_Metamaterials2019b&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2019). Spectral singularities in non-Hermitian cylindrical geometries. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Rome, Italy, Sep. 16-19, 2019.&lt;/span&gt;
+
+
+&lt;div id=&quot;Moccia_Metamaterials2019b-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Moccia_Metamaterials2019b-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Moccia_Metamaterials2019b-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Moccia_Metamaterials2019b,
+  author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
+  title = {Spectral singularities in non-Hermitian cylindrical geometries},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {Rome, Italy, Sep. 16-19, 2019},
+  month = sep,
+  year = {2019}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Coppolaro_Metamaterials2019b&quot;&gt;Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2019). Some ideas for non-Hermitian doping of epsilon-near-zero media. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Rome, Italy, Sep. 16-19, 2019.&lt;/span&gt;
+
+
+&lt;div id=&quot;Coppolaro_Metamaterials2019b-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Coppolaro_Metamaterials2019b-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Coppolaro_Metamaterials2019b-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Coppolaro_Metamaterials2019b,
+  author = {Coppolaro, M. and Moccia, M. and Castaldi, G. and Engheta, N. and Galdi, V.},
+  title = {Some ideas for non-Hermitian doping of epsilon-near-zero media},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {Rome, Italy, Sep. 16-19, 2019},
+  month = sep,
+  year = {2019}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Moccia_Metamaterials2019&quot;&gt;Moccia, M., Castaldi, G., &amp;amp; Galdi, V. (2019). Nonlocal and non-Hermitian transformation optics. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Rome, Italy, Sep. 16-19, 2019.&lt;/span&gt;
+
+
+&lt;div id=&quot;Moccia_Metamaterials2019-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Moccia_Metamaterials2019-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Moccia_Metamaterials2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Moccia_Metamaterials2019,
+  author = {Moccia, M. and Castaldi, G. and Galdi, V.},
+  title = {Nonlocal and non-Hermitian transformation optics},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {Rome, Italy, Sep. 16-19, 2019},
+  month = sep,
+  year = {2019}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Zhang_Metamaterials2019&quot;&gt;Zhang, L., Chen, X. Q., Liu, S., Zhang, Q., Zhao, J., Dai, J. Y., … Cui, T. J. (2019). Space-time-coding digital metasurfaces. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Rome, Italy, Sep. 16-19, 2019.&lt;/span&gt;
+
+
+&lt;div id=&quot;Zhang_Metamaterials2019-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Zhang_Metamaterials2019-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Zhang_Metamaterials2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Zhang_Metamaterials2019,
+  author = {Zhang, Lei and Chen, Xiao Qing and Liu, Shuo and Zhang, Qian and Zhao, Jie and Dai, Jun Yan and Bai, Guo Dong and Wan, Xiang and Cheng, Qiang and Castaldi, Giuseppe and Galdi, Vincenzo and Cui, Tie Jun},
+  title = {Space-time-coding digital metasurfaces},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {Rome, Italy, Sep. 16-19, 2019},
+  month = sep,
+  year = {2019}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Coppolaro_Metamaterials2019&quot;&gt;Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2019). Enhancement of weak nonlocality in aperiodically ordered multilayered dielectric metamaterials. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Rome, Italy, Sep. 16-19, 2019.&lt;/span&gt;
+
+
+&lt;div id=&quot;Coppolaro_Metamaterials2019-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Coppolaro_Metamaterials2019-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Coppolaro_Metamaterials2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Coppolaro_Metamaterials2019,
+  author = {Coppolaro, M. and Castaldi, G. and Galdi, V.},
+  title = {Enhancement of weak nonlocality in aperiodically ordered multilayered dielectric metamaterials},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {Rome, Italy, Sep. 16-19, 2019},
+  month = sep,
+  year = {2019}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="space time" /><category term="coding" /><category term="nonreciprocal aperiodic" /><category term="homogenization" /><category term="multilayers" /><category term="nonlocal" /><category term="transformation optics" /><category term="non-Hermitian" /><category term="epsilon near zero" /><summary type="html">We have presented five papers
+[1, 2, 3, 4, 5], 
+at the 13th International Congress on Engineered Material Platforms for Novel Wave Phenomena (Metamaterials),
+Rome, Italy, Sep. 16-19, 2019.
+
+Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2019). Spectral singularities in non-Hermitian cylindrical geometries. In International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS). Rome, Italy, Sep. 16-19, 2019.
+
+
+
+  
+    
+
+    BibTeX
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  
+
+  
+
+  @inproceedings{Moccia_Metamaterials2019b,
+  author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
+  title = {Spectral singularities in non-Hermitian cylindrical geometries},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {Rome, Italy, Sep. 16-19, 2019},
+  month = sep,
+  year = {2019}
+}
+
+
+  
+    
+
+Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2019). Some ideas for non-Hermitian doping of epsilon-near-zero media. In International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS). Rome, Italy, Sep. 16-19, 2019.
+
+
+
+  
+    
+
+    BibTeX
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  
+
+  
+
+  @inproceedings{Coppolaro_Metamaterials2019b,
+  author = {Coppolaro, M. and Moccia, M. and Castaldi, G. and Engheta, N. and Galdi, V.},
+  title = {Some ideas for non-Hermitian doping of epsilon-near-zero media},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {Rome, Italy, Sep. 16-19, 2019},
+  month = sep,
+  year = {2019}
+}
+
+
+  
+    
+
+Moccia, M., Castaldi, G., &amp;amp; Galdi, V. (2019). Nonlocal and non-Hermitian transformation optics. In International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS). Rome, Italy, Sep. 16-19, 2019.
+
+
+
+  
+    
+
+    BibTeX
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  
+
+  
+
+  @inproceedings{Moccia_Metamaterials2019,
+  author = {Moccia, M. and Castaldi, G. and Galdi, V.},
+  title = {Nonlocal and non-Hermitian transformation optics},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {Rome, Italy, Sep. 16-19, 2019},
+  month = sep,
+  year = {2019}
+}
+
+
+  
+    
+
+Zhang, L., Chen, X. Q., Liu, S., Zhang, Q., Zhao, J., Dai, J. Y., … Cui, T. J. (2019). Space-time-coding digital metasurfaces. In International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS). Rome, Italy, Sep. 16-19, 2019.
+
+
+
+  
+    
+
+    BibTeX
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  
+
+  
+
+  @inproceedings{Zhang_Metamaterials2019,
+  author = {Zhang, Lei and Chen, Xiao Qing and Liu, Shuo and Zhang, Qian and Zhao, Jie and Dai, Jun Yan and Bai, Guo Dong and Wan, Xiang and Cheng, Qiang and Castaldi, Giuseppe and Galdi, Vincenzo and Cui, Tie Jun},
+  title = {Space-time-coding digital metasurfaces},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {Rome, Italy, Sep. 16-19, 2019},
+  month = sep,
+  year = {2019}
+}
+
+
+  
+    
+
+Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2019). Enhancement of weak nonlocality in aperiodically ordered multilayered dielectric metamaterials. In International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS). Rome, Italy, Sep. 16-19, 2019.
+
+
+
+  
+    
+
+    BibTeX
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  
+
+  
+
+  @inproceedings{Coppolaro_Metamaterials2019,
+  author = {Coppolaro, M. and Castaldi, G. and Galdi, V.},
+  title = {Enhancement of weak nonlocality in aperiodically ordered multilayered dielectric metamaterials},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {Rome, Italy, Sep. 16-19, 2019},
+  month = sep,
+  year = {2019}
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/Metamaterials-2019.png" /></entry><entry><title type="html">Talk presented at NANOP 2019</title><link href="/news/NANOP-2019" rel="alternate" type="text/html" title="Talk presented at NANOP 2019" /><published>2019-09-06T00:00:00+02:00</published><updated>2019-09-06T00:00:00+02:00</updated><id>/news/NANOP-2019</id><content type="html" xml:base="/news/NANOP-2019">&lt;p&gt;We have presented a talk
 [&lt;a href=&quot;#DiMeo_NANOP19&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] at the &lt;em&gt;Nanophotonics and Micro/Nano Optics International Conference&lt;/em&gt; (&lt;a href=&quot;https://premc.org/conferences/nanop-nanophotonics-micro-nano-optics/&quot;&gt;NANOP&lt;/a&gt;),
 Munich, Germany, Sep. 4-7, 2019.&lt;/p&gt;
 
@@ -511,99 +959,4 @@ Moccia, M., Castaldi, G., &amp;amp; Galdi, V. (2019). Nonlocal and non-Hermitian
   organization = {Krakow, Poland, Mar. 31-Apr. 5, 2019},
   month = mar,
   year = {2019}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/EuCAP.jpg" /></entry><entry><title type="html">Our paper on meta-tip sensors published in NMNT</title><link href="/news/NMNT-paper-meta-tip-published" rel="alternate" type="text/html" title="Our paper on meta-tip sensors published in NMNT" /><published>2019-02-26T00:00:00+01:00</published><updated>2019-02-26T00:00:00+01:00</updated><id>/news/NMNT-paper-meta-tip-published</id><content type="html" xml:base="/news/NMNT-paper-meta-tip-published">&lt;p&gt;Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications,”
-[&lt;a href=&quot;#IJ135_NMNT_9_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
-in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group, 
-has been published in &lt;em&gt;Nanomaterials and Nanotechnology&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ135_NMNT_9_2019&quot;&gt;Principe, M., Consales, M., Castaldi, G., Galdi, V., &amp;amp; Cusano, A. (2019). Evaluation of fiber-optic phase-gradient meta-tips for sensing applications. &lt;i&gt;Nanomaterials and Nanotechnology&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;9&lt;/i&gt;&lt;/span&gt;.&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ135_NMNT_9_2019-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ135_NMNT_9_2019-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ135_NMNT_9_2019-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1177/1847980419832724&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ135_NMNT_9_2019.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ135_NMNT_9_2019-abstract&quot; class=&quot;collapse&quot;&gt;Recently, within the emerging framework of “lab-on-fiber” technologies, we successfully demonstrated the integration of phase-gradient plasmonic metasurfaces on the tip of an optical fiber. The resulting optical-fiber “meta-tips” promise to empower the typical fiber-optics application scenarios (e.g. sensing, telecommunications, imaging, etc.) with the advanced light-manipulation capabilities endowed by metasurfaces. Here, we explore more in detail the possibility to exploit this platform in label-free biological or chemical sensing applications. Specifically, we carry out a parametric study of the surface sensitivity and show that phase-gradient metasurfaces generally outperform their gradient-free counterparts, without imposing additional fabrication complexity. Therefore, the phase gradient can be effectively exploited as an additional degree of freedom in the design of high-sensitivity devices.&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ135_NMNT_9_2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ135_NMNT_9_2019,
-  author = {Principe, M and Consales, M and Castaldi, G and Galdi, V and Cusano, A},
-  title = {Evaluation of fiber-optic phase-gradient meta-tips for sensing applications},
-  journal = {Nanomaterials and Nanotechnology},
-  volume = {9},
-  year = {2019},
-  doi = {10.1177/1847980419832724}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="metasurfaces" /><category term="optical fibers" /><category term="plasmonics" /><category term="lab-on-fiber" /><summary type="html">Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications,”
-[1]
-in collaboration with Andrea Cusano’s Group, 
-has been published in Nanomaterials and Nanotechnology.
-
-Principe, M., Consales, M., Castaldi, G., Galdi, V., &amp;amp; Cusano, A. (2019). Evaluation of fiber-optic phase-gradient meta-tips for sensing applications. Nanomaterials and Nanotechnology 9.
-
-
-
-  
-    
-    Abstract
-    
-
-    BibTeX
-
-            
-    
-    DOI
-    
-
-    
-
-    
-      
-    
-    PDF
-    
-
-    
-  
-  
-
-  
-  Recently, within the emerging framework of “lab-on-fiber” technologies, we successfully demonstrated the integration of phase-gradient plasmonic metasurfaces on the tip of an optical fiber. The resulting optical-fiber “meta-tips” promise to empower the typical fiber-optics application scenarios (e.g. sensing, telecommunications, imaging, etc.) with the advanced light-manipulation capabilities endowed by metasurfaces. Here, we explore more in detail the possibility to exploit this platform in label-free biological or chemical sensing applications. Specifically, we carry out a parametric study of the surface sensitivity and show that phase-gradient metasurfaces generally outperform their gradient-free counterparts, without imposing additional fabrication complexity. Therefore, the phase gradient can be effectively exploited as an additional degree of freedom in the design of high-sensitivity devices.
-  
-
-  @article{IJ135_NMNT_9_2019,
-  author = {Principe, M and Consales, M and Castaldi, G and Galdi, V and Cusano, A},
-  title = {Evaluation of fiber-optic phase-gradient meta-tips for sensing applications},
-  journal = {Nanomaterials and Nanotechnology},
-  volume = {9},
-  year = {2019},
-  doi = {10.1177/1847980419832724}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MetaTip_NMNT.png" /></entry><entry><title type="html">Our paper on meta-tip sensors accepted in NMNT</title><link href="/news/NMNT-paper-meta-tip-accepted" rel="alternate" type="text/html" title="Our paper on meta-tip sensors accepted in NMNT" /><published>2019-01-29T00:00:00+01:00</published><updated>2019-01-29T00:00:00+01:00</updated><id>/news/NMNT-paper-meta-tip-accepted</id><content type="html" xml:base="/news/NMNT-paper-meta-tip-accepted">&lt;p&gt;Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications”
-has been accepted for publication in &lt;a href=&quot;https://journals.sagepub.com/home/nax&quot;&gt;&lt;em&gt;Nanomaterials and Nanotechnology&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="metasurfaces" /><category term="optical fibers" /><category term="plasmonics" /><category term="lab-on-fiber" /><summary type="html">Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications”
-has been accepted for publication in Nanomaterials and Nanotechnology.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/NN-Sage.png" /></entry></feed>
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/EuCAP.jpg" /></entry></feed>
