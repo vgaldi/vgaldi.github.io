@@ -27,6 +27,7 @@ http://fw-lab.org/tags
 http://fw-lab.org/feed.xml
 http://fw-lab.org/feed.xslt.xml
 
+http://fw-lab.org/news/AM-cover
 http://fw-lab.org/news/award-Metamaterials-2019
 http://fw-lab.org/news/Metamaterials-2019
 http://fw-lab.org/news/NANOP-2019

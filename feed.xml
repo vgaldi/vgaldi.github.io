@@ -1,4 +1,109 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-09-20T22:24:46+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Best Poster Award at Metamaterials 2019</title><link href="/news/award-Metamaterials-2019" rel="alternate" type="text/html" title="Best Poster Award at Metamaterials 2019" /><published>2019-09-20T00:00:00+02:00</published><updated>2019-09-20T00:00:00+02:00</updated><id>/news/award-Metamaterials-2019</id><content type="html" xml:base="/news/award-Metamaterials-2019">&lt;p&gt;Our paper entitled &lt;em&gt;“Some ideas for non-Hermitian doping of epsilon-near-zero media”&lt;/em&gt; 
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-11T21:53:49+02:00</updated><id>http://localhost:4000//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on nonreciprocal metasurfaces on the cover of AdvMat</title><link href="http://localhost:4000/news/AM-cover" rel="alternate" type="text/html" title="Our paper on nonreciprocal metasurfaces on the cover of AdvMat" /><published>2019-10-11T00:00:00+02:00</published><updated>2019-10-11T00:00:00+02:00</updated><id>http://localhost:4000/news/AM-cover</id><content type="html" xml:base="http://localhost:4000/news/AM-cover">&lt;p&gt;Our paper on “Breaking reciprocity with space-time-coding digital metasurfaces,”
+[&lt;a href=&quot;#IJ137_AM_1904069_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
+made the back cover of &lt;em&gt;Advanced Materials&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ137_AM_1904069_2019&quot;&gt;Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Castaldi, G., … Cui, T. J. (2019). Breaking reciprocity with space-time-coding digital metasurfaces. &lt;i&gt;Advanced Materials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;31&lt;/i&gt;&lt;/span&gt;(41), 1904069.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ137_AM_1904069_2019-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ137_AM_1904069_2019-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ137_AM_1904069_2019-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1002/adma.201904069&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ137_AM_1904069_2019.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadma.201904069&amp;amp;file=adma201904069-sup-0001-S1.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ137_AM_1904069_2019-abstract&quot; class=&quot;collapse&quot;&gt;Metasurfaces are artificially engineered ultrathin structures that can finely tailor and control electromagnetic wavefronts. There is currently a strong interest in exploring their capability to lift some fundamental limitations dictated by Lorentz reciprocity, which have strong implications in communication, heat management, and energy harvesting. Time-varying approaches have emerged as attractive alternatives to conventional schemes relying on magnetic or nonlinear materials, but experimental evidence is currently limited to devices such as circulators and antennas. Here, the recently proposed concept of space-time-coding digital metasurfaces is leveraged to break reciprocity. Moreover, it is shown that such nonreciprocal effects can be controlled dynamically. This approach relies on inducing suitable spatiotemporal phase gradients in a programmable way via digital modulation of the metasurface-elements’ phase repsonse, which enable anomalous reflections accompanied by frequency conversions. A prototype operating at microwave frequencies is designed and fabricated for proof-of-concept validation. Measured results are in good agreement with theory, hence providing the first experimental evidence of nonreciprocal reflection effects enabled by space-time-modulated digital metasurfaces. The proposed concept and platform set the stage for “on-demand” realization of nonreciprocal effects, in programmable or reconfigurable fashions, which may find several promising applications, including frequency conversion, Doppler frequency illusion, optical isolation, and unidirectional transmission.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ137_AM_1904069_2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ137_AM_1904069_2019,
+  author = {Zhang, Lei and Chen, Xiao Qing and Shao, Rui Wen and Dai, Jun Yan and Cheng, Qiang and Castaldi, Giuseppe and Galdi, Vincenzo and Cui, Tie Jun},
+  title = {Breaking reciprocity with space-time-coding digital metasurfaces},
+  journal = {Advanced Materials},
+  volume = {31},
+  number = {41},
+  pages = {1904069},
+  year = {2019},
+  month = oct,
+  doi = {10.1002/adma.201904069},
+  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadma.201904069&amp;amp;file=adma201904069-sup-0001-S1.pdf}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="space-time" /><category term="coding" /><category term="nonreciprocal" /><summary type="html">Our paper on “Breaking reciprocity with space-time-coding digital metasurfaces,”
+[1]
+in collaboration with Tie Jun Cui’s Group (Southeast University),
+made the back cover of Advanced Materials.
+
+Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Castaldi, G., … Cui, T. J. (2019). Breaking reciprocity with space-time-coding digital metasurfaces. Advanced Materials 31(41), 1904069.
+
+
+
+  
+    
+    Abstract
+    
+
+    BibTeX
+
+            
+    
+    DOI
+    
+
+    
+
+    
+      
+    
+    PDF
+    
+
+    
+    Supplements
+    
+  
+  
+
+  
+  Metasurfaces are artificially engineered ultrathin structures that can finely tailor and control electromagnetic wavefronts. There is currently a strong interest in exploring their capability to lift some fundamental limitations dictated by Lorentz reciprocity, which have strong implications in communication, heat management, and energy harvesting. Time-varying approaches have emerged as attractive alternatives to conventional schemes relying on magnetic or nonlinear materials, but experimental evidence is currently limited to devices such as circulators and antennas. Here, the recently proposed concept of space-time-coding digital metasurfaces is leveraged to break reciprocity. Moreover, it is shown that such nonreciprocal effects can be controlled dynamically. This approach relies on inducing suitable spatiotemporal phase gradients in a programmable way via digital modulation of the metasurface-elements’ phase repsonse, which enable anomalous reflections accompanied by frequency conversions. A prototype operating at microwave frequencies is designed and fabricated for proof-of-concept validation. Measured results are in good agreement with theory, hence providing the first experimental evidence of nonreciprocal reflection effects enabled by space-time-modulated digital metasurfaces. The proposed concept and platform set the stage for “on-demand” realization of nonreciprocal effects, in programmable or reconfigurable fashions, which may find several promising applications, including frequency conversion, Doppler frequency illusion, optical isolation, and unidirectional transmission.
+  
+
+  @article{IJ137_AM_1904069_2019,
+  author = {Zhang, Lei and Chen, Xiao Qing and Shao, Rui Wen and Dai, Jun Yan and Cheng, Qiang and Castaldi, Giuseppe and Galdi, Vincenzo and Cui, Tie Jun},
+  title = {Breaking reciprocity with space-time-coding digital metasurfaces},
+  journal = {Advanced Materials},
+  volume = {31},
+  number = {41},
+  pages = {1904069},
+  year = {2019},
+  month = oct,
+  doi = {10.1002/adma.201904069},
+  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadma.201904069&amp;amp;file=adma201904069-sup-0001-S1.pdf}
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/AM_cover.png" /></entry><entry><title type="html">Best Poster Award at Metamaterials 2019</title><link href="http://localhost:4000/news/award-Metamaterials-2019" rel="alternate" type="text/html" title="Best Poster Award at Metamaterials 2019" /><published>2019-09-20T00:00:00+02:00</published><updated>2019-09-20T00:00:00+02:00</updated><id>http://localhost:4000/news/award-Metamaterials-2019</id><content type="html" xml:base="http://localhost:4000/news/award-Metamaterials-2019">&lt;p&gt;Our paper entitled &lt;em&gt;“Some ideas for non-Hermitian doping of epsilon-near-zero media”&lt;/em&gt; 
 [&lt;a href=&quot;#Coppolaro_Metamaterials2019b&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] received the &lt;em&gt;Best Poster Award&lt;/em&gt; at the &lt;em&gt;13th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2019.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
 Rome, Italy, Sep. 16-19, 2019.&lt;/p&gt;
 
@@ -73,7 +178,7 @@ Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2019)
   organization = {Rome, Italy, Sep. 16-19, 2019},
   month = sep,
   year = {2019}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/award.png" /></entry><entry><title type="html">Five presentations at Metamaterials 2019</title><link href="/news/Metamaterials-2019" rel="alternate" type="text/html" title="Five presentations at Metamaterials 2019" /><published>2019-09-19T00:00:00+02:00</published><updated>2019-09-19T00:00:00+02:00</updated><id>/news/Metamaterials-2019</id><content type="html" xml:base="/news/Metamaterials-2019">&lt;p&gt;We have presented five papers
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/award.png" /></entry><entry><title type="html">Five presentations at Metamaterials 2019</title><link href="http://localhost:4000/news/Metamaterials-2019" rel="alternate" type="text/html" title="Five presentations at Metamaterials 2019" /><published>2019-09-19T00:00:00+02:00</published><updated>2019-09-19T00:00:00+02:00</updated><id>http://localhost:4000/news/Metamaterials-2019</id><content type="html" xml:base="http://localhost:4000/news/Metamaterials-2019">&lt;p&gt;We have presented five papers
 [&lt;a href=&quot;#Moccia_Metamaterials2019b&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Coppolaro_Metamaterials2019b&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Moccia_Metamaterials2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Zhang_Metamaterials2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Coppolaro_Metamaterials2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;], 
 at the &lt;em&gt;13th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2019.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
 Rome, Italy, Sep. 16-19, 2019.&lt;/p&gt;
@@ -446,7 +551,7 @@ Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2019). Enhancement of weak non
   organization = {Rome, Italy, Sep. 16-19, 2019},
   month = sep,
   year = {2019}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/Metamaterials-2019.png" /></entry><entry><title type="html">Talk presented at NANOP 2019</title><link href="/news/NANOP-2019" rel="alternate" type="text/html" title="Talk presented at NANOP 2019" /><published>2019-09-06T00:00:00+02:00</published><updated>2019-09-06T00:00:00+02:00</updated><id>/news/NANOP-2019</id><content type="html" xml:base="/news/NANOP-2019">&lt;p&gt;We have presented a talk
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/Metamaterials-2019.png" /></entry><entry><title type="html">Talk presented at NANOP 2019</title><link href="http://localhost:4000/news/NANOP-2019" rel="alternate" type="text/html" title="Talk presented at NANOP 2019" /><published>2019-09-06T00:00:00+02:00</published><updated>2019-09-06T00:00:00+02:00</updated><id>http://localhost:4000/news/NANOP-2019</id><content type="html" xml:base="http://localhost:4000/news/NANOP-2019">&lt;p&gt;We have presented a talk
 [&lt;a href=&quot;#DiMeo_NANOP19&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] at the &lt;em&gt;Nanophotonics and Micro/Nano Optics International Conference&lt;/em&gt; (&lt;a href=&quot;https://premc.org/conferences/nanop-nanophotonics-micro-nano-optics/&quot;&gt;NANOP&lt;/a&gt;),
 Munich, Germany, Sep. 4-7, 2019.&lt;/p&gt;
 
@@ -521,12 +626,12 @@ Di Meo, V., Crescitelli, A., Sandomenico, A., Moccia, M., Galdi, V., Portaccio, 
   organization = {Munich, Germany, Sep. 4-7, 2019},
   month = sep,
   year = {2019}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/NANOP19.jpg" /></entry><entry><title type="html">Prof. Galdi joins OpEx Editorial Board</title><link href="/news/OpEx-AE" rel="alternate" type="text/html" title="Prof. Galdi joins OpEx Editorial Board" /><published>2019-08-19T00:00:00+02:00</published><updated>2019-08-19T00:00:00+02:00</updated><id>/news/OpEx-AE</id><content type="html" xml:base="/news/OpEx-AE">&lt;p&gt;Prof. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; has been appointed Associate Editor of &lt;a href=&quot;https://www.osapublishing.org/oe/home.cfm&quot;&gt;&lt;em&gt;Optics Express&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="Vincenzo Galdi" /><summary type="html">Prof. Vincenzo Galdi has been appointed Associate Editor of Optics Express.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/OpEx.png" /></entry><entry><title type="html">Our paper on nonreciprocal space-time-coding metasurfaces published in AdvMat</title><link href="/news/AM-published" rel="alternate" type="text/html" title="Our paper on nonreciprocal space-time-coding metasurfaces published in AdvMat" /><published>2019-08-17T00:00:00+02:00</published><updated>2019-08-17T00:00:00+02:00</updated><id>/news/AM-published</id><content type="html" xml:base="/news/AM-published">&lt;p&gt;Our paper on “Breaking reciprocity with space-time-coding digital metasurfaces,”
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/NANOP19.jpg" /></entry><entry><title type="html">Prof. Galdi joins OpEx Editorial Board</title><link href="http://localhost:4000/news/OpEx-AE" rel="alternate" type="text/html" title="Prof. Galdi joins OpEx Editorial Board" /><published>2019-08-19T00:00:00+02:00</published><updated>2019-08-19T00:00:00+02:00</updated><id>http://localhost:4000/news/OpEx-AE</id><content type="html" xml:base="http://localhost:4000/news/OpEx-AE">&lt;p&gt;Prof. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; has been appointed Associate Editor of &lt;a href=&quot;https://www.osapublishing.org/oe/home.cfm&quot;&gt;&lt;em&gt;Optics Express&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="Vincenzo Galdi" /><summary type="html">Prof. Vincenzo Galdi has been appointed Associate Editor of Optics Express.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/OpEx.png" /></entry><entry><title type="html">Our paper on nonreciprocal space-time-coding metasurfaces published in AdvMat</title><link href="http://localhost:4000/news/AM-published" rel="alternate" type="text/html" title="Our paper on nonreciprocal space-time-coding metasurfaces published in AdvMat" /><published>2019-08-17T00:00:00+02:00</published><updated>2019-08-17T00:00:00+02:00</updated><id>http://localhost:4000/news/AM-published</id><content type="html" xml:base="http://localhost:4000/news/AM-published">&lt;p&gt;Our paper on “Breaking reciprocity with space-time-coding digital metasurfaces,”
 [&lt;a href=&quot;#IJ137_AM_1904069_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published in &lt;em&gt;Advanced Materials&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ137_AM_1904069_2019&quot;&gt;Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Castaldi, G., … Cui, T. J. (2019). Breaking reciprocity with space-time-coding digital metasurfaces. &lt;i&gt;Advanced Materials&lt;/i&gt; (early view), 1904069.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ137_AM_1904069_2019&quot;&gt;Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Castaldi, G., … Cui, T. J. (2019). Breaking reciprocity with space-time-coding digital metasurfaces. &lt;i&gt;Advanced Materials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;31&lt;/i&gt;&lt;/span&gt;(41), 1904069.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ137_AM_1904069_2019-materials&quot;&gt;
@@ -564,10 +669,11 @@ has been published in &lt;em&gt;Advanced Materials&lt;/em&gt;.&lt;/p&gt;
   author = {Zhang, Lei and Chen, Xiao Qing and Shao, Rui Wen and Dai, Jun Yan and Cheng, Qiang and Castaldi, Giuseppe and Galdi, Vincenzo and Cui, Tie Jun},
   title = {Breaking reciprocity with space-time-coding digital metasurfaces},
   journal = {Advanced Materials},
-  volume = {},
-  number = {early view},
+  volume = {31},
+  number = {41},
   pages = {1904069},
   year = {2019},
+  month = oct,
   doi = {10.1002/adma.201904069},
   note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadma.201904069&amp;amp;file=adma201904069-sup-0001-S1.pdf}
 }
@@ -580,7 +686,7 @@ has been published in &lt;em&gt;Advanced Materials&lt;/em&gt;.&lt;/p&gt;
 in collaboration with Tie Jun Cui’s Group (Southeast University),
 has been published in Advanced Materials.
 
-Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Castaldi, G., … Cui, T. J. (2019). Breaking reciprocity with space-time-coding digital metasurfaces. Advanced Materials (early view), 1904069.
+Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Castaldi, G., … Cui, T. J. (2019). Breaking reciprocity with space-time-coding digital metasurfaces. Advanced Materials 31(41), 1904069.
 
 
 
@@ -618,17 +724,18 @@ Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Castaldi, G., … Cu
   author = {Zhang, Lei and Chen, Xiao Qing and Shao, Rui Wen and Dai, Jun Yan and Cheng, Qiang and Castaldi, Giuseppe and Galdi, Vincenzo and Cui, Tie Jun},
   title = {Breaking reciprocity with space-time-coding digital metasurfaces},
   journal = {Advanced Materials},
-  volume = {},
-  number = {early view},
+  volume = {31},
+  number = {41},
   pages = {1904069},
   year = {2019},
+  month = oct,
   doi = {10.1002/adma.201904069},
   note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadma.201904069&amp;amp;file=adma201904069-sup-0001-S1.pdf}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/NR-STC-MS.jpg" /></entry><entry><title type="html">Our paper on nonreciprocal space-time-coding metasurfaces accepted in AdvMat</title><link href="/news/AM-accepted" rel="alternate" type="text/html" title="Our paper on nonreciprocal space-time-coding metasurfaces accepted in AdvMat" /><published>2019-08-01T00:00:00+02:00</published><updated>2019-08-01T00:00:00+02:00</updated><id>/news/AM-accepted</id><content type="html" xml:base="/news/AM-accepted">&lt;p&gt;Our paper on “Breaking reciprocity with space-time-coding digital metasurfaces,”
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/NR-STC-MS.jpg" /></entry><entry><title type="html">Our paper on nonreciprocal space-time-coding metasurfaces accepted in AdvMat</title><link href="http://localhost:4000/news/AM-accepted" rel="alternate" type="text/html" title="Our paper on nonreciprocal space-time-coding metasurfaces accepted in AdvMat" /><published>2019-08-01T00:00:00+02:00</published><updated>2019-08-01T00:00:00+02:00</updated><id>http://localhost:4000/news/AM-accepted</id><content type="html" xml:base="http://localhost:4000/news/AM-accepted">&lt;p&gt;Our paper on “Breaking reciprocity with space-time-coding digital metasurfaces,”
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wiley.com/journal/15214095&quot;&gt;&lt;em&gt;Advanced Materials&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="space-time" /><category term="coding" /><category term="nonreciprocal" /><summary type="html">Our paper on “Breaking reciprocity with space-time-coding digital metasurfaces,”
 in collaboration with Tie Jun Cui’s Group (Southeast University),
-has been accepted for publication in Advanced Materials.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/AdvMat.png" /></entry><entry><title type="html">Our paper on spectral singularities published in IEEE-TAP</title><link href="/news/IEEE-TAP-paper-NH-CYL-published" rel="alternate" type="text/html" title="Our paper on spectral singularities published in IEEE-TAP" /><published>2019-07-16T00:00:00+02:00</published><updated>2019-07-16T00:00:00+02:00</updated><id>/news/IEEE-TAP-paper-NH-CYL-published</id><content type="html" xml:base="/news/IEEE-TAP-paper-NH-CYL-published">&lt;p&gt;Our paper on “Harnessing spectral singularities in non-Hermitian cylindrical structures,” 
+has been accepted for publication in Advanced Materials.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/AdvMat.png" /></entry><entry><title type="html">Our paper on spectral singularities published in IEEE-TAP</title><link href="http://localhost:4000/news/IEEE-TAP-paper-NH-CYL-published" rel="alternate" type="text/html" title="Our paper on spectral singularities published in IEEE-TAP" /><published>2019-07-16T00:00:00+02:00</published><updated>2019-07-16T00:00:00+02:00</updated><id>http://localhost:4000/news/IEEE-TAP-paper-NH-CYL-published</id><content type="html" xml:base="http://localhost:4000/news/IEEE-TAP-paper-NH-CYL-published">&lt;p&gt;Our paper on “Harnessing spectral singularities in non-Hermitian cylindrical structures,” 
 [&lt;a href=&quot;#IJ136_IEEE-TAP_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 has been published in the &lt;em&gt;IEEE Transactions on Antennas and Propagation&lt;/em&gt;.&lt;/p&gt;
@@ -727,7 +834,7 @@ Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2019). Harnessing spect
   pages = {},
   doi = {10.1109/TAP.2019.2927861},
   month = {}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/NH-CYL.png" /></entry><entry><title type="html">Two talks presented at IEEE-APS/URSI 2019</title><link href="/news/IEEE-APS-2019" rel="alternate" type="text/html" title="Two talks presented at IEEE-APS/URSI 2019" /><published>2019-07-12T00:00:00+02:00</published><updated>2019-07-12T00:00:00+02:00</updated><id>/news/IEEE-APS-2019</id><content type="html" xml:base="/news/IEEE-APS-2019">&lt;p&gt;We have presented two talks 
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/NH-CYL.png" /></entry><entry><title type="html">Two talks presented at IEEE-APS/URSI 2019</title><link href="http://localhost:4000/news/IEEE-APS-2019" rel="alternate" type="text/html" title="Two talks presented at IEEE-APS/URSI 2019" /><published>2019-07-12T00:00:00+02:00</published><updated>2019-07-12T00:00:00+02:00</updated><id>http://localhost:4000/news/IEEE-APS-2019</id><content type="html" xml:base="http://localhost:4000/news/IEEE-APS-2019">&lt;p&gt;We have presented two talks 
 [&lt;a href=&quot;#Coppolaro_URSI-USNC2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Zhang_URSI-USNC2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
 at the &lt;em&gt;IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting&lt;/em&gt; (&lt;a href=&quot;http://2019apsursi.org/default.asp&quot;&gt;IEEE-APS/URSI&lt;/a&gt;),
 Atlanta, GA, USA, July 7-12, 2019.&lt;/p&gt;
@@ -878,85 +985,10 @@ Zhang, L., Chen, X. Q., Liu, S., Zhang, Q., Zhao, J., Dai, J. Y., … Cui, T. J.
   organization = {Atlanta, GA, USA, July 7-12, 2019},
   month = jul,
   year = {2019}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/APS-2019.png" /></entry><entry><title type="html">Our paper on spectral singularities accepted in IEEE-TAP</title><link href="/news/IEEE-TAP-paper-NH-CYL-accepted" rel="alternate" type="text/html" title="Our paper on spectral singularities accepted in IEEE-TAP" /><published>2019-07-04T00:00:00+02:00</published><updated>2019-07-04T00:00:00+02:00</updated><id>/news/IEEE-TAP-paper-NH-CYL-accepted</id><content type="html" xml:base="/news/IEEE-TAP-paper-NH-CYL-accepted">&lt;p&gt;Our paper on “Harnessing spectral singularities in non-Hermitian cylindrical structures,” in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/APS-2019.png" /></entry><entry><title type="html">Our paper on spectral singularities accepted in IEEE-TAP</title><link href="http://localhost:4000/news/IEEE-TAP-paper-NH-CYL-accepted" rel="alternate" type="text/html" title="Our paper on spectral singularities accepted in IEEE-TAP" /><published>2019-07-04T00:00:00+02:00</published><updated>2019-07-04T00:00:00+02:00</updated><id>http://localhost:4000/news/IEEE-TAP-paper-NH-CYL-accepted</id><content type="html" xml:base="http://localhost:4000/news/IEEE-TAP-paper-NH-CYL-accepted">&lt;p&gt;Our paper on “Harnessing spectral singularities in non-Hermitian cylindrical structures,” in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 has been accepted for publication in the &lt;a href=&quot;https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8&quot;&gt;&lt;em&gt;IEEE Transactions on Antennas and Propagation&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/1907.01616&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="non-Hermitian" /><summary type="html">Our paper on “Harnessing spectral singularities in non-Hermitian cylindrical structures,” in collaboration with Andrea Alù (ASRC-CUNY),
 has been accepted for publication in the IEEE Transactions on Antennas and Propagation.
 
-An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/IEEE-TAP.png" /></entry><entry><title type="html">Talk presented at EuCAP 2019</title><link href="/news/EuCAP-2019" rel="alternate" type="text/html" title="Talk presented at EuCAP 2019" /><published>2019-04-03T00:00:00+02:00</published><updated>2019-04-03T00:00:00+02:00</updated><id>/news/EuCAP-2019</id><content type="html" xml:base="/news/EuCAP-2019">&lt;p&gt;We have presented a talk
-[&lt;a href=&quot;#Moccia_EuCAP2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] at the &lt;em&gt;13th European Conference on Antennas and Propagation&lt;/em&gt; (&lt;a href=&quot;https://www.eucap2019.org&quot;&gt;EuCAP&lt;/a&gt;),
-Krakow, Poland, Mar. 31-Apr. 5, 2019.&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Moccia_EuCAP2019&quot;&gt;Moccia, M., Castaldi, G., &amp;amp; Galdi, V. (2019). Nonlocal and non-Hermitian extensions of transformation optics. In &lt;i&gt;Proc. 13th European Conference on Antennas and Propagation (EuCAP)&lt;/i&gt;. Krakow, Poland, Mar. 31-Apr. 5, 2019.&lt;/span&gt;
-
-
-&lt;div id=&quot;Moccia_EuCAP2019-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Moccia_EuCAP2019-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-
-    
-
-    
-      
-    
-
-    
-  
-  &lt;/ul&gt;
-
-  
-
-  &lt;pre id=&quot;Moccia_EuCAP2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Moccia_EuCAP2019,
-  author = {Moccia, Massimo and Castaldi, Giuseppe and Galdi, Vincenzo},
-  title = {Nonlocal and non-Hermitian extensions of transformation optics},
-  booktitle = {Proc. 13th European Conference on Antennas and Propagation (EuCAP)},
-  organization = {Krakow, Poland, Mar. 31-Apr. 5, 2019},
-  month = mar,
-  year = {2019}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="nonlocal" /><category term="non-Hermitian" /><category term="transformation optics" /><summary type="html">We have presented a talk
-[1] at the 13th European Conference on Antennas and Propagation (EuCAP),
-Krakow, Poland, Mar. 31-Apr. 5, 2019.
-
-Moccia, M., Castaldi, G., &amp;amp; Galdi, V. (2019). Nonlocal and non-Hermitian extensions of transformation optics. In Proc. 13th European Conference on Antennas and Propagation (EuCAP). Krakow, Poland, Mar. 31-Apr. 5, 2019.
-
-
-
-  
-    
-
-    BibTeX
-
-            
-    
-
-    
-
-    
-      
-    
-
-    
-  
-  
-
-  
-
-  @inproceedings{Moccia_EuCAP2019,
-  author = {Moccia, Massimo and Castaldi, Giuseppe and Galdi, Vincenzo},
-  title = {Nonlocal and non-Hermitian extensions of transformation optics},
-  booktitle = {Proc. 13th European Conference on Antennas and Propagation (EuCAP)},
-  organization = {Krakow, Poland, Mar. 31-Apr. 5, 2019},
-  month = mar,
-  year = {2019}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/EuCAP.jpg" /></entry></feed>
+An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/IEEE-TAP.png" /></entry></feed>
