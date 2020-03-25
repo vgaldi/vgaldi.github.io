@@ -27,6 +27,9 @@ http://fw-lab.org/tags
 http://fw-lab.org/feed.xml
 http://fw-lab.org/feed.xslt.xml
 
+http://fw-lab.org/news/OpEx-paper-GRS-published
+http://fw-lab.org/news/OpEx-paper-GRS-accepted
+http://fw-lab.org/news/AdOM-accepted
 http://fw-lab.org/news/MIT_externship
 http://fw-lab.org/news/EurAAP-LBF-award
 http://fw-lab.org/news/AM-cover

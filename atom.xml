@@ -4,13 +4,101 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2020-01-10T22:01:40+01:00</updated>
+ <updated>2020-03-25T18:15:04+01:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
    <email>vgaldi@unisannio.it</email>
  </author>
 
+ 
+ <entry>
+   <title>Our paper on deterministically disordered metamaterials published in OpEx</title>
+   <link href="http://fw-lab.org/news/OpEx-paper-GRS-published"/>
+   <updated>2020-03-25T00:00:00+01:00</updated>
+   <id>http://fw-lab.org/news/OpEx-paper-GRS-published</id>
+   <content type="html">&lt;p&gt;Our paper on “Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials”
+[&lt;a href=&quot;#IJ138_OpEx_28_10199_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+has been published in [&lt;em&gt;Optics Express&lt;/em&gt;].&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ138_OpEx_28_10199_2020&quot;&gt;Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2020). Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials. &lt;i&gt;Optics Express&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;28&lt;/i&gt;&lt;/span&gt;(7), 10199–10209.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ138_OpEx_28_10199_2020-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ138_OpEx_28_10199_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ138_OpEx_28_10199_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1364/OE.388452&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ138_OpEx_28_10199_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ138_OpEx_28_10199_2020-abstract&quot; class=&quot;collapse&quot;&gt;It is common understanding that multilayered dielectric metamaterials, in the regime of deeply subwavelength layers, are accurately described by simple effective-medium models based on mixing formulas that do not depend on the spatial arrangement. In the wake of recent studies that have shown counterintuitive examples of periodic and aperiodic (orderly or random) scenarios in which this premise breaks down, we study here the effects of deterministic disorder. With specific reference to a model based on Golay-Rudin-Shapiro sequences, we illustrate certain peculiar boundary effects that can occur in finite-size dielectric multilayers, leading to anomalous light-transport properties that are in stark contrast with the predictions from conventional effective-medium theory. Via parametric and comparative studies, we elucidate the underlying physical mechanisms, also highlighting similarities and differences with respect to previously studied geometries. Our outcomes may inspire potential applications to optical sensing, switching and lasing.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ138_OpEx_28_10199_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ138_OpEx_28_10199_2020,
+  author = {Coppolaro, Marino and Castaldi, Giuseppe and Galdi, Vincenzo},
+  journal = {Optics Express},
+  number = {7},
+  pages = {10199--10209},
+  publisher = {OSA},
+  title = {Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials},
+  volume = {28},
+  month = mar,
+  year = {2020},
+  url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-28-7-10199},
+  doi = {10.1364/OE.388452}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Our paper on deterministically disordered metamaterials accepted in OpEx</title>
+   <link href="http://fw-lab.org/news/OpEx-paper-GRS-accepted"/>
+   <updated>2020-03-17T00:00:00+01:00</updated>
+   <id>http://fw-lab.org/news/OpEx-paper-GRS-accepted</id>
+   <content type="html">&lt;p&gt;Our paper on “Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials”
+has been accepted for publication in &lt;a href=&quot;https://www.osapublishing.org/oe/&quot;&gt;&lt;em&gt;Optics Express&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;An &lt;a href=&quot;http://arxiv.org/abs/2003.07767&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Our paper on anisotropic metasurfaces accepted in AdOM</title>
+   <link href="http://fw-lab.org/news/AdOM-accepted"/>
+   <updated>2020-03-09T00:00:00+01:00</updated>
+   <id>http://fw-lab.org/news/AdOM-accepted</id>
+   <content type="html">&lt;p&gt;Our paper on “Independent control of co-polarized amplitude and phase responses via anisotropic metasurfaces,”
+in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
+has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wiley.com/journal/21951071&quot;&gt;&lt;em&gt;Advanced Optical Materials&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>MIT student externship</title>
@@ -518,7 +606,7 @@ has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wile
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 has been published in the &lt;em&gt;IEEE Transactions on Antennas and Propagation&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ136_IEEE-TAP_2019&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2019). Harnessing spectral singularities in non-Hermitian cylindrical structures. &lt;i&gt;IEEE Transactions on Antennas and Propagation&lt;/i&gt; (early view).&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ136_IEEE-TAP_2019&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2020). Harnessing spectral singularities in non-Hermitian cylindrical structures. &lt;i&gt;IEEE Transactions on Antennas and Propagation&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;28&lt;/i&gt;&lt;/span&gt;(3), 1704–1716.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ136_IEEE-TAP_2019-materials&quot;&gt;
@@ -554,12 +642,12 @@ has been published in the &lt;em&gt;IEEE Transactions on Antennas and Propagatio
   author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
   journal = {IEEE Transactions on Antennas and Propagation},
   title = {Harnessing spectral singularities in non-Hermitian cylindrical structures},
-  year = {2019},
-  volume = {},
-  number = {early view},
-  pages = {},
+  year = {2020},
+  volume = {28},
+  number = {3},
+  pages = {1704--1716},
   doi = {10.1109/TAP.2019.2927861},
-  month = {}
+  month = mar
 }
 &lt;/pre&gt;
 
@@ -5650,7 +5738,7 @@ optical components and devices.&lt;/p&gt;
   
     
 &lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;IJ136_IEEE-TAP_2019&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2019). Harnessing spectral singularities in non-Hermitian cylindrical structures. &lt;i&gt;IEEE Transactions on Antennas and Propagation&lt;/i&gt; (early view).&lt;/span&gt;
+&lt;li&gt;&lt;span id=&quot;IJ136_IEEE-TAP_2019&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2020). Harnessing spectral singularities in non-Hermitian cylindrical structures. &lt;i&gt;IEEE Transactions on Antennas and Propagation&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;28&lt;/i&gt;&lt;/span&gt;(3), 1704–1716.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ136_IEEE-TAP_2019-materials&quot;&gt;
@@ -5686,12 +5774,12 @@ optical components and devices.&lt;/p&gt;
   author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
   journal = {IEEE Transactions on Antennas and Propagation},
   title = {Harnessing spectral singularities in non-Hermitian cylindrical structures},
-  year = {2019},
-  volume = {},
-  number = {early view},
-  pages = {},
+  year = {2020},
+  volume = {28},
+  number = {3},
+  pages = {1704--1716},
   doi = {10.1109/TAP.2019.2927861},
-  month = {}
+  month = mar
 }
 &lt;/pre&gt;
 

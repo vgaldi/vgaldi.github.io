@@ -1,4 +1,115 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-01-10T22:01:40+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">MIT student externship</title><link href="/news/MIT_externship" rel="alternate" type="text/html" title="MIT student externship" /><published>2020-01-07T00:00:00+01:00</published><updated>2020-01-07T00:00:00+01:00</updated><id>/news/MIT_externship</id><content type="html" xml:base="/news/MIT_externship">&lt;p&gt;Alisa Y. Hathaway has temporarily joined the Fields &amp;amp; Waves Lab within the framework of the &lt;a href=&quot;https://alum.mit.edu/communitiesmit-students/student-externships&quot;&gt;MIT student externship program&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-25T18:15:04+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on deterministically disordered metamaterials published in OpEx</title><link href="/news/OpEx-paper-GRS-published" rel="alternate" type="text/html" title="Our paper on deterministically disordered metamaterials published in OpEx" /><published>2020-03-25T00:00:00+01:00</published><updated>2020-03-25T00:00:00+01:00</updated><id>/news/OpEx-paper-GRS-published</id><content type="html" xml:base="/news/OpEx-paper-GRS-published">&lt;p&gt;Our paper on “Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials”
+[&lt;a href=&quot;#IJ138_OpEx_28_10199_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+has been published in [&lt;em&gt;Optics Express&lt;/em&gt;].&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ138_OpEx_28_10199_2020&quot;&gt;Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2020). Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials. &lt;i&gt;Optics Express&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;28&lt;/i&gt;&lt;/span&gt;(7), 10199–10209.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ138_OpEx_28_10199_2020-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ138_OpEx_28_10199_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ138_OpEx_28_10199_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1364/OE.388452&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ138_OpEx_28_10199_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ138_OpEx_28_10199_2020-abstract&quot; class=&quot;collapse&quot;&gt;It is common understanding that multilayered dielectric metamaterials, in the regime of deeply subwavelength layers, are accurately described by simple effective-medium models based on mixing formulas that do not depend on the spatial arrangement. In the wake of recent studies that have shown counterintuitive examples of periodic and aperiodic (orderly or random) scenarios in which this premise breaks down, we study here the effects of deterministic disorder. With specific reference to a model based on Golay-Rudin-Shapiro sequences, we illustrate certain peculiar boundary effects that can occur in finite-size dielectric multilayers, leading to anomalous light-transport properties that are in stark contrast with the predictions from conventional effective-medium theory. Via parametric and comparative studies, we elucidate the underlying physical mechanisms, also highlighting similarities and differences with respect to previously studied geometries. Our outcomes may inspire potential applications to optical sensing, switching and lasing.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ138_OpEx_28_10199_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ138_OpEx_28_10199_2020,
+  author = {Coppolaro, Marino and Castaldi, Giuseppe and Galdi, Vincenzo},
+  journal = {Optics Express},
+  number = {7},
+  pages = {10199--10209},
+  publisher = {OSA},
+  title = {Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials},
+  volume = {28},
+  month = mar,
+  year = {2020},
+  url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-28-7-10199},
+  doi = {10.1364/OE.388452}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="nonlocal" /><category term="homogenization" /><category term="aperiodic" /><summary type="html">Our paper on “Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials”
+[1]
+has been published in [Optics Express].
+
+Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2020). Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials. Optics Express 28(7), 10199–10209.
+
+
+
+  
+    
+    Abstract
+    
+
+    BibTeX
+
+            
+    
+    DOI
+    
+
+    
+
+    
+      
+    
+    PDF
+    
+
+    
+  
+  
+
+  
+  It is common understanding that multilayered dielectric metamaterials, in the regime of deeply subwavelength layers, are accurately described by simple effective-medium models based on mixing formulas that do not depend on the spatial arrangement. In the wake of recent studies that have shown counterintuitive examples of periodic and aperiodic (orderly or random) scenarios in which this premise breaks down, we study here the effects of deterministic disorder. With specific reference to a model based on Golay-Rudin-Shapiro sequences, we illustrate certain peculiar boundary effects that can occur in finite-size dielectric multilayers, leading to anomalous light-transport properties that are in stark contrast with the predictions from conventional effective-medium theory. Via parametric and comparative studies, we elucidate the underlying physical mechanisms, also highlighting similarities and differences with respect to previously studied geometries. Our outcomes may inspire potential applications to optical sensing, switching and lasing.
+  
+
+  @article{IJ138_OpEx_28_10199_2020,
+  author = {Coppolaro, Marino and Castaldi, Giuseppe and Galdi, Vincenzo},
+  journal = {Optics Express},
+  number = {7},
+  pages = {10199--10209},
+  publisher = {OSA},
+  title = {Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials},
+  volume = {28},
+  month = mar,
+  year = {2020},
+  url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-28-7-10199},
+  doi = {10.1364/OE.388452}
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/GRS_NL-ML.png" /></entry><entry><title type="html">Our paper on deterministically disordered metamaterials accepted in OpEx</title><link href="/news/OpEx-paper-GRS-accepted" rel="alternate" type="text/html" title="Our paper on deterministically disordered metamaterials accepted in OpEx" /><published>2020-03-17T00:00:00+01:00</published><updated>2020-03-17T00:00:00+01:00</updated><id>/news/OpEx-paper-GRS-accepted</id><content type="html" xml:base="/news/OpEx-paper-GRS-accepted">&lt;p&gt;Our paper on “Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials”
+has been accepted for publication in &lt;a href=&quot;https://www.osapublishing.org/oe/&quot;&gt;&lt;em&gt;Optics Express&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;An &lt;a href=&quot;http://arxiv.org/abs/2003.07767&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="nonlocal" /><category term="homogenization" /><category term="aperiodic" /><summary type="html">Our paper on “Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials”
+has been accepted for publication in Optics Express.
+
+An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/OpEx.png" /></entry><entry><title type="html">Our paper on anisotropic metasurfaces accepted in AdOM</title><link href="/news/AdOM-accepted" rel="alternate" type="text/html" title="Our paper on anisotropic metasurfaces accepted in AdOM" /><published>2020-03-09T00:00:00+01:00</published><updated>2020-03-09T00:00:00+01:00</updated><id>/news/AdOM-accepted</id><content type="html" xml:base="/news/AdOM-accepted">&lt;p&gt;Our paper on “Independent control of co-polarized amplitude and phase responses via anisotropic metasurfaces,”
+in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
+has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wiley.com/journal/21951071&quot;&gt;&lt;em&gt;Advanced Optical Materials&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><summary type="html">Our paper on “Independent control of co-polarized amplitude and phase responses via anisotropic metasurfaces,”
+in collaboration with Tie Jun Cui’s Group (Southeast University),
+has been accepted for publication in Advanced Optical Materials.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/AdOM.png" /></entry><entry><title type="html">MIT student externship</title><link href="/news/MIT_externship" rel="alternate" type="text/html" title="MIT student externship" /><published>2020-01-07T00:00:00+01:00</published><updated>2020-01-07T00:00:00+01:00</updated><id>/news/MIT_externship</id><content type="html" xml:base="/news/MIT_externship">&lt;p&gt;Alisa Y. Hathaway has temporarily joined the Fields &amp;amp; Waves Lab within the framework of the &lt;a href=&quot;https://alum.mit.edu/communitiesmit-students/student-externships&quot;&gt;MIT student externship program&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;She will be working on the study of &lt;a href=&quot;/projects/coding_MS&quot;&gt;space-time coding digital metasurfaces&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="MIT externship" /><category term="students" /><summary type="html">Alisa Y. Hathaway has temporarily joined the Fields &amp;amp; Waves Lab within the framework of the MIT student externship program.
 
@@ -680,212 +791,4 @@ Di Meo, V., Crescitelli, A., Sandomenico, A., Moccia, M., Galdi, V., Portaccio, 
   organization = {Munich, Germany, Sep. 4-7, 2019},
   month = sep,
   year = {2019}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/NANOP19.jpg" /></entry><entry><title type="html">Prof. Galdi joins OpEx Editorial Board</title><link href="/news/OpEx-AE" rel="alternate" type="text/html" title="Prof. Galdi joins OpEx Editorial Board" /><published>2019-08-19T00:00:00+02:00</published><updated>2019-08-19T00:00:00+02:00</updated><id>/news/OpEx-AE</id><content type="html" xml:base="/news/OpEx-AE">&lt;p&gt;Prof. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; has been appointed Associate Editor of &lt;a href=&quot;https://www.osapublishing.org/oe/home.cfm&quot;&gt;&lt;em&gt;Optics Express&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="Vincenzo Galdi" /><summary type="html">Prof. Vincenzo Galdi has been appointed Associate Editor of Optics Express.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/OpEx.png" /></entry><entry><title type="html">Our paper on nonreciprocal space-time-coding metasurfaces published in AdvMat</title><link href="/news/AM-published" rel="alternate" type="text/html" title="Our paper on nonreciprocal space-time-coding metasurfaces published in AdvMat" /><published>2019-08-17T00:00:00+02:00</published><updated>2019-08-17T00:00:00+02:00</updated><id>/news/AM-published</id><content type="html" xml:base="/news/AM-published">&lt;p&gt;Our paper on “Breaking reciprocity with space-time-coding digital metasurfaces,”
-[&lt;a href=&quot;#IJ137_AM_1904069_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
-in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
-has been published in &lt;em&gt;Advanced Materials&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ137_AM_1904069_2019&quot;&gt;Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Castaldi, G., … Cui, T. J. (2019). Breaking reciprocity with space-time-coding digital metasurfaces. &lt;i&gt;Advanced Materials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;31&lt;/i&gt;&lt;/span&gt;(41), 1904069.&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ137_AM_1904069_2019-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ137_AM_1904069_2019-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ137_AM_1904069_2019-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1002/adma.201904069&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ137_AM_1904069_2019.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-    &lt;li&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadma.201904069&amp;amp;file=adma201904069-sup-0001-S1.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ137_AM_1904069_2019-abstract&quot; class=&quot;collapse&quot;&gt;Metasurfaces are artificially engineered ultrathin structures that can finely tailor and control electromagnetic wavefronts. There is currently a strong interest in exploring their capability to lift some fundamental limitations dictated by Lorentz reciprocity, which have strong implications in communication, heat management, and energy harvesting. Time-varying approaches have emerged as attractive alternatives to conventional schemes relying on magnetic or nonlinear materials, but experimental evidence is currently limited to devices such as circulators and antennas. Here, the recently proposed concept of space-time-coding digital metasurfaces is leveraged to break reciprocity. Moreover, it is shown that such nonreciprocal effects can be controlled dynamically. This approach relies on inducing suitable spatiotemporal phase gradients in a programmable way via digital modulation of the metasurface-elements’ phase repsonse, which enable anomalous reflections accompanied by frequency conversions. A prototype operating at microwave frequencies is designed and fabricated for proof-of-concept validation. Measured results are in good agreement with theory, hence providing the first experimental evidence of nonreciprocal reflection effects enabled by space-time-modulated digital metasurfaces. The proposed concept and platform set the stage for “on-demand” realization of nonreciprocal effects, in programmable or reconfigurable fashions, which may find several promising applications, including frequency conversion, Doppler frequency illusion, optical isolation, and unidirectional transmission.&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ137_AM_1904069_2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ137_AM_1904069_2019,
-  author = {Zhang, Lei and Chen, Xiao Qing and Shao, Rui Wen and Dai, Jun Yan and Cheng, Qiang and Castaldi, Giuseppe and Galdi, Vincenzo and Cui, Tie Jun},
-  title = {Breaking reciprocity with space-time-coding digital metasurfaces},
-  journal = {Advanced Materials},
-  volume = {31},
-  number = {41},
-  pages = {1904069},
-  year = {2019},
-  month = oct,
-  doi = {10.1002/adma.201904069},
-  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadma.201904069&amp;amp;file=adma201904069-sup-0001-S1.pdf}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="space-time" /><category term="coding" /><category term="nonreciprocal" /><summary type="html">Our paper on “Breaking reciprocity with space-time-coding digital metasurfaces,”
-[1]
-in collaboration with Tie Jun Cui’s Group (Southeast University),
-has been published in Advanced Materials.
-
-Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Castaldi, G., … Cui, T. J. (2019). Breaking reciprocity with space-time-coding digital metasurfaces. Advanced Materials 31(41), 1904069.
-
-
-
-  
-    
-    Abstract
-    
-
-    BibTeX
-
-            
-    
-    DOI
-    
-
-    
-
-    
-      
-    
-    PDF
-    
-
-    
-    Supplements
-    
-  
-  
-
-  
-  Metasurfaces are artificially engineered ultrathin structures that can finely tailor and control electromagnetic wavefronts. There is currently a strong interest in exploring their capability to lift some fundamental limitations dictated by Lorentz reciprocity, which have strong implications in communication, heat management, and energy harvesting. Time-varying approaches have emerged as attractive alternatives to conventional schemes relying on magnetic or nonlinear materials, but experimental evidence is currently limited to devices such as circulators and antennas. Here, the recently proposed concept of space-time-coding digital metasurfaces is leveraged to break reciprocity. Moreover, it is shown that such nonreciprocal effects can be controlled dynamically. This approach relies on inducing suitable spatiotemporal phase gradients in a programmable way via digital modulation of the metasurface-elements’ phase repsonse, which enable anomalous reflections accompanied by frequency conversions. A prototype operating at microwave frequencies is designed and fabricated for proof-of-concept validation. Measured results are in good agreement with theory, hence providing the first experimental evidence of nonreciprocal reflection effects enabled by space-time-modulated digital metasurfaces. The proposed concept and platform set the stage for “on-demand” realization of nonreciprocal effects, in programmable or reconfigurable fashions, which may find several promising applications, including frequency conversion, Doppler frequency illusion, optical isolation, and unidirectional transmission.
-  
-
-  @article{IJ137_AM_1904069_2019,
-  author = {Zhang, Lei and Chen, Xiao Qing and Shao, Rui Wen and Dai, Jun Yan and Cheng, Qiang and Castaldi, Giuseppe and Galdi, Vincenzo and Cui, Tie Jun},
-  title = {Breaking reciprocity with space-time-coding digital metasurfaces},
-  journal = {Advanced Materials},
-  volume = {31},
-  number = {41},
-  pages = {1904069},
-  year = {2019},
-  month = oct,
-  doi = {10.1002/adma.201904069},
-  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadma.201904069&amp;amp;file=adma201904069-sup-0001-S1.pdf}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/NR-STC-MS.jpg" /></entry><entry><title type="html">Our paper on nonreciprocal space-time-coding metasurfaces accepted in AdvMat</title><link href="/news/AM-accepted" rel="alternate" type="text/html" title="Our paper on nonreciprocal space-time-coding metasurfaces accepted in AdvMat" /><published>2019-08-01T00:00:00+02:00</published><updated>2019-08-01T00:00:00+02:00</updated><id>/news/AM-accepted</id><content type="html" xml:base="/news/AM-accepted">&lt;p&gt;Our paper on “Breaking reciprocity with space-time-coding digital metasurfaces,”
-in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
-has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wiley.com/journal/15214095&quot;&gt;&lt;em&gt;Advanced Materials&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="space-time" /><category term="coding" /><category term="nonreciprocal" /><summary type="html">Our paper on “Breaking reciprocity with space-time-coding digital metasurfaces,”
-in collaboration with Tie Jun Cui’s Group (Southeast University),
-has been accepted for publication in Advanced Materials.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/AdvMat.png" /></entry><entry><title type="html">Our paper on spectral singularities published in IEEE-TAP</title><link href="/news/IEEE-TAP-paper-NH-CYL-published" rel="alternate" type="text/html" title="Our paper on spectral singularities published in IEEE-TAP" /><published>2019-07-16T00:00:00+02:00</published><updated>2019-07-16T00:00:00+02:00</updated><id>/news/IEEE-TAP-paper-NH-CYL-published</id><content type="html" xml:base="/news/IEEE-TAP-paper-NH-CYL-published">&lt;p&gt;Our paper on “Harnessing spectral singularities in non-Hermitian cylindrical structures,” 
-[&lt;a href=&quot;#IJ136_IEEE-TAP_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
-in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
-has been published in the &lt;em&gt;IEEE Transactions on Antennas and Propagation&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ136_IEEE-TAP_2019&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2019). Harnessing spectral singularities in non-Hermitian cylindrical structures. &lt;i&gt;IEEE Transactions on Antennas and Propagation&lt;/i&gt; (early view).&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ136_IEEE-TAP_2019-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ136_IEEE-TAP_2019-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ136_IEEE-TAP_2019-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/TAP.2019.2927861&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ136_IEEE-TAP_2019.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ136_IEEE-TAP_2019-abstract&quot; class=&quot;collapse&quot;&gt;Non-Hermitian systems characterized by suitable spatial distributions of gain and loss can exhibit “spectral singularities” in the form of zero-width resonances associated to real-frequency poles in the scattering operator. Here, we study this intriguing phenomenon in connection with cylindrical geometries, and explore possible applications to controlling and tailoring in unconventional ways the scattering response of sub-wavelength and wavelength-sized objects. Among the possible implications and applications, we illustrate the additional degrees of freedom available in the scattering-absorption-extinction tradeoff, and address the engineering of zero-forward-scattering, transverse scattering, and gain-controlled reconfigurability of the scattering pattern, also paying attention to stability issues. Our results may open up new vistas in active and reconfigurable nanophotonics platforms.&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ136_IEEE-TAP_2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ136_IEEE-TAP_2019,
-  author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
-  journal = {IEEE Transactions on Antennas and Propagation},
-  title = {Harnessing spectral singularities in non-Hermitian cylindrical structures},
-  year = {2019},
-  volume = {},
-  number = {early view},
-  pages = {},
-  doi = {10.1109/TAP.2019.2927861},
-  month = {}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="non-Hermitian" /><summary type="html">Our paper on “Harnessing spectral singularities in non-Hermitian cylindrical structures,” 
-[1]
-in collaboration with Andrea Alù (ASRC-CUNY),
-has been published in the IEEE Transactions on Antennas and Propagation.
-
-Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2019). Harnessing spectral singularities in non-Hermitian cylindrical structures. IEEE Transactions on Antennas and Propagation (early view).
-
-
-
-  
-    
-    Abstract
-    
-
-    BibTeX
-
-            
-    
-    DOI
-    
-
-    
-
-    
-      
-    
-    PDF
-    
-
-    
-  
-  
-
-  
-  Non-Hermitian systems characterized by suitable spatial distributions of gain and loss can exhibit “spectral singularities” in the form of zero-width resonances associated to real-frequency poles in the scattering operator. Here, we study this intriguing phenomenon in connection with cylindrical geometries, and explore possible applications to controlling and tailoring in unconventional ways the scattering response of sub-wavelength and wavelength-sized objects. Among the possible implications and applications, we illustrate the additional degrees of freedom available in the scattering-absorption-extinction tradeoff, and address the engineering of zero-forward-scattering, transverse scattering, and gain-controlled reconfigurability of the scattering pattern, also paying attention to stability issues. Our results may open up new vistas in active and reconfigurable nanophotonics platforms.
-  
-
-  @article{IJ136_IEEE-TAP_2019,
-  author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
-  journal = {IEEE Transactions on Antennas and Propagation},
-  title = {Harnessing spectral singularities in non-Hermitian cylindrical structures},
-  year = {2019},
-  volume = {},
-  number = {early view},
-  pages = {},
-  doi = {10.1109/TAP.2019.2927861},
-  month = {}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/NH-CYL.png" /></entry></feed>
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/NANOP19.jpg" /></entry><entry><title type="html">Prof. Galdi joins OpEx Editorial Board</title><link href="/news/OpEx-AE" rel="alternate" type="text/html" title="Prof. Galdi joins OpEx Editorial Board" /><published>2019-08-19T00:00:00+02:00</published><updated>2019-08-19T00:00:00+02:00</updated><id>/news/OpEx-AE</id><content type="html" xml:base="/news/OpEx-AE">&lt;p&gt;Prof. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; has been appointed Associate Editor of &lt;a href=&quot;https://www.osapublishing.org/oe/home.cfm&quot;&gt;&lt;em&gt;Optics Express&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="Vincenzo Galdi" /><summary type="html">Prof. Vincenzo Galdi has been appointed Associate Editor of Optics Express.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/OpEx.png" /></entry></feed>
