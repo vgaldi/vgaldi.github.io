@@ -4,13 +4,77 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2020-03-25T18:15:04+01:00</updated>
+ <updated>2020-04-06T18:40:51+02:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
    <email>vgaldi@unisannio.it</email>
  </author>
 
+ 
+ <entry>
+   <title>Our paper on anisotropic metasurfaces published in AdOM</title>
+   <link href="http://fw-lab.org/news/AdOM-published"/>
+   <updated>2020-03-29T00:00:00+01:00</updated>
+   <id>http://fw-lab.org/news/AdOM-published</id>
+   <content type="html">&lt;p&gt;Our paper on “Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces,”
+[&lt;a href=&quot;#IJ139_AdOM_1902126_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
+has been published in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ139_AdOM_1902126_2020&quot;&gt;Wu, R. Y., Bao, L., Wu, L. W., Wang, Z. X., Ma, Q., Wu, J. W., … Cui, T. J. (2020). Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;early view&lt;/i&gt;&lt;/span&gt;, 1902126.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ139_AdOM_1902126_2020-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ139_AdOM_1902126_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ139_AdOM_1902126_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1002/adom.201902126&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ139_AdOM_1902126_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadom.201902126&amp;amp;file=adom201902126-sup-0001-SuppMat.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ139_AdOM_1902126_2020-abstract&quot; class=&quot;collapse&quot;&gt;Abstract A class of anisotropic, transmissive electromagnetic metasurfaces is presented, which enable independent and simultaneous control of copolarized phase and amplitude responses to two linear, orthogonal polarizations. By varying the geometrical parameters, the transmission response of the proposed structure can yield a full phase coverage, accompanied by broadly adjustable amplitude and negligible cross-polarized components. The full amplitude-phase control together with the novel anisotropic character allows efficient implementation of complicated field manipulations. As representative application examples, which cannot be realized via conventional (phase-only) metasurfaces, it is presented here: (1) the radiation of multiple equal-power vortex beams (along arbitrarily predesigned directions, with designable orbital angular momentum modes under different polarizations), and (2) the realization of polarization-reconfigurable multifocal metalenses. Full-wave numerical simulations and experimental results demonstrate good agreement and confirm the versatility and effectiveness of the proposed approach to design advanced field-manipulation systems.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ139_AdOM_1902126_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ139_AdOM_1902126_2020,
+  author = {Wu, Rui Yuan and Bao, Lei and Wu, Liang Wei and Wang, Zheng Xing and Ma, Qian and Wu, Jun Wei and Bai, Guo Dong and Galdi, Vincenzo and Cui, Tie Jun},
+  title = {Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces},
+  journal = {Advanced Optical Materials},
+  volume = {early view},
+  pages = {1902126},
+  year = {2020},
+  keywords = {amplitude and phase control, anisotropic metasurfaces, arbitrary bifocal metalenses, equal-power vortex beams, polarization-reconfigurable},
+  doi = {10.1002/adom.201902126},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.201902126},
+  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadom.201902126&amp;amp;file=adom201902126-sup-0001-SuppMat.pdf}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Our paper on deterministically disordered metamaterials published in OpEx</title>

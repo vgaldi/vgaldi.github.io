@@ -1,4 +1,109 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-03-25T18:15:04+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on deterministically disordered metamaterials published in OpEx</title><link href="/news/OpEx-paper-GRS-published" rel="alternate" type="text/html" title="Our paper on deterministically disordered metamaterials published in OpEx" /><published>2020-03-25T00:00:00+01:00</published><updated>2020-03-25T00:00:00+01:00</updated><id>/news/OpEx-paper-GRS-published</id><content type="html" xml:base="/news/OpEx-paper-GRS-published">&lt;p&gt;Our paper on “Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials”
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-06T18:40:51+02:00</updated><id>http://localhost:4000//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on anisotropic metasurfaces published in AdOM</title><link href="http://localhost:4000/news/AdOM-published" rel="alternate" type="text/html" title="Our paper on anisotropic metasurfaces published in AdOM" /><published>2020-03-29T00:00:00+01:00</published><updated>2020-03-29T00:00:00+01:00</updated><id>http://localhost:4000/news/AdOM-published</id><content type="html" xml:base="http://localhost:4000/news/AdOM-published">&lt;p&gt;Our paper on “Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces,”
+[&lt;a href=&quot;#IJ139_AdOM_1902126_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
+has been published in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ139_AdOM_1902126_2020&quot;&gt;Wu, R. Y., Bao, L., Wu, L. W., Wang, Z. X., Ma, Q., Wu, J. W., … Cui, T. J. (2020). Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;early view&lt;/i&gt;&lt;/span&gt;, 1902126.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ139_AdOM_1902126_2020-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ139_AdOM_1902126_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ139_AdOM_1902126_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1002/adom.201902126&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ139_AdOM_1902126_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadom.201902126&amp;amp;file=adom201902126-sup-0001-SuppMat.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ139_AdOM_1902126_2020-abstract&quot; class=&quot;collapse&quot;&gt;Abstract A class of anisotropic, transmissive electromagnetic metasurfaces is presented, which enable independent and simultaneous control of copolarized phase and amplitude responses to two linear, orthogonal polarizations. By varying the geometrical parameters, the transmission response of the proposed structure can yield a full phase coverage, accompanied by broadly adjustable amplitude and negligible cross-polarized components. The full amplitude-phase control together with the novel anisotropic character allows efficient implementation of complicated field manipulations. As representative application examples, which cannot be realized via conventional (phase-only) metasurfaces, it is presented here: (1) the radiation of multiple equal-power vortex beams (along arbitrarily predesigned directions, with designable orbital angular momentum modes under different polarizations), and (2) the realization of polarization-reconfigurable multifocal metalenses. Full-wave numerical simulations and experimental results demonstrate good agreement and confirm the versatility and effectiveness of the proposed approach to design advanced field-manipulation systems.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ139_AdOM_1902126_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ139_AdOM_1902126_2020,
+  author = {Wu, Rui Yuan and Bao, Lei and Wu, Liang Wei and Wang, Zheng Xing and Ma, Qian and Wu, Jun Wei and Bai, Guo Dong and Galdi, Vincenzo and Cui, Tie Jun},
+  title = {Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces},
+  journal = {Advanced Optical Materials},
+  volume = {early view},
+  pages = {1902126},
+  year = {2020},
+  keywords = {amplitude and phase control, anisotropic metasurfaces, arbitrary bifocal metalenses, equal-power vortex beams, polarization-reconfigurable},
+  doi = {10.1002/adom.201902126},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.201902126},
+  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadom.201902126&amp;amp;file=adom201902126-sup-0001-SuppMat.pdf}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><summary type="html">Our paper on “Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces,”
+[1]
+in collaboration with Tie Jun Cui’s Group (Southeast University),
+has been published in Advanced Optical Materials.
+
+Wu, R. Y., Bao, L., Wu, L. W., Wang, Z. X., Ma, Q., Wu, J. W., … Cui, T. J. (2020). Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces. Advanced Optical Materials early view, 1902126.
+
+
+
+  
+    
+    Abstract
+    
+
+    BibTeX
+
+            
+    
+    DOI
+    
+
+    
+
+    
+      
+    
+    PDF
+    
+
+    
+    Supplements
+    
+  
+  
+
+  
+  Abstract A class of anisotropic, transmissive electromagnetic metasurfaces is presented, which enable independent and simultaneous control of copolarized phase and amplitude responses to two linear, orthogonal polarizations. By varying the geometrical parameters, the transmission response of the proposed structure can yield a full phase coverage, accompanied by broadly adjustable amplitude and negligible cross-polarized components. The full amplitude-phase control together with the novel anisotropic character allows efficient implementation of complicated field manipulations. As representative application examples, which cannot be realized via conventional (phase-only) metasurfaces, it is presented here: (1) the radiation of multiple equal-power vortex beams (along arbitrarily predesigned directions, with designable orbital angular momentum modes under different polarizations), and (2) the realization of polarization-reconfigurable multifocal metalenses. Full-wave numerical simulations and experimental results demonstrate good agreement and confirm the versatility and effectiveness of the proposed approach to design advanced field-manipulation systems.
+  
+
+  @article{IJ139_AdOM_1902126_2020,
+  author = {Wu, Rui Yuan and Bao, Lei and Wu, Liang Wei and Wang, Zheng Xing and Ma, Qian and Wu, Jun Wei and Bai, Guo Dong and Galdi, Vincenzo and Cui, Tie Jun},
+  title = {Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces},
+  journal = {Advanced Optical Materials},
+  volume = {early view},
+  pages = {1902126},
+  year = {2020},
+  keywords = {amplitude and phase control, anisotropic metasurfaces, arbitrary bifocal metalenses, equal-power vortex beams, polarization-reconfigurable},
+  doi = {10.1002/adom.201902126},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.201902126},
+  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadom.201902126&amp;amp;file=adom201902126-sup-0001-SuppMat.pdf}
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/AP-MS.png" /></entry><entry><title type="html">Our paper on deterministically disordered metamaterials published in OpEx</title><link href="http://localhost:4000/news/OpEx-paper-GRS-published" rel="alternate" type="text/html" title="Our paper on deterministically disordered metamaterials published in OpEx" /><published>2020-03-25T00:00:00+01:00</published><updated>2020-03-25T00:00:00+01:00</updated><id>http://localhost:4000/news/OpEx-paper-GRS-published</id><content type="html" xml:base="http://localhost:4000/news/OpEx-paper-GRS-published">&lt;p&gt;Our paper on “Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials”
 [&lt;a href=&quot;#IJ138_OpEx_28_10199_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 has been published in [&lt;em&gt;Optics Express&lt;/em&gt;].&lt;/p&gt;
 
@@ -99,21 +204,21 @@ Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2020). Effects of deterministi
   year = {2020},
   url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-28-7-10199},
   doi = {10.1364/OE.388452}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/GRS_NL-ML.png" /></entry><entry><title type="html">Our paper on deterministically disordered metamaterials accepted in OpEx</title><link href="/news/OpEx-paper-GRS-accepted" rel="alternate" type="text/html" title="Our paper on deterministically disordered metamaterials accepted in OpEx" /><published>2020-03-17T00:00:00+01:00</published><updated>2020-03-17T00:00:00+01:00</updated><id>/news/OpEx-paper-GRS-accepted</id><content type="html" xml:base="/news/OpEx-paper-GRS-accepted">&lt;p&gt;Our paper on “Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials”
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/GRS_NL-ML.png" /></entry><entry><title type="html">Our paper on deterministically disordered metamaterials accepted in OpEx</title><link href="http://localhost:4000/news/OpEx-paper-GRS-accepted" rel="alternate" type="text/html" title="Our paper on deterministically disordered metamaterials accepted in OpEx" /><published>2020-03-17T00:00:00+01:00</published><updated>2020-03-17T00:00:00+01:00</updated><id>http://localhost:4000/news/OpEx-paper-GRS-accepted</id><content type="html" xml:base="http://localhost:4000/news/OpEx-paper-GRS-accepted">&lt;p&gt;Our paper on “Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials”
 has been accepted for publication in &lt;a href=&quot;https://www.osapublishing.org/oe/&quot;&gt;&lt;em&gt;Optics Express&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;An &lt;a href=&quot;http://arxiv.org/abs/2003.07767&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="nonlocal" /><category term="homogenization" /><category term="aperiodic" /><summary type="html">Our paper on “Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials”
 has been accepted for publication in Optics Express.
 
-An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/OpEx.png" /></entry><entry><title type="html">Our paper on anisotropic metasurfaces accepted in AdOM</title><link href="/news/AdOM-accepted" rel="alternate" type="text/html" title="Our paper on anisotropic metasurfaces accepted in AdOM" /><published>2020-03-09T00:00:00+01:00</published><updated>2020-03-09T00:00:00+01:00</updated><id>/news/AdOM-accepted</id><content type="html" xml:base="/news/AdOM-accepted">&lt;p&gt;Our paper on “Independent control of co-polarized amplitude and phase responses via anisotropic metasurfaces,”
+An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/OpEx.png" /></entry><entry><title type="html">Our paper on anisotropic metasurfaces accepted in AdOM</title><link href="http://localhost:4000/news/AdOM-accepted" rel="alternate" type="text/html" title="Our paper on anisotropic metasurfaces accepted in AdOM" /><published>2020-03-09T00:00:00+01:00</published><updated>2020-03-09T00:00:00+01:00</updated><id>http://localhost:4000/news/AdOM-accepted</id><content type="html" xml:base="http://localhost:4000/news/AdOM-accepted">&lt;p&gt;Our paper on “Independent control of co-polarized amplitude and phase responses via anisotropic metasurfaces,”
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wiley.com/journal/21951071&quot;&gt;&lt;em&gt;Advanced Optical Materials&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><summary type="html">Our paper on “Independent control of co-polarized amplitude and phase responses via anisotropic metasurfaces,”
 in collaboration with Tie Jun Cui’s Group (Southeast University),
-has been accepted for publication in Advanced Optical Materials.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/AdOM.png" /></entry><entry><title type="html">MIT student externship</title><link href="/news/MIT_externship" rel="alternate" type="text/html" title="MIT student externship" /><published>2020-01-07T00:00:00+01:00</published><updated>2020-01-07T00:00:00+01:00</updated><id>/news/MIT_externship</id><content type="html" xml:base="/news/MIT_externship">&lt;p&gt;Alisa Y. Hathaway has temporarily joined the Fields &amp;amp; Waves Lab within the framework of the &lt;a href=&quot;https://alum.mit.edu/communitiesmit-students/student-externships&quot;&gt;MIT student externship program&lt;/a&gt;.&lt;/p&gt;
+has been accepted for publication in Advanced Optical Materials.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/AdOM.png" /></entry><entry><title type="html">MIT student externship</title><link href="http://localhost:4000/news/MIT_externship" rel="alternate" type="text/html" title="MIT student externship" /><published>2020-01-07T00:00:00+01:00</published><updated>2020-01-07T00:00:00+01:00</updated><id>http://localhost:4000/news/MIT_externship</id><content type="html" xml:base="http://localhost:4000/news/MIT_externship">&lt;p&gt;Alisa Y. Hathaway has temporarily joined the Fields &amp;amp; Waves Lab within the framework of the &lt;a href=&quot;https://alum.mit.edu/communitiesmit-students/student-externships&quot;&gt;MIT student externship program&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;She will be working on the study of &lt;a href=&quot;/projects/coding_MS&quot;&gt;space-time coding digital metasurfaces&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="MIT externship" /><category term="students" /><summary type="html">Alisa Y. Hathaway has temporarily joined the Fields &amp;amp; Waves Lab within the framework of the MIT student externship program.
 
-She will be working on the study of space-time coding digital metasurfaces.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MIT_externship.jpg" /></entry><entry><title type="html">2020 EurAAP Leopold B. Felsen Award</title><link href="/news/EurAAP-LBF-award" rel="alternate" type="text/html" title="2020 EurAAP Leopold B. Felsen Award" /><published>2019-12-10T00:00:00+01:00</published><updated>2019-12-10T00:00:00+01:00</updated><id>/news/EurAAP-LBF-award</id><content type="html" xml:base="/news/EurAAP-LBF-award">&lt;p&gt;The call for nominations for the &lt;em&gt;2020 EurAAP Leopold B. Felsen Award for Excellence in Electrodynamics&lt;/em&gt; is open.&lt;/p&gt;
+She will be working on the study of space-time coding digital metasurfaces.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/MIT_externship.jpg" /></entry><entry><title type="html">2020 EurAAP Leopold B. Felsen Award</title><link href="http://localhost:4000/news/EurAAP-LBF-award" rel="alternate" type="text/html" title="2020 EurAAP Leopold B. Felsen Award" /><published>2019-12-10T00:00:00+01:00</published><updated>2019-12-10T00:00:00+01:00</updated><id>http://localhost:4000/news/EurAAP-LBF-award</id><content type="html" xml:base="http://localhost:4000/news/EurAAP-LBF-award">&lt;p&gt;The call for nominations for the &lt;em&gt;2020 EurAAP Leopold B. Felsen Award for Excellence in Electrodynamics&lt;/em&gt; is open.&lt;/p&gt;
 
 &lt;p&gt;The Award was originally established jointly by the University of Siena and the University of Sannio, 
 funded through a donation from Michael and Judy Felsen in fulfillment of the last wishes of their father, 
@@ -163,7 +268,7 @@ recommendation of the referees.
 
 The deadline for submission of the nominations is January 31, 2020.
 
-More details can be found here.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/EurAAP_LBF_award.png" /></entry><entry><title type="html">Our paper on nonreciprocal metasurfaces on the cover of AdvMat</title><link href="/news/AM-cover" rel="alternate" type="text/html" title="Our paper on nonreciprocal metasurfaces on the cover of AdvMat" /><published>2019-10-11T00:00:00+02:00</published><updated>2019-10-11T00:00:00+02:00</updated><id>/news/AM-cover</id><content type="html" xml:base="/news/AM-cover">&lt;p&gt;Our paper on “Breaking reciprocity with space-time-coding digital metasurfaces,”
+More details can be found here.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/EurAAP_LBF_award.png" /></entry><entry><title type="html">Our paper on nonreciprocal metasurfaces on the cover of AdvMat</title><link href="http://localhost:4000/news/AM-cover" rel="alternate" type="text/html" title="Our paper on nonreciprocal metasurfaces on the cover of AdvMat" /><published>2019-10-11T00:00:00+02:00</published><updated>2019-10-11T00:00:00+02:00</updated><id>http://localhost:4000/news/AM-cover</id><content type="html" xml:base="http://localhost:4000/news/AM-cover">&lt;p&gt;Our paper on “Breaking reciprocity with space-time-coding digital metasurfaces,”
 [&lt;a href=&quot;#IJ137_AM_1904069_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 made the back cover of &lt;em&gt;Advanced Materials&lt;/em&gt;.&lt;/p&gt;
@@ -268,7 +373,7 @@ Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Castaldi, G., … Cu
   month = oct,
   doi = {10.1002/adma.201904069},
   note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadma.201904069&amp;amp;file=adma201904069-sup-0001-S1.pdf}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/AM_cover.png" /></entry><entry><title type="html">Best Poster Award at Metamaterials 2019</title><link href="/news/award-Metamaterials-2019" rel="alternate" type="text/html" title="Best Poster Award at Metamaterials 2019" /><published>2019-09-20T00:00:00+02:00</published><updated>2019-09-20T00:00:00+02:00</updated><id>/news/award-Metamaterials-2019</id><content type="html" xml:base="/news/award-Metamaterials-2019">&lt;p&gt;Our paper entitled &lt;em&gt;“Some ideas for non-Hermitian doping of epsilon-near-zero media”&lt;/em&gt; 
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/AM_cover.png" /></entry><entry><title type="html">Best Poster Award at Metamaterials 2019</title><link href="http://localhost:4000/news/award-Metamaterials-2019" rel="alternate" type="text/html" title="Best Poster Award at Metamaterials 2019" /><published>2019-09-20T00:00:00+02:00</published><updated>2019-09-20T00:00:00+02:00</updated><id>http://localhost:4000/news/award-Metamaterials-2019</id><content type="html" xml:base="http://localhost:4000/news/award-Metamaterials-2019">&lt;p&gt;Our paper entitled &lt;em&gt;“Some ideas for non-Hermitian doping of epsilon-near-zero media”&lt;/em&gt; 
 [&lt;a href=&quot;#Coppolaro_Metamaterials2019b&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] received the &lt;em&gt;Best Poster Award&lt;/em&gt; at the &lt;em&gt;13th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2019.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
 Rome, Italy, Sep. 16-19, 2019.&lt;/p&gt;
 
@@ -343,7 +448,7 @@ Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2019)
   organization = {Rome, Italy, Sep. 16-19, 2019},
   month = sep,
   year = {2019}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/award.png" /></entry><entry><title type="html">Five presentations at Metamaterials 2019</title><link href="/news/Metamaterials-2019" rel="alternate" type="text/html" title="Five presentations at Metamaterials 2019" /><published>2019-09-19T00:00:00+02:00</published><updated>2019-09-19T00:00:00+02:00</updated><id>/news/Metamaterials-2019</id><content type="html" xml:base="/news/Metamaterials-2019">&lt;p&gt;We have presented five papers
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/award.png" /></entry><entry><title type="html">Five presentations at Metamaterials 2019</title><link href="http://localhost:4000/news/Metamaterials-2019" rel="alternate" type="text/html" title="Five presentations at Metamaterials 2019" /><published>2019-09-19T00:00:00+02:00</published><updated>2019-09-19T00:00:00+02:00</updated><id>http://localhost:4000/news/Metamaterials-2019</id><content type="html" xml:base="http://localhost:4000/news/Metamaterials-2019">&lt;p&gt;We have presented five papers
 [&lt;a href=&quot;#Moccia_Metamaterials2019b&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Coppolaro_Metamaterials2019b&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Moccia_Metamaterials2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Zhang_Metamaterials2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Coppolaro_Metamaterials2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;], 
 at the &lt;em&gt;13th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2019.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
 Rome, Italy, Sep. 16-19, 2019.&lt;/p&gt;
@@ -716,7 +821,7 @@ Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2019). Enhancement of weak non
   organization = {Rome, Italy, Sep. 16-19, 2019},
   month = sep,
   year = {2019}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/Metamaterials-2019.png" /></entry><entry><title type="html">Talk presented at NANOP 2019</title><link href="/news/NANOP-2019" rel="alternate" type="text/html" title="Talk presented at NANOP 2019" /><published>2019-09-06T00:00:00+02:00</published><updated>2019-09-06T00:00:00+02:00</updated><id>/news/NANOP-2019</id><content type="html" xml:base="/news/NANOP-2019">&lt;p&gt;We have presented a talk
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/Metamaterials-2019.png" /></entry><entry><title type="html">Talk presented at NANOP 2019</title><link href="http://localhost:4000/news/NANOP-2019" rel="alternate" type="text/html" title="Talk presented at NANOP 2019" /><published>2019-09-06T00:00:00+02:00</published><updated>2019-09-06T00:00:00+02:00</updated><id>http://localhost:4000/news/NANOP-2019</id><content type="html" xml:base="http://localhost:4000/news/NANOP-2019">&lt;p&gt;We have presented a talk
 [&lt;a href=&quot;#DiMeo_NANOP19&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] at the &lt;em&gt;Nanophotonics and Micro/Nano Optics International Conference&lt;/em&gt; (&lt;a href=&quot;https://premc.org/conferences/nanop-nanophotonics-micro-nano-optics/&quot;&gt;NANOP&lt;/a&gt;),
 Munich, Germany, Sep. 4-7, 2019.&lt;/p&gt;
 
@@ -791,4 +896,4 @@ Di Meo, V., Crescitelli, A., Sandomenico, A., Moccia, M., Galdi, V., Portaccio, 
   organization = {Munich, Germany, Sep. 4-7, 2019},
   month = sep,
   year = {2019}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/NANOP19.jpg" /></entry><entry><title type="html">Prof. Galdi joins OpEx Editorial Board</title><link href="/news/OpEx-AE" rel="alternate" type="text/html" title="Prof. Galdi joins OpEx Editorial Board" /><published>2019-08-19T00:00:00+02:00</published><updated>2019-08-19T00:00:00+02:00</updated><id>/news/OpEx-AE</id><content type="html" xml:base="/news/OpEx-AE">&lt;p&gt;Prof. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; has been appointed Associate Editor of &lt;a href=&quot;https://www.osapublishing.org/oe/home.cfm&quot;&gt;&lt;em&gt;Optics Express&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="Vincenzo Galdi" /><summary type="html">Prof. Vincenzo Galdi has been appointed Associate Editor of Optics Express.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/OpEx.png" /></entry></feed>
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/NANOP19.jpg" /></entry></feed>
