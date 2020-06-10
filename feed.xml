@@ -1,4 +1,111 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-06T10:11:50+02:00</updated><id>http://localhost:4000//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on non-Hermitian particle arrays accepted in OpEx</title><link href="http://localhost:4000/news/OpEx-paper-NPA-accepted" rel="alternate" type="text/html" title="Our paper on non-Hermitian particle arrays accepted in OpEx" /><published>2020-06-04T00:00:00+02:00</published><updated>2020-06-04T00:00:00+02:00</updated><id>http://localhost:4000/news/OpEx-paper-NPA-accepted</id><content type="html" xml:base="http://localhost:4000/news/OpEx-paper-NPA-accepted">&lt;p&gt;Our paper on “Manipulating the scattering pattern with non-Hermitian particle arrays,”
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-10T10:38:53+02:00</updated><id>http://localhost:4000//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on non-Hermitian doping published in PNAS</title><link href="http://localhost:4000/news/PNAS-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian doping published in PNAS" /><published>2020-06-09T00:00:00+02:00</published><updated>2020-06-09T00:00:00+02:00</updated><id>http://localhost:4000/news/PNAS-published</id><content type="html" xml:base="http://localhost:4000/news/PNAS-published">&lt;p&gt;Our paper on “Non-Hermitian doping of epsilon-near-zero media,”
+[&lt;a href=&quot;#IJ140_PNAS_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+in collaboration with &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/index.htm&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania),
+has been published in the &lt;em&gt;Proceedings of the National Academy of Sciences of the U.S.A.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ140_PNAS_2020&quot;&gt;Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2020). Non-Hermitian doping of epsilon-near-zero media. &lt;i&gt;Proceedings of the National Academy of Sciences of the U.S.A.&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;early view&lt;/i&gt;&lt;/span&gt;.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ140_PNAS_2020-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ140_PNAS_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ140_PNAS_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1073/pnas.2001125117&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ140_PNAS_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;https://www.pnas.org/highwire/filestream/931085/field_highwire_adjunct_files/0/pnas.2001125117.sapp.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ140_PNAS_2020-abstract&quot; class=&quot;collapse&quot;&gt;The recently introduced concept of photonic doping in epsilon-near-zero media enables the tailoring and control of the effective magnetic response over broad regions of the parameter space, by resorting to a limited number of arbitrarily placed, nonmagnetic doping particles. Here, we theoretically extend this idea to non-Hermitian scenarios with either doping particles or host media characterized by tailored distributions of gain and loss. This considerably enlarges the attainable effective permeability parameter space, granting access to the entire complex plane. In this extended vision, losses are not considered as second-order, detrimental effects, and their interplay with gain is instrumental to enabling several intriguing effects of potential interest in reconfigurable nanophotonics and optical sensing, whose practical implementation is deferred to future studies.In solid-state physics, doping is a pivotal concept that allows controlling and engineering of the macroscopic electronic and optical properties of materials such as semiconductors by judiciously introducing small concentrations of impurities. Recently, this concept has been translated to two-dimensional photonic scenarios in connection with host media characterized by vanishingly small relative permittivity (epsilon near zero), showing that it is possible to obtain broadly tunable effective magnetic responses by introducing a single, nonmagnetic doping particle at an arbitrary position. So far, this phenomenon has been studied mostly for lossless configurations. In principle, the inevitable presence of material losses can be compensated via optical gain. However, taking inspiration from quantum (e.g., parity-time) symmetries that are eliciting growing attention in the emerging fields of non-Hermitian optics and photonics, this suggests considering more general gain-loss interactions. Here, we theoretically show that the photonic doping concept can be extended to non-Hermitian scenarios characterized by tailored distributions of gain and loss in either the doping particles or the host medium. In these scenarios, the effective permeability can be modeled as a complex-valued quantity (with the imaginary part accounting for the gain or loss), which can be tailored over broad regions of the complex plane. This enables a variety of unconventional optical responses and waveguiding mechanisms, which can be, in principle, reconfigured by varying the optical gain (e.g., via optical pumping). We envision several possible applications of this concept, including reconfigurable nanophotonics platforms and optical sensing, which motivate further studies for their experimental validation.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ140_PNAS_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ140_PNAS_2020,
+  author = {Coppolaro, Marino and Moccia, Massimo and Castaldi, Giuseppe and Engheta, Nader and Galdi, Vincenzo},
+  title = {Non-Hermitian doping of epsilon-near-zero media},
+  elocation-id = {202001125},
+  year = {2020},
+  doi = {10.1073/pnas.2001125117},
+  publisher = {National Academy of Sciences},
+  issn = {0027-8424},
+  url = {https://www.pnas.org/content/early/2020/06/08/2001125117},
+  journal = {Proceedings of the National Academy of Sciences of the U.S.A.},
+  volume = {early view},
+  note = {https://www.pnas.org/highwire/filestream/931085/field_highwire_adjunct_files/0/pnas.2001125117.sapp.pdf}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="non-Hermitian" /><category term="epsilon near zero" /><category term="metamaterials" /><summary type="html">Our paper on “Non-Hermitian doping of epsilon-near-zero media,”
+[1]
+in collaboration with Nader Engheta (University of Pennsylvania),
+has been published in the Proceedings of the National Academy of Sciences of the U.S.A.
+
+Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2020). Non-Hermitian doping of epsilon-near-zero media. Proceedings of the National Academy of Sciences of the U.S.A. early view.
+
+
+
+  
+    
+    Abstract
+    
+
+    BibTeX
+
+            
+    
+    DOI
+    
+
+    
+
+    
+      
+    
+    PDF
+    
+
+    
+    Supplements
+    
+  
+  
+
+  
+  The recently introduced concept of photonic doping in epsilon-near-zero media enables the tailoring and control of the effective magnetic response over broad regions of the parameter space, by resorting to a limited number of arbitrarily placed, nonmagnetic doping particles. Here, we theoretically extend this idea to non-Hermitian scenarios with either doping particles or host media characterized by tailored distributions of gain and loss. This considerably enlarges the attainable effective permeability parameter space, granting access to the entire complex plane. In this extended vision, losses are not considered as second-order, detrimental effects, and their interplay with gain is instrumental to enabling several intriguing effects of potential interest in reconfigurable nanophotonics and optical sensing, whose practical implementation is deferred to future studies.In solid-state physics, doping is a pivotal concept that allows controlling and engineering of the macroscopic electronic and optical properties of materials such as semiconductors by judiciously introducing small concentrations of impurities. Recently, this concept has been translated to two-dimensional photonic scenarios in connection with host media characterized by vanishingly small relative permittivity (epsilon near zero), showing that it is possible to obtain broadly tunable effective magnetic responses by introducing a single, nonmagnetic doping particle at an arbitrary position. So far, this phenomenon has been studied mostly for lossless configurations. In principle, the inevitable presence of material losses can be compensated via optical gain. However, taking inspiration from quantum (e.g., parity-time) symmetries that are eliciting growing attention in the emerging fields of non-Hermitian optics and photonics, this suggests considering more general gain-loss interactions. Here, we theoretically show that the photonic doping concept can be extended to non-Hermitian scenarios characterized by tailored distributions of gain and loss in either the doping particles or the host medium. In these scenarios, the effective permeability can be modeled as a complex-valued quantity (with the imaginary part accounting for the gain or loss), which can be tailored over broad regions of the complex plane. This enables a variety of unconventional optical responses and waveguiding mechanisms, which can be, in principle, reconfigured by varying the optical gain (e.g., via optical pumping). We envision several possible applications of this concept, including reconfigurable nanophotonics platforms and optical sensing, which motivate further studies for their experimental validation.
+  
+
+  @article{IJ140_PNAS_2020,
+  author = {Coppolaro, Marino and Moccia, Massimo and Castaldi, Giuseppe and Engheta, Nader and Galdi, Vincenzo},
+  title = {Non-Hermitian doping of epsilon-near-zero media},
+  elocation-id = {202001125},
+  year = {2020},
+  doi = {10.1073/pnas.2001125117},
+  publisher = {National Academy of Sciences},
+  issn = {0027-8424},
+  url = {https://www.pnas.org/content/early/2020/06/08/2001125117},
+  journal = {Proceedings of the National Academy of Sciences of the U.S.A.},
+  volume = {early view},
+  note = {https://www.pnas.org/highwire/filestream/931085/field_highwire_adjunct_files/0/pnas.2001125117.sapp.pdf}
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/PNAS_ENHD.png" /></entry><entry><title type="html">Our paper on non-Hermitian particle arrays accepted in OpEx</title><link href="http://localhost:4000/news/OpEx-paper-NPA-accepted" rel="alternate" type="text/html" title="Our paper on non-Hermitian particle arrays accepted in OpEx" /><published>2020-06-04T00:00:00+02:00</published><updated>2020-06-04T00:00:00+02:00</updated><id>http://localhost:4000/news/OpEx-paper-NPA-accepted</id><content type="html" xml:base="http://localhost:4000/news/OpEx-paper-NPA-accepted">&lt;p&gt;Our paper on “Manipulating the scattering pattern with non-Hermitian particle arrays,”
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (ASRC-CUNY),
 has been accepted for publication in &lt;a href=&quot;https://www.osapublishing.org/oe/&quot;&gt;&lt;em&gt;Optics Express&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="non-Hermitian" /><summary type="html">Our paper on “Manipulating the scattering pattern with non-Hermitian particle arrays,”
 in collaboration with Andrea Alù’s Group (ASRC-CUNY),
@@ -381,79 +488,4 @@ Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Castaldi, G., … Cu
   month = oct,
   doi = {10.1002/adma.201904069},
   note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadma.201904069&amp;amp;file=adma201904069-sup-0001-S1.pdf}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/AM_cover.png" /></entry><entry><title type="html">Best Poster Award at Metamaterials 2019</title><link href="http://localhost:4000/news/award-Metamaterials-2019" rel="alternate" type="text/html" title="Best Poster Award at Metamaterials 2019" /><published>2019-09-20T00:00:00+02:00</published><updated>2019-09-20T00:00:00+02:00</updated><id>http://localhost:4000/news/award-Metamaterials-2019</id><content type="html" xml:base="http://localhost:4000/news/award-Metamaterials-2019">&lt;p&gt;Our paper entitled &lt;em&gt;“Some ideas for non-Hermitian doping of epsilon-near-zero media”&lt;/em&gt; 
-[&lt;a href=&quot;#Coppolaro_Metamaterials2019b&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] received the &lt;em&gt;Best Poster Award&lt;/em&gt; at the &lt;em&gt;13th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2019.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
-Rome, Italy, Sep. 16-19, 2019.&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Coppolaro_Metamaterials2019b&quot;&gt;Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2019). Some ideas for non-Hermitian doping of epsilon-near-zero media. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Rome, Italy, Sep. 16-19, 2019.&lt;/span&gt;
-
-
-&lt;div id=&quot;Coppolaro_Metamaterials2019b-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Coppolaro_Metamaterials2019b-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-
-    
-
-    
-      
-    
-
-    
-  
-  &lt;/ul&gt;
-
-  
-
-  &lt;pre id=&quot;Coppolaro_Metamaterials2019b-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Coppolaro_Metamaterials2019b,
-  author = {Coppolaro, M. and Moccia, M. and Castaldi, G. and Engheta, N. and Galdi, V.},
-  title = {Some ideas for non-Hermitian doping of epsilon-near-zero media},
-  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
-  organization = {Rome, Italy, Sep. 16-19, 2019},
-  month = sep,
-  year = {2019}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="non-Hermitian" /><category term="epsilon near zero" /><category term="award" /><summary type="html">Our paper entitled “Some ideas for non-Hermitian doping of epsilon-near-zero media” 
-[1] received the Best Poster Award at the 13th International Congress on Engineered Material Platforms for Novel Wave Phenomena (Metamaterials),
-Rome, Italy, Sep. 16-19, 2019.
-
-Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2019). Some ideas for non-Hermitian doping of epsilon-near-zero media. In International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS). Rome, Italy, Sep. 16-19, 2019.
-
-
-
-  
-    
-
-    BibTeX
-
-            
-    
-
-    
-
-    
-      
-    
-
-    
-  
-  
-
-  
-
-  @inproceedings{Coppolaro_Metamaterials2019b,
-  author = {Coppolaro, M. and Moccia, M. and Castaldi, G. and Engheta, N. and Galdi, V.},
-  title = {Some ideas for non-Hermitian doping of epsilon-near-zero media},
-  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
-  organization = {Rome, Italy, Sep. 16-19, 2019},
-  month = sep,
-  year = {2019}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/award.png" /></entry></feed>
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/AM_cover.png" /></entry></feed>
