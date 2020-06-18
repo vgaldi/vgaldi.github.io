@@ -5,10 +5,72 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2020-06-10T10:38:53+02:00</lastBuildDate>
-        <pubDate>2020-06-10T10:38:53+02:00</pubDate>
+        <lastBuildDate>2020-06-18T11:03:06+02:00</lastBuildDate>
+        <pubDate>2020-06-18T11:03:06+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on non-Hermitian particle arrays published in OpEx</title>
+                <description>&lt;p&gt;Our paper on “Manipulating the scattering pattern with non-Hermitian particle arrays,”
+[&lt;a href=&quot;#IJ141_OpEX_28_19492_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (ASRC-CUNY),
+has been published in &lt;em&gt;Optics Express&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ141_OpEX_28_19492_2020&quot;&gt;Zhang, Y. J., Li, P., Galdi, V., Tong, M. S., &amp;amp; Alù, A. (2020). Manipulating the scattering pattern with non-Hermitian particle arrays. &lt;i&gt;Optics Express&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;28&lt;/i&gt;&lt;/span&gt;(13), 19492–19507.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ141_OpEX_28_19492_2020-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ141_OpEX_28_19492_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ141_OpEX_28_19492_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1364/OE.395942&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ141_OpEX_28_19492_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ141_OpEX_28_19492_2020-abstract&quot; class=&quot;collapse&quot;&gt;We show that an array of non-Hermitian particles can enable advanced manipulations of the scattering pattern, beyond what is possible with passive structures. Active linear elements are shown to provide zero forward scattering without sacrificing the total scattered power, and by adding more particles, it is possible to control the zero-scattering direction at will. We apply our theory to realistic implementations of scatterer arrays, using loaded dipole antennas in which we tune the load impedance and investigate the stability of these arrays based on a realistic dispersion model for the gain elements. Finally, we discuss the possibility of controlling multiple frequencies to enable broadband control of the scattering pattern.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ141_OpEX_28_19492_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ141_OpEX_28_19492_2020,
+  author = {Zhang, Yun Jing and Li, Peng and Galdi, Vincenzo and Tong, Mei Song and Al\`{u}, Andrea},
+  journal = {Optics Express},
+  number = {13},
+  pages = {19492--19507},
+  publisher = {OSA},
+  title = {Manipulating the scattering pattern with non-Hermitian particle arrays},
+  volume = {28},
+  month = jun,
+  year = {2020},
+  doi = {10.1364/OE.395942}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://fw-lab.org/news/OpEx-paper-NPA-published</link>
+                <guid>http://fw-lab.org/news/OpEx-paper-NPA-published</guid>
+                <pubDate>2020-06-17T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Our paper on non-Hermitian doping published in PNAS</title>
