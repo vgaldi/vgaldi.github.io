@@ -4,13 +4,77 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2020-06-18T11:03:06+02:00</updated>
+ <updated>2020-06-30T17:43:06+02:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
    <email>vgaldi@unisannio.it</email>
  </author>
 
+ 
+ <entry>
+   <title>Our paper on vitamin D detection published in Nanophotonics</title>
+   <link href="http://fw-lab.org/news/NANOP-published"/>
+   <updated>2020-06-30T00:00:00+02:00</updated>
+   <id>http://fw-lab.org/news/NANOP-published</id>
+   <content type="html">&lt;p&gt;Our paper on “Pixeled metasurface for multiwavelength detection of vitamin D3,”
+[&lt;a href=&quot;#IJ142_Nanophotonics_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+in collaboration with &lt;a href=&quot;https://www.na.imm.cnr.it/users/emanuelaesposito&quot;&gt;Emanuela Esposito&lt;/a&gt;’s Group (National Research Council),
+has been published in &lt;em&gt;Nanophotonics&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ142_Nanophotonics_2020&quot;&gt;Di Meo, V., Crescitelli, A., Moccia, M., Sandomenico, A., Cusano, A. M., Portaccio, M., … Esposito, E. (2020). Pixeled metasurface for multiwavelength detection of vitamin D. &lt;i&gt;Nanophotonics&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;9&lt;/i&gt;&lt;/span&gt;, 20200103.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ142_Nanophotonics_2020-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ142_Nanophotonics_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ142_Nanophotonics_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1515/nanoph-2020-0103&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ142_Nanophotonics_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;https://www.degruyter.com/supplemental/journals/nanoph/ahead-of-print/article-10.1515-nanoph-2020-0103/article-10.1515-nanoph-2020-0103.xml/j_nanoph-2020-0103_suppl.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ142_Nanophotonics_2020-abstract&quot; class=&quot;collapse&quot;&gt;The steadily increasing demand for accurate analysis of vitamin D level, via measurement of its best general marker, 25-hydroxyvitamin D (25(OH)D), pushes for the development of novel automated assays capable of working at very low concentrations. Here, we propose a plasmonic biosensor of 25(OH)D3 (calcifediol) based on surface-enhanced infrared absorption spectroscopy, which exploits the resonant coupling between plasmonic nanoantennas and vibrational excitation of small molecules. Specifically, our proposed platform features a large-area (several mm2) metasurface made of gold nanoantennas fabricated on a silicon substrate, comprising different macroregions (“pixels”) of area 500 × 500 µm2. In each pixel, the nanoantenna geometrical parameters are tuned so as to support localized surface plasmon resonances (and hence large field enhancements at the nanoscale) within different regions of the infrared spectrum. As a result, a single chip is capable of performing analysis from the region of functional groups to that of fingerprint. Two different designs are fabricated via electron beam lithography, functionalized with a correlated antibody for the detection of 25(OH)D3, and characterized via Fourier-transform infrared spectroscopy. Our experiments demonstrate the capability to detect a concentration as low as 86 pmol/L, and an amount of immobilized small molecules of 25(OH)D3 monohydrate (molecular weight: 418.65 g/mol) as low as 4.31 amol over an area of 100 × 100 µm2.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ142_Nanophotonics_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ142_Nanophotonics_2020,
+  author = {Di Meo, Valentina and Crescitelli, Alessio and Moccia, Massimo and Sandomenico, Annamaria and Cusano, Angela M. and Portaccio, Marianna and Lepore, Maria and Galdi, Vincenzo and Esposito, Emanuela},
+  title = {Pixeled metasurface for multiwavelength detection of vitamin D},
+  journal = {Nanophotonics},
+  year = {2020},
+  doi = {10.1515/nanoph-2020-0103},
+  pages = {20200103},
+  volume = {9},
+  month = jun,
+  note = {https://www.degruyter.com/supplemental/journals/nanoph/ahead-of-print/article-10.1515-nanoph-2020-0103/article-10.1515-nanoph-2020-0103.xml/j_nanoph-2020-0103_suppl.pdf}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Our paper on non-Hermitian particle arrays published in OpEx</title>
