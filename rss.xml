@@ -5,15 +5,27 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2020-06-30T17:43:06+02:00</lastBuildDate>
-        <pubDate>2020-06-30T17:43:06+02:00</pubDate>
+        <lastBuildDate>2020-07-02T11:07:31+02:00</lastBuildDate>
+        <pubDate>2020-07-02T11:07:31+02:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
+                <title>Our paper on non-Hermitian line waves accepted in ACS-PHOT</title>
+                <description>&lt;p&gt;Our paper on “Line waves in non-Hermitian metasurfaces,”
+in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
+has been accepted for publication in &lt;a href=&quot;https://pubs.acs.org/journal/apchd5&quot;&gt;&lt;em&gt;ACS Photonics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/news/ACS-PHOT-paper-NH-LW-accepted</link>
+                <guid>http://fw-lab.org/news/ACS-PHOT-paper-NH-LW-accepted</guid>
+                <pubDate>2020-07-01T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
                 <title>Our paper on vitamin D detection published in Nanophotonics</title>
-                <description>&lt;p&gt;Our paper on “Pixeled metasurface for multiwavelength detection of vitamin D3,”
-[&lt;a href=&quot;#IJ142_Nanophotonics_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+                <description>&lt;p&gt;Our paper on “Pixeled metasurface for multiwavelength detection of vitamin D3”
+[&lt;a href=&quot;#IJ142_Nanophotonics_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://www.na.imm.cnr.it/users/emanuelaesposito&quot;&gt;Emanuela Esposito&lt;/a&gt;’s Group (National Research Council),
 has been published in &lt;em&gt;Nanophotonics&lt;/em&gt;.&lt;/p&gt;
 
@@ -76,8 +88,8 @@ has been published in &lt;em&gt;Nanophotonics&lt;/em&gt;.&lt;/p&gt;
 
         <item>
                 <title>Our paper on non-Hermitian particle arrays published in OpEx</title>
-                <description>&lt;p&gt;Our paper on “Manipulating the scattering pattern with non-Hermitian particle arrays,”
-[&lt;a href=&quot;#IJ141_OpEX_28_19492_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+                <description>&lt;p&gt;Our paper on “Manipulating the scattering pattern with non-Hermitian particle arrays”
+[&lt;a href=&quot;#IJ141_OpEX_28_19492_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (ASRC-CUNY),
 has been published in &lt;em&gt;Optics Express&lt;/em&gt;.&lt;/p&gt;
 
@@ -138,12 +150,12 @@ has been published in &lt;em&gt;Optics Express&lt;/em&gt;.&lt;/p&gt;
 
         <item>
                 <title>Our paper on non-Hermitian doping published in PNAS</title>
-                <description>&lt;p&gt;Our paper on “Non-Hermitian doping of epsilon-near-zero media,”
-[&lt;a href=&quot;#IJ140_PNAS_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+                <description>&lt;p&gt;Our paper on “Non-Hermitian doping of epsilon-near-zero media”
+[&lt;a href=&quot;#IJ140_PNAS_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/index.htm&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania),
 has been published in the &lt;em&gt;Proceedings of the National Academy of Sciences of the U.S.A.&lt;/em&gt;&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ140_PNAS_2020&quot;&gt;Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2020). Non-Hermitian doping of epsilon-near-zero media. &lt;i&gt;Proceedings of the National Academy of Sciences of the U.S.A.&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;early view&lt;/i&gt;&lt;/span&gt;.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ140_PNAS_2020&quot;&gt;Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2020). Non-Hermitian doping of epsilon-near-zero media. &lt;i&gt;Proceedings of the National Academy of Sciences of the U.S.A.&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;117&lt;/i&gt;&lt;/span&gt;(25), 13921–13928.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ140_PNAS_2020-materials&quot;&gt;
@@ -180,14 +192,14 @@ has been published in the &lt;em&gt;Proceedings of the National Academy of Scien
   &lt;pre id=&quot;IJ140_PNAS_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ140_PNAS_2020,
   author = {Coppolaro, Marino and Moccia, Massimo and Castaldi, Giuseppe and Engheta, Nader and Galdi, Vincenzo},
   title = {Non-Hermitian doping of epsilon-near-zero media},
-  elocation-id = {202001125},
   year = {2020},
-  doi = {10.1073/pnas.2001125117},
+  month = jun,
+  volume = {117},
+  issue = {25},
+  pages = {13921--13928},
   publisher = {National Academy of Sciences},
-  issn = {0027-8424},
-  url = {https://www.pnas.org/content/early/2020/06/08/2001125117},
   journal = {Proceedings of the National Academy of Sciences of the U.S.A.},
-  volume = {early view},
+  doi = {10.1073/pnas.2001125117},
   note = {https://www.pnas.org/highwire/filestream/931085/field_highwire_adjunct_files/0/pnas.2001125117.sapp.pdf}
 }
 &lt;/pre&gt;
@@ -227,8 +239,8 @@ has been accepted for publication in &lt;a href=&quot;https://www.degruyter.com/
 
         <item>
                 <title>Our paper on anisotropic metasurfaces published in AdOM</title>
-                <description>&lt;p&gt;Our paper on “Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces,”
-[&lt;a href=&quot;#IJ139_AdOM_1902126_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+                <description>&lt;p&gt;Our paper on “Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces”
+[&lt;a href=&quot;#IJ139_AdOM_1902126_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
 
@@ -875,8 +887,8 @@ has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wile
 
         <item>
                 <title>Our paper on spectral singularities published in IEEE-TAP</title>
-                <description>&lt;p&gt;Our paper on “Harnessing spectral singularities in non-Hermitian cylindrical structures,” 
-[&lt;a href=&quot;#IJ136_IEEE-TAP_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+                <description>&lt;p&gt;Our paper on “Harnessing spectral singularities in non-Hermitian cylindrical structures” 
+[&lt;a href=&quot;#IJ136_IEEE-TAP_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 has been published in the &lt;em&gt;IEEE Transactions on Antennas and Propagation&lt;/em&gt;.&lt;/p&gt;
 
@@ -1086,8 +1098,8 @@ Krakow, Poland, Mar. 31-Apr. 5, 2019.&lt;/p&gt;
 
         <item>
                 <title>Our paper on meta-tip sensors published in NMNT</title>
-                <description>&lt;p&gt;Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications,”
-[&lt;a href=&quot;#IJ135_NMNT_9_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+                <description>&lt;p&gt;Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications”
+[&lt;a href=&quot;#IJ135_NMNT_9_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group, 
 has been published in &lt;em&gt;Nanomaterials and Nanotechnology&lt;/em&gt;.&lt;/p&gt;
 
@@ -1297,8 +1309,8 @@ has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/p
 
         <item>
                 <title>Our paper on space-time-coding digital metasurfaces published in NatComms</title>
-                <description>&lt;p&gt;Our paper on “Space-time-coding digital metasurfaces,”
-[&lt;a href=&quot;#IJ133_NatComm_9_4334_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+                <description>&lt;p&gt;Our paper on “Space-time-coding digital metasurfaces”
+[&lt;a href=&quot;#IJ133_NatComm_9_4334_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published in &lt;em&gt;Nature Communications&lt;/em&gt;.&lt;/p&gt;
 
@@ -1362,8 +1374,8 @@ has been published in &lt;em&gt;Nature Communications&lt;/em&gt;.&lt;/p&gt;
 
         <item>
                 <title>Our paper on nonlocal metamaterials published in PRAppl</title>
-                <description>&lt;p&gt;Our paper on “Boundary effects of weak nonlocality in multilayered dielectric metamaterials,”
-[&lt;a href=&quot;#IJ132_PRAppl_10_034060_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+                <description>&lt;p&gt;Our paper on “Boundary effects of weak nonlocality in multilayered dielectric metamaterials”
+[&lt;a href=&quot;#IJ132_PRAppl_10_034060_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 has been published in &lt;em&gt;Physical Review Applied&lt;/em&gt;.&lt;/p&gt;
 
@@ -1615,8 +1627,8 @@ has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/p
 
         <item>
                 <title>Our paper on THz coding metasurfaces published in SciRep</title>
-                <description>&lt;p&gt;Our paper on “Suboptimal coding metasurfaces for terahertz diffuse scattering,”
-[&lt;a href=&quot;#IJ131_SREP_8_11908_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+                <description>&lt;p&gt;Our paper on “Suboptimal coding metasurfaces for terahertz diffuse scattering”
+[&lt;a href=&quot;#IJ131_SREP_8_11908_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published in &lt;em&gt;Scientific Reports&lt;/em&gt;.&lt;/p&gt;
 
@@ -1780,8 +1792,8 @@ Boston, MA, USA, July 8-13, 2018.&lt;/p&gt;
 
         <item>
                 <title>Our paper on Bloch surface waves published in AdOM</title>
-                <description>&lt;p&gt;Our paper on “Excitation of Bloch surface waves on an optical fiber tip,”
-[&lt;a href=&quot;#IJ130_AdOM_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+                <description>&lt;p&gt;Our paper on “Excitation of Bloch surface waves on an optical fiber tip”
+[&lt;a href=&quot;#IJ130_AdOM_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group, 
 &lt;a href=&quot;https://www.na.imm.cnr.it&quot;&gt;CNR-IMM&lt;/a&gt; and &lt;a href=&quot;http://www.enea.it/en&quot;&gt;ENEA&lt;/a&gt; 
 has been published in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
@@ -2243,7 +2255,7 @@ Marseille, France, Aug. 28-31, 2017.&lt;/p&gt;
         <item>
                 <title>Our paper on nonlocal metamaterials published in PRB</title>
                 <description>&lt;p&gt;Our paper on “Enhancement and interplay of first- and second-order spatial 
-dispersion in metamaterials with moderate-permittivity inclusions” [&lt;a href=&quot;#IJ128_PRB_96_081113_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+dispersion in metamaterials with moderate-permittivity inclusions” [&lt;a href=&quot;#IJ128_PRB_96_081113_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://sites.google.com/site/rizzacarlo81/&quot;&gt;Carlo Rizza&lt;/a&gt; (University of l’Aquila) and &lt;a href=&quot;http://www.ing.univaq.it/personale/scheda_personale.php?codice=511&quot;&gt;Alessandro Ciattoni&lt;/a&gt; (CNR-SPIN),
 has been published in &lt;em&gt;Physical Review B&lt;/em&gt; as a Rapid Communication.&lt;/p&gt;
 

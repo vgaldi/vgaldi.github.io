@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-30T17:43:06+02:00</updated><id>http://localhost:4000//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on vitamin D detection published in Nanophotonics</title><link href="http://localhost:4000/news/NANOP-published" rel="alternate" type="text/html" title="Our paper on vitamin D detection published in Nanophotonics" /><published>2020-06-30T00:00:00+02:00</published><updated>2020-06-30T00:00:00+02:00</updated><id>http://localhost:4000/news/NANOP-published</id><content type="html" xml:base="http://localhost:4000/news/NANOP-published">&lt;p&gt;Our paper on “Pixeled metasurface for multiwavelength detection of vitamin D3,”
-[&lt;a href=&quot;#IJ142_Nanophotonics_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-02T11:07:31+02:00</updated><id>http://localhost:4000//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on non-Hermitian line waves accepted in ACS-PHOT</title><link href="http://localhost:4000/news/ACS-PHOT-paper-NH-LW-accepted" rel="alternate" type="text/html" title="Our paper on non-Hermitian line waves accepted in ACS-PHOT" /><published>2020-07-01T00:00:00+02:00</published><updated>2020-07-01T00:00:00+02:00</updated><id>http://localhost:4000/news/ACS-PHOT-paper-NH-LW-accepted</id><content type="html" xml:base="http://localhost:4000/news/ACS-PHOT-paper-NH-LW-accepted">&lt;p&gt;Our paper on “Line waves in non-Hermitian metasurfaces,”
+in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
+has been accepted for publication in &lt;a href=&quot;https://pubs.acs.org/journal/apchd5&quot;&gt;&lt;em&gt;ACS Photonics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="non-Hermitian" /><summary type="html">Our paper on “Line waves in non-Hermitian metasurfaces,”
+in collaboration with Andrea Alù (ASRC-CUNY),
+has been accepted for publication in ACS Photonics.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/ACS-PHOT.png" /></entry><entry><title type="html">Our paper on vitamin D detection published in Nanophotonics</title><link href="http://localhost:4000/news/NANOP-published" rel="alternate" type="text/html" title="Our paper on vitamin D detection published in Nanophotonics" /><published>2020-06-30T00:00:00+02:00</published><updated>2020-06-30T00:00:00+02:00</updated><id>http://localhost:4000/news/NANOP-published</id><content type="html" xml:base="http://localhost:4000/news/NANOP-published">&lt;p&gt;Our paper on “Pixeled metasurface for multiwavelength detection of vitamin D3”
+[&lt;a href=&quot;#IJ142_Nanophotonics_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://www.na.imm.cnr.it/users/emanuelaesposito&quot;&gt;Emanuela Esposito&lt;/a&gt;’s Group (National Research Council),
 has been published in &lt;em&gt;Nanophotonics&lt;/em&gt;.&lt;/p&gt;
 
@@ -52,8 +56,8 @@ has been published in &lt;em&gt;Nanophotonics&lt;/em&gt;.&lt;/p&gt;
 
   
     
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="plasmonics" /><category term="optical sensing" /><summary type="html">Our paper on “Pixeled metasurface for multiwavelength detection of vitamin D3,”
-[1]
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="plasmonics" /><category term="optical sensing" /><summary type="html">Our paper on “Pixeled metasurface for multiwavelength detection of vitamin D3”
+[1],
 in collaboration with Emanuela Esposito’s Group (National Research Council),
 has been published in Nanophotonics.
 
@@ -101,8 +105,8 @@ Di Meo, V., Crescitelli, A., Moccia, M., Sandomenico, A., Cusano, A. M., Portacc
   volume = {9},
   month = jun,
   note = {https://www.degruyter.com/supplemental/journals/nanoph/ahead-of-print/article-10.1515-nanoph-2020-0103/article-10.1515-nanoph-2020-0103.xml/j_nanoph-2020-0103_suppl.pdf}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/SEIRA.png" /></entry><entry><title type="html">Our paper on non-Hermitian particle arrays published in OpEx</title><link href="http://localhost:4000/news/OpEx-paper-NPA-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian particle arrays published in OpEx" /><published>2020-06-17T00:00:00+02:00</published><updated>2020-06-17T00:00:00+02:00</updated><id>http://localhost:4000/news/OpEx-paper-NPA-published</id><content type="html" xml:base="http://localhost:4000/news/OpEx-paper-NPA-published">&lt;p&gt;Our paper on “Manipulating the scattering pattern with non-Hermitian particle arrays,”
-[&lt;a href=&quot;#IJ141_OpEX_28_19492_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/SEIRA.png" /></entry><entry><title type="html">Our paper on non-Hermitian particle arrays published in OpEx</title><link href="http://localhost:4000/news/OpEx-paper-NPA-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian particle arrays published in OpEx" /><published>2020-06-17T00:00:00+02:00</published><updated>2020-06-17T00:00:00+02:00</updated><id>http://localhost:4000/news/OpEx-paper-NPA-published</id><content type="html" xml:base="http://localhost:4000/news/OpEx-paper-NPA-published">&lt;p&gt;Our paper on “Manipulating the scattering pattern with non-Hermitian particle arrays”
+[&lt;a href=&quot;#IJ141_OpEX_28_19492_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (ASRC-CUNY),
 has been published in &lt;em&gt;Optics Express&lt;/em&gt;.&lt;/p&gt;
 
@@ -154,8 +158,8 @@ has been published in &lt;em&gt;Optics Express&lt;/em&gt;.&lt;/p&gt;
 
   
     
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="non-Hermitian" /><summary type="html">Our paper on “Manipulating the scattering pattern with non-Hermitian particle arrays,”
-[1]
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="non-Hermitian" /><summary type="html">Our paper on “Manipulating the scattering pattern with non-Hermitian particle arrays”
+[1],
 in collaboration with Andrea Alù’s Group (ASRC-CUNY),
 has been published in Optics Express.
 
@@ -202,12 +206,12 @@ Zhang, Y. J., Li, P., Galdi, V., Tong, M. S., &amp;amp; Alù, A. (2020). Manipul
   month = jun,
   year = {2020},
   doi = {10.1364/OE.395942}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/OpEx_NH-NA.png" /></entry><entry><title type="html">Our paper on non-Hermitian doping published in PNAS</title><link href="http://localhost:4000/news/PNAS-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian doping published in PNAS" /><published>2020-06-09T00:00:00+02:00</published><updated>2020-06-09T00:00:00+02:00</updated><id>http://localhost:4000/news/PNAS-published</id><content type="html" xml:base="http://localhost:4000/news/PNAS-published">&lt;p&gt;Our paper on “Non-Hermitian doping of epsilon-near-zero media,”
-[&lt;a href=&quot;#IJ140_PNAS_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/OpEx_NH-NA.png" /></entry><entry><title type="html">Our paper on non-Hermitian doping published in PNAS</title><link href="http://localhost:4000/news/PNAS-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian doping published in PNAS" /><published>2020-06-09T00:00:00+02:00</published><updated>2020-06-09T00:00:00+02:00</updated><id>http://localhost:4000/news/PNAS-published</id><content type="html" xml:base="http://localhost:4000/news/PNAS-published">&lt;p&gt;Our paper on “Non-Hermitian doping of epsilon-near-zero media”
+[&lt;a href=&quot;#IJ140_PNAS_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/index.htm&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania),
 has been published in the &lt;em&gt;Proceedings of the National Academy of Sciences of the U.S.A.&lt;/em&gt;&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ140_PNAS_2020&quot;&gt;Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2020). Non-Hermitian doping of epsilon-near-zero media. &lt;i&gt;Proceedings of the National Academy of Sciences of the U.S.A.&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;early view&lt;/i&gt;&lt;/span&gt;.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ140_PNAS_2020&quot;&gt;Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2020). Non-Hermitian doping of epsilon-near-zero media. &lt;i&gt;Proceedings of the National Academy of Sciences of the U.S.A.&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;117&lt;/i&gt;&lt;/span&gt;(25), 13921–13928.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ140_PNAS_2020-materials&quot;&gt;
@@ -244,26 +248,26 @@ has been published in the &lt;em&gt;Proceedings of the National Academy of Scien
   &lt;pre id=&quot;IJ140_PNAS_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ140_PNAS_2020,
   author = {Coppolaro, Marino and Moccia, Massimo and Castaldi, Giuseppe and Engheta, Nader and Galdi, Vincenzo},
   title = {Non-Hermitian doping of epsilon-near-zero media},
-  elocation-id = {202001125},
   year = {2020},
-  doi = {10.1073/pnas.2001125117},
+  month = jun,
+  volume = {117},
+  issue = {25},
+  pages = {13921--13928},
   publisher = {National Academy of Sciences},
-  issn = {0027-8424},
-  url = {https://www.pnas.org/content/early/2020/06/08/2001125117},
   journal = {Proceedings of the National Academy of Sciences of the U.S.A.},
-  volume = {early view},
+  doi = {10.1073/pnas.2001125117},
   note = {https://www.pnas.org/highwire/filestream/931085/field_highwire_adjunct_files/0/pnas.2001125117.sapp.pdf}
 }
 &lt;/pre&gt;
 
   
     
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="non-Hermitian" /><category term="epsilon near zero" /><category term="metamaterials" /><summary type="html">Our paper on “Non-Hermitian doping of epsilon-near-zero media,”
-[1]
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="non-Hermitian" /><category term="epsilon near zero" /><category term="metamaterials" /><summary type="html">Our paper on “Non-Hermitian doping of epsilon-near-zero media”
+[1],
 in collaboration with Nader Engheta (University of Pennsylvania),
 has been published in the Proceedings of the National Academy of Sciences of the U.S.A.
 
-Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2020). Non-Hermitian doping of epsilon-near-zero media. Proceedings of the National Academy of Sciences of the U.S.A. early view.
+Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2020). Non-Hermitian doping of epsilon-near-zero media. Proceedings of the National Academy of Sciences of the U.S.A. 117(25), 13921–13928.
 
 
 
@@ -300,14 +304,14 @@ Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2020)
   @article{IJ140_PNAS_2020,
   author = {Coppolaro, Marino and Moccia, Massimo and Castaldi, Giuseppe and Engheta, Nader and Galdi, Vincenzo},
   title = {Non-Hermitian doping of epsilon-near-zero media},
-  elocation-id = {202001125},
   year = {2020},
-  doi = {10.1073/pnas.2001125117},
+  month = jun,
+  volume = {117},
+  issue = {25},
+  pages = {13921--13928},
   publisher = {National Academy of Sciences},
-  issn = {0027-8424},
-  url = {https://www.pnas.org/content/early/2020/06/08/2001125117},
   journal = {Proceedings of the National Academy of Sciences of the U.S.A.},
-  volume = {early view},
+  doi = {10.1073/pnas.2001125117},
   note = {https://www.pnas.org/highwire/filestream/931085/field_highwire_adjunct_files/0/pnas.2001125117.sapp.pdf}
 }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/PNAS_ENHD.png" /></entry><entry><title type="html">Our paper on non-Hermitian particle arrays accepted in OpEx</title><link href="http://localhost:4000/news/OpEx-paper-NPA-accepted" rel="alternate" type="text/html" title="Our paper on non-Hermitian particle arrays accepted in OpEx" /><published>2020-06-04T00:00:00+02:00</published><updated>2020-06-04T00:00:00+02:00</updated><id>http://localhost:4000/news/OpEx-paper-NPA-accepted</id><content type="html" xml:base="http://localhost:4000/news/OpEx-paper-NPA-accepted">&lt;p&gt;Our paper on “Manipulating the scattering pattern with non-Hermitian particle arrays,”
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (ASRC-CUNY),
@@ -317,8 +321,8 @@ has been accepted for publication in Optics Express.</summary><media:thumbnail x
 in collaboration with &lt;a href=&quot;https://www.na.imm.cnr.it/users/emanuelaesposito&quot;&gt;Emanuela Esposito&lt;/a&gt;’s Group (National Research Council),
 has been accepted for publication in &lt;a href=&quot;https://www.degruyter.com/view/journals/nanoph/nanoph-overview.xml&quot;&gt;&lt;em&gt;Nanophotonics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="plasmonics" /><category term="optical sensing" /><summary type="html">Our paper on “Pixeled metasurface for multiwavelength detection of vitamin D3,”
 in collaboration with Emanuela Esposito’s Group (National Research Council),
-has been accepted for publication in Nanophotonics.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/nanophotonics.jpg" /></entry><entry><title type="html">Our paper on anisotropic metasurfaces published in AdOM</title><link href="http://localhost:4000/news/AdOM-published" rel="alternate" type="text/html" title="Our paper on anisotropic metasurfaces published in AdOM" /><published>2020-03-29T00:00:00+01:00</published><updated>2020-03-29T00:00:00+01:00</updated><id>http://localhost:4000/news/AdOM-published</id><content type="html" xml:base="http://localhost:4000/news/AdOM-published">&lt;p&gt;Our paper on “Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces,”
-[&lt;a href=&quot;#IJ139_AdOM_1902126_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+has been accepted for publication in Nanophotonics.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/nanophotonics.jpg" /></entry><entry><title type="html">Our paper on anisotropic metasurfaces published in AdOM</title><link href="http://localhost:4000/news/AdOM-published" rel="alternate" type="text/html" title="Our paper on anisotropic metasurfaces published in AdOM" /><published>2020-03-29T00:00:00+01:00</published><updated>2020-03-29T00:00:00+01:00</updated><id>http://localhost:4000/news/AdOM-published</id><content type="html" xml:base="http://localhost:4000/news/AdOM-published">&lt;p&gt;Our paper on “Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces”
+[&lt;a href=&quot;#IJ139_AdOM_1902126_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
 
@@ -372,8 +376,8 @@ has been published in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
 
   
     
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><summary type="html">Our paper on “Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces,”
-[1]
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><summary type="html">Our paper on “Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces”
+[1],
 in collaboration with Tie Jun Cui’s Group (Southeast University),
 has been published in Advanced Optical Materials.
 
@@ -533,8 +537,4 @@ An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://se
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wiley.com/journal/21951071&quot;&gt;&lt;em&gt;Advanced Optical Materials&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><summary type="html">Our paper on “Independent control of co-polarized amplitude and phase responses via anisotropic metasurfaces,”
 in collaboration with Tie Jun Cui’s Group (Southeast University),
-has been accepted for publication in Advanced Optical Materials.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/AdOM.png" /></entry><entry><title type="html">MIT student externship</title><link href="http://localhost:4000/news/MIT_externship" rel="alternate" type="text/html" title="MIT student externship" /><published>2020-01-07T00:00:00+01:00</published><updated>2020-01-07T00:00:00+01:00</updated><id>http://localhost:4000/news/MIT_externship</id><content type="html" xml:base="http://localhost:4000/news/MIT_externship">&lt;p&gt;Alisa Y. Hathaway has temporarily joined the Fields &amp;amp; Waves Lab within the framework of the &lt;a href=&quot;https://alum.mit.edu/communitiesmit-students/student-externships&quot;&gt;MIT student externship program&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;She will be working on the study of &lt;a href=&quot;/projects/coding_MS&quot;&gt;space-time coding digital metasurfaces&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="MIT externship" /><category term="students" /><summary type="html">Alisa Y. Hathaway has temporarily joined the Fields &amp;amp; Waves Lab within the framework of the MIT student externship program.
-
-She will be working on the study of space-time coding digital metasurfaces.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/MIT_externship.jpg" /></entry></feed>
+has been accepted for publication in Advanced Optical Materials.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/AdOM.png" /></entry></feed>
