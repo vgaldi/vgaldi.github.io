@@ -27,6 +27,8 @@ http://fw-lab.org/tags
 http://fw-lab.org/feed.xml
 http://fw-lab.org/feed.xslt.xml
 
+http://fw-lab.org/news/PRB-paper-MFib-accepted
+http://fw-lab.org/news/ACS-PHOT-paper-NH-LW-published
 http://fw-lab.org/news/ACS-PHOT-paper-NH-LW-accepted
 http://fw-lab.org/news/NANOP-published
 http://fw-lab.org/news/OpEx-paper-NPA-published
