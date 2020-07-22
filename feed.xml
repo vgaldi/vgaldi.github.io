@@ -1,111 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-22T17:15:22+02:00</updated><id>http://localhost:4000//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on quasiperiodic nonlocal metamaterials accepted in PRB</title><link href="http://localhost:4000/news/PRB-paper-MFib-accepted" rel="alternate" type="text/html" title="Our paper on quasiperiodic nonlocal metamaterials accepted in PRB" /><published>2020-07-22T00:00:00+02:00</published><updated>2020-07-22T00:00:00+02:00</updated><id>http://localhost:4000/news/PRB-paper-MFib-accepted</id><content type="html" xml:base="http://localhost:4000/news/PRB-paper-MFib-accepted">&lt;p&gt;Our paper on “Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials”
-has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/prb/&quot;&gt;&lt;em&gt;Physical Review B&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;An &lt;a href=&quot;http://arxiv.org/abs/2007.10634&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="nonlocal" /><category term="homogenization" /><category term="aperiodic" /><summary type="html">Our paper on “Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials”
-has been accepted for publication in Physical Review B.
-
-An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/PRB.png" /></entry><entry><title type="html">Our paper on non-Hermitian line waves published in ACS-PHOT</title><link href="http://localhost:4000/news/ACS-PHOT-paper-NH-LW-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian line waves published in ACS-PHOT" /><published>2020-07-13T00:00:00+02:00</published><updated>2020-07-13T00:00:00+02:00</updated><id>http://localhost:4000/news/ACS-PHOT-paper-NH-LW-published</id><content type="html" xml:base="http://localhost:4000/news/ACS-PHOT-paper-NH-LW-published">&lt;p&gt;Our paper on “Line waves in non-Hermitian metasurfaces”
-[&lt;a href=&quot;#IJ143_ACS-PHOT_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
-in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
-has been published in &lt;em&gt;ACS Photonics&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ143_ACS-PHOT_2020&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2020). Line Waves in Non-Hermitian Metasurfaces. &lt;i&gt;ACS Photonics&lt;/i&gt;.&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ143_ACS-PHOT_2020-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ143_ACS-PHOT_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ143_ACS-PHOT_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1021/acsphotonics.0c00465&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ143_ACS-PHOT_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-    &lt;li&gt;&lt;a href=&quot;https://pubs.acs.org/doi/suppl/10.1021/acsphotonics.0c00465/suppl_file/ph0c00465_si_001.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ143_ACS-PHOT_2020-abstract&quot; class=&quot;collapse&quot;&gt;Planar junctions between reactive surface impedances with dual character (capacitive/inductive) can sustain line waves localized both in-plane and out-of-plane around the discontinuity, which propagate unattenuated along one-dimensional paths. Due to their attractive properties, these waves are of potential interest in applications ranging from integrated photonics to optical sensing. Here, we introduce and explore a non-Hermitian platform supporting these exotic modes based on parity−time symmetry. Speciﬁcally, we show that line waves can occur in the presence of a uniform surface reactance (either capacitive or inductive) and a symmetric resistance discontinuity from negative to positive values (i.e., gain and loss). We study analytically and numerically the propagation properties of these waves and the underlying physical mechanisms and also illustrate their intriguing properties in terms of conﬁnement, reconﬁgurability, spin-momentum locking and lasing. Finally, we address possible practical implementations based on photoexcited graphene. Our results hold intriguing potentials for applications in ﬂat optics and reconﬁgurable photonics.&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ143_ACS-PHOT_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ143_ACS-PHOT_2020,
-  title = {Line Waves in Non-{H}ermitian Metasurfaces},
-  doi = {10.1021/acsphotonics.0c00465},
-  journal = {ACS Photonics},
-  author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`{u}, Andrea and Galdi, Vincenzo},
-  month = jul,
-  year = {2020},
-  vol = {ASAP},
-  note = {https://pubs.acs.org/doi/suppl/10.1021/acsphotonics.0c00465/suppl_file/ph0c00465_si_001.pdf}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="non-Hermitian" /><summary type="html">Our paper on “Line waves in non-Hermitian metasurfaces”
-[1],
-in collaboration with Andrea Alù (ASRC-CUNY),
-has been published in ACS Photonics.
-
-Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2020). Line Waves in Non-Hermitian Metasurfaces. ACS Photonics.
-
-
-
-  
-    
-    Abstract
-    
-
-    BibTeX
-
-            
-    
-    DOI
-    
-
-    
-
-    
-      
-    
-    PDF
-    
-
-    
-    Supplements
-    
-  
-  
-
-  
-  Planar junctions between reactive surface impedances with dual character (capacitive/inductive) can sustain line waves localized both in-plane and out-of-plane around the discontinuity, which propagate unattenuated along one-dimensional paths. Due to their attractive properties, these waves are of potential interest in applications ranging from integrated photonics to optical sensing. Here, we introduce and explore a non-Hermitian platform supporting these exotic modes based on parity−time symmetry. Speciﬁcally, we show that line waves can occur in the presence of a uniform surface reactance (either capacitive or inductive) and a symmetric resistance discontinuity from negative to positive values (i.e., gain and loss). We study analytically and numerically the propagation properties of these waves and the underlying physical mechanisms and also illustrate their intriguing properties in terms of conﬁnement, reconﬁgurability, spin-momentum locking and lasing. Finally, we address possible practical implementations based on photoexcited graphene. Our results hold intriguing potentials for applications in ﬂat optics and reconﬁgurable photonics.
-  
-
-  @article{IJ143_ACS-PHOT_2020,
-  title = {Line Waves in Non-{H}ermitian Metasurfaces},
-  doi = {10.1021/acsphotonics.0c00465},
-  journal = {ACS Photonics},
-  author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`{u}, Andrea and Galdi, Vincenzo},
-  month = jul,
-  year = {2020},
-  vol = {ASAP},
-  note = {https://pubs.acs.org/doi/suppl/10.1021/acsphotonics.0c00465/suppl_file/ph0c00465_si_001.pdf}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/LW.png" /></entry><entry><title type="html">Our paper on non-Hermitian line waves accepted in ACS-PHOT</title><link href="http://localhost:4000/news/ACS-PHOT-paper-NH-LW-accepted" rel="alternate" type="text/html" title="Our paper on non-Hermitian line waves accepted in ACS-PHOT" /><published>2020-07-01T00:00:00+02:00</published><updated>2020-07-01T00:00:00+02:00</updated><id>http://localhost:4000/news/ACS-PHOT-paper-NH-LW-accepted</id><content type="html" xml:base="http://localhost:4000/news/ACS-PHOT-paper-NH-LW-accepted">&lt;p&gt;Our paper on “Line waves in non-Hermitian metasurfaces,”
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-02T11:07:31+02:00</updated><id>http://localhost:4000//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on non-Hermitian line waves accepted in ACS-PHOT</title><link href="http://localhost:4000/news/ACS-PHOT-paper-NH-LW-accepted" rel="alternate" type="text/html" title="Our paper on non-Hermitian line waves accepted in ACS-PHOT" /><published>2020-07-01T00:00:00+02:00</published><updated>2020-07-01T00:00:00+02:00</updated><id>http://localhost:4000/news/ACS-PHOT-paper-NH-LW-accepted</id><content type="html" xml:base="http://localhost:4000/news/ACS-PHOT-paper-NH-LW-accepted">&lt;p&gt;Our paper on “Line waves in non-Hermitian metasurfaces,”
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 has been accepted for publication in &lt;a href=&quot;https://pubs.acs.org/journal/apchd5&quot;&gt;&lt;em&gt;ACS Photonics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="non-Hermitian" /><summary type="html">Our paper on “Line waves in non-Hermitian metasurfaces,”
 in collaboration with Andrea Alù (ASRC-CUNY),
@@ -433,7 +326,7 @@ has been accepted for publication in Nanophotonics.</summary><media:thumbnail xm
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ139_AdOM_1902126_2020&quot;&gt;Wu, R. Y., Bao, L., Wu, L. W., Wang, Z. X., Ma, Q., Wu, J. W., … Cui, T. J. (2020). Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;8&lt;/i&gt;&lt;/span&gt;(11), 1902126.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ139_AdOM_1902126_2020&quot;&gt;Wu, R. Y., Bao, L., Wu, L. W., Wang, Z. X., Ma, Q., Wu, J. W., … Cui, T. J. (2020). Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;early view&lt;/i&gt;&lt;/span&gt;, 1902126.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ139_AdOM_1902126_2020-materials&quot;&gt;
@@ -471,11 +364,9 @@ has been published in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
   author = {Wu, Rui Yuan and Bao, Lei and Wu, Liang Wei and Wang, Zheng Xing and Ma, Qian and Wu, Jun Wei and Bai, Guo Dong and Galdi, Vincenzo and Cui, Tie Jun},
   title = {Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces},
   journal = {Advanced Optical Materials},
-  volume = {8},
-  issue = {11},
+  volume = {early view},
   pages = {1902126},
   year = {2020},
-  month = jun,
   keywords = {amplitude and phase control, anisotropic metasurfaces, arbitrary bifocal metalenses, equal-power vortex beams, polarization-reconfigurable},
   doi = {10.1002/adom.201902126},
   url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.201902126},
@@ -490,7 +381,7 @@ has been published in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
 in collaboration with Tie Jun Cui’s Group (Southeast University),
 has been published in Advanced Optical Materials.
 
-Wu, R. Y., Bao, L., Wu, L. W., Wang, Z. X., Ma, Q., Wu, J. W., … Cui, T. J. (2020). Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces. Advanced Optical Materials 8(11), 1902126.
+Wu, R. Y., Bao, L., Wu, L. W., Wang, Z. X., Ma, Q., Wu, J. W., … Cui, T. J. (2020). Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces. Advanced Optical Materials early view, 1902126.
 
 
 
@@ -528,11 +419,9 @@ Wu, R. Y., Bao, L., Wu, L. W., Wang, Z. X., Ma, Q., Wu, J. W., … Cui, T. J. (2
   author = {Wu, Rui Yuan and Bao, Lei and Wu, Liang Wei and Wang, Zheng Xing and Ma, Qian and Wu, Jun Wei and Bai, Guo Dong and Galdi, Vincenzo and Cui, Tie Jun},
   title = {Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces},
   journal = {Advanced Optical Materials},
-  volume = {8},
-  issue = {11},
+  volume = {early view},
   pages = {1902126},
   year = {2020},
-  month = jun,
   keywords = {amplitude and phase control, anisotropic metasurfaces, arbitrary bifocal metalenses, equal-power vortex beams, polarization-reconfigurable},
   doi = {10.1002/adom.201902126},
   url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.201902126},
@@ -638,4 +527,14 @@ Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2020). Effects of deterministi
   year = {2020},
   url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-28-7-10199},
   doi = {10.1364/OE.388452}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/GRS_NL-ML.png" /></entry></feed>
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/GRS_NL-ML.png" /></entry><entry><title type="html">Our paper on deterministically disordered metamaterials accepted in OpEx</title><link href="http://localhost:4000/news/OpEx-paper-GRS-accepted" rel="alternate" type="text/html" title="Our paper on deterministically disordered metamaterials accepted in OpEx" /><published>2020-03-17T00:00:00+01:00</published><updated>2020-03-17T00:00:00+01:00</updated><id>http://localhost:4000/news/OpEx-paper-GRS-accepted</id><content type="html" xml:base="http://localhost:4000/news/OpEx-paper-GRS-accepted">&lt;p&gt;Our paper on “Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials”
+has been accepted for publication in &lt;a href=&quot;https://www.osapublishing.org/oe/&quot;&gt;&lt;em&gt;Optics Express&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;An &lt;a href=&quot;http://arxiv.org/abs/2003.07767&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="nonlocal" /><category term="homogenization" /><category term="aperiodic" /><summary type="html">Our paper on “Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials”
+has been accepted for publication in Optics Express.
+
+An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/OpEx.png" /></entry><entry><title type="html">Our paper on anisotropic metasurfaces accepted in AdOM</title><link href="http://localhost:4000/news/AdOM-accepted" rel="alternate" type="text/html" title="Our paper on anisotropic metasurfaces accepted in AdOM" /><published>2020-03-09T00:00:00+01:00</published><updated>2020-03-09T00:00:00+01:00</updated><id>http://localhost:4000/news/AdOM-accepted</id><content type="html" xml:base="http://localhost:4000/news/AdOM-accepted">&lt;p&gt;Our paper on “Independent control of co-polarized amplitude and phase responses via anisotropic metasurfaces,”
+in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
+has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wiley.com/journal/21951071&quot;&gt;&lt;em&gt;Advanced Optical Materials&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><summary type="html">Our paper on “Independent control of co-polarized amplitude and phase responses via anisotropic metasurfaces,”
+in collaboration with Tie Jun Cui’s Group (Southeast University),
+has been accepted for publication in Advanced Optical Materials.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/AdOM.png" /></entry></feed>
