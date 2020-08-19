@@ -1,4 +1,111 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-07-22T18:03:05+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on quasiperiodic nonlocal metamaterials accepted in PRB</title><link href="/news/PRB-paper-MFib-accepted" rel="alternate" type="text/html" title="Our paper on quasiperiodic nonlocal metamaterials accepted in PRB" /><published>2020-07-22T00:00:00+02:00</published><updated>2020-07-22T00:00:00+02:00</updated><id>/news/PRB-paper-MFib-accepted</id><content type="html" xml:base="/news/PRB-paper-MFib-accepted">&lt;p&gt;Our paper on “Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials”
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-08-19T16:31:32+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on extreme-parameter non-Hermitian metamaterials accepted in ACS-PHOT</title><link href="/news/ACS-PHOT-paper-ENH-accepted" rel="alternate" type="text/html" title="Our paper on extreme-parameter non-Hermitian metamaterials accepted in ACS-PHOT" /><published>2020-08-06T00:00:00+02:00</published><updated>2020-08-06T00:00:00+02:00</updated><id>/news/ACS-PHOT-paper-ENH-accepted</id><content type="html" xml:base="/news/ACS-PHOT-paper-ENH-accepted">&lt;p&gt;Our paper on “Extreme-parameter non-Hermitian dielectric metamaterials,”
+in collaboration with &lt;a href=&quot;https://scholar.google.it/citations?user=7j7a7H8AAAAJ&amp;amp;hl=it&quot;&gt;Vincenzo Caligiuri&lt;/a&gt; (University of Calabria) and &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/index.htm&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania),
+has been accepted for publication in &lt;a href=&quot;https://pubs.acs.org/journal/apchd5&quot;&gt;&lt;em&gt;ACS Photonics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="non-Hermitian" /><summary type="html">Our paper on “Extreme-parameter non-Hermitian dielectric metamaterials,”
+in collaboration with Vincenzo Caligiuri (University of Calabria) and Nader Engheta (University of Pennsylvania),
+has been accepted for publication in ACS Photonics.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/ACS-PHOT.png" /></entry><entry><title type="html">Our paper on quasiperiodic nonlocal metamaterials published in PRB</title><link href="/news/PRB-paper-MFib-published" rel="alternate" type="text/html" title="Our paper on quasiperiodic nonlocal metamaterials published in PRB" /><published>2020-08-05T00:00:00+02:00</published><updated>2020-08-05T00:00:00+02:00</updated><id>/news/PRB-paper-MFib-published</id><content type="html" xml:base="/news/PRB-paper-MFib-published">&lt;p&gt;Our paper on “Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials”
+[&lt;a href=&quot;#IJ144_PRB_102_075107_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+has been published in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ144_PRB_102_075107_2020&quot;&gt;Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2020). Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;102&lt;/i&gt;&lt;/span&gt;(7), 075107.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ144_PRB_102_075107_2020-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ144_PRB_102_075107_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ144_PRB_102_075107_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.102.075107&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ144_PRB_102_075107_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ144_PRB_102_075107_2020-abstract&quot; class=&quot;collapse&quot;&gt;For dielectric multilayered metamaterials, the effective-parameter representation is known to be insensitive to geometrical features occurring at deeply subwavelength scales. However, recent studies on periodic and aperiodically ordered geometries have shown the existence of certain critical parameter regimes where this conventional wisdom is upended, as the optical response of finite-size samples may depart considerably from the predictions of standard effective-medium theory. In these regimes, characterized by a mixed evanescent/propagating light transport, different classes of spatial (dis)order have been shown to induce distinctive effects in the optical response, in terms of anomalous transmission, localization, enhancement, absorption, and lasing. Here we further expand these examples by considering a quasiperiodic scenario based on a modified-Fibonacci geometry. Among the intriguing features of this model there is the presence of a scale parameter that controls the transition from perfectly periodic to quasiperiodic scenarios of different shades. Via an extensive parametric study, this allows us to identify the quasiperiodicity-induced anomalous effects, and to elucidate certain distinctive mechanisms and footprints. Our results hold potentially interesting implications for the optical probing of structural features at a resolution much smaller than the wavelength, and could also be leveraged to design novel types of absorbers and low-threshold lasers.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ144_PRB_102_075107_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ144_PRB_102_075107_2020,
+  title = {Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials},
+  author = {Coppolaro, Marino and Castaldi, Giuseppe and Galdi, Vincenzo},
+  journal = {Physical Review B},
+  volume = {102},
+  issue = {7},
+  pages = {075107},
+  numpages = {13},
+  year = {2020},
+  month = aug,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.102.075107}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="nonlocal" /><category term="homogenization" /><category term="aperiodic" /><summary type="html">Our paper on “Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials”
+[1]
+has been published in Physical Review B.
+
+Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2020). Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials. Physical Review B 102(7), 075107.
+
+
+
+  
+    
+    Abstract
+    
+
+    BibTeX
+
+            
+    
+    DOI
+    
+
+    
+
+    
+      
+    
+    PDF
+    
+
+    
+  
+  
+
+  
+  For dielectric multilayered metamaterials, the effective-parameter representation is known to be insensitive to geometrical features occurring at deeply subwavelength scales. However, recent studies on periodic and aperiodically ordered geometries have shown the existence of certain critical parameter regimes where this conventional wisdom is upended, as the optical response of finite-size samples may depart considerably from the predictions of standard effective-medium theory. In these regimes, characterized by a mixed evanescent/propagating light transport, different classes of spatial (dis)order have been shown to induce distinctive effects in the optical response, in terms of anomalous transmission, localization, enhancement, absorption, and lasing. Here we further expand these examples by considering a quasiperiodic scenario based on a modified-Fibonacci geometry. Among the intriguing features of this model there is the presence of a scale parameter that controls the transition from perfectly periodic to quasiperiodic scenarios of different shades. Via an extensive parametric study, this allows us to identify the quasiperiodicity-induced anomalous effects, and to elucidate certain distinctive mechanisms and footprints. Our results hold potentially interesting implications for the optical probing of structural features at a resolution much smaller than the wavelength, and could also be leveraged to design novel types of absorbers and low-threshold lasers.
+  
+
+  @article{IJ144_PRB_102_075107_2020,
+  title = {Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials},
+  author = {Coppolaro, Marino and Castaldi, Giuseppe and Galdi, Vincenzo},
+  journal = {Physical Review B},
+  volume = {102},
+  issue = {7},
+  pages = {075107},
+  numpages = {13},
+  year = {2020},
+  month = aug,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.102.075107}
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MFib.png" /></entry><entry><title type="html">Our paper on metasurface lab-on-fiber biosensors accepted in LPR</title><link href="/news/LPR-paper-accepted" rel="alternate" type="text/html" title="Our paper on metasurface lab-on-fiber biosensors accepted in LPR" /><published>2020-07-31T00:00:00+02:00</published><updated>2020-07-31T00:00:00+02:00</updated><id>/news/LPR-paper-accepted</id><content type="html" xml:base="/news/LPR-paper-accepted">&lt;p&gt;Our paper on “Metasurface enhanced lab-on-fiber biosensors”
+has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wiley.com/journal/18638899&quot;&gt;&lt;em&gt;Laser &amp;amp; Photonics Reviews&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="metasurfaces" /><category term="optical fibers" /><category term="plasmonics" /><category term="lab-on-fiber" /><summary type="html">Our paper on “Metasurface enhanced lab-on-fiber biosensors”
+has been accepted for publication in Laser &amp;amp; Photonics Reviews.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/LPR.png" /></entry><entry><title type="html">Our paper on quasiperiodic nonlocal metamaterials accepted in PRB</title><link href="/news/PRB-paper-MFib-accepted" rel="alternate" type="text/html" title="Our paper on quasiperiodic nonlocal metamaterials accepted in PRB" /><published>2020-07-22T00:00:00+02:00</published><updated>2020-07-22T00:00:00+02:00</updated><id>/news/PRB-paper-MFib-accepted</id><content type="html" xml:base="/news/PRB-paper-MFib-accepted">&lt;p&gt;Our paper on “Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials”
 has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/prb/&quot;&gt;&lt;em&gt;Physical Review B&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;An &lt;a href=&quot;http://arxiv.org/abs/2007.10634&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="nonlocal" /><category term="homogenization" /><category term="aperiodic" /><summary type="html">Our paper on “Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials”
@@ -424,218 +531,4 @@ Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2020)
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (ASRC-CUNY),
 has been accepted for publication in &lt;a href=&quot;https://www.osapublishing.org/oe/&quot;&gt;&lt;em&gt;Optics Express&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="non-Hermitian" /><summary type="html">Our paper on “Manipulating the scattering pattern with non-Hermitian particle arrays,”
 in collaboration with Andrea Alù’s Group (ASRC-CUNY),
-has been accepted for publication in Optics Express.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/OpEx.png" /></entry><entry><title type="html">Our paper on vitamin D detection accepted in Nanophotonics</title><link href="/news/NANOP-accepted" rel="alternate" type="text/html" title="Our paper on vitamin D detection accepted in Nanophotonics" /><published>2020-05-27T00:00:00+02:00</published><updated>2020-05-27T00:00:00+02:00</updated><id>/news/NANOP-accepted</id><content type="html" xml:base="/news/NANOP-accepted">&lt;p&gt;Our paper on “Pixeled metasurface for multiwavelength detection of vitamin D3,”
-in collaboration with &lt;a href=&quot;https://www.na.imm.cnr.it/users/emanuelaesposito&quot;&gt;Emanuela Esposito&lt;/a&gt;’s Group (National Research Council),
-has been accepted for publication in &lt;a href=&quot;https://www.degruyter.com/view/journals/nanoph/nanoph-overview.xml&quot;&gt;&lt;em&gt;Nanophotonics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="plasmonics" /><category term="optical sensing" /><summary type="html">Our paper on “Pixeled metasurface for multiwavelength detection of vitamin D3,”
-in collaboration with Emanuela Esposito’s Group (National Research Council),
-has been accepted for publication in Nanophotonics.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/nanophotonics.jpg" /></entry><entry><title type="html">Our paper on anisotropic metasurfaces published in AdOM</title><link href="/news/AdOM-published" rel="alternate" type="text/html" title="Our paper on anisotropic metasurfaces published in AdOM" /><published>2020-03-29T00:00:00+01:00</published><updated>2020-03-29T00:00:00+01:00</updated><id>/news/AdOM-published</id><content type="html" xml:base="/news/AdOM-published">&lt;p&gt;Our paper on “Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces”
-[&lt;a href=&quot;#IJ139_AdOM_1902126_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
-in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
-has been published in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ139_AdOM_1902126_2020&quot;&gt;Wu, R. Y., Bao, L., Wu, L. W., Wang, Z. X., Ma, Q., Wu, J. W., … Cui, T. J. (2020). Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;8&lt;/i&gt;&lt;/span&gt;(11), 1902126.&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ139_AdOM_1902126_2020-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ139_AdOM_1902126_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ139_AdOM_1902126_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1002/adom.201902126&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ139_AdOM_1902126_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-    &lt;li&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadom.201902126&amp;amp;file=adom201902126-sup-0001-SuppMat.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ139_AdOM_1902126_2020-abstract&quot; class=&quot;collapse&quot;&gt;Abstract A class of anisotropic, transmissive electromagnetic metasurfaces is presented, which enable independent and simultaneous control of copolarized phase and amplitude responses to two linear, orthogonal polarizations. By varying the geometrical parameters, the transmission response of the proposed structure can yield a full phase coverage, accompanied by broadly adjustable amplitude and negligible cross-polarized components. The full amplitude-phase control together with the novel anisotropic character allows efficient implementation of complicated field manipulations. As representative application examples, which cannot be realized via conventional (phase-only) metasurfaces, it is presented here: (1) the radiation of multiple equal-power vortex beams (along arbitrarily predesigned directions, with designable orbital angular momentum modes under different polarizations), and (2) the realization of polarization-reconfigurable multifocal metalenses. Full-wave numerical simulations and experimental results demonstrate good agreement and confirm the versatility and effectiveness of the proposed approach to design advanced field-manipulation systems.&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ139_AdOM_1902126_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ139_AdOM_1902126_2020,
-  author = {Wu, Rui Yuan and Bao, Lei and Wu, Liang Wei and Wang, Zheng Xing and Ma, Qian and Wu, Jun Wei and Bai, Guo Dong and Galdi, Vincenzo and Cui, Tie Jun},
-  title = {Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces},
-  journal = {Advanced Optical Materials},
-  volume = {8},
-  issue = {11},
-  pages = {1902126},
-  year = {2020},
-  month = jun,
-  keywords = {amplitude and phase control, anisotropic metasurfaces, arbitrary bifocal metalenses, equal-power vortex beams, polarization-reconfigurable},
-  doi = {10.1002/adom.201902126},
-  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.201902126},
-  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadom.201902126&amp;amp;file=adom201902126-sup-0001-SuppMat.pdf}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><summary type="html">Our paper on “Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces”
-[1],
-in collaboration with Tie Jun Cui’s Group (Southeast University),
-has been published in Advanced Optical Materials.
-
-Wu, R. Y., Bao, L., Wu, L. W., Wang, Z. X., Ma, Q., Wu, J. W., … Cui, T. J. (2020). Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces. Advanced Optical Materials 8(11), 1902126.
-
-
-
-  
-    
-    Abstract
-    
-
-    BibTeX
-
-            
-    
-    DOI
-    
-
-    
-
-    
-      
-    
-    PDF
-    
-
-    
-    Supplements
-    
-  
-  
-
-  
-  Abstract A class of anisotropic, transmissive electromagnetic metasurfaces is presented, which enable independent and simultaneous control of copolarized phase and amplitude responses to two linear, orthogonal polarizations. By varying the geometrical parameters, the transmission response of the proposed structure can yield a full phase coverage, accompanied by broadly adjustable amplitude and negligible cross-polarized components. The full amplitude-phase control together with the novel anisotropic character allows efficient implementation of complicated field manipulations. As representative application examples, which cannot be realized via conventional (phase-only) metasurfaces, it is presented here: (1) the radiation of multiple equal-power vortex beams (along arbitrarily predesigned directions, with designable orbital angular momentum modes under different polarizations), and (2) the realization of polarization-reconfigurable multifocal metalenses. Full-wave numerical simulations and experimental results demonstrate good agreement and confirm the versatility and effectiveness of the proposed approach to design advanced field-manipulation systems.
-  
-
-  @article{IJ139_AdOM_1902126_2020,
-  author = {Wu, Rui Yuan and Bao, Lei and Wu, Liang Wei and Wang, Zheng Xing and Ma, Qian and Wu, Jun Wei and Bai, Guo Dong and Galdi, Vincenzo and Cui, Tie Jun},
-  title = {Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces},
-  journal = {Advanced Optical Materials},
-  volume = {8},
-  issue = {11},
-  pages = {1902126},
-  year = {2020},
-  month = jun,
-  keywords = {amplitude and phase control, anisotropic metasurfaces, arbitrary bifocal metalenses, equal-power vortex beams, polarization-reconfigurable},
-  doi = {10.1002/adom.201902126},
-  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.201902126},
-  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadom.201902126&amp;amp;file=adom201902126-sup-0001-SuppMat.pdf}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/AP-MS.png" /></entry><entry><title type="html">Our paper on deterministically disordered metamaterials published in OpEx</title><link href="/news/OpEx-paper-GRS-published" rel="alternate" type="text/html" title="Our paper on deterministically disordered metamaterials published in OpEx" /><published>2020-03-25T00:00:00+01:00</published><updated>2020-03-25T00:00:00+01:00</updated><id>/news/OpEx-paper-GRS-published</id><content type="html" xml:base="/news/OpEx-paper-GRS-published">&lt;p&gt;Our paper on “Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials”
-[&lt;a href=&quot;#IJ138_OpEx_28_10199_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
-has been published in [&lt;em&gt;Optics Express&lt;/em&gt;].&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ138_OpEx_28_10199_2020&quot;&gt;Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2020). Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials. &lt;i&gt;Optics Express&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;28&lt;/i&gt;&lt;/span&gt;(7), 10199–10209.&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ138_OpEx_28_10199_2020-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ138_OpEx_28_10199_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ138_OpEx_28_10199_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1364/OE.388452&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ138_OpEx_28_10199_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ138_OpEx_28_10199_2020-abstract&quot; class=&quot;collapse&quot;&gt;It is common understanding that multilayered dielectric metamaterials, in the regime of deeply subwavelength layers, are accurately described by simple effective-medium models based on mixing formulas that do not depend on the spatial arrangement. In the wake of recent studies that have shown counterintuitive examples of periodic and aperiodic (orderly or random) scenarios in which this premise breaks down, we study here the effects of deterministic disorder. With specific reference to a model based on Golay-Rudin-Shapiro sequences, we illustrate certain peculiar boundary effects that can occur in finite-size dielectric multilayers, leading to anomalous light-transport properties that are in stark contrast with the predictions from conventional effective-medium theory. Via parametric and comparative studies, we elucidate the underlying physical mechanisms, also highlighting similarities and differences with respect to previously studied geometries. Our outcomes may inspire potential applications to optical sensing, switching and lasing.&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ138_OpEx_28_10199_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ138_OpEx_28_10199_2020,
-  author = {Coppolaro, Marino and Castaldi, Giuseppe and Galdi, Vincenzo},
-  journal = {Optics Express},
-  number = {7},
-  pages = {10199--10209},
-  publisher = {OSA},
-  title = {Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials},
-  volume = {28},
-  month = mar,
-  year = {2020},
-  url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-28-7-10199},
-  doi = {10.1364/OE.388452}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="nonlocal" /><category term="homogenization" /><category term="aperiodic" /><summary type="html">Our paper on “Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials”
-[1]
-has been published in [Optics Express].
-
-Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2020). Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials. Optics Express 28(7), 10199–10209.
-
-
-
-  
-    
-    Abstract
-    
-
-    BibTeX
-
-            
-    
-    DOI
-    
-
-    
-
-    
-      
-    
-    PDF
-    
-
-    
-  
-  
-
-  
-  It is common understanding that multilayered dielectric metamaterials, in the regime of deeply subwavelength layers, are accurately described by simple effective-medium models based on mixing formulas that do not depend on the spatial arrangement. In the wake of recent studies that have shown counterintuitive examples of periodic and aperiodic (orderly or random) scenarios in which this premise breaks down, we study here the effects of deterministic disorder. With specific reference to a model based on Golay-Rudin-Shapiro sequences, we illustrate certain peculiar boundary effects that can occur in finite-size dielectric multilayers, leading to anomalous light-transport properties that are in stark contrast with the predictions from conventional effective-medium theory. Via parametric and comparative studies, we elucidate the underlying physical mechanisms, also highlighting similarities and differences with respect to previously studied geometries. Our outcomes may inspire potential applications to optical sensing, switching and lasing.
-  
-
-  @article{IJ138_OpEx_28_10199_2020,
-  author = {Coppolaro, Marino and Castaldi, Giuseppe and Galdi, Vincenzo},
-  journal = {Optics Express},
-  number = {7},
-  pages = {10199--10209},
-  publisher = {OSA},
-  title = {Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials},
-  volume = {28},
-  month = mar,
-  year = {2020},
-  url = {http://www.opticsexpress.org/abstract.cfm?URI=oe-28-7-10199},
-  doi = {10.1364/OE.388452}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/GRS_NL-ML.png" /></entry></feed>
+has been accepted for publication in Optics Express.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/OpEx.png" /></entry></feed>

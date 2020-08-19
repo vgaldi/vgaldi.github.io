@@ -5,10 +5,96 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2020-07-22T18:03:05+02:00</lastBuildDate>
-        <pubDate>2020-07-22T18:03:05+02:00</pubDate>
+        <lastBuildDate>2020-08-19T16:31:32+02:00</lastBuildDate>
+        <pubDate>2020-08-19T16:31:32+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on extreme-parameter non-Hermitian metamaterials accepted in ACS-PHOT</title>
+                <description>&lt;p&gt;Our paper on “Extreme-parameter non-Hermitian dielectric metamaterials,”
+in collaboration with &lt;a href=&quot;https://scholar.google.it/citations?user=7j7a7H8AAAAJ&amp;amp;hl=it&quot;&gt;Vincenzo Caligiuri&lt;/a&gt; (University of Calabria) and &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/index.htm&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania),
+has been accepted for publication in &lt;a href=&quot;https://pubs.acs.org/journal/apchd5&quot;&gt;&lt;em&gt;ACS Photonics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/news/ACS-PHOT-paper-ENH-accepted</link>
+                <guid>http://fw-lab.org/news/ACS-PHOT-paper-ENH-accepted</guid>
+                <pubDate>2020-08-06T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>Our paper on quasiperiodic nonlocal metamaterials published in PRB</title>
+                <description>&lt;p&gt;Our paper on “Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials”
+[&lt;a href=&quot;#IJ144_PRB_102_075107_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+has been published in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ144_PRB_102_075107_2020&quot;&gt;Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2020). Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;102&lt;/i&gt;&lt;/span&gt;(7), 075107.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ144_PRB_102_075107_2020-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ144_PRB_102_075107_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ144_PRB_102_075107_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.102.075107&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ144_PRB_102_075107_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ144_PRB_102_075107_2020-abstract&quot; class=&quot;collapse&quot;&gt;For dielectric multilayered metamaterials, the effective-parameter representation is known to be insensitive to geometrical features occurring at deeply subwavelength scales. However, recent studies on periodic and aperiodically ordered geometries have shown the existence of certain critical parameter regimes where this conventional wisdom is upended, as the optical response of finite-size samples may depart considerably from the predictions of standard effective-medium theory. In these regimes, characterized by a mixed evanescent/propagating light transport, different classes of spatial (dis)order have been shown to induce distinctive effects in the optical response, in terms of anomalous transmission, localization, enhancement, absorption, and lasing. Here we further expand these examples by considering a quasiperiodic scenario based on a modified-Fibonacci geometry. Among the intriguing features of this model there is the presence of a scale parameter that controls the transition from perfectly periodic to quasiperiodic scenarios of different shades. Via an extensive parametric study, this allows us to identify the quasiperiodicity-induced anomalous effects, and to elucidate certain distinctive mechanisms and footprints. Our results hold potentially interesting implications for the optical probing of structural features at a resolution much smaller than the wavelength, and could also be leveraged to design novel types of absorbers and low-threshold lasers.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ144_PRB_102_075107_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ144_PRB_102_075107_2020,
+  title = {Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials},
+  author = {Coppolaro, Marino and Castaldi, Giuseppe and Galdi, Vincenzo},
+  journal = {Physical Review B},
+  volume = {102},
+  issue = {7},
+  pages = {075107},
+  numpages = {13},
+  year = {2020},
+  month = aug,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.102.075107}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+</description>
+                <link>http://fw-lab.org/news/PRB-paper-MFib-published</link>
+                <guid>http://fw-lab.org/news/PRB-paper-MFib-published</guid>
+                <pubDate>2020-08-05T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>Our paper on metasurface lab-on-fiber biosensors accepted in LPR</title>
+                <description>&lt;p&gt;Our paper on “Metasurface enhanced lab-on-fiber biosensors”
+has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wiley.com/journal/18638899&quot;&gt;&lt;em&gt;Laser &amp;amp; Photonics Reviews&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/news/LPR-paper-accepted</link>
+                <guid>http://fw-lab.org/news/LPR-paper-accepted</guid>
+                <pubDate>2020-07-31T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Our paper on quasiperiodic nonlocal metamaterials accepted in PRB</title>
