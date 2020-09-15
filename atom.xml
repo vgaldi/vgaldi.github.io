@@ -4,13 +4,72 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2020-08-19T16:31:32+02:00</updated>
+ <updated>2020-09-15T16:05:56+02:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
    <email>vgaldi@unisannio.it</email>
  </author>
 
+ 
+ <entry>
+   <title>Our paper on metasurface lab-on-fiber biosensors published in LPR</title>
+   <link href="http://fw-lab.org/news/LPR-paper-published"/>
+   <updated>2020-09-07T00:00:00+02:00</updated>
+   <id>http://fw-lab.org/news/LPR-paper-published</id>
+   <content type="html">&lt;p&gt;Our paper on “Metasurface enhanced lab-on-fiber biosensors”
+[&lt;a href=&quot;#IJ146_LPR_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] has been published in &lt;em&gt;Laser &amp;amp; Photonics Reviews&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ146_LPR_2020&quot;&gt;Consales, M., Quero, G., Spaziani, S., Principe, M., Micco, A., Galdi, V., … Cusano, A. Metasurface-Enhanced Lab-on-Fiber Biosensors. &lt;i&gt;Laser &amp;amp; Photonics Reviews&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;Early View&lt;/i&gt;&lt;/span&gt;, 2000180.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ146_LPR_2020-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ146_LPR_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ146_LPR_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1002/lpor.202000180&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ146_LPR_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Flpor.202000180&amp;amp;file=lpor202000180-sup-0001-SuppMat.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ146_LPR_2020-abstract&quot; class=&quot;collapse&quot;&gt;The integration of metasurfaces on the tip of optical fibers enables advanced wavefront manipulations in Lab-on-Fiber application scenarios, and brings about new degrees of freedom that can be exploited for optimizing the surface sensitivity to local variations of the refractive index. Here, a novel biosensing platform is reported based on the integration of a phase-gradient plasmonic metasurface on the tip of an optical fiber, able to detect biomolecular interactions with very high sensitivity. Specifically, the capability of the proposed platform to detect very low concentrations of streptavidin in running buffer solutions, with a limit of detection of the order of a few ng mL−1, is demonstrated. In addition, its inherent integrability within medical catheters/needles renders it potentially very attractive for application scenarios of real-time diagnosis via liquid biopsy at precise locations inside the human body.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ146_LPR_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ146_LPR_2020,
+  author = {Consales, Marco and Quero, Giuseppe and Spaziani, Sara and Principe, Maria and Micco, Alberto and Galdi, Vincenzo and Cutolo, Antonello and Cusano, Andrea},
+  title = {Metasurface-Enhanced Lab-on-Fiber Biosensors},
+  journal = {Laser \&amp;amp; Photonics Reviews},
+  volume = {Early View},
+  pages = {2000180},
+  doi = {10.1002/lpor.202000180},
+  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Flpor.202000180&amp;amp;file=lpor202000180-sup-0001-SuppMat.pdf}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Our paper on extreme-parameter non-Hermitian metamaterials accepted in ACS-PHOT</title>
@@ -121,7 +180,7 @@ has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/p
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 has been published in &lt;em&gt;ACS Photonics&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ143_ACS-PHOT_2020&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2020). Line Waves in Non-Hermitian Metasurfaces. &lt;i&gt;ACS Photonics&lt;/i&gt;.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ143_ACS-PHOT_2020&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2020). Line Waves in Non-Hermitian Metasurfaces. &lt;i&gt;ACS Photonics&lt;/i&gt; (8), 2064–2072.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ143_ACS-PHOT_2020-materials&quot;&gt;
@@ -160,9 +219,11 @@ has been published in &lt;em&gt;ACS Photonics&lt;/em&gt;.&lt;/p&gt;
   doi = {10.1021/acsphotonics.0c00465},
   journal = {ACS Photonics},
   author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`{u}, Andrea and Galdi, Vincenzo},
-  month = jul,
+  month = aug,
   year = {2020},
-  vol = {ASAP},
+  vol = {7},
+  issue = {8},
+  pages = {2064--2072},
   note = {https://pubs.acs.org/doi/suppl/10.1021/acsphotonics.0c00465/suppl_file/ph0c00465_si_001.pdf}
 }
 &lt;/pre&gt;
@@ -195,7 +256,7 @@ has been accepted for publication in &lt;a href=&quot;https://pubs.acs.org/journ
 in collaboration with &lt;a href=&quot;https://www.na.imm.cnr.it/users/emanuelaesposito&quot;&gt;Emanuela Esposito&lt;/a&gt;’s Group (National Research Council),
 has been published in &lt;em&gt;Nanophotonics&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ142_Nanophotonics_2020&quot;&gt;Di Meo, V., Crescitelli, A., Moccia, M., Sandomenico, A., Cusano, A. M., Portaccio, M., … Esposito, E. (2020). Pixeled metasurface for multiwavelength detection of vitamin D. &lt;i&gt;Nanophotonics&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;9&lt;/i&gt;&lt;/span&gt;, 20200103.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ142_Nanophotonics_2020&quot;&gt;Di Meo, V., Crescitelli, A., Moccia, M., Sandomenico, A., Cusano, A. M., Portaccio, M., … Esposito, E. (2020). Pixeled metasurface for multiwavelength detection of vitamin D. &lt;i&gt;Nanophotonics&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;9&lt;/i&gt;&lt;/span&gt;(12), 3921–3930.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ142_Nanophotonics_2020-materials&quot;&gt;
@@ -235,9 +296,10 @@ has been published in &lt;em&gt;Nanophotonics&lt;/em&gt;.&lt;/p&gt;
   journal = {Nanophotonics},
   year = {2020},
   doi = {10.1515/nanoph-2020-0103},
-  pages = {20200103},
+  pages = {3921--3930},
   volume = {9},
-  month = jun,
+  issue = {12},
+  month = sep,
   note = {https://www.degruyter.com/supplemental/journals/nanoph/ahead-of-print/article-10.1515-nanoph-2020-0103/article-10.1515-nanoph-2020-0103.xml/j_nanoph-2020-0103_suppl.pdf}
 }
 &lt;/pre&gt;
