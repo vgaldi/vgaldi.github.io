@@ -3,6 +3,51 @@
   
     
     <url>
+      <loc>http://fw-lab.org/news/AFM-published</loc>
+      
+        <lastmod>2020-10-28T00:00:00+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://fw-lab.org/news/AFM-accepted</loc>
+      
+        <lastmod>2020-10-16T00:00:00+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://fw-lab.org/news/Metamaterials-2020</loc>
+      
+        <lastmod>2020-09-29T00:00:00+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://fw-lab.org/news/LPR-paper-published</loc>
       
         <lastmod>2020-09-07T00:00:00+02:00</lastmod>
@@ -1536,7 +1581,7 @@
     <url>
       <loc>http://fw-lab.org/about</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1551,7 +1596,7 @@
     <url>
       <loc>http://fw-lab.org/all-posts.json</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1566,7 +1611,7 @@
     <url>
       <loc>http://fw-lab.org/archive</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1581,7 +1626,7 @@
     <url>
       <loc>http://fw-lab.org/atom.xml</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1596,7 +1641,7 @@
     <url>
       <loc>http://fw-lab.org/categories</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1611,7 +1656,7 @@
     <url>
       <loc>http://fw-lab.org/contact</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1626,7 +1671,7 @@
     <url>
       <loc>http://fw-lab.org/team/</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1641,7 +1686,7 @@
     <url>
       <loc>http://fw-lab.org/preprints/</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1656,7 +1701,7 @@
     <url>
       <loc>http://fw-lab.org/conferences/</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1671,7 +1716,7 @@
     <url>
       <loc>http://fw-lab.org/media/</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1686,7 +1731,7 @@
     <url>
       <loc>http://fw-lab.org/</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1701,7 +1746,7 @@
     <url>
       <loc>http://fw-lab.org/misc/</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1716,7 +1761,7 @@
     <url>
       <loc>http://fw-lab.org/projects/</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1731,7 +1776,7 @@
     <url>
       <loc>http://fw-lab.org/books/</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1746,7 +1791,7 @@
     <url>
       <loc>http://fw-lab.org/journals/</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1761,7 +1806,7 @@
     <url>
       <loc>http://fw-lab.org/news/archive/</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1776,7 +1821,7 @@
     <url>
       <loc>http://fw-lab.org/news/</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1791,7 +1836,7 @@
     <url>
       <loc>http://fw-lab.org/join</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1806,7 +1851,7 @@
     <url>
       <loc>http://fw-lab.org/pages</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1821,7 +1866,7 @@
     <url>
       <loc>http://fw-lab.org/rss.xml</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1836,7 +1881,7 @@
     <url>
       <loc>http://fw-lab.org/sitemap.txt</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1853,7 +1898,7 @@
     <url>
       <loc>http://fw-lab.org/assets/themes/lab/less/style.less</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1868,7 +1913,7 @@
     <url>
       <loc>http://fw-lab.org/assets/themes/lab/css/style.css</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1883,7 +1928,7 @@
     <url>
       <loc>http://fw-lab.org/tags</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1898,7 +1943,7 @@
     <url>
       <loc>http://fw-lab.org/feed.xml</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1913,7 +1958,7 @@
     <url>
       <loc>http://fw-lab.org/feed.xslt.xml</loc>
       
-        <lastmod>2020-09-15T16:05:56+02:00</lastmod>
+        <lastmod>2020-11-01T14:07:46+01:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

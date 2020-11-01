@@ -1,7 +1,187 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-15T16:05:56+02:00</updated><id>http://localhost:4000//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on metasurface lab-on-fiber biosensors published in LPR</title><link href="http://localhost:4000/news/LPR-paper-published" rel="alternate" type="text/html" title="Our paper on metasurface lab-on-fiber biosensors published in LPR" /><published>2020-09-07T00:00:00+02:00</published><updated>2020-09-07T00:00:00+02:00</updated><id>http://localhost:4000/news/LPR-paper-published</id><content type="html" xml:base="http://localhost:4000/news/LPR-paper-published">&lt;p&gt;Our paper on “Metasurface enhanced lab-on-fiber biosensors”
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-01T14:07:46+01:00</updated><id>http://localhost:4000//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on harmonic beam shaping published in AdFM</title><link href="http://localhost:4000/news/AFM-published" rel="alternate" type="text/html" title="Our paper on harmonic beam shaping published in AdFM" /><published>2020-10-28T00:00:00+01:00</published><updated>2020-10-28T00:00:00+01:00</updated><id>http://localhost:4000/news/AFM-published</id><content type="html" xml:base="http://localhost:4000/news/AFM-published">&lt;p&gt;Our paper on “Joint multi‐frequency beam shaping and steering via space-time-coding digital metasurfaces”
+[&lt;a href=&quot;#IJ147_AFM_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
+has been published in &lt;em&gt;Advanced Functional Materials&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ147_AFM_2020&quot;&gt;Castaldi, G., Zhang, L., Moccia, M., Hathaway, A. Y., Tang, W. X., Cui, T. J., &amp;amp; Galdi, V. (2020). Joint Multi-Frequency Beam Shaping and Steering via Space–Time-Coding Digital Metasurfaces. &lt;i&gt;Advanced Functional Materials&lt;/i&gt; 2007620 (early view).&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ147_AFM_2020-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ147_AFM_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ147_AFM_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1002/adfm.202007620&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ147_AFM_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadfm.202007620&amp;amp;file=adfm202007620-sup-0001-SuppMat.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ147_AFM_2020-abstract&quot; class=&quot;collapse&quot;&gt;Digital programmable metasurfaces provide a very powerful and versatile platform for implementing spatio-temporal modulation schemes that are of great interest within the emerging framework of space-time metastructures. In particular, space-time coding digital metasurfaces have been successfully applied to advanced wavefront manipulations in both the spatial and spectral domains. However, conventional space-time coding schemes do not allow the joint syntheses of the transmission/scattering angular responses at multiple frequencies, which are potentially useful in a variety of applications of practical interest. Here, a strategy is put forward to lift this limitation, thereby enabling joint multi-frequency beam shaping and steering, i.e., the independent and simultaneous syntheses of prescribed scattering patterns at given harmonic frequencies. The proposed approach relies on a more sophisticated space-time coding, with suitably designed, temporally intertwined coding sub-sequences, which effectively disentangles the joint multi-frequency syntheses. The power and versatility of the approach are illustrated via a series of representative application examples, including multi-beam, diffuse-scattering, and orbital-angular-momentum patterns. Theoretical predictions are experimentally validated by means of microwave measurements. The outcomes of this study hold promising potentials for applications to future imaging, information and mobile-communication systems.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ147_AFM_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ147_AFM_2020,
+  author = {Castaldi, Giuseppe and Zhang, Lei and Moccia, Massimo and Hathaway, Alisa Y. and Tang, Wen Xuan and Cui, Tie Jun and Galdi, Vincenzo},
+  title = {Joint Multi-Frequency Beam Shaping and Steering via Space–Time-Coding Digital Metasurfaces},
+  journal = {Advanced Functional Materials},
+  pages = {2007620 (early view)},
+  doi = {10.1002/adfm.202007620},
+  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadfm.202007620&amp;amp;file=adfm202007620-sup-0001-SuppMat.pdf},
+  year = {2020},
+  month = oct
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="space-time" /><category term="coding" /><summary type="html">Our paper on “Joint multi‐frequency beam shaping and steering via space-time-coding digital metasurfaces”
+[1],
+in collaboration with Tie Jun Cui’s Group (Southeast University),
+has been published in Advanced Functional Materials.
+
+Castaldi, G., Zhang, L., Moccia, M., Hathaway, A. Y., Tang, W. X., Cui, T. J., &amp;amp; Galdi, V. (2020). Joint Multi-Frequency Beam Shaping and Steering via Space–Time-Coding Digital Metasurfaces. Advanced Functional Materials 2007620 (early view).
+
+
+
+  
+    
+    Abstract
+    
+
+    BibTeX
+
+            
+    
+    DOI
+    
+
+    
+
+    
+      
+    
+    PDF
+    
+
+    
+    Supplements
+    
+  
+  
+
+  
+  Digital programmable metasurfaces provide a very powerful and versatile platform for implementing spatio-temporal modulation schemes that are of great interest within the emerging framework of space-time metastructures. In particular, space-time coding digital metasurfaces have been successfully applied to advanced wavefront manipulations in both the spatial and spectral domains. However, conventional space-time coding schemes do not allow the joint syntheses of the transmission/scattering angular responses at multiple frequencies, which are potentially useful in a variety of applications of practical interest. Here, a strategy is put forward to lift this limitation, thereby enabling joint multi-frequency beam shaping and steering, i.e., the independent and simultaneous syntheses of prescribed scattering patterns at given harmonic frequencies. The proposed approach relies on a more sophisticated space-time coding, with suitably designed, temporally intertwined coding sub-sequences, which effectively disentangles the joint multi-frequency syntheses. The power and versatility of the approach are illustrated via a series of representative application examples, including multi-beam, diffuse-scattering, and orbital-angular-momentum patterns. Theoretical predictions are experimentally validated by means of microwave measurements. The outcomes of this study hold promising potentials for applications to future imaging, information and mobile-communication systems.
+  
+
+  @article{IJ147_AFM_2020,
+  author = {Castaldi, Giuseppe and Zhang, Lei and Moccia, Massimo and Hathaway, Alisa Y. and Tang, Wen Xuan and Cui, Tie Jun and Galdi, Vincenzo},
+  title = {Joint Multi-Frequency Beam Shaping and Steering via Space–Time-Coding Digital Metasurfaces},
+  journal = {Advanced Functional Materials},
+  pages = {2007620 (early view)},
+  doi = {10.1002/adfm.202007620},
+  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadfm.202007620&amp;amp;file=adfm202007620-sup-0001-SuppMat.pdf},
+  year = {2020},
+  month = oct
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/AFM_STBS.jpg" /></entry><entry><title type="html">Our paper on harmonic beam shaping accepted in AdFM</title><link href="http://localhost:4000/news/AFM-accepted" rel="alternate" type="text/html" title="Our paper on harmonic beam shaping accepted in AdFM" /><published>2020-10-16T00:00:00+02:00</published><updated>2020-10-16T00:00:00+02:00</updated><id>http://localhost:4000/news/AFM-accepted</id><content type="html" xml:base="http://localhost:4000/news/AFM-accepted">&lt;p&gt;Our paper on “Joint multi‐frequency beam shaping and steering via space-time-coding digital metasurfaces,”
+in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
+has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wiley.com/journal/16163028&quot;&gt;&lt;em&gt;Advanced Functional Materials&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="space-time" /><category term="coding" /><summary type="html">Our paper on “Joint multi‐frequency beam shaping and steering via space-time-coding digital metasurfaces,”
+in collaboration with Tie Jun Cui’s Group (Southeast University),
+has been accepted for publication in Advanced Functional Materials.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/AFM.png" /></entry><entry><title type="html">Invited talk at Metamaterials 2020</title><link href="http://localhost:4000/news/Metamaterials-2020" rel="alternate" type="text/html" title="Invited talk at Metamaterials 2020" /><published>2020-09-29T00:00:00+02:00</published><updated>2020-09-29T00:00:00+02:00</updated><id>http://localhost:4000/news/Metamaterials-2020</id><content type="html" xml:base="http://localhost:4000/news/Metamaterials-2020">&lt;p&gt;We have presented an invited talk
+[&lt;a href=&quot;#Zhang_Metamaterials2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] at the &lt;em&gt;14th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2020.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
+New York (NY), USA, Sep. 28-Oct. 3, 2020 (online).&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Zhang_Metamaterials2020&quot;&gt;Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Moccia, M., … Galdi, V. (2020). Recent advances in space-time-coding digital metasurfaces. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. New York (NY), USA, Sep. 28-Oct. 30, 2020 (online).&lt;/span&gt;
+
+
+&lt;div id=&quot;Zhang_Metamaterials2020-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Zhang_Metamaterials2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Zhang_Metamaterials2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Zhang_Metamaterials2020,
+  author = {Zhang, L. and Chen, X. Q. and Shao, R. W. and Dai, J. Y. and Cheng, Q. and Moccia, M. and Castaldi, G. and Cui, T. J. and Galdi, V.},
+  title = {Recent advances in space-time-coding digital metasurfaces},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {New York (NY), USA, Sep. 28-Oct. 30, 2020 (online)},
+  month = sep,
+  year = {2020}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="space time" /><category term="coding" /><category term="nonreciprocal aperiodic" /><category term="homogenization" /><category term="multilayers" /><category term="nonlocal" /><category term="transformation optics" /><category term="non-Hermitian" /><category term="epsilon near zero" /><summary type="html">We have presented an invited talk
+[1] at the 14th International Congress on Engineered Material Platforms for Novel Wave Phenomena (Metamaterials),
+New York (NY), USA, Sep. 28-Oct. 3, 2020 (online).
+
+Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Moccia, M., … Galdi, V. (2020). Recent advances in space-time-coding digital metasurfaces. In International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS). New York (NY), USA, Sep. 28-Oct. 30, 2020 (online).
+
+
+
+  
+    
+
+    BibTeX
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  
+
+  
+
+  @inproceedings{Zhang_Metamaterials2020,
+  author = {Zhang, L. and Chen, X. Q. and Shao, R. W. and Dai, J. Y. and Cheng, Q. and Moccia, M. and Castaldi, G. and Cui, T. J. and Galdi, V.},
+  title = {Recent advances in space-time-coding digital metasurfaces},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {New York (NY), USA, Sep. 28-Oct. 30, 2020 (online)},
+  month = sep,
+  year = {2020}
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/Metamaterials-2020.png" /></entry><entry><title type="html">Our paper on metasurface lab-on-fiber biosensors published in LPR</title><link href="http://localhost:4000/news/LPR-paper-published" rel="alternate" type="text/html" title="Our paper on metasurface lab-on-fiber biosensors published in LPR" /><published>2020-09-07T00:00:00+02:00</published><updated>2020-09-07T00:00:00+02:00</updated><id>http://localhost:4000/news/LPR-paper-published</id><content type="html" xml:base="http://localhost:4000/news/LPR-paper-published">&lt;p&gt;Our paper on “Metasurface enhanced lab-on-fiber biosensors”
 [&lt;a href=&quot;#IJ146_LPR_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] has been published in &lt;em&gt;Laser &amp;amp; Photonics Reviews&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ146_LPR_2020&quot;&gt;Consales, M., Quero, G., Spaziani, S., Principe, M., Micco, A., Galdi, V., … Cusano, A. Metasurface-Enhanced Lab-on-Fiber Biosensors. &lt;i&gt;Laser &amp;amp; Photonics Reviews&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;Early View&lt;/i&gt;&lt;/span&gt;, 2000180.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ146_LPR_2020&quot;&gt;Consales, M., Quero, G., Spaziani, S., Principe, M., Micco, A., Galdi, V., … Cusano, A. (2020). Metasurface-Enhanced Lab-on-Fiber Biosensors. &lt;i&gt;Laser &amp;amp; Photonics Reviews&lt;/i&gt; 2000180 (early view).&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ146_LPR_2020-materials&quot;&gt;
@@ -39,10 +219,11 @@
   author = {Consales, Marco and Quero, Giuseppe and Spaziani, Sara and Principe, Maria and Micco, Alberto and Galdi, Vincenzo and Cutolo, Antonello and Cusano, Andrea},
   title = {Metasurface-Enhanced Lab-on-Fiber Biosensors},
   journal = {Laser \&amp;amp; Photonics Reviews},
-  volume = {Early View},
-  pages = {2000180},
+  pages = {2000180 (early view)},
   doi = {10.1002/lpor.202000180},
-  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Flpor.202000180&amp;amp;file=lpor202000180-sup-0001-SuppMat.pdf}
+  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Flpor.202000180&amp;amp;file=lpor202000180-sup-0001-SuppMat.pdf},
+  year = {2020},
+  month = sep
 }
 &lt;/pre&gt;
 
@@ -51,7 +232,7 @@
 &lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="metasurfaces" /><category term="optical fibers" /><category term="plasmonics" /><category term="lab-on-fiber" /><summary type="html">Our paper on “Metasurface enhanced lab-on-fiber biosensors”
 [1] has been published in Laser &amp;amp; Photonics Reviews.
 
-Consales, M., Quero, G., Spaziani, S., Principe, M., Micco, A., Galdi, V., … Cusano, A. Metasurface-Enhanced Lab-on-Fiber Biosensors. Laser &amp;amp; Photonics Reviews Early View, 2000180.
+Consales, M., Quero, G., Spaziani, S., Principe, M., Micco, A., Galdi, V., … Cusano, A. (2020). Metasurface-Enhanced Lab-on-Fiber Biosensors. Laser &amp;amp; Photonics Reviews 2000180 (early view).
 
 
 
@@ -89,10 +270,11 @@ Consales, M., Quero, G., Spaziani, S., Principe, M., Micco, A., Galdi, V., … C
   author = {Consales, Marco and Quero, Giuseppe and Spaziani, Sara and Principe, Maria and Micco, Alberto and Galdi, Vincenzo and Cutolo, Antonello and Cusano, Andrea},
   title = {Metasurface-Enhanced Lab-on-Fiber Biosensors},
   journal = {Laser \&amp;amp; Photonics Reviews},
-  volume = {Early View},
-  pages = {2000180},
+  pages = {2000180 (early view)},
   doi = {10.1002/lpor.202000180},
-  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Flpor.202000180&amp;amp;file=lpor202000180-sup-0001-SuppMat.pdf}
+  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Flpor.202000180&amp;amp;file=lpor202000180-sup-0001-SuppMat.pdf},
+  year = {2020},
+  month = sep
 }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/MT-bio.png" /></entry><entry><title type="html">Our paper on extreme-parameter non-Hermitian metamaterials accepted in ACS-PHOT</title><link href="http://localhost:4000/news/ACS-PHOT-paper-ENH-accepted" rel="alternate" type="text/html" title="Our paper on extreme-parameter non-Hermitian metamaterials accepted in ACS-PHOT" /><published>2020-08-06T00:00:00+02:00</published><updated>2020-08-06T00:00:00+02:00</updated><id>http://localhost:4000/news/ACS-PHOT-paper-ENH-accepted</id><content type="html" xml:base="http://localhost:4000/news/ACS-PHOT-paper-ENH-accepted">&lt;p&gt;Our paper on “Extreme-parameter non-Hermitian dielectric metamaterials,”
 in collaboration with &lt;a href=&quot;https://scholar.google.it/citations?user=7j7a7H8AAAAJ&amp;amp;hl=it&quot;&gt;Vincenzo Caligiuri&lt;/a&gt; (University of Calabria) and &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/index.htm&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania),
 has been accepted for publication in &lt;a href=&quot;https://pubs.acs.org/journal/apchd5&quot;&gt;&lt;em&gt;ACS Photonics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="non-Hermitian" /><summary type="html">Our paper on “Extreme-parameter non-Hermitian dielectric metamaterials,”
@@ -211,7 +393,7 @@ An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://se
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 has been published in &lt;em&gt;ACS Photonics&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ143_ACS-PHOT_2020&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2020). Line Waves in Non-Hermitian Metasurfaces. &lt;i&gt;ACS Photonics&lt;/i&gt; (8), 2064–2072.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ143_ACS-PHOT_2020&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2020). Line Waves in Non-Hermitian Metasurfaces. &lt;i&gt;ACS Photonics&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;7&lt;/i&gt;&lt;/span&gt;(8), 2064–2072.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ143_ACS-PHOT_2020-materials&quot;&gt;
@@ -252,7 +434,7 @@ has been published in &lt;em&gt;ACS Photonics&lt;/em&gt;.&lt;/p&gt;
   author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`{u}, Andrea and Galdi, Vincenzo},
   month = aug,
   year = {2020},
-  vol = {7},
+  volume = {7},
   issue = {8},
   pages = {2064--2072},
   note = {https://pubs.acs.org/doi/suppl/10.1021/acsphotonics.0c00465/suppl_file/ph0c00465_si_001.pdf}
@@ -266,7 +448,7 @@ has been published in &lt;em&gt;ACS Photonics&lt;/em&gt;.&lt;/p&gt;
 in collaboration with Andrea Alù (ASRC-CUNY),
 has been published in ACS Photonics.
 
-Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2020). Line Waves in Non-Hermitian Metasurfaces. ACS Photonics (8), 2064–2072.
+Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2020). Line Waves in Non-Hermitian Metasurfaces. ACS Photonics 7(8), 2064–2072.
 
 
 
@@ -307,7 +489,7 @@ Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2020). Line Waves in No
   author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`{u}, Andrea and Galdi, Vincenzo},
   month = aug,
   year = {2020},
-  vol = {7},
+  volume = {7},
   issue = {8},
   pages = {2064--2072},
   note = {https://pubs.acs.org/doi/suppl/10.1021/acsphotonics.0c00465/suppl_file/ph0c00465_si_001.pdf}
@@ -315,317 +497,4 @@ Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2020). Line Waves in No
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 has been accepted for publication in &lt;a href=&quot;https://pubs.acs.org/journal/apchd5&quot;&gt;&lt;em&gt;ACS Photonics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="non-Hermitian" /><summary type="html">Our paper on “Line waves in non-Hermitian metasurfaces,”
 in collaboration with Andrea Alù (ASRC-CUNY),
-has been accepted for publication in ACS Photonics.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/ACS-PHOT.png" /></entry><entry><title type="html">Our paper on vitamin D detection published in Nanophotonics</title><link href="http://localhost:4000/news/NANOP-published" rel="alternate" type="text/html" title="Our paper on vitamin D detection published in Nanophotonics" /><published>2020-06-30T00:00:00+02:00</published><updated>2020-06-30T00:00:00+02:00</updated><id>http://localhost:4000/news/NANOP-published</id><content type="html" xml:base="http://localhost:4000/news/NANOP-published">&lt;p&gt;Our paper on “Pixeled metasurface for multiwavelength detection of vitamin D3”
-[&lt;a href=&quot;#IJ142_Nanophotonics_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
-in collaboration with &lt;a href=&quot;https://www.na.imm.cnr.it/users/emanuelaesposito&quot;&gt;Emanuela Esposito&lt;/a&gt;’s Group (National Research Council),
-has been published in &lt;em&gt;Nanophotonics&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ142_Nanophotonics_2020&quot;&gt;Di Meo, V., Crescitelli, A., Moccia, M., Sandomenico, A., Cusano, A. M., Portaccio, M., … Esposito, E. (2020). Pixeled metasurface for multiwavelength detection of vitamin D. &lt;i&gt;Nanophotonics&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;9&lt;/i&gt;&lt;/span&gt;(12), 3921–3930.&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ142_Nanophotonics_2020-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ142_Nanophotonics_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ142_Nanophotonics_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1515/nanoph-2020-0103&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ142_Nanophotonics_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-    &lt;li&gt;&lt;a href=&quot;https://www.degruyter.com/supplemental/journals/nanoph/ahead-of-print/article-10.1515-nanoph-2020-0103/article-10.1515-nanoph-2020-0103.xml/j_nanoph-2020-0103_suppl.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ142_Nanophotonics_2020-abstract&quot; class=&quot;collapse&quot;&gt;The steadily increasing demand for accurate analysis of vitamin D level, via measurement of its best general marker, 25-hydroxyvitamin D (25(OH)D), pushes for the development of novel automated assays capable of working at very low concentrations. Here, we propose a plasmonic biosensor of 25(OH)D3 (calcifediol) based on surface-enhanced infrared absorption spectroscopy, which exploits the resonant coupling between plasmonic nanoantennas and vibrational excitation of small molecules. Specifically, our proposed platform features a large-area (several mm2) metasurface made of gold nanoantennas fabricated on a silicon substrate, comprising different macroregions (“pixels”) of area 500 × 500 µm2. In each pixel, the nanoantenna geometrical parameters are tuned so as to support localized surface plasmon resonances (and hence large field enhancements at the nanoscale) within different regions of the infrared spectrum. As a result, a single chip is capable of performing analysis from the region of functional groups to that of fingerprint. Two different designs are fabricated via electron beam lithography, functionalized with a correlated antibody for the detection of 25(OH)D3, and characterized via Fourier-transform infrared spectroscopy. Our experiments demonstrate the capability to detect a concentration as low as 86 pmol/L, and an amount of immobilized small molecules of 25(OH)D3 monohydrate (molecular weight: 418.65 g/mol) as low as 4.31 amol over an area of 100 × 100 µm2.&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ142_Nanophotonics_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ142_Nanophotonics_2020,
-  author = {Di Meo, Valentina and Crescitelli, Alessio and Moccia, Massimo and Sandomenico, Annamaria and Cusano, Angela M. and Portaccio, Marianna and Lepore, Maria and Galdi, Vincenzo and Esposito, Emanuela},
-  title = {Pixeled metasurface for multiwavelength detection of vitamin D},
-  journal = {Nanophotonics},
-  year = {2020},
-  doi = {10.1515/nanoph-2020-0103},
-  pages = {3921--3930},
-  volume = {9},
-  issue = {12},
-  month = sep,
-  note = {https://www.degruyter.com/supplemental/journals/nanoph/ahead-of-print/article-10.1515-nanoph-2020-0103/article-10.1515-nanoph-2020-0103.xml/j_nanoph-2020-0103_suppl.pdf}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="plasmonics" /><category term="optical sensing" /><summary type="html">Our paper on “Pixeled metasurface for multiwavelength detection of vitamin D3”
-[1],
-in collaboration with Emanuela Esposito’s Group (National Research Council),
-has been published in Nanophotonics.
-
-Di Meo, V., Crescitelli, A., Moccia, M., Sandomenico, A., Cusano, A. M., Portaccio, M., … Esposito, E. (2020). Pixeled metasurface for multiwavelength detection of vitamin D. Nanophotonics 9(12), 3921–3930.
-
-
-
-  
-    
-    Abstract
-    
-
-    BibTeX
-
-            
-    
-    DOI
-    
-
-    
-
-    
-      
-    
-    PDF
-    
-
-    
-    Supplements
-    
-  
-  
-
-  
-  The steadily increasing demand for accurate analysis of vitamin D level, via measurement of its best general marker, 25-hydroxyvitamin D (25(OH)D), pushes for the development of novel automated assays capable of working at very low concentrations. Here, we propose a plasmonic biosensor of 25(OH)D3 (calcifediol) based on surface-enhanced infrared absorption spectroscopy, which exploits the resonant coupling between plasmonic nanoantennas and vibrational excitation of small molecules. Specifically, our proposed platform features a large-area (several mm2) metasurface made of gold nanoantennas fabricated on a silicon substrate, comprising different macroregions (“pixels”) of area 500 × 500 µm2. In each pixel, the nanoantenna geometrical parameters are tuned so as to support localized surface plasmon resonances (and hence large field enhancements at the nanoscale) within different regions of the infrared spectrum. As a result, a single chip is capable of performing analysis from the region of functional groups to that of fingerprint. Two different designs are fabricated via electron beam lithography, functionalized with a correlated antibody for the detection of 25(OH)D3, and characterized via Fourier-transform infrared spectroscopy. Our experiments demonstrate the capability to detect a concentration as low as 86 pmol/L, and an amount of immobilized small molecules of 25(OH)D3 monohydrate (molecular weight: 418.65 g/mol) as low as 4.31 amol over an area of 100 × 100 µm2.
-  
-
-  @article{IJ142_Nanophotonics_2020,
-  author = {Di Meo, Valentina and Crescitelli, Alessio and Moccia, Massimo and Sandomenico, Annamaria and Cusano, Angela M. and Portaccio, Marianna and Lepore, Maria and Galdi, Vincenzo and Esposito, Emanuela},
-  title = {Pixeled metasurface for multiwavelength detection of vitamin D},
-  journal = {Nanophotonics},
-  year = {2020},
-  doi = {10.1515/nanoph-2020-0103},
-  pages = {3921--3930},
-  volume = {9},
-  issue = {12},
-  month = sep,
-  note = {https://www.degruyter.com/supplemental/journals/nanoph/ahead-of-print/article-10.1515-nanoph-2020-0103/article-10.1515-nanoph-2020-0103.xml/j_nanoph-2020-0103_suppl.pdf}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/SEIRA.png" /></entry><entry><title type="html">Our paper on non-Hermitian particle arrays published in OpEx</title><link href="http://localhost:4000/news/OpEx-paper-NPA-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian particle arrays published in OpEx" /><published>2020-06-17T00:00:00+02:00</published><updated>2020-06-17T00:00:00+02:00</updated><id>http://localhost:4000/news/OpEx-paper-NPA-published</id><content type="html" xml:base="http://localhost:4000/news/OpEx-paper-NPA-published">&lt;p&gt;Our paper on “Manipulating the scattering pattern with non-Hermitian particle arrays”
-[&lt;a href=&quot;#IJ141_OpEX_28_19492_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
-in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (ASRC-CUNY),
-has been published in &lt;em&gt;Optics Express&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ141_OpEX_28_19492_2020&quot;&gt;Zhang, Y. J., Li, P., Galdi, V., Tong, M. S., &amp;amp; Alù, A. (2020). Manipulating the scattering pattern with non-Hermitian particle arrays. &lt;i&gt;Optics Express&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;28&lt;/i&gt;&lt;/span&gt;(13), 19492–19507.&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ141_OpEX_28_19492_2020-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ141_OpEX_28_19492_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ141_OpEX_28_19492_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1364/OE.395942&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ141_OpEX_28_19492_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ141_OpEX_28_19492_2020-abstract&quot; class=&quot;collapse&quot;&gt;We show that an array of non-Hermitian particles can enable advanced manipulations of the scattering pattern, beyond what is possible with passive structures. Active linear elements are shown to provide zero forward scattering without sacrificing the total scattered power, and by adding more particles, it is possible to control the zero-scattering direction at will. We apply our theory to realistic implementations of scatterer arrays, using loaded dipole antennas in which we tune the load impedance and investigate the stability of these arrays based on a realistic dispersion model for the gain elements. Finally, we discuss the possibility of controlling multiple frequencies to enable broadband control of the scattering pattern.&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ141_OpEX_28_19492_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ141_OpEX_28_19492_2020,
-  author = {Zhang, Yun Jing and Li, Peng and Galdi, Vincenzo and Tong, Mei Song and Al\`{u}, Andrea},
-  journal = {Optics Express},
-  number = {13},
-  pages = {19492--19507},
-  publisher = {OSA},
-  title = {Manipulating the scattering pattern with non-Hermitian particle arrays},
-  volume = {28},
-  month = jun,
-  year = {2020},
-  doi = {10.1364/OE.395942}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="non-Hermitian" /><summary type="html">Our paper on “Manipulating the scattering pattern with non-Hermitian particle arrays”
-[1],
-in collaboration with Andrea Alù’s Group (ASRC-CUNY),
-has been published in Optics Express.
-
-Zhang, Y. J., Li, P., Galdi, V., Tong, M. S., &amp;amp; Alù, A. (2020). Manipulating the scattering pattern with non-Hermitian particle arrays. Optics Express 28(13), 19492–19507.
-
-
-
-  
-    
-    Abstract
-    
-
-    BibTeX
-
-            
-    
-    DOI
-    
-
-    
-
-    
-      
-    
-    PDF
-    
-
-    
-  
-  
-
-  
-  We show that an array of non-Hermitian particles can enable advanced manipulations of the scattering pattern, beyond what is possible with passive structures. Active linear elements are shown to provide zero forward scattering without sacrificing the total scattered power, and by adding more particles, it is possible to control the zero-scattering direction at will. We apply our theory to realistic implementations of scatterer arrays, using loaded dipole antennas in which we tune the load impedance and investigate the stability of these arrays based on a realistic dispersion model for the gain elements. Finally, we discuss the possibility of controlling multiple frequencies to enable broadband control of the scattering pattern.
-  
-
-  @article{IJ141_OpEX_28_19492_2020,
-  author = {Zhang, Yun Jing and Li, Peng and Galdi, Vincenzo and Tong, Mei Song and Al\`{u}, Andrea},
-  journal = {Optics Express},
-  number = {13},
-  pages = {19492--19507},
-  publisher = {OSA},
-  title = {Manipulating the scattering pattern with non-Hermitian particle arrays},
-  volume = {28},
-  month = jun,
-  year = {2020},
-  doi = {10.1364/OE.395942}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/OpEx_NH-NA.png" /></entry><entry><title type="html">Our paper on non-Hermitian doping published in PNAS</title><link href="http://localhost:4000/news/PNAS-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian doping published in PNAS" /><published>2020-06-09T00:00:00+02:00</published><updated>2020-06-09T00:00:00+02:00</updated><id>http://localhost:4000/news/PNAS-published</id><content type="html" xml:base="http://localhost:4000/news/PNAS-published">&lt;p&gt;Our paper on “Non-Hermitian doping of epsilon-near-zero media”
-[&lt;a href=&quot;#IJ140_PNAS_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
-in collaboration with &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/index.htm&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania),
-has been published in the &lt;em&gt;Proceedings of the National Academy of Sciences of the U.S.A.&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ140_PNAS_2020&quot;&gt;Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2020). Non-Hermitian doping of epsilon-near-zero media. &lt;i&gt;Proceedings of the National Academy of Sciences of the U.S.A.&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;117&lt;/i&gt;&lt;/span&gt;(25), 13921–13928.&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ140_PNAS_2020-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ140_PNAS_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ140_PNAS_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1073/pnas.2001125117&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ140_PNAS_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-    &lt;li&gt;&lt;a href=&quot;https://www.pnas.org/highwire/filestream/931085/field_highwire_adjunct_files/0/pnas.2001125117.sapp.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ140_PNAS_2020-abstract&quot; class=&quot;collapse&quot;&gt;The recently introduced concept of photonic doping in epsilon-near-zero media enables the tailoring and control of the effective magnetic response over broad regions of the parameter space, by resorting to a limited number of arbitrarily placed, nonmagnetic doping particles. Here, we theoretically extend this idea to non-Hermitian scenarios with either doping particles or host media characterized by tailored distributions of gain and loss. This considerably enlarges the attainable effective permeability parameter space, granting access to the entire complex plane. In this extended vision, losses are not considered as second-order, detrimental effects, and their interplay with gain is instrumental to enabling several intriguing effects of potential interest in reconfigurable nanophotonics and optical sensing, whose practical implementation is deferred to future studies.In solid-state physics, doping is a pivotal concept that allows controlling and engineering of the macroscopic electronic and optical properties of materials such as semiconductors by judiciously introducing small concentrations of impurities. Recently, this concept has been translated to two-dimensional photonic scenarios in connection with host media characterized by vanishingly small relative permittivity (epsilon near zero), showing that it is possible to obtain broadly tunable effective magnetic responses by introducing a single, nonmagnetic doping particle at an arbitrary position. So far, this phenomenon has been studied mostly for lossless configurations. In principle, the inevitable presence of material losses can be compensated via optical gain. However, taking inspiration from quantum (e.g., parity-time) symmetries that are eliciting growing attention in the emerging fields of non-Hermitian optics and photonics, this suggests considering more general gain-loss interactions. Here, we theoretically show that the photonic doping concept can be extended to non-Hermitian scenarios characterized by tailored distributions of gain and loss in either the doping particles or the host medium. In these scenarios, the effective permeability can be modeled as a complex-valued quantity (with the imaginary part accounting for the gain or loss), which can be tailored over broad regions of the complex plane. This enables a variety of unconventional optical responses and waveguiding mechanisms, which can be, in principle, reconfigured by varying the optical gain (e.g., via optical pumping). We envision several possible applications of this concept, including reconfigurable nanophotonics platforms and optical sensing, which motivate further studies for their experimental validation.&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ140_PNAS_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ140_PNAS_2020,
-  author = {Coppolaro, Marino and Moccia, Massimo and Castaldi, Giuseppe and Engheta, Nader and Galdi, Vincenzo},
-  title = {Non-Hermitian doping of epsilon-near-zero media},
-  year = {2020},
-  month = jun,
-  volume = {117},
-  issue = {25},
-  pages = {13921--13928},
-  publisher = {National Academy of Sciences},
-  journal = {Proceedings of the National Academy of Sciences of the U.S.A.},
-  doi = {10.1073/pnas.2001125117},
-  note = {https://www.pnas.org/highwire/filestream/931085/field_highwire_adjunct_files/0/pnas.2001125117.sapp.pdf}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="non-Hermitian" /><category term="epsilon near zero" /><category term="metamaterials" /><summary type="html">Our paper on “Non-Hermitian doping of epsilon-near-zero media”
-[1],
-in collaboration with Nader Engheta (University of Pennsylvania),
-has been published in the Proceedings of the National Academy of Sciences of the U.S.A.
-
-Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2020). Non-Hermitian doping of epsilon-near-zero media. Proceedings of the National Academy of Sciences of the U.S.A. 117(25), 13921–13928.
-
-
-
-  
-    
-    Abstract
-    
-
-    BibTeX
-
-            
-    
-    DOI
-    
-
-    
-
-    
-      
-    
-    PDF
-    
-
-    
-    Supplements
-    
-  
-  
-
-  
-  The recently introduced concept of photonic doping in epsilon-near-zero media enables the tailoring and control of the effective magnetic response over broad regions of the parameter space, by resorting to a limited number of arbitrarily placed, nonmagnetic doping particles. Here, we theoretically extend this idea to non-Hermitian scenarios with either doping particles or host media characterized by tailored distributions of gain and loss. This considerably enlarges the attainable effective permeability parameter space, granting access to the entire complex plane. In this extended vision, losses are not considered as second-order, detrimental effects, and their interplay with gain is instrumental to enabling several intriguing effects of potential interest in reconfigurable nanophotonics and optical sensing, whose practical implementation is deferred to future studies.In solid-state physics, doping is a pivotal concept that allows controlling and engineering of the macroscopic electronic and optical properties of materials such as semiconductors by judiciously introducing small concentrations of impurities. Recently, this concept has been translated to two-dimensional photonic scenarios in connection with host media characterized by vanishingly small relative permittivity (epsilon near zero), showing that it is possible to obtain broadly tunable effective magnetic responses by introducing a single, nonmagnetic doping particle at an arbitrary position. So far, this phenomenon has been studied mostly for lossless configurations. In principle, the inevitable presence of material losses can be compensated via optical gain. However, taking inspiration from quantum (e.g., parity-time) symmetries that are eliciting growing attention in the emerging fields of non-Hermitian optics and photonics, this suggests considering more general gain-loss interactions. Here, we theoretically show that the photonic doping concept can be extended to non-Hermitian scenarios characterized by tailored distributions of gain and loss in either the doping particles or the host medium. In these scenarios, the effective permeability can be modeled as a complex-valued quantity (with the imaginary part accounting for the gain or loss), which can be tailored over broad regions of the complex plane. This enables a variety of unconventional optical responses and waveguiding mechanisms, which can be, in principle, reconfigured by varying the optical gain (e.g., via optical pumping). We envision several possible applications of this concept, including reconfigurable nanophotonics platforms and optical sensing, which motivate further studies for their experimental validation.
-  
-
-  @article{IJ140_PNAS_2020,
-  author = {Coppolaro, Marino and Moccia, Massimo and Castaldi, Giuseppe and Engheta, Nader and Galdi, Vincenzo},
-  title = {Non-Hermitian doping of epsilon-near-zero media},
-  year = {2020},
-  month = jun,
-  volume = {117},
-  issue = {25},
-  pages = {13921--13928},
-  publisher = {National Academy of Sciences},
-  journal = {Proceedings of the National Academy of Sciences of the U.S.A.},
-  doi = {10.1073/pnas.2001125117},
-  note = {https://www.pnas.org/highwire/filestream/931085/field_highwire_adjunct_files/0/pnas.2001125117.sapp.pdf}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/PNAS_ENHD.png" /></entry></feed>
+has been accepted for publication in ACS Photonics.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/ACS-PHOT.png" /></entry></feed>

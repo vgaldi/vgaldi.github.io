@@ -5,17 +5,141 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2020-09-15T16:05:56+02:00</lastBuildDate>
-        <pubDate>2020-09-15T16:05:56+02:00</pubDate>
+        <lastBuildDate>2020-11-01T14:07:46+01:00</lastBuildDate>
+        <pubDate>2020-11-01T14:07:46+01:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on harmonic beam shaping published in AdFM</title>
+                <description>&lt;p&gt;Our paper on “Joint multi‐frequency beam shaping and steering via space-time-coding digital metasurfaces”
+[&lt;a href=&quot;#IJ147_AFM_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
+has been published in &lt;em&gt;Advanced Functional Materials&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ147_AFM_2020&quot;&gt;Castaldi, G., Zhang, L., Moccia, M., Hathaway, A. Y., Tang, W. X., Cui, T. J., &amp;amp; Galdi, V. (2020). Joint Multi-Frequency Beam Shaping and Steering via Space–Time-Coding Digital Metasurfaces. &lt;i&gt;Advanced Functional Materials&lt;/i&gt; 2007620 (early view).&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ147_AFM_2020-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ147_AFM_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ147_AFM_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1002/adfm.202007620&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ147_AFM_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadfm.202007620&amp;amp;file=adfm202007620-sup-0001-SuppMat.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ147_AFM_2020-abstract&quot; class=&quot;collapse&quot;&gt;Digital programmable metasurfaces provide a very powerful and versatile platform for implementing spatio-temporal modulation schemes that are of great interest within the emerging framework of space-time metastructures. In particular, space-time coding digital metasurfaces have been successfully applied to advanced wavefront manipulations in both the spatial and spectral domains. However, conventional space-time coding schemes do not allow the joint syntheses of the transmission/scattering angular responses at multiple frequencies, which are potentially useful in a variety of applications of practical interest. Here, a strategy is put forward to lift this limitation, thereby enabling joint multi-frequency beam shaping and steering, i.e., the independent and simultaneous syntheses of prescribed scattering patterns at given harmonic frequencies. The proposed approach relies on a more sophisticated space-time coding, with suitably designed, temporally intertwined coding sub-sequences, which effectively disentangles the joint multi-frequency syntheses. The power and versatility of the approach are illustrated via a series of representative application examples, including multi-beam, diffuse-scattering, and orbital-angular-momentum patterns. Theoretical predictions are experimentally validated by means of microwave measurements. The outcomes of this study hold promising potentials for applications to future imaging, information and mobile-communication systems.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ147_AFM_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ147_AFM_2020,
+  author = {Castaldi, Giuseppe and Zhang, Lei and Moccia, Massimo and Hathaway, Alisa Y. and Tang, Wen Xuan and Cui, Tie Jun and Galdi, Vincenzo},
+  title = {Joint Multi-Frequency Beam Shaping and Steering via Space–Time-Coding Digital Metasurfaces},
+  journal = {Advanced Functional Materials},
+  pages = {2007620 (early view)},
+  doi = {10.1002/adfm.202007620},
+  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadfm.202007620&amp;amp;file=adfm202007620-sup-0001-SuppMat.pdf},
+  year = {2020},
+  month = oct
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://fw-lab.org/news/AFM-published</link>
+                <guid>http://fw-lab.org/news/AFM-published</guid>
+                <pubDate>2020-10-28T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Our paper on harmonic beam shaping accepted in AdFM</title>
+                <description>&lt;p&gt;Our paper on “Joint multi‐frequency beam shaping and steering via space-time-coding digital metasurfaces,”
+in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
+has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wiley.com/journal/16163028&quot;&gt;&lt;em&gt;Advanced Functional Materials&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/news/AFM-accepted</link>
+                <guid>http://fw-lab.org/news/AFM-accepted</guid>
+                <pubDate>2020-10-16T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>Invited talk at Metamaterials 2020</title>
+                <description>&lt;p&gt;We have presented an invited talk
+[&lt;a href=&quot;#Zhang_Metamaterials2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] at the &lt;em&gt;14th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2020.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
+New York (NY), USA, Sep. 28-Oct. 3, 2020 (online).&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Zhang_Metamaterials2020&quot;&gt;Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Moccia, M., … Galdi, V. (2020). Recent advances in space-time-coding digital metasurfaces. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. New York (NY), USA, Sep. 28-Oct. 30, 2020 (online).&lt;/span&gt;
+
+
+&lt;div id=&quot;Zhang_Metamaterials2020-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Zhang_Metamaterials2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Zhang_Metamaterials2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Zhang_Metamaterials2020,
+  author = {Zhang, L. and Chen, X. Q. and Shao, R. W. and Dai, J. Y. and Cheng, Q. and Moccia, M. and Castaldi, G. and Cui, T. J. and Galdi, V.},
+  title = {Recent advances in space-time-coding digital metasurfaces},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {New York (NY), USA, Sep. 28-Oct. 30, 2020 (online)},
+  month = sep,
+  year = {2020}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+</description>
+                <link>http://fw-lab.org/news/Metamaterials-2020</link>
+                <guid>http://fw-lab.org/news/Metamaterials-2020</guid>
+                <pubDate>2020-09-29T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Our paper on metasurface lab-on-fiber biosensors published in LPR</title>
                 <description>&lt;p&gt;Our paper on “Metasurface enhanced lab-on-fiber biosensors”
 [&lt;a href=&quot;#IJ146_LPR_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] has been published in &lt;em&gt;Laser &amp;amp; Photonics Reviews&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ146_LPR_2020&quot;&gt;Consales, M., Quero, G., Spaziani, S., Principe, M., Micco, A., Galdi, V., … Cusano, A. Metasurface-Enhanced Lab-on-Fiber Biosensors. &lt;i&gt;Laser &amp;amp; Photonics Reviews&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;Early View&lt;/i&gt;&lt;/span&gt;, 2000180.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ146_LPR_2020&quot;&gt;Consales, M., Quero, G., Spaziani, S., Principe, M., Micco, A., Galdi, V., … Cusano, A. (2020). Metasurface-Enhanced Lab-on-Fiber Biosensors. &lt;i&gt;Laser &amp;amp; Photonics Reviews&lt;/i&gt; 2000180 (early view).&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ146_LPR_2020-materials&quot;&gt;
@@ -53,10 +177,11 @@
   author = {Consales, Marco and Quero, Giuseppe and Spaziani, Sara and Principe, Maria and Micco, Alberto and Galdi, Vincenzo and Cutolo, Antonello and Cusano, Andrea},
   title = {Metasurface-Enhanced Lab-on-Fiber Biosensors},
   journal = {Laser \&amp;amp; Photonics Reviews},
-  volume = {Early View},
-  pages = {2000180},
+  pages = {2000180 (early view)},
   doi = {10.1002/lpor.202000180},
-  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Flpor.202000180&amp;amp;file=lpor202000180-sup-0001-SuppMat.pdf}
+  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Flpor.202000180&amp;amp;file=lpor202000180-sup-0001-SuppMat.pdf},
+  year = {2020},
+  month = sep
 }
 &lt;/pre&gt;
 
@@ -175,7 +300,7 @@ has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/p
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 has been published in &lt;em&gt;ACS Photonics&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ143_ACS-PHOT_2020&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2020). Line Waves in Non-Hermitian Metasurfaces. &lt;i&gt;ACS Photonics&lt;/i&gt; (8), 2064–2072.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ143_ACS-PHOT_2020&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2020). Line Waves in Non-Hermitian Metasurfaces. &lt;i&gt;ACS Photonics&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;7&lt;/i&gt;&lt;/span&gt;(8), 2064–2072.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ143_ACS-PHOT_2020-materials&quot;&gt;
@@ -216,7 +341,7 @@ has been published in &lt;em&gt;ACS Photonics&lt;/em&gt;.&lt;/p&gt;
   author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`{u}, Andrea and Galdi, Vincenzo},
   month = aug,
   year = {2020},
-  vol = {7},
+  volume = {7},
   issue = {8},
   pages = {2064--2072},
   note = {https://pubs.acs.org/doi/suppl/10.1021/acsphotonics.0c00465/suppl_file/ph0c00465_si_001.pdf}
@@ -662,7 +787,7 @@ recommendation of the referees.&lt;/p&gt;
         </item>
 
         <item>
-                <title>Our paper on nonreciprocal metasurfaces on the cover of AdvMat</title>
+                <title>Our paper on nonreciprocal metasurfaces on the cover of AdM</title>
                 <description>&lt;p&gt;Our paper on “Breaking reciprocity with space-time-coding digital metasurfaces,”
 [&lt;a href=&quot;#IJ137_AM_1904069_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
@@ -1035,7 +1160,7 @@ Munich, Germany, Sep. 4-7, 2019.&lt;/p&gt;
         </item>
 
         <item>
-                <title>Our paper on nonreciprocal space-time-coding metasurfaces published in AdvMat</title>
+                <title>Our paper on nonreciprocal space-time-coding metasurfaces published in AdM</title>
                 <description>&lt;p&gt;Our paper on “Breaking reciprocity with space-time-coding digital metasurfaces”
 [&lt;a href=&quot;#IJ137_AM_1904069_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
@@ -1099,7 +1224,7 @@ has been published in &lt;em&gt;Advanced Materials&lt;/em&gt;.&lt;/p&gt;
         </item>
 
         <item>
-                <title>Our paper on nonreciprocal space-time-coding metasurfaces accepted in AdvMat</title>
+                <title>Our paper on nonreciprocal space-time-coding metasurfaces accepted in AdM</title>
                 <description>&lt;p&gt;Our paper on “Breaking reciprocity with space-time-coding digital metasurfaces,”
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wiley.com/journal/15214095&quot;&gt;&lt;em&gt;Advanced Materials&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
@@ -8453,9 +8578,7 @@ slabs and allow tailoring their properties without the need of extensive numeric
   numpages = {10},
   year = {2012},
   month = sep,
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevB.86.115123},
-  url = {http://link.aps.org/doi/10.1103/PhysRevB.86.115123}
+  doi = {10.1103/PhysRevB.86.115123}
 }
 &lt;/pre&gt;
 
