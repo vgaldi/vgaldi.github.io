@@ -1,9 +1,136 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-11-01T15:06:42+01:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on harmonic beam shaping published in AdFM</title><link href="/news/AFM-published" rel="alternate" type="text/html" title="Our paper on harmonic beam shaping published in AdFM" /><published>2020-10-28T00:00:00+01:00</published><updated>2020-10-28T00:00:00+01:00</updated><id>/news/AFM-published</id><content type="html" xml:base="/news/AFM-published">&lt;p&gt;Our paper on “Joint multi‐frequency beam shaping and steering via space-time-coding digital metasurfaces”
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-04-18T16:48:51+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on DNA detection accepted in FrBB</title><link href="/news/FrBB-accepted" rel="alternate" type="text/html" title="Our paper on DNA detection accepted in FrBB" /><published>2021-04-13T00:00:00+02:00</published><updated>2021-04-13T00:00:00+02:00</updated><id>/news/FrBB-accepted</id><content type="html" xml:base="/news/FrBB-accepted">&lt;p&gt;Our paper on “Advanced DNA detection via multispectral plasmonic metasurfaces,”
+in collaboration with &lt;a href=&quot;https://www.na.imm.cnr.it/users/emanuelaesposito&quot;&gt;Emanuela Esposito&lt;/a&gt;’s Group (National Research Council),
+has been accepted for publication in &lt;a href=&quot;https://www.frontiersin.org/journals/bioengineering-and-biotechnology#&quot;&gt;&lt;em&gt;Frontiers in Bioengineering and Biotechnology&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="plasmonics" /><category term="optical sensing" /><summary type="html">Our paper on “Advanced DNA detection via multispectral plasmonic metasurfaces,”
+in collaboration with Emanuela Esposito’s Group (National Research Council),
+has been accepted for publication in Frontiers in Bioengineering and Biotechnology.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/FrBB.png" /></entry><entry><title type="html">Our paper on non-Hermitian metasurfaces published in IEEE-TMTT</title><link href="/news/IEEE-TMTT-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian metasurfaces published in IEEE-TMTT" /><published>2021-04-06T00:00:00+02:00</published><updated>2021-04-06T00:00:00+02:00</updated><id>/news/IEEE-TMTT-published</id><content type="html" xml:base="/news/IEEE-TMTT-published">&lt;p&gt;Our paper on “Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy” [&lt;a href=&quot;#IJ149_IEEE-TMTT_69_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
+has been published in the &lt;em&gt;IEEE Transactions on Microwave Theory and Techniques&lt;/em&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="non-Hermitian" /><summary type="html">Our paper on “Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy” [1],
+in collaboration with Andrea Alù (ASRC-CUNY),
+has been published in the IEEE Transactions on Microwave Theory and Techniques.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/EP_NH-MTS.png" /></entry><entry><title type="html">Our paper on non-Hermitian metasurfaces accepted in IEEE-TMTT</title><link href="/news/IEEE-TMTT-accepted" rel="alternate" type="text/html" title="Our paper on non-Hermitian metasurfaces accepted in IEEE-TMTT" /><published>2021-01-12T00:00:00+01:00</published><updated>2021-01-12T00:00:00+01:00</updated><id>/news/IEEE-TMTT-accepted</id><content type="html" xml:base="/news/IEEE-TMTT-accepted">&lt;p&gt;Our paper on “Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy,”
+in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
+has been accepted for publication in the &lt;a href=&quot;https://mtt.org/publications/transactions/&quot;&gt;&lt;em&gt;IEEE Transactions on Microwave Theory and Techniques&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/2101.06641&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="non-Hermitian" /><summary type="html">Our paper on “Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy,”
+in collaboration with Andrea Alù (ASRC-CUNY),
+has been accepted for publication in the IEEE Transactions on Microwave Theory and Techniques.
+
+An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/IEEE-TMTT.jpg" /></entry><entry><title type="html">Our invited review paper on space-time doding metasurfaces published in EPJ-AM</title><link href="/news/EPJAM-published" rel="alternate" type="text/html" title="Our invited review paper on space-time doding metasurfaces published in EPJ-AM" /><published>2020-12-11T00:00:00+01:00</published><updated>2020-12-11T00:00:00+01:00</updated><id>/news/EPJAM-published</id><content type="html" xml:base="/news/EPJAM-published">&lt;p&gt;Our invited review paper on “Recent advances and perspectives on space-time coding digital metasurfaces”
+[&lt;a href=&quot;#IJ148_EPJAM_7_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
+has been published in &lt;em&gt;EPJ Applied Metamaterials&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ148_EPJAM_7_2020&quot;&gt;Zhang, L., Dai, J. Y., Moccia, M., Castaldi, G., Cui, T. J., &amp;amp; Galdi, V. (2020). Recent advances and perspectives on space-time coding digital metasurfaces. &lt;i&gt;EPJ Applied Metamaterials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;7&lt;/i&gt;&lt;/span&gt;, 7.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ148_EPJAM_7_2020-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ148_EPJAM_7_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ148_EPJAM_7_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1051/epjam/2020007&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ148_EPJAM_7_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ148_EPJAM_7_2020-abstract&quot; class=&quot;collapse&quot;&gt;Within the overarching framework of space-time metastructures, digital metasurfaces based on spatio-temporal coding are emerging as powerful and versatile architectures for complex ﬁeld manipulations, also in view of their inherently programmable nature. Here, we provide a compact survey of our recent results and ongoing studies in this research area. Examples of ﬁeld manipulations include harmonic beam steering and/ or shaping and programmable nonreciprocal effects. Possible applications are abundant and range from wireless communications to radars and imaging.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ148_EPJAM_7_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ148_EPJAM_7_2020,
+  author = {Zhang, Lei and Dai, Jun Yan and Moccia, Massimo and Castaldi, Giuseppe and Cui, Tie Jun and Galdi, Vincenzo},
+  title = {Recent advances and perspectives on space-time coding digital metasurfaces},
+  doi = {10.1051/epjam/2020007},
+  journal = {EPJ Applied Metamaterials},
+  year = {2020},
+  volume = {7},
+  pages = {7},
+  month = dec
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="space-time" /><category term="coding" /><summary type="html">Our invited review paper on “Recent advances and perspectives on space-time coding digital metasurfaces”
+[1],
+in collaboration with Tie Jun Cui’s Group (Southeast University),
+has been published in EPJ Applied Metamaterials.
+
+Zhang, L., Dai, J. Y., Moccia, M., Castaldi, G., Cui, T. J., &amp;amp; Galdi, V. (2020). Recent advances and perspectives on space-time coding digital metasurfaces. EPJ Applied Metamaterials 7, 7.
+
+
+
+  
+    
+    Abstract
+    
+
+    BibTeX
+
+            
+    
+    DOI
+    
+
+    
+
+    
+      
+    
+    PDF
+    
+
+    
+  
+  
+
+  
+  Within the overarching framework of space-time metastructures, digital metasurfaces based on spatio-temporal coding are emerging as powerful and versatile architectures for complex ﬁeld manipulations, also in view of their inherently programmable nature. Here, we provide a compact survey of our recent results and ongoing studies in this research area. Examples of ﬁeld manipulations include harmonic beam steering and/ or shaping and programmable nonreciprocal effects. Possible applications are abundant and range from wireless communications to radars and imaging.
+  
+
+  @article{IJ148_EPJAM_7_2020,
+  author = {Zhang, Lei and Dai, Jun Yan and Moccia, Massimo and Castaldi, Giuseppe and Cui, Tie Jun and Galdi, Vincenzo},
+  title = {Recent advances and perspectives on space-time coding digital metasurfaces},
+  doi = {10.1051/epjam/2020007},
+  journal = {EPJ Applied Metamaterials},
+  year = {2020},
+  volume = {7},
+  pages = {7},
+  month = dec
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/STC-MTS.png" /></entry><entry><title type="html">Ph.D. defense</title><link href="/news/Tien_PhD_defense" rel="alternate" type="text/html" title="Ph.D. defense" /><published>2020-11-03T00:00:00+01:00</published><updated>2020-11-03T00:00:00+01:00</updated><id>/news/Tien_PhD_defense</id><content type="html" xml:base="/news/Tien_PhD_defense">&lt;p&gt;&lt;a href=&quot;/team/joseph-tien&quot;&gt;Joseph Tien&lt;/a&gt; has successfully defended his Ph.D. thesis 
+in Information Technologies for Engineering
+entitled 
+&lt;em&gt;“Submillimeter Precision Close Range Active Target Tracking Using mm-Wave FMCW Radar for Artificial Reality”&lt;/em&gt;, 
+supervised by Profs. &lt;a href=&quot;https://www.linkedin.com/in/riccardo-desalvo-11042631&quot;&gt;Riccardo DeSalvo&lt;/a&gt; 
+and &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Congratulations Dr. Tien!&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="Joseph Tien" /><summary type="html">Joseph Tien has successfully defended his Ph.D. thesis 
+in Information Technologies for Engineering
+entitled 
+“Submillimeter Precision Close Range Active Target Tracking Using mm-Wave FMCW Radar for Artificial Reality”, 
+supervised by Profs. Riccardo DeSalvo 
+and Vincenzo Galdi.
+
+Congratulations Dr. Tien!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/PhDone.jpg" /></entry><entry><title type="html">Our paper on harmonic beam shaping published in AdFM</title><link href="/news/AFM-published" rel="alternate" type="text/html" title="Our paper on harmonic beam shaping published in AdFM" /><published>2020-10-28T00:00:00+01:00</published><updated>2020-10-28T00:00:00+01:00</updated><id>/news/AFM-published</id><content type="html" xml:base="/news/AFM-published">&lt;p&gt;Our paper on “Joint multi‐frequency beam shaping and steering via space-time-coding digital metasurfaces”
 [&lt;a href=&quot;#IJ147_AFM_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published in &lt;em&gt;Advanced Functional Materials&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ147_AFM_2020&quot;&gt;Castaldi, G., Zhang, L., Moccia, M., Hathaway, A. Y., Tang, W. X., Cui, T. J., &amp;amp; Galdi, V. (2020). Joint Multi-Frequency Beam Shaping and Steering via Space–Time-Coding Digital Metasurfaces. &lt;i&gt;Advanced Functional Materials&lt;/i&gt; 2007620 (early view).&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ147_AFM_2020&quot;&gt;Castaldi, G., Zhang, L., Moccia, M., Hathaway, A. Y., Tang, W. X., Cui, T. J., &amp;amp; Galdi, V. (2021). Joint multi-frequency beam shaping and steering via space-time-coding digital metasurfaces. &lt;i&gt;Advanced Functional Materials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;31&lt;/i&gt;&lt;/span&gt;(6), 2007620.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ147_AFM_2020-materials&quot;&gt;
@@ -39,13 +166,15 @@ has been published in &lt;em&gt;Advanced Functional Materials&lt;/em&gt;.&lt;/p&
 
   &lt;pre id=&quot;IJ147_AFM_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ147_AFM_2020,
   author = {Castaldi, Giuseppe and Zhang, Lei and Moccia, Massimo and Hathaway, Alisa Y. and Tang, Wen Xuan and Cui, Tie Jun and Galdi, Vincenzo},
-  title = {Joint Multi-Frequency Beam Shaping and Steering via Space–Time-Coding Digital Metasurfaces},
+  title = {Joint multi-frequency beam shaping and steering via space-time-coding digital metasurfaces},
   journal = {Advanced Functional Materials},
-  pages = {2007620 (early view)},
+  volume = {31},
+  issue = {6},
+  pages = {2007620},
   doi = {10.1002/adfm.202007620},
   note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadfm.202007620&amp;amp;file=adfm202007620-sup-0001-SuppMat.pdf},
-  year = {2020},
-  month = oct
+  year = {2021},
+  month = feb
 }
 &lt;/pre&gt;
 
@@ -56,7 +185,7 @@ has been published in &lt;em&gt;Advanced Functional Materials&lt;/em&gt;.&lt;/p&
 in collaboration with Tie Jun Cui’s Group (Southeast University),
 has been published in Advanced Functional Materials.
 
-Castaldi, G., Zhang, L., Moccia, M., Hathaway, A. Y., Tang, W. X., Cui, T. J., &amp;amp; Galdi, V. (2020). Joint Multi-Frequency Beam Shaping and Steering via Space–Time-Coding Digital Metasurfaces. Advanced Functional Materials 2007620 (early view).
+Castaldi, G., Zhang, L., Moccia, M., Hathaway, A. Y., Tang, W. X., Cui, T. J., &amp;amp; Galdi, V. (2021). Joint multi-frequency beam shaping and steering via space-time-coding digital metasurfaces. Advanced Functional Materials 31(6), 2007620.
 
 
 
@@ -92,13 +221,15 @@ Castaldi, G., Zhang, L., Moccia, M., Hathaway, A. Y., Tang, W. X., Cui, T. J., &
 
   @article{IJ147_AFM_2020,
   author = {Castaldi, Giuseppe and Zhang, Lei and Moccia, Massimo and Hathaway, Alisa Y. and Tang, Wen Xuan and Cui, Tie Jun and Galdi, Vincenzo},
-  title = {Joint Multi-Frequency Beam Shaping and Steering via Space–Time-Coding Digital Metasurfaces},
+  title = {Joint multi-frequency beam shaping and steering via space-time-coding digital metasurfaces},
   journal = {Advanced Functional Materials},
-  pages = {2007620 (early view)},
+  volume = {31},
+  issue = {6},
+  pages = {2007620},
   doi = {10.1002/adfm.202007620},
   note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadfm.202007620&amp;amp;file=adfm202007620-sup-0001-SuppMat.pdf},
-  year = {2020},
-  month = oct
+  year = {2021},
+  month = feb
 }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/AFM_STBS.jpg" /></entry><entry><title type="html">Our paper on harmonic beam shaping accepted in AdFM</title><link href="/news/AFM-accepted" rel="alternate" type="text/html" title="Our paper on harmonic beam shaping accepted in AdFM" /><published>2020-10-16T00:00:00+02:00</published><updated>2020-10-16T00:00:00+02:00</updated><id>/news/AFM-accepted</id><content type="html" xml:base="/news/AFM-accepted">&lt;p&gt;Our paper on “Joint multi‐frequency beam shaping and steering via space-time-coding digital metasurfaces,”
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wiley.com/journal/16163028&quot;&gt;&lt;em&gt;Advanced Functional Materials&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="space-time" /><category term="coding" /><summary type="html">Our paper on “Joint multi‐frequency beam shaping and steering via space-time-coding digital metasurfaces,”
@@ -181,7 +312,7 @@ Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Moccia, M., … Gald
 }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/Metamaterials-2020.png" /></entry><entry><title type="html">Our paper on metasurface lab-on-fiber biosensors published in LPR</title><link href="/news/LPR-paper-published" rel="alternate" type="text/html" title="Our paper on metasurface lab-on-fiber biosensors published in LPR" /><published>2020-09-07T00:00:00+02:00</published><updated>2020-09-07T00:00:00+02:00</updated><id>/news/LPR-paper-published</id><content type="html" xml:base="/news/LPR-paper-published">&lt;p&gt;Our paper on “Metasurface enhanced lab-on-fiber biosensors”
 [&lt;a href=&quot;#IJ146_LPR_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] has been published in &lt;em&gt;Laser &amp;amp; Photonics Reviews&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ146_LPR_2020&quot;&gt;Consales, M., Quero, G., Spaziani, S., Principe, M., Micco, A., Galdi, V., … Cusano, A. (2020). Metasurface-Enhanced Lab-on-Fiber Biosensors. &lt;i&gt;Laser &amp;amp; Photonics Reviews&lt;/i&gt; 2000180 (early view).&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ146_LPR_2020&quot;&gt;Consales, M., Quero, G., Spaziani, S., Principe, M., Micco, A., Galdi, V., … Cusano, A. (2020). Metasurface-enhanced lab-on-fiber biosensors. &lt;i&gt;Laser &amp;amp; Photonics Reviews&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;14&lt;/i&gt;&lt;/span&gt;(12), 2000180.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ146_LPR_2020-materials&quot;&gt;
@@ -217,13 +348,15 @@ Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Moccia, M., … Gald
 
   &lt;pre id=&quot;IJ146_LPR_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ146_LPR_2020,
   author = {Consales, Marco and Quero, Giuseppe and Spaziani, Sara and Principe, Maria and Micco, Alberto and Galdi, Vincenzo and Cutolo, Antonello and Cusano, Andrea},
-  title = {Metasurface-Enhanced Lab-on-Fiber Biosensors},
+  title = {Metasurface-enhanced lab-on-fiber biosensors},
   journal = {Laser \&amp;amp; Photonics Reviews},
-  pages = {2000180 (early view)},
+  volume = {14},
+  issue = {12},
+  pages = {2000180},
   doi = {10.1002/lpor.202000180},
   note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Flpor.202000180&amp;amp;file=lpor202000180-sup-0001-SuppMat.pdf},
   year = {2020},
-  month = sep
+  month = dec
 }
 &lt;/pre&gt;
 
@@ -232,7 +365,7 @@ Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Moccia, M., … Gald
 &lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="metasurfaces" /><category term="optical fibers" /><category term="plasmonics" /><category term="lab-on-fiber" /><summary type="html">Our paper on “Metasurface enhanced lab-on-fiber biosensors”
 [1] has been published in Laser &amp;amp; Photonics Reviews.
 
-Consales, M., Quero, G., Spaziani, S., Principe, M., Micco, A., Galdi, V., … Cusano, A. (2020). Metasurface-Enhanced Lab-on-Fiber Biosensors. Laser &amp;amp; Photonics Reviews 2000180 (early view).
+Consales, M., Quero, G., Spaziani, S., Principe, M., Micco, A., Galdi, V., … Cusano, A. (2020). Metasurface-enhanced lab-on-fiber biosensors. Laser &amp;amp; Photonics Reviews 14(12), 2000180.
 
 
 
@@ -268,233 +401,17 @@ Consales, M., Quero, G., Spaziani, S., Principe, M., Micco, A., Galdi, V., … C
 
   @article{IJ146_LPR_2020,
   author = {Consales, Marco and Quero, Giuseppe and Spaziani, Sara and Principe, Maria and Micco, Alberto and Galdi, Vincenzo and Cutolo, Antonello and Cusano, Andrea},
-  title = {Metasurface-Enhanced Lab-on-Fiber Biosensors},
+  title = {Metasurface-enhanced lab-on-fiber biosensors},
   journal = {Laser \&amp;amp; Photonics Reviews},
-  pages = {2000180 (early view)},
+  volume = {14},
+  issue = {12},
+  pages = {2000180},
   doi = {10.1002/lpor.202000180},
   note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Flpor.202000180&amp;amp;file=lpor202000180-sup-0001-SuppMat.pdf},
   year = {2020},
-  month = sep
+  month = dec
 }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MT-bio.png" /></entry><entry><title type="html">Our paper on extreme-parameter non-Hermitian metamaterials accepted in ACS-PHOT</title><link href="/news/ACS-PHOT-paper-ENH-accepted" rel="alternate" type="text/html" title="Our paper on extreme-parameter non-Hermitian metamaterials accepted in ACS-PHOT" /><published>2020-08-06T00:00:00+02:00</published><updated>2020-08-06T00:00:00+02:00</updated><id>/news/ACS-PHOT-paper-ENH-accepted</id><content type="html" xml:base="/news/ACS-PHOT-paper-ENH-accepted">&lt;p&gt;Our paper on “Extreme-parameter non-Hermitian dielectric metamaterials,”
 in collaboration with &lt;a href=&quot;https://scholar.google.it/citations?user=7j7a7H8AAAAJ&amp;amp;hl=it&quot;&gt;Vincenzo Caligiuri&lt;/a&gt; (University of Calabria) and &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/index.htm&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania),
 has been accepted for publication in &lt;a href=&quot;https://pubs.acs.org/journal/apchd5&quot;&gt;&lt;em&gt;ACS Photonics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="non-Hermitian" /><summary type="html">Our paper on “Extreme-parameter non-Hermitian dielectric metamaterials,”
 in collaboration with Vincenzo Caligiuri (University of Calabria) and Nader Engheta (University of Pennsylvania),
-has been accepted for publication in ACS Photonics.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/ACS-PHOT.png" /></entry><entry><title type="html">Our paper on quasiperiodic nonlocal metamaterials published in PRB</title><link href="/news/PRB-paper-MFib-published" rel="alternate" type="text/html" title="Our paper on quasiperiodic nonlocal metamaterials published in PRB" /><published>2020-08-05T00:00:00+02:00</published><updated>2020-08-05T00:00:00+02:00</updated><id>/news/PRB-paper-MFib-published</id><content type="html" xml:base="/news/PRB-paper-MFib-published">&lt;p&gt;Our paper on “Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials”
-[&lt;a href=&quot;#IJ144_PRB_102_075107_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
-has been published in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ144_PRB_102_075107_2020&quot;&gt;Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2020). Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;102&lt;/i&gt;&lt;/span&gt;(7), 075107.&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ144_PRB_102_075107_2020-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ144_PRB_102_075107_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ144_PRB_102_075107_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevB.102.075107&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ144_PRB_102_075107_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ144_PRB_102_075107_2020-abstract&quot; class=&quot;collapse&quot;&gt;For dielectric multilayered metamaterials, the effective-parameter representation is known to be insensitive to geometrical features occurring at deeply subwavelength scales. However, recent studies on periodic and aperiodically ordered geometries have shown the existence of certain critical parameter regimes where this conventional wisdom is upended, as the optical response of finite-size samples may depart considerably from the predictions of standard effective-medium theory. In these regimes, characterized by a mixed evanescent/propagating light transport, different classes of spatial (dis)order have been shown to induce distinctive effects in the optical response, in terms of anomalous transmission, localization, enhancement, absorption, and lasing. Here we further expand these examples by considering a quasiperiodic scenario based on a modified-Fibonacci geometry. Among the intriguing features of this model there is the presence of a scale parameter that controls the transition from perfectly periodic to quasiperiodic scenarios of different shades. Via an extensive parametric study, this allows us to identify the quasiperiodicity-induced anomalous effects, and to elucidate certain distinctive mechanisms and footprints. Our results hold potentially interesting implications for the optical probing of structural features at a resolution much smaller than the wavelength, and could also be leveraged to design novel types of absorbers and low-threshold lasers.&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ144_PRB_102_075107_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ144_PRB_102_075107_2020,
-  title = {Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials},
-  author = {Coppolaro, Marino and Castaldi, Giuseppe and Galdi, Vincenzo},
-  journal = {Physical Review B},
-  volume = {102},
-  issue = {7},
-  pages = {075107},
-  numpages = {13},
-  year = {2020},
-  month = aug,
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevB.102.075107}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="nonlocal" /><category term="homogenization" /><category term="aperiodic" /><summary type="html">Our paper on “Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials”
-[1]
-has been published in Physical Review B.
-
-Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2020). Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials. Physical Review B 102(7), 075107.
-
-
-
-  
-    
-    Abstract
-    
-
-    BibTeX
-
-            
-    
-    DOI
-    
-
-    
-
-    
-      
-    
-    PDF
-    
-
-    
-  
-  
-
-  
-  For dielectric multilayered metamaterials, the effective-parameter representation is known to be insensitive to geometrical features occurring at deeply subwavelength scales. However, recent studies on periodic and aperiodically ordered geometries have shown the existence of certain critical parameter regimes where this conventional wisdom is upended, as the optical response of finite-size samples may depart considerably from the predictions of standard effective-medium theory. In these regimes, characterized by a mixed evanescent/propagating light transport, different classes of spatial (dis)order have been shown to induce distinctive effects in the optical response, in terms of anomalous transmission, localization, enhancement, absorption, and lasing. Here we further expand these examples by considering a quasiperiodic scenario based on a modified-Fibonacci geometry. Among the intriguing features of this model there is the presence of a scale parameter that controls the transition from perfectly periodic to quasiperiodic scenarios of different shades. Via an extensive parametric study, this allows us to identify the quasiperiodicity-induced anomalous effects, and to elucidate certain distinctive mechanisms and footprints. Our results hold potentially interesting implications for the optical probing of structural features at a resolution much smaller than the wavelength, and could also be leveraged to design novel types of absorbers and low-threshold lasers.
-  
-
-  @article{IJ144_PRB_102_075107_2020,
-  title = {Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials},
-  author = {Coppolaro, Marino and Castaldi, Giuseppe and Galdi, Vincenzo},
-  journal = {Physical Review B},
-  volume = {102},
-  issue = {7},
-  pages = {075107},
-  numpages = {13},
-  year = {2020},
-  month = aug,
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevB.102.075107}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MFib.png" /></entry><entry><title type="html">Our paper on metasurface lab-on-fiber biosensors accepted in LPR</title><link href="/news/LPR-paper-accepted" rel="alternate" type="text/html" title="Our paper on metasurface lab-on-fiber biosensors accepted in LPR" /><published>2020-07-31T00:00:00+02:00</published><updated>2020-07-31T00:00:00+02:00</updated><id>/news/LPR-paper-accepted</id><content type="html" xml:base="/news/LPR-paper-accepted">&lt;p&gt;Our paper on “Metasurface enhanced lab-on-fiber biosensors”
-has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wiley.com/journal/18638899&quot;&gt;&lt;em&gt;Laser &amp;amp; Photonics Reviews&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="metasurfaces" /><category term="optical fibers" /><category term="plasmonics" /><category term="lab-on-fiber" /><summary type="html">Our paper on “Metasurface enhanced lab-on-fiber biosensors”
-has been accepted for publication in Laser &amp;amp; Photonics Reviews.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/LPR.png" /></entry><entry><title type="html">Our paper on quasiperiodic nonlocal metamaterials accepted in PRB</title><link href="/news/PRB-paper-MFib-accepted" rel="alternate" type="text/html" title="Our paper on quasiperiodic nonlocal metamaterials accepted in PRB" /><published>2020-07-22T00:00:00+02:00</published><updated>2020-07-22T00:00:00+02:00</updated><id>/news/PRB-paper-MFib-accepted</id><content type="html" xml:base="/news/PRB-paper-MFib-accepted">&lt;p&gt;Our paper on “Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials”
-has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/prb/&quot;&gt;&lt;em&gt;Physical Review B&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;An &lt;a href=&quot;http://arxiv.org/abs/2007.10634&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="nonlocal" /><category term="homogenization" /><category term="aperiodic" /><summary type="html">Our paper on “Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials”
-has been accepted for publication in Physical Review B.
-
-An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/PRB.png" /></entry><entry><title type="html">Our paper on non-Hermitian line waves published in ACS-PHOT</title><link href="/news/ACS-PHOT-paper-NH-LW-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian line waves published in ACS-PHOT" /><published>2020-07-13T00:00:00+02:00</published><updated>2020-07-13T00:00:00+02:00</updated><id>/news/ACS-PHOT-paper-NH-LW-published</id><content type="html" xml:base="/news/ACS-PHOT-paper-NH-LW-published">&lt;p&gt;Our paper on “Line waves in non-Hermitian metasurfaces”
-[&lt;a href=&quot;#IJ143_ACS-PHOT_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
-in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
-has been published in &lt;em&gt;ACS Photonics&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ143_ACS-PHOT_2020&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2020). Line Waves in Non-Hermitian Metasurfaces. &lt;i&gt;ACS Photonics&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;7&lt;/i&gt;&lt;/span&gt;(8), 2064–2072.&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ143_ACS-PHOT_2020-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ143_ACS-PHOT_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ143_ACS-PHOT_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1021/acsphotonics.0c00465&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ143_ACS-PHOT_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-    &lt;li&gt;&lt;a href=&quot;https://pubs.acs.org/doi/suppl/10.1021/acsphotonics.0c00465/suppl_file/ph0c00465_si_001.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ143_ACS-PHOT_2020-abstract&quot; class=&quot;collapse&quot;&gt;Planar junctions between reactive surface impedances with dual character (capacitive/inductive) can sustain line waves localized both in-plane and out-of-plane around the discontinuity, which propagate unattenuated along one-dimensional paths. Due to their attractive properties, these waves are of potential interest in applications ranging from integrated photonics to optical sensing. Here, we introduce and explore a non-Hermitian platform supporting these exotic modes based on parity−time symmetry. Speciﬁcally, we show that line waves can occur in the presence of a uniform surface reactance (either capacitive or inductive) and a symmetric resistance discontinuity from negative to positive values (i.e., gain and loss). We study analytically and numerically the propagation properties of these waves and the underlying physical mechanisms and also illustrate their intriguing properties in terms of conﬁnement, reconﬁgurability, spin-momentum locking and lasing. Finally, we address possible practical implementations based on photoexcited graphene. Our results hold intriguing potentials for applications in ﬂat optics and reconﬁgurable photonics.&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ143_ACS-PHOT_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ143_ACS-PHOT_2020,
-  title = {Line Waves in Non-{H}ermitian Metasurfaces},
-  doi = {10.1021/acsphotonics.0c00465},
-  journal = {ACS Photonics},
-  author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`{u}, Andrea and Galdi, Vincenzo},
-  month = aug,
-  year = {2020},
-  volume = {7},
-  issue = {8},
-  pages = {2064--2072},
-  note = {https://pubs.acs.org/doi/suppl/10.1021/acsphotonics.0c00465/suppl_file/ph0c00465_si_001.pdf}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="non-Hermitian" /><summary type="html">Our paper on “Line waves in non-Hermitian metasurfaces”
-[1],
-in collaboration with Andrea Alù (ASRC-CUNY),
-has been published in ACS Photonics.
-
-Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2020). Line Waves in Non-Hermitian Metasurfaces. ACS Photonics 7(8), 2064–2072.
-
-
-
-  
-    
-    Abstract
-    
-
-    BibTeX
-
-            
-    
-    DOI
-    
-
-    
-
-    
-      
-    
-    PDF
-    
-
-    
-    Supplements
-    
-  
-  
-
-  
-  Planar junctions between reactive surface impedances with dual character (capacitive/inductive) can sustain line waves localized both in-plane and out-of-plane around the discontinuity, which propagate unattenuated along one-dimensional paths. Due to their attractive properties, these waves are of potential interest in applications ranging from integrated photonics to optical sensing. Here, we introduce and explore a non-Hermitian platform supporting these exotic modes based on parity−time symmetry. Speciﬁcally, we show that line waves can occur in the presence of a uniform surface reactance (either capacitive or inductive) and a symmetric resistance discontinuity from negative to positive values (i.e., gain and loss). We study analytically and numerically the propagation properties of these waves and the underlying physical mechanisms and also illustrate their intriguing properties in terms of conﬁnement, reconﬁgurability, spin-momentum locking and lasing. Finally, we address possible practical implementations based on photoexcited graphene. Our results hold intriguing potentials for applications in ﬂat optics and reconﬁgurable photonics.
-  
-
-  @article{IJ143_ACS-PHOT_2020,
-  title = {Line Waves in Non-{H}ermitian Metasurfaces},
-  doi = {10.1021/acsphotonics.0c00465},
-  journal = {ACS Photonics},
-  author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`{u}, Andrea and Galdi, Vincenzo},
-  month = aug,
-  year = {2020},
-  volume = {7},
-  issue = {8},
-  pages = {2064--2072},
-  note = {https://pubs.acs.org/doi/suppl/10.1021/acsphotonics.0c00465/suppl_file/ph0c00465_si_001.pdf}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/LW.png" /></entry><entry><title type="html">Our paper on non-Hermitian line waves accepted in ACS-PHOT</title><link href="/news/ACS-PHOT-paper-NH-LW-accepted" rel="alternate" type="text/html" title="Our paper on non-Hermitian line waves accepted in ACS-PHOT" /><published>2020-07-01T00:00:00+02:00</published><updated>2020-07-01T00:00:00+02:00</updated><id>/news/ACS-PHOT-paper-NH-LW-accepted</id><content type="html" xml:base="/news/ACS-PHOT-paper-NH-LW-accepted">&lt;p&gt;Our paper on “Line waves in non-Hermitian metasurfaces,”
-in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
-has been accepted for publication in &lt;a href=&quot;https://pubs.acs.org/journal/apchd5&quot;&gt;&lt;em&gt;ACS Photonics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="non-Hermitian" /><summary type="html">Our paper on “Line waves in non-Hermitian metasurfaces,”
-in collaboration with Andrea Alù (ASRC-CUNY),
 has been accepted for publication in ACS Photonics.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/ACS-PHOT.png" /></entry></feed>

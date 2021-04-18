@@ -5,10 +5,125 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2020-11-01T15:06:42+01:00</lastBuildDate>
-        <pubDate>2020-11-01T15:06:42+01:00</pubDate>
+        <lastBuildDate>2021-04-18T16:48:51+02:00</lastBuildDate>
+        <pubDate>2021-04-18T16:48:51+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on DNA detection accepted in FrBB</title>
+                <description>&lt;p&gt;Our paper on “Advanced DNA detection via multispectral plasmonic metasurfaces,”
+in collaboration with &lt;a href=&quot;https://www.na.imm.cnr.it/users/emanuelaesposito&quot;&gt;Emanuela Esposito&lt;/a&gt;’s Group (National Research Council),
+has been accepted for publication in &lt;a href=&quot;https://www.frontiersin.org/journals/bioengineering-and-biotechnology#&quot;&gt;&lt;em&gt;Frontiers in Bioengineering and Biotechnology&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/news/FrBB-accepted</link>
+                <guid>http://fw-lab.org/news/FrBB-accepted</guid>
+                <pubDate>2021-04-13T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>Our paper on non-Hermitian metasurfaces published in IEEE-TMTT</title>
+                <description>&lt;p&gt;Our paper on “Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy” [&lt;a href=&quot;#IJ149_IEEE-TMTT_69_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
+has been published in the &lt;em&gt;IEEE Transactions on Microwave Theory and Techniques&lt;/em&gt;.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/news/IEEE-TMTT-published</link>
+                <guid>http://fw-lab.org/news/IEEE-TMTT-published</guid>
+                <pubDate>2021-04-06T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>Our paper on non-Hermitian metasurfaces accepted in IEEE-TMTT</title>
+                <description>&lt;p&gt;Our paper on “Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy,”
+in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
+has been accepted for publication in the &lt;a href=&quot;https://mtt.org/publications/transactions/&quot;&gt;&lt;em&gt;IEEE Transactions on Microwave Theory and Techniques&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/2101.06641&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/news/IEEE-TMTT-accepted</link>
+                <guid>http://fw-lab.org/news/IEEE-TMTT-accepted</guid>
+                <pubDate>2021-01-12T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Our invited review paper on space-time doding metasurfaces published in EPJ-AM</title>
+                <description>&lt;p&gt;Our invited review paper on “Recent advances and perspectives on space-time coding digital metasurfaces”
+[&lt;a href=&quot;#IJ148_EPJAM_7_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
+has been published in &lt;em&gt;EPJ Applied Metamaterials&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ148_EPJAM_7_2020&quot;&gt;Zhang, L., Dai, J. Y., Moccia, M., Castaldi, G., Cui, T. J., &amp;amp; Galdi, V. (2020). Recent advances and perspectives on space-time coding digital metasurfaces. &lt;i&gt;EPJ Applied Metamaterials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;7&lt;/i&gt;&lt;/span&gt;, 7.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ148_EPJAM_7_2020-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ148_EPJAM_7_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ148_EPJAM_7_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1051/epjam/2020007&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ148_EPJAM_7_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ148_EPJAM_7_2020-abstract&quot; class=&quot;collapse&quot;&gt;Within the overarching framework of space-time metastructures, digital metasurfaces based on spatio-temporal coding are emerging as powerful and versatile architectures for complex ﬁeld manipulations, also in view of their inherently programmable nature. Here, we provide a compact survey of our recent results and ongoing studies in this research area. Examples of ﬁeld manipulations include harmonic beam steering and/ or shaping and programmable nonreciprocal effects. Possible applications are abundant and range from wireless communications to radars and imaging.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ148_EPJAM_7_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ148_EPJAM_7_2020,
+  author = {Zhang, Lei and Dai, Jun Yan and Moccia, Massimo and Castaldi, Giuseppe and Cui, Tie Jun and Galdi, Vincenzo},
+  title = {Recent advances and perspectives on space-time coding digital metasurfaces},
+  doi = {10.1051/epjam/2020007},
+  journal = {EPJ Applied Metamaterials},
+  year = {2020},
+  volume = {7},
+  pages = {7},
+  month = dec
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://fw-lab.org/news/EPJAM-published</link>
+                <guid>http://fw-lab.org/news/EPJAM-published</guid>
+                <pubDate>2020-12-11T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Ph.D. defense</title>
+                <description>&lt;p&gt;&lt;a href=&quot;/team/joseph-tien&quot;&gt;Joseph Tien&lt;/a&gt; has successfully defended his Ph.D. thesis 
+in Information Technologies for Engineering
+entitled 
+&lt;em&gt;“Submillimeter Precision Close Range Active Target Tracking Using mm-Wave FMCW Radar for Artificial Reality”&lt;/em&gt;, 
+supervised by Profs. &lt;a href=&quot;https://www.linkedin.com/in/riccardo-desalvo-11042631&quot;&gt;Riccardo DeSalvo&lt;/a&gt; 
+and &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Congratulations Dr. Tien!&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/news/Tien_PhD_defense</link>
+                <guid>http://fw-lab.org/news/Tien_PhD_defense</guid>
+                <pubDate>2020-11-03T00:00:00+01:00</pubDate>
+        </item>
 
         <item>
                 <title>Our paper on harmonic beam shaping published in AdFM</title>
@@ -17,7 +132,7 @@
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published in &lt;em&gt;Advanced Functional Materials&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ147_AFM_2020&quot;&gt;Castaldi, G., Zhang, L., Moccia, M., Hathaway, A. Y., Tang, W. X., Cui, T. J., &amp;amp; Galdi, V. (2020). Joint Multi-Frequency Beam Shaping and Steering via Space–Time-Coding Digital Metasurfaces. &lt;i&gt;Advanced Functional Materials&lt;/i&gt; 2007620 (early view).&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ147_AFM_2020&quot;&gt;Castaldi, G., Zhang, L., Moccia, M., Hathaway, A. Y., Tang, W. X., Cui, T. J., &amp;amp; Galdi, V. (2021). Joint multi-frequency beam shaping and steering via space-time-coding digital metasurfaces. &lt;i&gt;Advanced Functional Materials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;31&lt;/i&gt;&lt;/span&gt;(6), 2007620.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ147_AFM_2020-materials&quot;&gt;
@@ -53,13 +168,15 @@ has been published in &lt;em&gt;Advanced Functional Materials&lt;/em&gt;.&lt;/p&
 
   &lt;pre id=&quot;IJ147_AFM_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ147_AFM_2020,
   author = {Castaldi, Giuseppe and Zhang, Lei and Moccia, Massimo and Hathaway, Alisa Y. and Tang, Wen Xuan and Cui, Tie Jun and Galdi, Vincenzo},
-  title = {Joint Multi-Frequency Beam Shaping and Steering via Space–Time-Coding Digital Metasurfaces},
+  title = {Joint multi-frequency beam shaping and steering via space-time-coding digital metasurfaces},
   journal = {Advanced Functional Materials},
-  pages = {2007620 (early view)},
+  volume = {31},
+  issue = {6},
+  pages = {2007620},
   doi = {10.1002/adfm.202007620},
   note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadfm.202007620&amp;amp;file=adfm202007620-sup-0001-SuppMat.pdf},
-  year = {2020},
-  month = oct
+  year = {2021},
+  month = feb
 }
 &lt;/pre&gt;
 
@@ -139,7 +256,7 @@ New York (NY), USA, Sep. 28-Oct. 3, 2020 (online).&lt;/p&gt;
                 <description>&lt;p&gt;Our paper on “Metasurface enhanced lab-on-fiber biosensors”
 [&lt;a href=&quot;#IJ146_LPR_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] has been published in &lt;em&gt;Laser &amp;amp; Photonics Reviews&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ146_LPR_2020&quot;&gt;Consales, M., Quero, G., Spaziani, S., Principe, M., Micco, A., Galdi, V., … Cusano, A. (2020). Metasurface-Enhanced Lab-on-Fiber Biosensors. &lt;i&gt;Laser &amp;amp; Photonics Reviews&lt;/i&gt; 2000180 (early view).&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ146_LPR_2020&quot;&gt;Consales, M., Quero, G., Spaziani, S., Principe, M., Micco, A., Galdi, V., … Cusano, A. (2020). Metasurface-enhanced lab-on-fiber biosensors. &lt;i&gt;Laser &amp;amp; Photonics Reviews&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;14&lt;/i&gt;&lt;/span&gt;(12), 2000180.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ146_LPR_2020-materials&quot;&gt;
@@ -175,13 +292,15 @@ New York (NY), USA, Sep. 28-Oct. 3, 2020 (online).&lt;/p&gt;
 
   &lt;pre id=&quot;IJ146_LPR_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ146_LPR_2020,
   author = {Consales, Marco and Quero, Giuseppe and Spaziani, Sara and Principe, Maria and Micco, Alberto and Galdi, Vincenzo and Cutolo, Antonello and Cusano, Andrea},
-  title = {Metasurface-Enhanced Lab-on-Fiber Biosensors},
+  title = {Metasurface-enhanced lab-on-fiber biosensors},
   journal = {Laser \&amp;amp; Photonics Reviews},
-  pages = {2000180 (early view)},
+  volume = {14},
+  issue = {12},
+  pages = {2000180},
   doi = {10.1002/lpor.202000180},
   note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Flpor.202000180&amp;amp;file=lpor202000180-sup-0001-SuppMat.pdf},
   year = {2020},
-  month = sep
+  month = dec
 }
 &lt;/pre&gt;
 
@@ -300,7 +419,7 @@ has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/p
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 has been published in &lt;em&gt;ACS Photonics&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ143_ACS-PHOT_2020&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2020). Line Waves in Non-Hermitian Metasurfaces. &lt;i&gt;ACS Photonics&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;7&lt;/i&gt;&lt;/span&gt;(8), 2064–2072.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ143_ACS-PHOT_2020&quot;&gt;Moccia, M., Castaldi, G., Alù, A., &amp;amp; Galdi, V. (2020). Line waves in non-Hermitian metasurfaces. &lt;i&gt;ACS Photonics&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;7&lt;/i&gt;&lt;/span&gt;(8), 2064–2072.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ143_ACS-PHOT_2020-materials&quot;&gt;
@@ -335,7 +454,7 @@ has been published in &lt;em&gt;ACS Photonics&lt;/em&gt;.&lt;/p&gt;
   
 
   &lt;pre id=&quot;IJ143_ACS-PHOT_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ143_ACS-PHOT_2020,
-  title = {Line Waves in Non-{H}ermitian Metasurfaces},
+  title = {Line waves in non-{H}ermitian metasurfaces},
   doi = {10.1021/acsphotonics.0c00465},
   journal = {ACS Photonics},
   author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`{u}, Andrea and Galdi, Vincenzo},
@@ -539,7 +658,7 @@ has been published in the &lt;em&gt;Proceedings of the National Academy of Scien
 
   &lt;pre id=&quot;IJ140_PNAS_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ140_PNAS_2020,
   author = {Coppolaro, Marino and Moccia, Massimo and Castaldi, Giuseppe and Engheta, Nader and Galdi, Vincenzo},
-  title = {Non-Hermitian doping of epsilon-near-zero media},
+  title = {Non-{H}ermitian doping of epsilon-near-zero media},
   year = {2020},
   month = jun,
   volume = {117},
@@ -784,6 +903,18 @@ recommendation of the referees.&lt;/p&gt;
                 <link>http://fw-lab.org/news/EurAAP-LBF-award</link>
                 <guid>http://fw-lab.org/news/EurAAP-LBF-award</guid>
                 <pubDate>2019-12-10T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>New lab member</title>
+                <description>&lt;p&gt;&lt;a href=&quot;/team/omar-perez&quot;&gt;Omar Perez&lt;/a&gt; has joined the Fields &amp;amp; Waves Lab as a Ph.D. student in Information Technologies for Engineering.&lt;/p&gt;
+
+&lt;p&gt;His Ph.D. work will be focused on the study of millimeter-wave radar technologies.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/news/new-lab-member</link>
+                <guid>http://fw-lab.org/news/new-lab-member</guid>
+                <pubDate>2019-12-01T00:00:00+01:00</pubDate>
         </item>
 
         <item>
@@ -1277,7 +1408,7 @@ has been published in the &lt;em&gt;IEEE Transactions on Antennas and Propagatio
   &lt;pre id=&quot;IJ136_IEEE-TAP_2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ136_IEEE-TAP_2019,
   author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
   journal = {IEEE Transactions on Antennas and Propagation},
-  title = {Harnessing spectral singularities in non-Hermitian cylindrical structures},
+  title = {Harnessing spectral singularities in non-{H}ermitian cylindrical structures},
   year = {2020},
   volume = {28},
   number = {3},
@@ -1513,6 +1644,24 @@ has been accepted for publication in &lt;a href=&quot;https://journals.sagepub.c
                 <link>http://fw-lab.org/news/NMNT-paper-meta-tip-accepted</link>
                 <guid>http://fw-lab.org/news/NMNT-paper-meta-tip-accepted</guid>
                 <pubDate>2019-01-29T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>Omar M. Perez</title>
+                <description>&lt;p&gt;&lt;strong&gt;Omar M. Perez&lt;/strong&gt; was born Lipa City, Philippines on April 4, 1992.&lt;/p&gt;
+
+&lt;p&gt;He received the B.S. degree in Electronics and Communications Engineering from De La Salle Lipa, Philippines in 2013, and the
+M.S. degree in Electrical Engineering from the &lt;a href=&quot;http://www.calstatela.edu/&quot;&gt;California State University&lt;/a&gt;, Los Angeles, CA, USA, in 2019.&lt;/p&gt;
+
+&lt;p&gt;Since December 2019, he has been a Ph.D. student in Information Technologies for Engineering​at the 
+&lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, working in the Fields &amp;amp; Waves Lab 
+under the joint supervision of Profs. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; and Riccardo DeSalvo](https://www.linkedin.com/in/riccardo-desalvo-11042631) .&lt;/p&gt;
+
+&lt;p&gt;His current research is focused on positional tracking systems based on millimeter-wave radars.&lt;/p&gt;
+</description>
+                <link>http://fw-lab.org/team/omar-perez</link>
+                <guid>http://fw-lab.org/team/omar-perez</guid>
+                <pubDate>2019-01-12T00:00:00+01:00</pubDate>
         </item>
 
         <item>
@@ -3953,19 +4102,19 @@ under the supervision of Prof. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vi
                 <title>Joseph Tien</title>
                 <description>&lt;p&gt;&lt;strong&gt;Joseph Tien&lt;/strong&gt; was born in Los Angeles, CA, USA on November 8, 1991.&lt;/p&gt;
 
-&lt;p&gt;Tien is a Ph.D. student in Information Technologies for Engineering​ at the 
-&lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, working in the Fields &amp;amp; Waves Lab under 
-the joint guidance of Profs. &lt;a href=&quot;https://www.linkedin.com/in/riccardo-desalvo-11042631&quot;&gt;Riccardo DeSalvo&lt;/a&gt; 
-and &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt;.&lt;/p&gt;
-
 &lt;p&gt;He received a M.S. degree in Mechanical Engineering from the &lt;a href=&quot;http://www.calstatela.edu/&quot;&gt;California State University, Los Angeles&lt;/a&gt; 
  in 2016 and a B.S. in Chemistry from the &lt;a href=&quot;https://ucsd.edu/&quot;&gt;University of California, San Diego&lt;/a&gt; in 2013. 
 During his undergraduate studies, he was a visiting student at &lt;a href=&quot;http://www.tsukuba.ac.jp/en/&quot;&gt;Tsukuba University&lt;/a&gt;, 
 Japan (2010-2011) 
-and &lt;a href=&quot;https://www.polyu.edu.hk/web/en/home/index.html&quot;&gt;Hong Kong Polytechnic University&lt;/a&gt; (2012-2013).&lt;/p&gt;
+and &lt;a href=&quot;https://www.polyu.edu.hk/web/en/home/index.html&quot;&gt;Hong Kong Polytechnic University&lt;/a&gt; (2012-2013). 
+In 2020, he received the Ph.D. degree in Information Technologies for Engineering​ at the 
+&lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, 
+defending a thesis on positional tracking systems for artificial 
+reality applications,
+supervised by Profs. &lt;a href=&quot;https://www.linkedin.com/in/riccardo-desalvo-11042631&quot;&gt;Riccardo DeSalvo&lt;/a&gt; 
+and &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;His current research activity is focused on positional tracking systems for artificial 
-reality applications. Previously, he has worked on haptic devices as an intern at &lt;a href=&quot;https://www.oculus.com/&quot;&gt;Oculus VR&lt;/a&gt;, 
+&lt;p&gt;He is currently working as a research engineer at &lt;a href=&quot;https://www.sigmadzn.com&quot;&gt;SigmaDesign&lt;/a&gt;. Previously, he has worked on haptic devices as an intern at &lt;a href=&quot;https://www.oculus.com/&quot;&gt;Oculus VR&lt;/a&gt;, 
 agglomeration chemistry, and intracellular membrane communication in the &lt;a href=&quot;http://cmm.ucsd.edu/ferronovick/About%20Us.html&quot;&gt;Ferro-Novick Lab&lt;/a&gt;.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/team/joseph-tien</link>
@@ -6409,7 +6558,7 @@ optical components and devices.&lt;/p&gt;
   &lt;pre id=&quot;IJ136_IEEE-TAP_2019-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ136_IEEE-TAP_2019,
   author = {Moccia, Massimo and Castaldi, Giuseppe and Al\`u, Andrea and Galdi, Vincenzo},
   journal = {IEEE Transactions on Antennas and Propagation},
-  title = {Harnessing spectral singularities in non-Hermitian cylindrical structures},
+  title = {Harnessing spectral singularities in non-{H}ermitian cylindrical structures},
   year = {2020},
   volume = {28},
   number = {3},
@@ -6905,28 +7054,33 @@ biological sensors based on periodic nanostructures currently available on the m
 
         <item>
                 <title>Vincenzo Galdi</title>
-                <description>&lt;p&gt;&lt;strong&gt;Vincenzo Galdi&lt;/strong&gt; received the Laurea degree (&lt;em&gt;summa cum laude&lt;/em&gt;) in electrical engineering and the Ph.D. degree in applied electromagnetics from the &lt;a href=&quot;http://web.unisa.it/en&quot;&gt;University of Salerno&lt;/a&gt;, 
+                <description>&lt;p&gt;&lt;strong&gt;Vincenzo Galdi&lt;/strong&gt; received the Laurea degree (&lt;em&gt;summa cum laude&lt;/em&gt;) in electrical engineering and 
+the Ph.D. degree in applied electromagnetics from the &lt;a href=&quot;http://web.unisa.it/en&quot;&gt;University of Salerno&lt;/a&gt;, 
 Italy, in 1995 and 1999, respectively.&lt;/p&gt;
 
 &lt;p&gt;In 2002, he was appointed Associate Professor of Electromagnetics, and joined the &lt;a href=&quot;https://www.ding.unisannio.it/en/&quot;&gt;Department of Engineering&lt;/a&gt; 
-at the &lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, where is currently working. 
-He has served as Associate Chair for Undergraduate Studies in Telecommunication Engineering (2005-2010). In 2014, he received the National Scientific Qualification as a Full Professor.&lt;/p&gt;
+at the &lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, where he is currently working. 
+He has served as Associate Chair for Undergraduate Studies in Telecommunication Engineering (2005-2010). 
+In 2014, he received the National Scientific Qualification as a Full Professor.&lt;/p&gt;
 
-&lt;p&gt;He has held several visiting positions at abroad research institutions, including the &lt;a href=&quot;http://www.esa.int/About_Us/ESTEC&quot;&gt;European Space Research and Technology Centre&lt;/a&gt; (Noordwijk, NL), 
+&lt;p&gt;He has held several visiting positions at abroad research institutions, 
+including the &lt;a href=&quot;http://www.esa.int/About_Us/ESTEC&quot;&gt;European Space Research and Technology Centre&lt;/a&gt; (Noordwijk, NL), 
 &lt;a href=&quot;http://www.bu.edu&quot;&gt;Boston University&lt;/a&gt;, 
 &lt;a href=&quot;http://www.mit.edu&quot;&gt;Massachusetts Institute of Technology&lt;/a&gt;, and &lt;a href=&quot;http://www.caltech.edu&quot;&gt;California Institute of Technology&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;He has co-edited two books, and co-authored over 130 papers in peer-reviewed international journals, 7 book chapters, and 150 conference papers (50 invited).&lt;/p&gt;
+&lt;p&gt;He has co-edited two books, and co-authored about 150 papers in peer-reviewed international journals, 7 book chapters, and 170 conference papers (50 invited).&lt;/p&gt;
 
-&lt;p&gt;He is currently serving as a Track Editor of the &lt;a href=&quot;http://www.ieeeaps.org/publications/ieee-transactions-on-antennas-and-propagations/ieee-tap-home&quot;&gt;&lt;em&gt;IEEE Transactions on Antennas and Propagation&lt;/em&gt;&lt;/a&gt;, 
-an Associate Editor of &lt;a href=&quot;https://www.osapublishing.org/oe/home.cfm&quot;&gt;&lt;em&gt;Optics Express&lt;/em&gt;&lt;/a&gt; and &lt;a href=&quot;http://www.heliyon.com/&quot;&gt;&lt;em&gt;Heliyon&lt;/em&gt;&lt;/a&gt;, 
-and a regular reviewer for many journals, conferences and funding agencies. He has served as an Associate Editor of &lt;a href=&quot;http://www.mdpi.com/journal/applsci&quot;&gt;&lt;em&gt;Applied Sciences&lt;/em&gt;&lt;/a&gt; (2017-2019) 
+&lt;p&gt;He is currently serving as an Associate Editor of &lt;a href=&quot;https://www.osapublishing.org/oe/home.cfm&quot;&gt;&lt;em&gt;Optics Express&lt;/em&gt;&lt;/a&gt; and &lt;a href=&quot;http://www.heliyon.com/&quot;&gt;&lt;em&gt;Heliyon&lt;/em&gt;&lt;/a&gt;, 
+and a regular reviewer for many journals, conferences and funding agencies. He has served as 
+an Associate Editor (2013-2014), Senior Associate Editor (2015-2016) and Track Editor (2016-2020) of the &lt;a href=&quot;http://www.ieeeaps.org/publications/ieee-transactions-on-antennas-and-propagations/ieee-tap-home&quot;&gt;&lt;em&gt;IEEE Transactions on Antennas and Propagation&lt;/em&gt;&lt;/a&gt;,
+and as an Associate Editor of &lt;a href=&quot;http://www.mdpi.com/journal/applsci&quot;&gt;&lt;em&gt;Applied Sciences&lt;/em&gt;&lt;/a&gt; (2017-2019) 
 and of the &lt;a href=&quot;http://www.hindawi.com/journals/ijap/&quot;&gt;&lt;em&gt;International Journal of Antennas and Propagation&lt;/em&gt;&lt;/a&gt; (2012-2019).&lt;/p&gt;
 
 &lt;p&gt;His research interests encompass wave interactions with complex structures and media, multiphysics metamaterials, electromagnetic chaos, 
 inverse scattering, millimeter-wave radars, and gravitational interferometry.&lt;/p&gt;
 
-&lt;p&gt;Dr. Galdi is a &lt;em&gt;Fellow&lt;/em&gt; of the &lt;a href=&quot;http://www.ieee.org&quot;&gt;IEEE&lt;/a&gt;, a member of the &lt;a href=&quot;http://www.ligo.org/&quot;&gt;LIGO Scientific Collaboration&lt;/a&gt;, the &lt;a href=&quot;http://www.osa.org/en-us/home/&quot;&gt;Optical Society of America&lt;/a&gt;, the &lt;a href=&quot;https://www.aps.org/index.cfm&quot;&gt;American Physical Society&lt;/a&gt; and 
+&lt;p&gt;Dr. Galdi is a &lt;em&gt;Fellow&lt;/em&gt; of the &lt;a href=&quot;http://www.ieee.org&quot;&gt;IEEE&lt;/a&gt;, a member of the &lt;a href=&quot;http://www.ligo.org/&quot;&gt;LIGO Scientific Collaboration&lt;/a&gt;, 
+the &lt;a href=&quot;http://www.osa.org/en-us/home/&quot;&gt;Optical Society of America&lt;/a&gt;, the &lt;a href=&quot;https://www.aps.org/index.cfm&quot;&gt;American Physical Society&lt;/a&gt; and 
 &lt;a href=&quot;http://www.sigmaxi.org/&quot;&gt;Sigma Xi&lt;/a&gt;.
 He is also the recipient of an &lt;em&gt;Outstanding Associate Editor Award&lt;/em&gt; (IEEE Transactions on Antennas and Propagation, 2014) and a &lt;a href=&quot;http://www.ursi.org&quot;&gt;URSI&lt;/a&gt; &lt;em&gt;Young Scientist Award&lt;/em&gt; (2001).&lt;/p&gt;
 
