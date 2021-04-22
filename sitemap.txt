@@ -31,6 +31,7 @@ http://fw-lab.org/news/FrBB-accepted
 http://fw-lab.org/news/IEEE-TMTT-published
 http://fw-lab.org/news/IEEE-TMTT-accepted
 http://fw-lab.org/news/EPJAM-published
+http://fw-lab.org/news/new-lab-member
 http://fw-lab.org/news/Tien_PhD_defense
 http://fw-lab.org/news/AFM-published
 http://fw-lab.org/news/AFM-accepted
@@ -51,6 +52,7 @@ http://fw-lab.org/news/AdOM-published
 http://fw-lab.org/news/OpEx-paper-GRS-published
 http://fw-lab.org/news/OpEx-paper-GRS-accepted
 http://fw-lab.org/news/AdOM-accepted
+http://fw-lab.org/team/dustin-krogstad
 http://fw-lab.org/news/MIT_externship
 http://fw-lab.org/news/EurAAP-LBF-award
 http://fw-lab.org/news/new-lab-member

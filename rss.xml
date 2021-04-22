@@ -5,8 +5,8 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2021-04-18T17:23:48+02:00</lastBuildDate>
-        <pubDate>2021-04-18T17:23:48+02:00</pubDate>
+        <lastBuildDate>2021-04-22T09:34:47+02:00</lastBuildDate>
+        <pubDate>2021-04-22T09:34:47+02:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -106,6 +106,18 @@ has been published in &lt;em&gt;EPJ Applied Metamaterials&lt;/em&gt;.&lt;/p&gt;
                 <link>http://fw-lab.org/news/EPJAM-published</link>
                 <guid>http://fw-lab.org/news/EPJAM-published</guid>
                 <pubDate>2020-12-11T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
+                <title>New lab member</title>
+                <description>&lt;p&gt;&lt;a href=&quot;/team/distin-krogstad&quot;&gt;Dustin Krogstad&lt;/a&gt; has joined the Fields &amp;amp; Waves Lab as a Ph.D. student in Information Technologies for Engineering.&lt;/p&gt;
+
+&lt;p&gt;His Ph.D. work will be focused on the study of millimeter-wave radar technologies.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/news/new-lab-member</link>
+                <guid>http://fw-lab.org/news/new-lab-member</guid>
+                <pubDate>2020-12-01T00:00:00+01:00</pubDate>
         </item>
 
         <item>
@@ -859,6 +871,25 @@ has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wile
         </item>
 
         <item>
+                <title>Dustin Krogstad</title>
+                <description>&lt;p&gt;&lt;strong&gt;Dustin Krogstad&lt;/strong&gt; completed his Bachelor of Science in Mechanical Engineering 
+and his Master of Science in Electrical Engineering with a focus in wireless communications at &lt;a href=&quot;http://www.calstatela.edu/&quot;&gt;California State University&lt;/a&gt;, Los Angeles, CA, USA.
+His Master was spent researching haptic and tracking technology that would be applicable to the ever growing field of virtual reality.&lt;/p&gt;
+
+&lt;p&gt;Since December 2020, he has been a Ph.D. student in Information Technologies for Engineering​at the 
+&lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, working in the Fields &amp;amp; Waves Lab 
+under the joint supervision of Profs. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; and Riccardo DeSalvo](https://www.linkedin.com/in/riccardo-desalvo-11042631).
+His current research is focused on positional tracking systems based on millimeter-wave radars.&lt;/p&gt;
+
+&lt;p&gt;Outside of Engineering, he enjoys cooking, gaming and playing various outdoor sports.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/team/dustin-krogstad</link>
+                <guid>http://fw-lab.org/team/dustin-krogstad</guid>
+                <pubDate>2020-01-12T00:00:00+01:00</pubDate>
+        </item>
+
+        <item>
                 <title>MIT student externship</title>
                 <description>&lt;p&gt;Alisa Y. Hathaway has temporarily joined the Fields &amp;amp; Waves Lab within the framework of the &lt;a href=&quot;https://alum.mit.edu/communitiesmit-students/student-externships&quot;&gt;MIT student externship program&lt;/a&gt;.&lt;/p&gt;
 
@@ -907,7 +938,7 @@ recommendation of the referees.&lt;/p&gt;
 
         <item>
                 <title>New lab member</title>
-                <description>&lt;p&gt;&lt;a href=&quot;/team/omar-perez&quot;&gt;Omar Perez&lt;/a&gt; has joined the Fields &amp;amp; Waves Lab as a Ph.D. student in Information Technologies for Engineering.&lt;/p&gt;
+                <description>&lt;p&gt;&lt;a href=&quot;/team/omar-perez&quot;&gt;Omar M. Perez&lt;/a&gt; has joined the Fields &amp;amp; Waves Lab as a Ph.D. student in Information Technologies for Engineering.&lt;/p&gt;
 
 &lt;p&gt;His Ph.D. work will be focused on the study of millimeter-wave radar technologies.&lt;/p&gt;
 
@@ -1655,7 +1686,7 @@ M.S. degree in Electrical Engineering from the &lt;a href=&quot;http://www.calst
 
 &lt;p&gt;Since December 2019, he has been a Ph.D. student in Information Technologies for Engineering​at the 
 &lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, working in the Fields &amp;amp; Waves Lab 
-under the joint supervision of Profs. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; and Riccardo DeSalvo](https://www.linkedin.com/in/riccardo-desalvo-11042631) .&lt;/p&gt;
+under the joint supervision of Profs. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; and Riccardo DeSalvo](https://www.linkedin.com/in/riccardo-desalvo-11042631).&lt;/p&gt;
 
 &lt;p&gt;His current research is focused on positional tracking systems based on millimeter-wave radars.&lt;/p&gt;
 </description>
