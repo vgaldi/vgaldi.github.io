@@ -27,6 +27,7 @@ http://fw-lab.org/tags
 http://fw-lab.org/feed.xml
 http://fw-lab.org/feed.xslt.xml
 
+http://fw-lab.org/news/FrBB-published
 http://fw-lab.org/news/FrBB-accepted
 http://fw-lab.org/news/IEEE-TMTT-published
 http://fw-lab.org/news/IEEE-TMTT-accepted

@@ -1,12 +1,210 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-04-22T10:18:46+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on DNA detection accepted in FrBB</title><link href="/news/FrBB-accepted" rel="alternate" type="text/html" title="Our paper on DNA detection accepted in FrBB" /><published>2021-04-13T00:00:00+02:00</published><updated>2021-04-13T00:00:00+02:00</updated><id>/news/FrBB-accepted</id><content type="html" xml:base="/news/FrBB-accepted">&lt;p&gt;Our paper on “Advanced DNA detection via multispectral plasmonic metasurfaces,”
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-06-02T19:07:42+02:00</updated><id>//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on DNA detection published in FrBB</title><link href="/news/FrBB-published" rel="alternate" type="text/html" title="Our paper on DNA detection published in FrBB" /><published>2021-05-12T00:00:00+02:00</published><updated>2021-05-12T00:00:00+02:00</updated><id>/news/FrBB-published</id><content type="html" xml:base="/news/FrBB-published">&lt;p&gt;Our paper on “Advanced DNA detection via multispectral plasmonic metasurfaces” [&lt;a href=&quot;#IJ150_FBIOE_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+in collaboration with &lt;a href=&quot;https://www.na.imm.cnr.it/users/emanuelaesposito&quot;&gt;Emanuela Esposito&lt;/a&gt;’s Group (National Research Council),
+has been published in &lt;em&gt;Frontiers in Bioengineering and Biotechnology&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ150_FBIOE_2021&quot;&gt;Di Meo, V., Moccia, M., Sanità, G., Crescitelli, A., Lamberti, A., Galdi, V., … Esposito, E. (2021). Advanced DNA detection via multispectral plasmonic metasurfaces. &lt;i&gt;Frontiers in Bioengineering and Biotechnology&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;9&lt;/i&gt;&lt;/span&gt;, 666121.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ150_FBIOE_2021-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ150_FBIOE_2021-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ150_FBIOE_2021-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.3389/fbioe.2021.666121&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ150_FBIOE_2021.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot; https://www.frontiersin.org/articles/10.3389/fbioe.2021.666121/full#supplementary-material&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ150_FBIOE_2021-abstract&quot; class=&quot;collapse&quot;&gt;We propose and demonstrate a sensing platform based on plasmonic metasurfaces for the detection of very low concentrations of deoxyribo-nucleic acid (DNA) fragments. The platform relies on surface-enhanced infrared absorption spectroscopy, implemented via a multispectral metasurface. Specifically, different regions (“pixels”) are engineered so as to separately cover the medium-infrared range of the electromagnetic spectrum extending from the functional-groups to the fingerprint region of a single analyte. In conjunction with a suitable bio-functionalization, this enables univocal and label-free recognition of specific molecules. For experimental validation, we fabricate a large-area gold metasurface on a silicon chip, and functionalize it with a recognition layer of peptide nucleic acid (PNA). Our experimental results indicate the possibility to detect complementary DNA fragments in concentrations as low as 50 fM, i.e., well below the value attained by standard methods, with additional advantages in terms of processing time, versatility and ease of implementation/operation.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ150_FBIOE_2021-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ150_FBIOE_2021,
+  author = {Di Meo, Valentina and Moccia, Massimo and Sanit\`a, Gennaro and Crescitelli, Alessio and Lamberti, Annalisa and Galdi, Vincenzo and Rendina, Ivo and Esposito, Emanuela},
+  title = {Advanced {DNA} detection via multispectral plasmonic metasurfaces},
+  journal = {Frontiers in Bioengineering and Biotechnology},
+  volume = {9},
+  pages = {666121},
+  month = may,
+  year = {2021},
+  url = {https://www.frontiersin.org/article/10.3389/fbioe.2021.666121},
+  doi = {10.3389/fbioe.2021.666121},
+  issn = {2296-4185},
+  note = { https://www.frontiersin.org/articles/10.3389/fbioe.2021.666121/full#supplementary-material}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="plasmonics" /><category term="optical sensing" /><summary type="html">Our paper on “Advanced DNA detection via multispectral plasmonic metasurfaces” [1],
+in collaboration with Emanuela Esposito’s Group (National Research Council),
+has been published in Frontiers in Bioengineering and Biotechnology.
+
+Di Meo, V., Moccia, M., Sanità, G., Crescitelli, A., Lamberti, A., Galdi, V., … Esposito, E. (2021). Advanced DNA detection via multispectral plasmonic metasurfaces. Frontiers in Bioengineering and Biotechnology 9, 666121.
+
+
+
+  
+    
+    Abstract
+    
+
+    BibTeX
+
+            
+    
+    DOI
+    
+
+    
+
+    
+      
+    
+    PDF
+    
+
+    
+    Supplements
+    
+  
+  
+
+  
+  We propose and demonstrate a sensing platform based on plasmonic metasurfaces for the detection of very low concentrations of deoxyribo-nucleic acid (DNA) fragments. The platform relies on surface-enhanced infrared absorption spectroscopy, implemented via a multispectral metasurface. Specifically, different regions (“pixels”) are engineered so as to separately cover the medium-infrared range of the electromagnetic spectrum extending from the functional-groups to the fingerprint region of a single analyte. In conjunction with a suitable bio-functionalization, this enables univocal and label-free recognition of specific molecules. For experimental validation, we fabricate a large-area gold metasurface on a silicon chip, and functionalize it with a recognition layer of peptide nucleic acid (PNA). Our experimental results indicate the possibility to detect complementary DNA fragments in concentrations as low as 50 fM, i.e., well below the value attained by standard methods, with additional advantages in terms of processing time, versatility and ease of implementation/operation.
+  
+
+  @article{IJ150_FBIOE_2021,
+  author = {Di Meo, Valentina and Moccia, Massimo and Sanit\`a, Gennaro and Crescitelli, Alessio and Lamberti, Annalisa and Galdi, Vincenzo and Rendina, Ivo and Esposito, Emanuela},
+  title = {Advanced {DNA} detection via multispectral plasmonic metasurfaces},
+  journal = {Frontiers in Bioengineering and Biotechnology},
+  volume = {9},
+  pages = {666121},
+  month = may,
+  year = {2021},
+  url = {https://www.frontiersin.org/article/10.3389/fbioe.2021.666121},
+  doi = {10.3389/fbioe.2021.666121},
+  issn = {2296-4185},
+  note = { https://www.frontiersin.org/articles/10.3389/fbioe.2021.666121/full#supplementary-material}
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/FrBB_MTS.png" /></entry><entry><title type="html">Our paper on DNA detection accepted in FrBB</title><link href="/news/FrBB-accepted" rel="alternate" type="text/html" title="Our paper on DNA detection accepted in FrBB" /><published>2021-04-13T00:00:00+02:00</published><updated>2021-04-13T00:00:00+02:00</updated><id>/news/FrBB-accepted</id><content type="html" xml:base="/news/FrBB-accepted">&lt;p&gt;Our paper on “Advanced DNA detection via multispectral plasmonic metasurfaces,”
 in collaboration with &lt;a href=&quot;https://www.na.imm.cnr.it/users/emanuelaesposito&quot;&gt;Emanuela Esposito&lt;/a&gt;’s Group (National Research Council),
 has been accepted for publication in &lt;a href=&quot;https://www.frontiersin.org/journals/bioengineering-and-biotechnology#&quot;&gt;&lt;em&gt;Frontiers in Bioengineering and Biotechnology&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="plasmonics" /><category term="optical sensing" /><summary type="html">Our paper on “Advanced DNA detection via multispectral plasmonic metasurfaces,”
 in collaboration with Emanuela Esposito’s Group (National Research Council),
 has been accepted for publication in Frontiers in Bioengineering and Biotechnology.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/FrBB.png" /></entry><entry><title type="html">Our paper on non-Hermitian metasurfaces published in IEEE-TMTT</title><link href="/news/IEEE-TMTT-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian metasurfaces published in IEEE-TMTT" /><published>2021-04-06T00:00:00+02:00</published><updated>2021-04-06T00:00:00+02:00</updated><id>/news/IEEE-TMTT-published</id><content type="html" xml:base="/news/IEEE-TMTT-published">&lt;p&gt;Our paper on “Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy” [&lt;a href=&quot;#IJ149_IEEE-TMTT_69_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
-has been published in the &lt;em&gt;IEEE Transactions on Microwave Theory and Techniques&lt;/em&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="non-Hermitian" /><summary type="html">Our paper on “Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy” [1],
+has been published in the &lt;em&gt;IEEE Transactions on Microwave Theory and Techniques&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ149_IEEE-TMTT_69_2021&quot;&gt;Coppolaro, M., Moccia, M., Castaldi, G., Alù, &amp;amp; Galdi, V. (2021). Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy. &lt;i&gt;IEEE Transactions on Microwave Theory and Techniques&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;69&lt;/i&gt;&lt;/span&gt;(4), 2060–2071.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ149_IEEE-TMTT_69_2021-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ149_IEEE-TMTT_69_2021-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ149_IEEE-TMTT_69_2021-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/TMTT.2021.3057632&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ149_IEEE-TMTT_69_2021.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ149_IEEE-TMTT_69_2021-abstract&quot; class=&quot;collapse&quot;&gt;Electromagnetic metasurfaces enable the advanced control of surface-wave propagation by spatially tailoring the local surface reactance. Interestingly, tailoring the surface resistance distribution in space provides new, largely unexplored degrees of freedom. In this article, we show that suitable spatial modulations of the surface resistance between positive (i.e., loss) and negative (i.e., gain) values can induce peculiar dispersion effects, far beyond mere compensation. Taking inspiration from the parity-time symmetry concept in quantum physics, we put forward and explore a class of non-Hermitian metasurfaces that may exhibit extreme anisotropy mainly induced by the gain-loss interplay. Through analytical modeling and full-wave numerical simulations, we illustrate the associated phenomenon of surface-wave canalization, explore nonlocal effects and possible departures from the ideal conditions, and address the feasibility of the required constitutive parameters. Our results suggest intriguing possibilities to dynamically reconfigure the surface-wave propagation and are of potential interest for applications to imaging, sensing, and communications.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ149_IEEE-TMTT_69_2021-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ149_IEEE-TMTT_69_2021,
+  author = {Coppolaro, Marino and Moccia, Massimo and Castaldi, Giuseppe and Al\`u and Galdi, Vincenzo},
+  journal = {IEEE Transactions on Microwave Theory and Techniques},
+  title = {Surface-wave propagation on non-{H}ermitian metasurfaces with extreme anisotropy},
+  year = {2021},
+  volume = {69},
+  number = {4},
+  pages = {2060--2071},
+  doi = {10.1109/TMTT.2021.3057632},
+  month = apr
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="non-Hermitian" /><summary type="html">Our paper on “Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy” [1],
 in collaboration with Andrea Alù (ASRC-CUNY),
-has been published in the IEEE Transactions on Microwave Theory and Techniques.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/EP_NH-MTS.png" /></entry><entry><title type="html">Our paper on non-Hermitian metasurfaces accepted in IEEE-TMTT</title><link href="/news/IEEE-TMTT-accepted" rel="alternate" type="text/html" title="Our paper on non-Hermitian metasurfaces accepted in IEEE-TMTT" /><published>2021-01-12T00:00:00+01:00</published><updated>2021-01-12T00:00:00+01:00</updated><id>/news/IEEE-TMTT-accepted</id><content type="html" xml:base="/news/IEEE-TMTT-accepted">&lt;p&gt;Our paper on “Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy,”
+has been published in the IEEE Transactions on Microwave Theory and Techniques.
+
+Coppolaro, M., Moccia, M., Castaldi, G., Alù, &amp;amp; Galdi, V. (2021). Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy. IEEE Transactions on Microwave Theory and Techniques 69(4), 2060–2071.
+
+
+
+  
+    
+    Abstract
+    
+
+    BibTeX
+
+            
+    
+    DOI
+    
+
+    
+
+    
+      
+    
+    PDF
+    
+
+    
+  
+  
+
+  
+  Electromagnetic metasurfaces enable the advanced control of surface-wave propagation by spatially tailoring the local surface reactance. Interestingly, tailoring the surface resistance distribution in space provides new, largely unexplored degrees of freedom. In this article, we show that suitable spatial modulations of the surface resistance between positive (i.e., loss) and negative (i.e., gain) values can induce peculiar dispersion effects, far beyond mere compensation. Taking inspiration from the parity-time symmetry concept in quantum physics, we put forward and explore a class of non-Hermitian metasurfaces that may exhibit extreme anisotropy mainly induced by the gain-loss interplay. Through analytical modeling and full-wave numerical simulations, we illustrate the associated phenomenon of surface-wave canalization, explore nonlocal effects and possible departures from the ideal conditions, and address the feasibility of the required constitutive parameters. Our results suggest intriguing possibilities to dynamically reconfigure the surface-wave propagation and are of potential interest for applications to imaging, sensing, and communications.
+  
+
+  @article{IJ149_IEEE-TMTT_69_2021,
+  author = {Coppolaro, Marino and Moccia, Massimo and Castaldi, Giuseppe and Al\`u and Galdi, Vincenzo},
+  journal = {IEEE Transactions on Microwave Theory and Techniques},
+  title = {Surface-wave propagation on non-{H}ermitian metasurfaces with extreme anisotropy},
+  year = {2021},
+  volume = {69},
+  number = {4},
+  pages = {2060--2071},
+  doi = {10.1109/TMTT.2021.3057632},
+  month = apr
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/EP_NH-MTS.png" /></entry><entry><title type="html">Our paper on non-Hermitian metasurfaces accepted in IEEE-TMTT</title><link href="/news/IEEE-TMTT-accepted" rel="alternate" type="text/html" title="Our paper on non-Hermitian metasurfaces accepted in IEEE-TMTT" /><published>2021-01-12T00:00:00+01:00</published><updated>2021-01-12T00:00:00+01:00</updated><id>/news/IEEE-TMTT-accepted</id><content type="html" xml:base="/news/IEEE-TMTT-accepted">&lt;p&gt;Our paper on “Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy,”
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 has been accepted for publication in the &lt;a href=&quot;https://mtt.org/publications/transactions/&quot;&gt;&lt;em&gt;IEEE Transactions on Microwave Theory and Techniques&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
@@ -313,105 +511,4 @@ Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Moccia, M., … Gald
   organization = {New York (NY), USA, Sep. 28-Oct. 30, 2020 (online)},
   month = sep,
   year = {2020}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/Metamaterials-2020.png" /></entry><entry><title type="html">Our paper on metasurface lab-on-fiber biosensors published in LPR</title><link href="/news/LPR-paper-published" rel="alternate" type="text/html" title="Our paper on metasurface lab-on-fiber biosensors published in LPR" /><published>2020-09-07T00:00:00+02:00</published><updated>2020-09-07T00:00:00+02:00</updated><id>/news/LPR-paper-published</id><content type="html" xml:base="/news/LPR-paper-published">&lt;p&gt;Our paper on “Metasurface enhanced lab-on-fiber biosensors”
-[&lt;a href=&quot;#IJ146_LPR_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] has been published in &lt;em&gt;Laser &amp;amp; Photonics Reviews&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ146_LPR_2020&quot;&gt;Consales, M., Quero, G., Spaziani, S., Principe, M., Micco, A., Galdi, V., … Cusano, A. (2020). Metasurface-enhanced lab-on-fiber biosensors. &lt;i&gt;Laser &amp;amp; Photonics Reviews&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;14&lt;/i&gt;&lt;/span&gt;(12), 2000180.&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ146_LPR_2020-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ146_LPR_2020-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ146_LPR_2020-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1002/lpor.202000180&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ146_LPR_2020.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-    &lt;li&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Flpor.202000180&amp;amp;file=lpor202000180-sup-0001-SuppMat.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ146_LPR_2020-abstract&quot; class=&quot;collapse&quot;&gt;The integration of metasurfaces on the tip of optical fibers enables advanced wavefront manipulations in Lab-on-Fiber application scenarios, and brings about new degrees of freedom that can be exploited for optimizing the surface sensitivity to local variations of the refractive index. Here, a novel biosensing platform is reported based on the integration of a phase-gradient plasmonic metasurface on the tip of an optical fiber, able to detect biomolecular interactions with very high sensitivity. Specifically, the capability of the proposed platform to detect very low concentrations of streptavidin in running buffer solutions, with a limit of detection of the order of a few ng mL−1, is demonstrated. In addition, its inherent integrability within medical catheters/needles renders it potentially very attractive for application scenarios of real-time diagnosis via liquid biopsy at precise locations inside the human body.&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ146_LPR_2020-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ146_LPR_2020,
-  author = {Consales, Marco and Quero, Giuseppe and Spaziani, Sara and Principe, Maria and Micco, Alberto and Galdi, Vincenzo and Cutolo, Antonello and Cusano, Andrea},
-  title = {Metasurface-enhanced lab-on-fiber biosensors},
-  journal = {Laser \&amp;amp; Photonics Reviews},
-  volume = {14},
-  issue = {12},
-  pages = {2000180},
-  doi = {10.1002/lpor.202000180},
-  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Flpor.202000180&amp;amp;file=lpor202000180-sup-0001-SuppMat.pdf},
-  year = {2020},
-  month = dec
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="metasurfaces" /><category term="optical fibers" /><category term="plasmonics" /><category term="lab-on-fiber" /><summary type="html">Our paper on “Metasurface enhanced lab-on-fiber biosensors”
-[1] has been published in Laser &amp;amp; Photonics Reviews.
-
-Consales, M., Quero, G., Spaziani, S., Principe, M., Micco, A., Galdi, V., … Cusano, A. (2020). Metasurface-enhanced lab-on-fiber biosensors. Laser &amp;amp; Photonics Reviews 14(12), 2000180.
-
-
-
-  
-    
-    Abstract
-    
-
-    BibTeX
-
-            
-    
-    DOI
-    
-
-    
-
-    
-      
-    
-    PDF
-    
-
-    
-    Supplements
-    
-  
-  
-
-  
-  The integration of metasurfaces on the tip of optical fibers enables advanced wavefront manipulations in Lab-on-Fiber application scenarios, and brings about new degrees of freedom that can be exploited for optimizing the surface sensitivity to local variations of the refractive index. Here, a novel biosensing platform is reported based on the integration of a phase-gradient plasmonic metasurface on the tip of an optical fiber, able to detect biomolecular interactions with very high sensitivity. Specifically, the capability of the proposed platform to detect very low concentrations of streptavidin in running buffer solutions, with a limit of detection of the order of a few ng mL−1, is demonstrated. In addition, its inherent integrability within medical catheters/needles renders it potentially very attractive for application scenarios of real-time diagnosis via liquid biopsy at precise locations inside the human body.
-  
-
-  @article{IJ146_LPR_2020,
-  author = {Consales, Marco and Quero, Giuseppe and Spaziani, Sara and Principe, Maria and Micco, Alberto and Galdi, Vincenzo and Cutolo, Antonello and Cusano, Andrea},
-  title = {Metasurface-enhanced lab-on-fiber biosensors},
-  journal = {Laser \&amp;amp; Photonics Reviews},
-  volume = {14},
-  issue = {12},
-  pages = {2000180},
-  doi = {10.1002/lpor.202000180},
-  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Flpor.202000180&amp;amp;file=lpor202000180-sup-0001-SuppMat.pdf},
-  year = {2020},
-  month = dec
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/MT-bio.png" /></entry></feed>
+}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/Metamaterials-2020.png" /></entry></feed>

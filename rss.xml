@@ -5,10 +5,74 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2021-04-22T10:18:46+02:00</lastBuildDate>
-        <pubDate>2021-04-22T10:18:46+02:00</pubDate>
+        <lastBuildDate>2021-06-02T19:07:42+02:00</lastBuildDate>
+        <pubDate>2021-06-02T19:07:42+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on DNA detection published in FrBB</title>
+                <description>&lt;p&gt;Our paper on “Advanced DNA detection via multispectral plasmonic metasurfaces” [&lt;a href=&quot;#IJ150_FBIOE_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+in collaboration with &lt;a href=&quot;https://www.na.imm.cnr.it/users/emanuelaesposito&quot;&gt;Emanuela Esposito&lt;/a&gt;’s Group (National Research Council),
+has been published in &lt;em&gt;Frontiers in Bioengineering and Biotechnology&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ150_FBIOE_2021&quot;&gt;Di Meo, V., Moccia, M., Sanità, G., Crescitelli, A., Lamberti, A., Galdi, V., … Esposito, E. (2021). Advanced DNA detection via multispectral plasmonic metasurfaces. &lt;i&gt;Frontiers in Bioengineering and Biotechnology&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;9&lt;/i&gt;&lt;/span&gt;, 666121.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ150_FBIOE_2021-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ150_FBIOE_2021-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ150_FBIOE_2021-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.3389/fbioe.2021.666121&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ150_FBIOE_2021.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot; https://www.frontiersin.org/articles/10.3389/fbioe.2021.666121/full#supplementary-material&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ150_FBIOE_2021-abstract&quot; class=&quot;collapse&quot;&gt;We propose and demonstrate a sensing platform based on plasmonic metasurfaces for the detection of very low concentrations of deoxyribo-nucleic acid (DNA) fragments. The platform relies on surface-enhanced infrared absorption spectroscopy, implemented via a multispectral metasurface. Specifically, different regions (“pixels”) are engineered so as to separately cover the medium-infrared range of the electromagnetic spectrum extending from the functional-groups to the fingerprint region of a single analyte. In conjunction with a suitable bio-functionalization, this enables univocal and label-free recognition of specific molecules. For experimental validation, we fabricate a large-area gold metasurface on a silicon chip, and functionalize it with a recognition layer of peptide nucleic acid (PNA). Our experimental results indicate the possibility to detect complementary DNA fragments in concentrations as low as 50 fM, i.e., well below the value attained by standard methods, with additional advantages in terms of processing time, versatility and ease of implementation/operation.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ150_FBIOE_2021-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ150_FBIOE_2021,
+  author = {Di Meo, Valentina and Moccia, Massimo and Sanit\`a, Gennaro and Crescitelli, Alessio and Lamberti, Annalisa and Galdi, Vincenzo and Rendina, Ivo and Esposito, Emanuela},
+  title = {Advanced {DNA} detection via multispectral plasmonic metasurfaces},
+  journal = {Frontiers in Bioengineering and Biotechnology},
+  volume = {9},
+  pages = {666121},
+  month = may,
+  year = {2021},
+  url = {https://www.frontiersin.org/article/10.3389/fbioe.2021.666121},
+  doi = {10.3389/fbioe.2021.666121},
+  issn = {2296-4185},
+  note = { https://www.frontiersin.org/articles/10.3389/fbioe.2021.666121/full#supplementary-material}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://fw-lab.org/news/FrBB-published</link>
+                <guid>http://fw-lab.org/news/FrBB-published</guid>
+                <pubDate>2021-05-12T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Our paper on DNA detection accepted in FrBB</title>
@@ -28,6 +92,54 @@ has been accepted for publication in &lt;a href=&quot;https://www.frontiersin.or
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 has been published in the &lt;em&gt;IEEE Transactions on Microwave Theory and Techniques&lt;/em&gt;.&lt;/p&gt;
 
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ149_IEEE-TMTT_69_2021&quot;&gt;Coppolaro, M., Moccia, M., Castaldi, G., Alù, &amp;amp; Galdi, V. (2021). Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy. &lt;i&gt;IEEE Transactions on Microwave Theory and Techniques&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;69&lt;/i&gt;&lt;/span&gt;(4), 2060–2071.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ149_IEEE-TMTT_69_2021-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ149_IEEE-TMTT_69_2021-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ149_IEEE-TMTT_69_2021-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1109/TMTT.2021.3057632&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ149_IEEE-TMTT_69_2021.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ149_IEEE-TMTT_69_2021-abstract&quot; class=&quot;collapse&quot;&gt;Electromagnetic metasurfaces enable the advanced control of surface-wave propagation by spatially tailoring the local surface reactance. Interestingly, tailoring the surface resistance distribution in space provides new, largely unexplored degrees of freedom. In this article, we show that suitable spatial modulations of the surface resistance between positive (i.e., loss) and negative (i.e., gain) values can induce peculiar dispersion effects, far beyond mere compensation. Taking inspiration from the parity-time symmetry concept in quantum physics, we put forward and explore a class of non-Hermitian metasurfaces that may exhibit extreme anisotropy mainly induced by the gain-loss interplay. Through analytical modeling and full-wave numerical simulations, we illustrate the associated phenomenon of surface-wave canalization, explore nonlocal effects and possible departures from the ideal conditions, and address the feasibility of the required constitutive parameters. Our results suggest intriguing possibilities to dynamically reconfigure the surface-wave propagation and are of potential interest for applications to imaging, sensing, and communications.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ149_IEEE-TMTT_69_2021-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ149_IEEE-TMTT_69_2021,
+  author = {Coppolaro, Marino and Moccia, Massimo and Castaldi, Giuseppe and Al\`u and Galdi, Vincenzo},
+  journal = {IEEE Transactions on Microwave Theory and Techniques},
+  title = {Surface-wave propagation on non-{H}ermitian metasurfaces with extreme anisotropy},
+  year = {2021},
+  volume = {69},
+  number = {4},
+  pages = {2060--2071},
+  doi = {10.1109/TMTT.2021.3057632},
+  month = apr
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
 </description>
                 <link>http://fw-lab.org/news/IEEE-TMTT-published</link>
                 <guid>http://fw-lab.org/news/IEEE-TMTT-published</guid>
