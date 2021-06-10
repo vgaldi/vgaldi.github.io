@@ -5,10 +5,24 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2021-06-02T19:07:42+02:00</lastBuildDate>
-        <pubDate>2021-06-02T19:07:42+02:00</pubDate>
+        <lastBuildDate>2021-06-10T15:36:25+02:00</lastBuildDate>
+        <pubDate>2021-06-10T15:36:25+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on exceptional points in the flatland accepted in PRAppl</title>
+                <description>&lt;p&gt;Our paper on “Exceptional points in the flatland: A non-Hermitian line-wave scenario,”
+in collaboration with &lt;a href=&quot;https://monticone.ece.cornell.edu&quot;&gt;Francesco Monticone&lt;/a&gt; (Cornell University),
+has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/prapplied/&quot;&gt;&lt;em&gt;Physical Review Applied&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;An &lt;a href=&quot;http://arxiv.org/abs/2106.04956&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/news/PRAppl-paper-accepted</link>
+                <guid>http://fw-lab.org/news/PRAppl-paper-accepted</guid>
+                <pubDate>2021-06-10T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Our paper on DNA detection published in FrBB</title>
@@ -153,7 +167,6 @@ in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios
 has been accepted for publication in the &lt;a href=&quot;https://mtt.org/publications/transactions/&quot;&gt;&lt;em&gt;IEEE Transactions on Microwave Theory and Techniques&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/2101.06641&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;
-
 </description>
                 <link>http://fw-lab.org/news/IEEE-TMTT-accepted</link>
                 <guid>http://fw-lab.org/news/IEEE-TMTT-accepted</guid>
@@ -1780,7 +1793,8 @@ has been published in &lt;em&gt;Nanomaterials and Nanotechnology&lt;/em&gt;.&lt;
 
         <item>
                 <title>Our paper on meta-tip sensors accepted in NMNT</title>
-                <description>&lt;p&gt;Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications”
+                <description>&lt;p&gt;Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications,”
+in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group, 
 has been accepted for publication in &lt;a href=&quot;https://journals.sagepub.com/home/nax&quot;&gt;&lt;em&gt;Nanomaterials and Nanotechnology&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
 </description>
@@ -2260,10 +2274,9 @@ in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios
 has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/prapplied/&quot;&gt;&lt;em&gt;Physical Review Applied&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/1712.08496&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;
-
 </description>
-                <link>http://fw-lab.org/news/PRB-paper-MPI-MTM-accepted</link>
-                <guid>http://fw-lab.org/news/PRB-paper-MPI-MTM-accepted</guid>
+                <link>http://fw-lab.org/news/PRAppl-paper-accepted</link>
+                <guid>http://fw-lab.org/news/PRAppl-paper-accepted</guid>
                 <pubDate>2018-08-27T00:00:00+02:00</pubDate>
         </item>
 
@@ -2952,7 +2965,6 @@ has been published in &lt;em&gt;Physical Review B&lt;/em&gt; as a Rapid Communic
   
     
 &lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
-
 </description>
                 <link>http://fw-lab.org/news/PRB-paper-MPI-MTM-published</link>
                 <guid>http://fw-lab.org/news/PRB-paper-MPI-MTM-published</guid>
