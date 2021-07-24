@@ -1,12 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-06-10T15:36:25+02:00</updated><id>http://localhost:4000//</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on exceptional points in the flatland accepted in PRAppl</title><link href="http://localhost:4000/news/PRAppl-paper-accepted" rel="alternate" type="text/html" title="Our paper on exceptional points in the flatland accepted in PRAppl" /><published>2021-06-10T00:00:00+02:00</published><updated>2021-06-10T00:00:00+02:00</updated><id>http://localhost:4000/news/PRAppl-paper-accepted</id><content type="html" xml:base="http://localhost:4000/news/PRAppl-paper-accepted">&lt;p&gt;Our paper on “Exceptional points in the flatland: A non-Hermitian line-wave scenario,”
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-07-24T17:42:21+02:00</updated><id>/feed.xml</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on exceptional points in the flatland published in PRAppl</title><link href="/news/PRAppl-paper-published" rel="alternate" type="text/html" title="Our paper on exceptional points in the flatland published in PRAppl" /><published>2021-06-28T00:00:00+02:00</published><updated>2021-06-28T00:00:00+02:00</updated><id>/news/PRAppl-paper-published</id><content type="html" xml:base="/news/PRAppl-paper-published">&lt;p&gt;Our paper on “Exceptional points in flat optics: A non-Hermitian line-wave scenario” [&lt;a class=&quot;citation&quot; href=&quot;#IJ151_PRAppl_15_064067_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+in collaboration with &lt;a href=&quot;https://monticone.ece.cornell.edu&quot;&gt;Francesco Monticone&lt;/a&gt; (Cornell University),
+has been published in &lt;em&gt;Physical Review Applied&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ151_PRAppl_15_064067_2021&quot;&gt;Moccia, M., Castaldi, G., Monticone, F., &amp;amp; Galdi, V. (2021). Exceptional points in flat optics: A non-Hermitian line-wave scenario. &lt;i&gt;Physical Review Applied&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;15&lt;/i&gt;&lt;/span&gt;(6), 064067.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ151_PRAppl_15_064067_2021-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ151_PRAppl_15_064067_2021-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ151_PRAppl_15_064067_2021-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevApplied.15.064067&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ151_PRAppl_15_064067_2021.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ151_PRAppl_15_064067_2021-abstract&quot; class=&quot;collapse&quot;&gt;Line waves are recently discovered wave entities that are localized along two directions and therefore can be viewed as the one-dimensional counterpart of surface waves. These waves can be supported at discontinuities of the surface reactance and/or resistance of low-dimensional materials such as metasurfaces or graphene. Here, a broader class of non-Hermitian surface-impedance junctions is studied that can support coupled line waves and that allows the investigation of different one-dimensional waveguiding mechanisms in a unified framework. It is theoretically demonstrated that, under parity–time-symmetry conditions, exceptional points can occur in a truly flat-optics scenario, hence endowing these waveguiding systems with the attractive features of both line-wave and exceptional-point physics and shedding further light on the phase transitions existing in these systems. It is also shown that the required surface-impedance parameters are compatible with those attainable with typical models of photoexcited graphene metasurfaces at terahertz frequencies. Besides providing additional understanding in the physics of line waves, which is still in its infancy, these results pave the way toward intriguing developments in the largely unexplored field of non-Hermitian flat optics, with possible applications ranging from sensing to lasing and on-chip optical signal processing.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ151_PRAppl_15_064067_2021-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ151_PRAppl_15_064067_2021,
+  title = {Exceptional points in flat optics: A non-{H}ermitian line-wave scenario},
+  author = {Moccia, Massimo and Castaldi, Giuseppe and Monticone, Francesco and Galdi, Vincenzo},
+  journal = {Physical Review Applied},
+  volume = {15},
+  issue = {6},
+  pages = {064067},
+  numpages = {11},
+  year = {2021},
+  month = jun,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevApplied.15.064067},
+  url = {https://link.aps.org/doi/10.1103/PhysRevApplied.15.064067}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="non-Hermitian" /><summary type="html">Our paper on “Exceptional points in flat optics: A non-Hermitian line-wave scenario” [1], in collaboration with Francesco Monticone (Cornell University), has been published in Physical Review Applied.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/EP-NHLW.jpg" /><media:content medium="image" url="/assets/images/news/EP-NHLW.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Our paper on exceptional points in the flatland accepted in PRAppl</title><link href="/news/PRAppl-paper-accepted" rel="alternate" type="text/html" title="Our paper on exceptional points in the flatland accepted in PRAppl" /><published>2021-06-10T00:00:00+02:00</published><updated>2021-06-10T00:00:00+02:00</updated><id>/news/PRAppl-paper-accepted</id><content type="html" xml:base="/news/PRAppl-paper-accepted">&lt;p&gt;Our paper on “Exceptional points in the flatland: A non-Hermitian line-wave scenario,”
 in collaboration with &lt;a href=&quot;https://monticone.ece.cornell.edu&quot;&gt;Francesco Monticone&lt;/a&gt; (Cornell University),
 has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/prapplied/&quot;&gt;&lt;em&gt;Physical Review Applied&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;An &lt;a href=&quot;http://arxiv.org/abs/2106.04956&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="non-Hermitian" /><summary type="html">Our paper on “Exceptional points in the flatland: A non-Hermitian line-wave scenario,”
-in collaboration with Francesco Monticone (Cornell University),
-has been accepted for publication in Physical Review Applied.
-
-An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/PRAppl.jpg" /></entry><entry><title type="html">Our paper on DNA detection published in FrBB</title><link href="http://localhost:4000/news/FrBB-published" rel="alternate" type="text/html" title="Our paper on DNA detection published in FrBB" /><published>2021-05-12T00:00:00+02:00</published><updated>2021-05-12T00:00:00+02:00</updated><id>http://localhost:4000/news/FrBB-published</id><content type="html" xml:base="http://localhost:4000/news/FrBB-published">&lt;p&gt;Our paper on “Advanced DNA detection via multispectral plasmonic metasurfaces” [&lt;a href=&quot;#IJ150_FBIOE_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+&lt;p&gt;An &lt;a href=&quot;http://arxiv.org/abs/2106.04956&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="non-Hermitian" /><summary type="html">Our paper on “Exceptional points in the flatland: A non-Hermitian line-wave scenario,” in collaboration with Francesco Monticone (Cornell University), has been accepted for publication in Physical Review Applied. An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/PRAppl.jpg" /><media:content medium="image" url="/assets/images/news/PRAppl.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Our paper on DNA detection published in FrBB</title><link href="/news/FrBB-published" rel="alternate" type="text/html" title="Our paper on DNA detection published in FrBB" /><published>2021-05-12T00:00:00+02:00</published><updated>2021-05-12T00:00:00+02:00</updated><id>/news/FrBB-published</id><content type="html" xml:base="/news/FrBB-published">&lt;p&gt;Our paper on “Advanced DNA detection via multispectral plasmonic metasurfaces” [&lt;a class=&quot;citation&quot; href=&quot;#IJ150_FBIOE_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://www.na.imm.cnr.it/users/emanuelaesposito&quot;&gt;Emanuela Esposito&lt;/a&gt;’s Group (National Research Council),
 has been published in &lt;em&gt;Frontiers in Bioengineering and Biotechnology&lt;/em&gt;.&lt;/p&gt;
 
@@ -61,61 +111,9 @@ has been published in &lt;em&gt;Frontiers in Bioengineering and Biotechnology&lt
 
   
     
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="plasmonics" /><category term="optical sensing" /><summary type="html">Our paper on “Advanced DNA detection via multispectral plasmonic metasurfaces” [1],
-in collaboration with Emanuela Esposito’s Group (National Research Council),
-has been published in Frontiers in Bioengineering and Biotechnology.
-
-Di Meo, V., Moccia, M., Sanità, G., Crescitelli, A., Lamberti, A., Galdi, V., … Esposito, E. (2021). Advanced DNA detection via multispectral plasmonic metasurfaces. Frontiers in Bioengineering and Biotechnology 9, 666121.
-
-
-
-  
-    
-    Abstract
-    
-
-    BibTeX
-
-            
-    
-    DOI
-    
-
-    
-
-    
-      
-    
-    PDF
-    
-
-    
-    Supplements
-    
-  
-  
-
-  
-  We propose and demonstrate a sensing platform based on plasmonic metasurfaces for the detection of very low concentrations of deoxyribo-nucleic acid (DNA) fragments. The platform relies on surface-enhanced infrared absorption spectroscopy, implemented via a multispectral metasurface. Specifically, different regions (“pixels”) are engineered so as to separately cover the medium-infrared range of the electromagnetic spectrum extending from the functional-groups to the fingerprint region of a single analyte. In conjunction with a suitable bio-functionalization, this enables univocal and label-free recognition of specific molecules. For experimental validation, we fabricate a large-area gold metasurface on a silicon chip, and functionalize it with a recognition layer of peptide nucleic acid (PNA). Our experimental results indicate the possibility to detect complementary DNA fragments in concentrations as low as 50 fM, i.e., well below the value attained by standard methods, with additional advantages in terms of processing time, versatility and ease of implementation/operation.
-  
-
-  @article{IJ150_FBIOE_2021,
-  author = {Di Meo, Valentina and Moccia, Massimo and Sanit\`a, Gennaro and Crescitelli, Alessio and Lamberti, Annalisa and Galdi, Vincenzo and Rendina, Ivo and Esposito, Emanuela},
-  title = {Advanced {DNA} detection via multispectral plasmonic metasurfaces},
-  journal = {Frontiers in Bioengineering and Biotechnology},
-  volume = {9},
-  pages = {666121},
-  month = may,
-  year = {2021},
-  url = {https://www.frontiersin.org/article/10.3389/fbioe.2021.666121},
-  doi = {10.3389/fbioe.2021.666121},
-  issn = {2296-4185},
-  note = { https://www.frontiersin.org/articles/10.3389/fbioe.2021.666121/full#supplementary-material}
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/FrBB_MTS.png" /></entry><entry><title type="html">Our paper on DNA detection accepted in FrBB</title><link href="http://localhost:4000/news/FrBB-accepted" rel="alternate" type="text/html" title="Our paper on DNA detection accepted in FrBB" /><published>2021-04-13T00:00:00+02:00</published><updated>2021-04-13T00:00:00+02:00</updated><id>http://localhost:4000/news/FrBB-accepted</id><content type="html" xml:base="http://localhost:4000/news/FrBB-accepted">&lt;p&gt;Our paper on “Advanced DNA detection via multispectral plasmonic metasurfaces,”
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="plasmonics" /><category term="optical sensing" /><summary type="html">Our paper on “Advanced DNA detection via multispectral plasmonic metasurfaces” [1], in collaboration with Emanuela Esposito’s Group (National Research Council), has been published in Frontiers in Bioengineering and Biotechnology. Di Meo, V., Moccia, M., Sanità, G., Crescitelli, A., Lamberti, A., Galdi, V., … Esposito, E. (2021). Advanced DNA detection via multispectral plasmonic metasurfaces. Frontiers in Bioengineering and Biotechnology 9, 666121. Abstract BibTeX DOI PDF Supplements We propose and demonstrate a sensing platform based on plasmonic metasurfaces for the detection of very low concentrations of deoxyribo-nucleic acid (DNA) fragments. The platform relies on surface-enhanced infrared absorption spectroscopy, implemented via a multispectral metasurface. Specifically, different regions (“pixels”) are engineered so as to separately cover the medium-infrared range of the electromagnetic spectrum extending from the functional-groups to the fingerprint region of a single analyte. In conjunction with a suitable bio-functionalization, this enables univocal and label-free recognition of specific molecules. For experimental validation, we fabricate a large-area gold metasurface on a silicon chip, and functionalize it with a recognition layer of peptide nucleic acid (PNA). Our experimental results indicate the possibility to detect complementary DNA fragments in concentrations as low as 50 fM, i.e., well below the value attained by standard methods, with additional advantages in terms of processing time, versatility and ease of implementation/operation. @article{IJ150_FBIOE_2021, author = {Di Meo, Valentina and Moccia, Massimo and Sanit\`a, Gennaro and Crescitelli, Alessio and Lamberti, Annalisa and Galdi, Vincenzo and Rendina, Ivo and Esposito, Emanuela}, title = {Advanced {DNA} detection via multispectral plasmonic metasurfaces}, journal = {Frontiers in Bioengineering and Biotechnology}, volume = {9}, pages = {666121}, month = may, year = {2021}, url = {https://www.frontiersin.org/article/10.3389/fbioe.2021.666121}, doi = {10.3389/fbioe.2021.666121}, issn = {2296-4185}, note = { https://www.frontiersin.org/articles/10.3389/fbioe.2021.666121/full#supplementary-material} }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/FrBB_MTS.png" /><media:content medium="image" url="/assets/images/news/FrBB_MTS.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Our paper on DNA detection accepted in FrBB</title><link href="/news/FrBB-accepted" rel="alternate" type="text/html" title="Our paper on DNA detection accepted in FrBB" /><published>2021-04-13T00:00:00+02:00</published><updated>2021-04-13T00:00:00+02:00</updated><id>/news/FrBB-accepted</id><content type="html" xml:base="/news/FrBB-accepted">&lt;p&gt;Our paper on “Advanced DNA detection via multispectral plasmonic metasurfaces,”
 in collaboration with &lt;a href=&quot;https://www.na.imm.cnr.it/users/emanuelaesposito&quot;&gt;Emanuela Esposito&lt;/a&gt;’s Group (National Research Council),
-has been accepted for publication in &lt;a href=&quot;https://www.frontiersin.org/journals/bioengineering-and-biotechnology#&quot;&gt;&lt;em&gt;Frontiers in Bioengineering and Biotechnology&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="plasmonics" /><category term="optical sensing" /><summary type="html">Our paper on “Advanced DNA detection via multispectral plasmonic metasurfaces,”
-in collaboration with Emanuela Esposito’s Group (National Research Council),
-has been accepted for publication in Frontiers in Bioengineering and Biotechnology.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/FrBB.png" /></entry><entry><title type="html">Our paper on non-Hermitian metasurfaces published in IEEE-TMTT</title><link href="http://localhost:4000/news/IEEE-TMTT-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian metasurfaces published in IEEE-TMTT" /><published>2021-04-06T00:00:00+02:00</published><updated>2021-04-06T00:00:00+02:00</updated><id>http://localhost:4000/news/IEEE-TMTT-published</id><content type="html" xml:base="http://localhost:4000/news/IEEE-TMTT-published">&lt;p&gt;Our paper on “Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy” [&lt;a href=&quot;#IJ149_IEEE-TMTT_69_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+has been accepted for publication in &lt;a href=&quot;https://www.frontiersin.org/journals/bioengineering-and-biotechnology#&quot;&gt;&lt;em&gt;Frontiers in Bioengineering and Biotechnology&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="plasmonics" /><category term="optical sensing" /><summary type="html">Our paper on “Advanced DNA detection via multispectral plasmonic metasurfaces,” in collaboration with Emanuela Esposito’s Group (National Research Council), has been accepted for publication in Frontiers in Bioengineering and Biotechnology.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/FrBB.png" /><media:content medium="image" url="/assets/images/news/FrBB.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Our paper on non-Hermitian metasurfaces published in IEEE-TMTT</title><link href="/news/IEEE-TMTT-published" rel="alternate" type="text/html" title="Our paper on non-Hermitian metasurfaces published in IEEE-TMTT" /><published>2021-04-06T00:00:00+02:00</published><updated>2021-04-06T00:00:00+02:00</updated><id>/news/IEEE-TMTT-published</id><content type="html" xml:base="/news/IEEE-TMTT-published">&lt;p&gt;Our paper on “Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy” [&lt;a class=&quot;citation&quot; href=&quot;#IJ149_IEEE-TMTT_69_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 has been published in the &lt;em&gt;IEEE Transactions on Microwave Theory and Techniques&lt;/em&gt;.&lt;/p&gt;
 
@@ -166,62 +164,12 @@ has been published in the &lt;em&gt;IEEE Transactions on Microwave Theory and Te
 
   
     
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="non-Hermitian" /><summary type="html">Our paper on “Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy” [1],
-in collaboration with Andrea Alù (ASRC-CUNY),
-has been published in the IEEE Transactions on Microwave Theory and Techniques.
-
-Coppolaro, M., Moccia, M., Castaldi, G., Alù, &amp;amp; Galdi, V. (2021). Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy. IEEE Transactions on Microwave Theory and Techniques 69(4), 2060–2071.
-
-
-
-  
-    
-    Abstract
-    
-
-    BibTeX
-
-            
-    
-    DOI
-    
-
-    
-
-    
-      
-    
-    PDF
-    
-
-    
-  
-  
-
-  
-  Electromagnetic metasurfaces enable the advanced control of surface-wave propagation by spatially tailoring the local surface reactance. Interestingly, tailoring the surface resistance distribution in space provides new, largely unexplored degrees of freedom. In this article, we show that suitable spatial modulations of the surface resistance between positive (i.e., loss) and negative (i.e., gain) values can induce peculiar dispersion effects, far beyond mere compensation. Taking inspiration from the parity-time symmetry concept in quantum physics, we put forward and explore a class of non-Hermitian metasurfaces that may exhibit extreme anisotropy mainly induced by the gain-loss interplay. Through analytical modeling and full-wave numerical simulations, we illustrate the associated phenomenon of surface-wave canalization, explore nonlocal effects and possible departures from the ideal conditions, and address the feasibility of the required constitutive parameters. Our results suggest intriguing possibilities to dynamically reconfigure the surface-wave propagation and are of potential interest for applications to imaging, sensing, and communications.
-  
-
-  @article{IJ149_IEEE-TMTT_69_2021,
-  author = {Coppolaro, Marino and Moccia, Massimo and Castaldi, Giuseppe and Al\`u and Galdi, Vincenzo},
-  journal = {IEEE Transactions on Microwave Theory and Techniques},
-  title = {Surface-wave propagation on non-{H}ermitian metasurfaces with extreme anisotropy},
-  year = {2021},
-  volume = {69},
-  number = {4},
-  pages = {2060--2071},
-  doi = {10.1109/TMTT.2021.3057632},
-  month = apr
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/EP_NH-MTS.png" /></entry><entry><title type="html">Our paper on non-Hermitian metasurfaces accepted in IEEE-TMTT</title><link href="http://localhost:4000/news/IEEE-TMTT-accepted" rel="alternate" type="text/html" title="Our paper on non-Hermitian metasurfaces accepted in IEEE-TMTT" /><published>2021-01-12T00:00:00+01:00</published><updated>2021-01-12T00:00:00+01:00</updated><id>http://localhost:4000/news/IEEE-TMTT-accepted</id><content type="html" xml:base="http://localhost:4000/news/IEEE-TMTT-accepted">&lt;p&gt;Our paper on “Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy,”
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="non-Hermitian" /><summary type="html">Our paper on “Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy” [1], in collaboration with Andrea Alù (ASRC-CUNY), has been published in the IEEE Transactions on Microwave Theory and Techniques. Coppolaro, M., Moccia, M., Castaldi, G., Alù, &amp;amp; Galdi, V. (2021). Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy. IEEE Transactions on Microwave Theory and Techniques 69(4), 2060–2071. Abstract BibTeX DOI PDF Electromagnetic metasurfaces enable the advanced control of surface-wave propagation by spatially tailoring the local surface reactance. Interestingly, tailoring the surface resistance distribution in space provides new, largely unexplored degrees of freedom. In this article, we show that suitable spatial modulations of the surface resistance between positive (i.e., loss) and negative (i.e., gain) values can induce peculiar dispersion effects, far beyond mere compensation. Taking inspiration from the parity-time symmetry concept in quantum physics, we put forward and explore a class of non-Hermitian metasurfaces that may exhibit extreme anisotropy mainly induced by the gain-loss interplay. Through analytical modeling and full-wave numerical simulations, we illustrate the associated phenomenon of surface-wave canalization, explore nonlocal effects and possible departures from the ideal conditions, and address the feasibility of the required constitutive parameters. Our results suggest intriguing possibilities to dynamically reconfigure the surface-wave propagation and are of potential interest for applications to imaging, sensing, and communications. @article{IJ149_IEEE-TMTT_69_2021, author = {Coppolaro, Marino and Moccia, Massimo and Castaldi, Giuseppe and Al\`u and Galdi, Vincenzo}, journal = {IEEE Transactions on Microwave Theory and Techniques}, title = {Surface-wave propagation on non-{H}ermitian metasurfaces with extreme anisotropy}, year = {2021}, volume = {69}, number = {4}, pages = {2060--2071}, doi = {10.1109/TMTT.2021.3057632}, month = apr }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/EP_NH-MTS.png" /><media:content medium="image" url="/assets/images/news/EP_NH-MTS.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Our paper on non-Hermitian metasurfaces accepted in IEEE-TMTT</title><link href="/news/IEEE-TMTT-accepted" rel="alternate" type="text/html" title="Our paper on non-Hermitian metasurfaces accepted in IEEE-TMTT" /><published>2021-01-12T00:00:00+01:00</published><updated>2021-01-12T00:00:00+01:00</updated><id>/news/IEEE-TMTT-accepted</id><content type="html" xml:base="/news/IEEE-TMTT-accepted">&lt;p&gt;Our paper on “Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy,”
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 has been accepted for publication in the &lt;a href=&quot;https://mtt.org/publications/transactions/&quot;&gt;&lt;em&gt;IEEE Transactions on Microwave Theory and Techniques&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/2101.06641&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="non-Hermitian" /><summary type="html">Our paper on “Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy,”
-in collaboration with Andrea Alù (ASRC-CUNY),
-has been accepted for publication in the IEEE Transactions on Microwave Theory and Techniques.
-
-An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/IEEE-TMTT.jpg" /></entry><entry><title type="html">Our invited review paper on space-time doding metasurfaces published in EPJ-AM</title><link href="http://localhost:4000/news/EPJAM-published" rel="alternate" type="text/html" title="Our invited review paper on space-time doding metasurfaces published in EPJ-AM" /><published>2020-12-11T00:00:00+01:00</published><updated>2020-12-11T00:00:00+01:00</updated><id>http://localhost:4000/news/EPJAM-published</id><content type="html" xml:base="http://localhost:4000/news/EPJAM-published">&lt;p&gt;Our invited review paper on “Recent advances and perspectives on space-time coding digital metasurfaces”
-[&lt;a href=&quot;#IJ148_EPJAM_7_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+&lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/2101.06641&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="non-Hermitian" /><summary type="html">Our paper on “Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy,” in collaboration with Andrea Alù (ASRC-CUNY), has been accepted for publication in the IEEE Transactions on Microwave Theory and Techniques. An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/IEEE-TMTT.jpg" /><media:content medium="image" url="/assets/images/news/IEEE-TMTT.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Our invited review paper on space-time doding metasurfaces published in EPJ-AM</title><link href="/news/EPJAM-published" rel="alternate" type="text/html" title="Our invited review paper on space-time doding metasurfaces published in EPJ-AM" /><published>2020-12-11T00:00:00+01:00</published><updated>2020-12-11T00:00:00+01:00</updated><id>/news/EPJAM-published</id><content type="html" xml:base="/news/EPJAM-published">&lt;p&gt;Our invited review paper on “Recent advances and perspectives on space-time coding digital metasurfaces”
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ148_EPJAM_7_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published in &lt;em&gt;EPJ Applied Metamaterials&lt;/em&gt;.&lt;/p&gt;
 
@@ -271,72 +219,17 @@ has been published in &lt;em&gt;EPJ Applied Metamaterials&lt;/em&gt;.&lt;/p&gt;
 
   
     
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="space-time" /><category term="coding" /><summary type="html">Our invited review paper on “Recent advances and perspectives on space-time coding digital metasurfaces”
-[1],
-in collaboration with Tie Jun Cui’s Group (Southeast University),
-has been published in EPJ Applied Metamaterials.
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="space-time" /><category term="coding" /><summary type="html">Our invited review paper on “Recent advances and perspectives on space-time coding digital metasurfaces” [1], in collaboration with Tie Jun Cui’s Group (Southeast University), has been published in EPJ Applied Metamaterials. Zhang, L., Dai, J. Y., Moccia, M., Castaldi, G., Cui, T. J., &amp;amp; Galdi, V. (2020). Recent advances and perspectives on space-time coding digital metasurfaces. EPJ Applied Metamaterials 7, 7. Abstract BibTeX DOI PDF Within the overarching framework of space-time metastructures, digital metasurfaces based on spatio-temporal coding are emerging as powerful and versatile architectures for complex ﬁeld manipulations, also in view of their inherently programmable nature. Here, we provide a compact survey of our recent results and ongoing studies in this research area. Examples of ﬁeld manipulations include harmonic beam steering and/ or shaping and programmable nonreciprocal effects. Possible applications are abundant and range from wireless communications to radars and imaging. @article{IJ148_EPJAM_7_2020, author = {Zhang, Lei and Dai, Jun Yan and Moccia, Massimo and Castaldi, Giuseppe and Cui, Tie Jun and Galdi, Vincenzo}, title = {Recent advances and perspectives on space-time coding digital metasurfaces}, doi = {10.1051/epjam/2020007}, journal = {EPJ Applied Metamaterials}, year = {2020}, volume = {7}, pages = {7}, month = dec }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/STC-MTS.png" /><media:content medium="image" url="/assets/images/news/STC-MTS.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">New lab member</title><link href="/news/new-lab-member" rel="alternate" type="text/html" title="New lab member" /><published>2020-12-01T00:00:00+01:00</published><updated>2020-12-01T00:00:00+01:00</updated><id>/news/new-lab-member</id><content type="html" xml:base="/news/new-lab-member">&lt;p&gt;&lt;a href=&quot;/team/dustin-krogstad&quot;&gt;Dustin Krogstad&lt;/a&gt; has joined the Fields &amp;amp; Waves Lab as a Ph.D. student in Information Technologies for Engineering.&lt;/p&gt;
 
-Zhang, L., Dai, J. Y., Moccia, M., Castaldi, G., Cui, T. J., &amp;amp; Galdi, V. (2020). Recent advances and perspectives on space-time coding digital metasurfaces. EPJ Applied Metamaterials 7, 7.
-
-
-
-  
-    
-    Abstract
-    
-
-    BibTeX
-
-            
-    
-    DOI
-    
-
-    
-
-    
-      
-    
-    PDF
-    
-
-    
-  
-  
-
-  
-  Within the overarching framework of space-time metastructures, digital metasurfaces based on spatio-temporal coding are emerging as powerful and versatile architectures for complex ﬁeld manipulations, also in view of their inherently programmable nature. Here, we provide a compact survey of our recent results and ongoing studies in this research area. Examples of ﬁeld manipulations include harmonic beam steering and/ or shaping and programmable nonreciprocal effects. Possible applications are abundant and range from wireless communications to radars and imaging.
-  
-
-  @article{IJ148_EPJAM_7_2020,
-  author = {Zhang, Lei and Dai, Jun Yan and Moccia, Massimo and Castaldi, Giuseppe and Cui, Tie Jun and Galdi, Vincenzo},
-  title = {Recent advances and perspectives on space-time coding digital metasurfaces},
-  doi = {10.1051/epjam/2020007},
-  journal = {EPJ Applied Metamaterials},
-  year = {2020},
-  volume = {7},
-  pages = {7},
-  month = dec
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/STC-MTS.png" /></entry><entry><title type="html">New lab member</title><link href="http://localhost:4000/news/new-lab-member" rel="alternate" type="text/html" title="New lab member" /><published>2020-12-01T00:00:00+01:00</published><updated>2020-12-01T00:00:00+01:00</updated><id>http://localhost:4000/news/new-lab-member</id><content type="html" xml:base="http://localhost:4000/news/new-lab-member">&lt;p&gt;&lt;a href=&quot;/team/dustin-krogstad&quot;&gt;Dustin Krogstad&lt;/a&gt; has joined the Fields &amp;amp; Waves Lab as a Ph.D. student in Information Technologies for Engineering.&lt;/p&gt;
-
-&lt;p&gt;His Ph.D. work will be focused on the study of millimeter-wave radar technologies.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="Dustin Krogstad" /><summary type="html">Dustin Krogstad has joined the Fields &amp;amp; Waves Lab as a Ph.D. student in Information Technologies for Engineering.
-
-His Ph.D. work will be focused on the study of millimeter-wave radar technologies.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/welcome.png" /></entry><entry><title type="html">Ph.D. defense</title><link href="http://localhost:4000/news/Tien_PhD_defense" rel="alternate" type="text/html" title="Ph.D. defense" /><published>2020-11-03T00:00:00+01:00</published><updated>2020-11-03T00:00:00+01:00</updated><id>http://localhost:4000/news/Tien_PhD_defense</id><content type="html" xml:base="http://localhost:4000/news/Tien_PhD_defense">&lt;p&gt;&lt;a href=&quot;/team/joseph-tien&quot;&gt;Joseph Tien&lt;/a&gt; has successfully defended his Ph.D. thesis 
+&lt;p&gt;His Ph.D. work will be focused on the study of millimeter-wave radar technologies.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="Dustin Krogstad" /><summary type="html">Dustin Krogstad has joined the Fields &amp;amp; Waves Lab as a Ph.D. student in Information Technologies for Engineering. His Ph.D. work will be focused on the study of millimeter-wave radar technologies.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/welcome.png" /><media:content medium="image" url="/assets/images/news/welcome.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Ph.D. defense</title><link href="/news/Tien_PhD_defense" rel="alternate" type="text/html" title="Ph.D. defense" /><published>2020-11-03T00:00:00+01:00</published><updated>2020-11-03T00:00:00+01:00</updated><id>/news/Tien_PhD_defense</id><content type="html" xml:base="/news/Tien_PhD_defense">&lt;p&gt;&lt;a href=&quot;/team/joseph-tien&quot;&gt;Joseph Tien&lt;/a&gt; has successfully defended his Ph.D. thesis 
 in Information Technologies for Engineering
 entitled 
 &lt;em&gt;“Submillimeter Precision Close Range Active Target Tracking Using mm-Wave FMCW Radar for Artificial Reality”&lt;/em&gt;, 
 supervised by Profs. &lt;a href=&quot;https://www.linkedin.com/in/riccardo-desalvo-11042631&quot;&gt;Riccardo DeSalvo&lt;/a&gt; 
 and &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Congratulations Dr. Tien!&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="Joseph Tien" /><summary type="html">Joseph Tien has successfully defended his Ph.D. thesis 
-in Information Technologies for Engineering
-entitled 
-“Submillimeter Precision Close Range Active Target Tracking Using mm-Wave FMCW Radar for Artificial Reality”, 
-supervised by Profs. Riccardo DeSalvo 
-and Vincenzo Galdi.
-
-Congratulations Dr. Tien!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/PhDone.jpg" /></entry><entry><title type="html">Our paper on harmonic beam shaping published in AdFM</title><link href="http://localhost:4000/news/AFM-published" rel="alternate" type="text/html" title="Our paper on harmonic beam shaping published in AdFM" /><published>2020-10-28T00:00:00+01:00</published><updated>2020-10-28T00:00:00+01:00</updated><id>http://localhost:4000/news/AFM-published</id><content type="html" xml:base="http://localhost:4000/news/AFM-published">&lt;p&gt;Our paper on “Joint multi‐frequency beam shaping and steering via space-time-coding digital metasurfaces”
-[&lt;a href=&quot;#IJ147_AFM_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+&lt;p&gt;Congratulations Dr. Tien!&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="Joseph Tien" /><summary type="html">Joseph Tien has successfully defended his Ph.D. thesis in Information Technologies for Engineering entitled “Submillimeter Precision Close Range Active Target Tracking Using mm-Wave FMCW Radar for Artificial Reality”, supervised by Profs. Riccardo DeSalvo and Vincenzo Galdi. Congratulations Dr. Tien!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/PhDone.jpg" /><media:content medium="image" url="/assets/images/news/PhDone.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Our paper on harmonic beam shaping published in AdFM</title><link href="/news/AFM-published" rel="alternate" type="text/html" title="Our paper on harmonic beam shaping published in AdFM" /><published>2020-10-28T00:00:00+01:00</published><updated>2020-10-28T00:00:00+01:00</updated><id>/news/AFM-published</id><content type="html" xml:base="/news/AFM-published">&lt;p&gt;Our paper on “Joint multi‐frequency beam shaping and steering via space-time-coding digital metasurfaces”
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ147_AFM_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published in &lt;em&gt;Advanced Functional Materials&lt;/em&gt;.&lt;/p&gt;
 
@@ -390,58 +283,4 @@ has been published in &lt;em&gt;Advanced Functional Materials&lt;/em&gt;.&lt;/p&
 
   
     
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="space-time" /><category term="coding" /><summary type="html">Our paper on “Joint multi‐frequency beam shaping and steering via space-time-coding digital metasurfaces”
-[1],
-in collaboration with Tie Jun Cui’s Group (Southeast University),
-has been published in Advanced Functional Materials.
-
-Castaldi, G., Zhang, L., Moccia, M., Hathaway, A. Y., Tang, W. X., Cui, T. J., &amp;amp; Galdi, V. (2021). Joint multi-frequency beam shaping and steering via space-time-coding digital metasurfaces. Advanced Functional Materials 31(6), 2007620.
-
-
-
-  
-    
-    Abstract
-    
-
-    BibTeX
-
-            
-    
-    DOI
-    
-
-    
-
-    
-      
-    
-    PDF
-    
-
-    
-    Supplements
-    
-  
-  
-
-  
-  Digital programmable metasurfaces provide a very powerful and versatile platform for implementing spatio-temporal modulation schemes that are of great interest within the emerging framework of space-time metastructures. In particular, space-time coding digital metasurfaces have been successfully applied to advanced wavefront manipulations in both the spatial and spectral domains. However, conventional space-time coding schemes do not allow the joint syntheses of the transmission/scattering angular responses at multiple frequencies, which are potentially useful in a variety of applications of practical interest. Here, a strategy is put forward to lift this limitation, thereby enabling joint multi-frequency beam shaping and steering, i.e., the independent and simultaneous syntheses of prescribed scattering patterns at given harmonic frequencies. The proposed approach relies on a more sophisticated space-time coding, with suitably designed, temporally intertwined coding sub-sequences, which effectively disentangles the joint multi-frequency syntheses. The power and versatility of the approach are illustrated via a series of representative application examples, including multi-beam, diffuse-scattering, and orbital-angular-momentum patterns. Theoretical predictions are experimentally validated by means of microwave measurements. The outcomes of this study hold promising potentials for applications to future imaging, information and mobile-communication systems.
-  
-
-  @article{IJ147_AFM_2020,
-  author = {Castaldi, Giuseppe and Zhang, Lei and Moccia, Massimo and Hathaway, Alisa Y. and Tang, Wen Xuan and Cui, Tie Jun and Galdi, Vincenzo},
-  title = {Joint multi-frequency beam shaping and steering via space-time-coding digital metasurfaces},
-  journal = {Advanced Functional Materials},
-  volume = {31},
-  issue = {6},
-  pages = {2007620},
-  doi = {10.1002/adfm.202007620},
-  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadfm.202007620&amp;amp;file=adfm202007620-sup-0001-SuppMat.pdf},
-  year = {2021},
-  month = feb
-}</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/AFM_STBS.jpg" /></entry><entry><title type="html">Our paper on harmonic beam shaping accepted in AdFM</title><link href="http://localhost:4000/news/AFM-accepted" rel="alternate" type="text/html" title="Our paper on harmonic beam shaping accepted in AdFM" /><published>2020-10-16T00:00:00+02:00</published><updated>2020-10-16T00:00:00+02:00</updated><id>http://localhost:4000/news/AFM-accepted</id><content type="html" xml:base="http://localhost:4000/news/AFM-accepted">&lt;p&gt;Our paper on “Joint multi‐frequency beam shaping and steering via space-time-coding digital metasurfaces,”
-in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
-has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wiley.com/journal/16163028&quot;&gt;&lt;em&gt;Advanced Functional Materials&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="space-time" /><category term="coding" /><summary type="html">Our paper on “Joint multi‐frequency beam shaping and steering via space-time-coding digital metasurfaces,”
-in collaboration with Tie Jun Cui’s Group (Southeast University),
-has been accepted for publication in Advanced Functional Materials.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/news/AFM.png" /></entry></feed>
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="space-time" /><category term="coding" /><summary type="html">Our paper on “Joint multi‐frequency beam shaping and steering via space-time-coding digital metasurfaces” [1], in collaboration with Tie Jun Cui’s Group (Southeast University), has been published in Advanced Functional Materials. Castaldi, G., Zhang, L., Moccia, M., Hathaway, A. Y., Tang, W. X., Cui, T. J., &amp;amp; Galdi, V. (2021). Joint multi-frequency beam shaping and steering via space-time-coding digital metasurfaces. Advanced Functional Materials 31(6), 2007620. Abstract BibTeX DOI PDF Supplements Digital programmable metasurfaces provide a very powerful and versatile platform for implementing spatio-temporal modulation schemes that are of great interest within the emerging framework of space-time metastructures. In particular, space-time coding digital metasurfaces have been successfully applied to advanced wavefront manipulations in both the spatial and spectral domains. However, conventional space-time coding schemes do not allow the joint syntheses of the transmission/scattering angular responses at multiple frequencies, which are potentially useful in a variety of applications of practical interest. Here, a strategy is put forward to lift this limitation, thereby enabling joint multi-frequency beam shaping and steering, i.e., the independent and simultaneous syntheses of prescribed scattering patterns at given harmonic frequencies. The proposed approach relies on a more sophisticated space-time coding, with suitably designed, temporally intertwined coding sub-sequences, which effectively disentangles the joint multi-frequency syntheses. The power and versatility of the approach are illustrated via a series of representative application examples, including multi-beam, diffuse-scattering, and orbital-angular-momentum patterns. Theoretical predictions are experimentally validated by means of microwave measurements. The outcomes of this study hold promising potentials for applications to future imaging, information and mobile-communication systems. @article{IJ147_AFM_2020, author = {Castaldi, Giuseppe and Zhang, Lei and Moccia, Massimo and Hathaway, Alisa Y. and Tang, Wen Xuan and Cui, Tie Jun and Galdi, Vincenzo}, title = {Joint multi-frequency beam shaping and steering via space-time-coding digital metasurfaces}, journal = {Advanced Functional Materials}, volume = {31}, issue = {6}, pages = {2007620}, doi = {10.1002/adfm.202007620}, note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadfm.202007620&amp;amp;file=adfm202007620-sup-0001-SuppMat.pdf}, year = {2021}, month = feb }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/AFM_STBS.jpg" /><media:content medium="image" url="/assets/images/news/AFM_STBS.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

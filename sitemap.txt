@@ -25,8 +25,8 @@ http://fw-lab.org/assets/themes/lab/less/style.less
 http://fw-lab.org/assets/themes/lab/css/style.css
 http://fw-lab.org/tags
 http://fw-lab.org/feed.xml
-http://fw-lab.org/feed.xslt.xml
 
+http://fw-lab.org/news/PRAppl-paper-published
 http://fw-lab.org/news/PRAppl-paper-accepted
 http://fw-lab.org/news/FrBB-published
 http://fw-lab.org/news/FrBB-accepted

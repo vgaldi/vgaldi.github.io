@@ -5,10 +5,74 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2021-06-10T15:36:25+02:00</lastBuildDate>
-        <pubDate>2021-06-10T15:36:25+02:00</pubDate>
+        <lastBuildDate>2021-07-24T17:42:21+02:00</lastBuildDate>
+        <pubDate>2021-07-24T17:42:21+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on exceptional points in the flatland published in PRAppl</title>
+                <description>&lt;p&gt;Our paper on “Exceptional points in flat optics: A non-Hermitian line-wave scenario” [&lt;a class=&quot;citation&quot; href=&quot;#IJ151_PRAppl_15_064067_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+in collaboration with &lt;a href=&quot;https://monticone.ece.cornell.edu&quot;&gt;Francesco Monticone&lt;/a&gt; (Cornell University),
+has been published in &lt;em&gt;Physical Review Applied&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ151_PRAppl_15_064067_2021&quot;&gt;Moccia, M., Castaldi, G., Monticone, F., &amp;amp; Galdi, V. (2021). Exceptional points in flat optics: A non-Hermitian line-wave scenario. &lt;i&gt;Physical Review Applied&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;15&lt;/i&gt;&lt;/span&gt;(6), 064067.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ151_PRAppl_15_064067_2021-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ151_PRAppl_15_064067_2021-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ151_PRAppl_15_064067_2021-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevApplied.15.064067&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ151_PRAppl_15_064067_2021.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ151_PRAppl_15_064067_2021-abstract&quot; class=&quot;collapse&quot;&gt;Line waves are recently discovered wave entities that are localized along two directions and therefore can be viewed as the one-dimensional counterpart of surface waves. These waves can be supported at discontinuities of the surface reactance and/or resistance of low-dimensional materials such as metasurfaces or graphene. Here, a broader class of non-Hermitian surface-impedance junctions is studied that can support coupled line waves and that allows the investigation of different one-dimensional waveguiding mechanisms in a unified framework. It is theoretically demonstrated that, under parity–time-symmetry conditions, exceptional points can occur in a truly flat-optics scenario, hence endowing these waveguiding systems with the attractive features of both line-wave and exceptional-point physics and shedding further light on the phase transitions existing in these systems. It is also shown that the required surface-impedance parameters are compatible with those attainable with typical models of photoexcited graphene metasurfaces at terahertz frequencies. Besides providing additional understanding in the physics of line waves, which is still in its infancy, these results pave the way toward intriguing developments in the largely unexplored field of non-Hermitian flat optics, with possible applications ranging from sensing to lasing and on-chip optical signal processing.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ151_PRAppl_15_064067_2021-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ151_PRAppl_15_064067_2021,
+  title = {Exceptional points in flat optics: A non-{H}ermitian line-wave scenario},
+  author = {Moccia, Massimo and Castaldi, Giuseppe and Monticone, Francesco and Galdi, Vincenzo},
+  journal = {Physical Review Applied},
+  volume = {15},
+  issue = {6},
+  pages = {064067},
+  numpages = {11},
+  year = {2021},
+  month = jun,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevApplied.15.064067},
+  url = {https://link.aps.org/doi/10.1103/PhysRevApplied.15.064067}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+</description>
+                <link>http://fw-lab.org/news/PRAppl-paper-published</link>
+                <guid>http://fw-lab.org/news/PRAppl-paper-published</guid>
+                <pubDate>2021-06-28T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Our paper on exceptional points in the flatland accepted in PRAppl</title>
@@ -26,7 +90,7 @@ has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/p
 
         <item>
                 <title>Our paper on DNA detection published in FrBB</title>
-                <description>&lt;p&gt;Our paper on “Advanced DNA detection via multispectral plasmonic metasurfaces” [&lt;a href=&quot;#IJ150_FBIOE_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+                <description>&lt;p&gt;Our paper on “Advanced DNA detection via multispectral plasmonic metasurfaces” [&lt;a class=&quot;citation&quot; href=&quot;#IJ150_FBIOE_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://www.na.imm.cnr.it/users/emanuelaesposito&quot;&gt;Emanuela Esposito&lt;/a&gt;’s Group (National Research Council),
 has been published in &lt;em&gt;Frontiers in Bioengineering and Biotechnology&lt;/em&gt;.&lt;/p&gt;
 
@@ -102,7 +166,7 @@ has been accepted for publication in &lt;a href=&quot;https://www.frontiersin.or
 
         <item>
                 <title>Our paper on non-Hermitian metasurfaces published in IEEE-TMTT</title>
-                <description>&lt;p&gt;Our paper on “Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy” [&lt;a href=&quot;#IJ149_IEEE-TMTT_69_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+                <description>&lt;p&gt;Our paper on “Surface-wave propagation on non-Hermitian metasurfaces with extreme anisotropy” [&lt;a class=&quot;citation&quot; href=&quot;#IJ149_IEEE-TMTT_69_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 has been published in the &lt;em&gt;IEEE Transactions on Microwave Theory and Techniques&lt;/em&gt;.&lt;/p&gt;
 
@@ -176,7 +240,7 @@ has been accepted for publication in the &lt;a href=&quot;https://mtt.org/public
         <item>
                 <title>Our invited review paper on space-time doding metasurfaces published in EPJ-AM</title>
                 <description>&lt;p&gt;Our invited review paper on “Recent advances and perspectives on space-time coding digital metasurfaces”
-[&lt;a href=&quot;#IJ148_EPJAM_7_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ148_EPJAM_7_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published in &lt;em&gt;EPJ Applied Metamaterials&lt;/em&gt;.&lt;/p&gt;
 
@@ -265,7 +329,7 @@ and &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt;.&lt;
         <item>
                 <title>Our paper on harmonic beam shaping published in AdFM</title>
                 <description>&lt;p&gt;Our paper on “Joint multi‐frequency beam shaping and steering via space-time-coding digital metasurfaces”
-[&lt;a href=&quot;#IJ147_AFM_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ147_AFM_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published in &lt;em&gt;Advanced Functional Materials&lt;/em&gt;.&lt;/p&gt;
 
@@ -341,7 +405,7 @@ has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wile
         <item>
                 <title>Invited talk at Metamaterials 2020</title>
                 <description>&lt;p&gt;We have presented an invited talk
-[&lt;a href=&quot;#Zhang_Metamaterials2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] at the &lt;em&gt;14th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2020.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
+[&lt;a class=&quot;citation&quot; href=&quot;#Zhang_Metamaterials2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] at the &lt;em&gt;14th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2020.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
 New York (NY), USA, Sep. 28-Oct. 3, 2020 (online).&lt;/p&gt;
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Zhang_Metamaterials2020&quot;&gt;Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Moccia, M., … Galdi, V. (2020). Recent advances in space-time-coding digital metasurfaces. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. New York (NY), USA, Sep. 28-Oct. 30, 2020 (online).&lt;/span&gt;
@@ -391,7 +455,7 @@ New York (NY), USA, Sep. 28-Oct. 3, 2020 (online).&lt;/p&gt;
         <item>
                 <title>Our paper on metasurface lab-on-fiber biosensors published in LPR</title>
                 <description>&lt;p&gt;Our paper on “Metasurface enhanced lab-on-fiber biosensors”
-[&lt;a href=&quot;#IJ146_LPR_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] has been published in &lt;em&gt;Laser &amp;amp; Photonics Reviews&lt;/em&gt;.&lt;/p&gt;
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ146_LPR_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] has been published in &lt;em&gt;Laser &amp;amp; Photonics Reviews&lt;/em&gt;.&lt;/p&gt;
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ146_LPR_2020&quot;&gt;Consales, M., Quero, G., Spaziani, S., Principe, M., Micco, A., Galdi, V., … Cusano, A. (2020). Metasurface-enhanced lab-on-fiber biosensors. &lt;i&gt;Laser &amp;amp; Photonics Reviews&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;14&lt;/i&gt;&lt;/span&gt;(12), 2000180.&lt;/span&gt;
 
@@ -465,7 +529,7 @@ has been accepted for publication in &lt;a href=&quot;https://pubs.acs.org/journ
         <item>
                 <title>Our paper on quasiperiodic nonlocal metamaterials published in PRB</title>
                 <description>&lt;p&gt;Our paper on “Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials”
-[&lt;a href=&quot;#IJ144_PRB_102_075107_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ144_PRB_102_075107_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 has been published in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ144_PRB_102_075107_2020&quot;&gt;Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2020). Anomalous light transport induced by deeply subwavelength quasiperiodicity in multilayered dielectric metamaterials. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;102&lt;/i&gt;&lt;/span&gt;(7), 075107.&lt;/span&gt;
@@ -552,7 +616,7 @@ has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/p
         <item>
                 <title>Our paper on non-Hermitian line waves published in ACS-PHOT</title>
                 <description>&lt;p&gt;Our paper on “Line waves in non-Hermitian metasurfaces”
-[&lt;a href=&quot;#IJ143_ACS-PHOT_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ143_ACS-PHOT_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 has been published in &lt;em&gt;ACS Photonics&lt;/em&gt;.&lt;/p&gt;
 
@@ -628,7 +692,7 @@ has been accepted for publication in &lt;a href=&quot;https://pubs.acs.org/journ
         <item>
                 <title>Our paper on vitamin D detection published in Nanophotonics</title>
                 <description>&lt;p&gt;Our paper on “Pixeled metasurface for multiwavelength detection of vitamin D3”
-[&lt;a href=&quot;#IJ142_Nanophotonics_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ142_Nanophotonics_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://www.na.imm.cnr.it/users/emanuelaesposito&quot;&gt;Emanuela Esposito&lt;/a&gt;’s Group (National Research Council),
 has been published in &lt;em&gt;Nanophotonics&lt;/em&gt;.&lt;/p&gt;
 
@@ -693,7 +757,7 @@ has been published in &lt;em&gt;Nanophotonics&lt;/em&gt;.&lt;/p&gt;
         <item>
                 <title>Our paper on non-Hermitian particle arrays published in OpEx</title>
                 <description>&lt;p&gt;Our paper on “Manipulating the scattering pattern with non-Hermitian particle arrays”
-[&lt;a href=&quot;#IJ141_OpEX_28_19492_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ141_OpEX_28_19492_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (ASRC-CUNY),
 has been published in &lt;em&gt;Optics Express&lt;/em&gt;.&lt;/p&gt;
 
@@ -755,7 +819,7 @@ has been published in &lt;em&gt;Optics Express&lt;/em&gt;.&lt;/p&gt;
         <item>
                 <title>Our paper on non-Hermitian doping published in PNAS</title>
                 <description>&lt;p&gt;Our paper on “Non-Hermitian doping of epsilon-near-zero media”
-[&lt;a href=&quot;#IJ140_PNAS_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ140_PNAS_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/index.htm&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania),
 has been published in the &lt;em&gt;Proceedings of the National Academy of Sciences of the U.S.A.&lt;/em&gt;&lt;/p&gt;
 
@@ -844,7 +908,7 @@ has been accepted for publication in &lt;a href=&quot;https://www.degruyter.com/
         <item>
                 <title>Our paper on anisotropic metasurfaces published in AdOM</title>
                 <description>&lt;p&gt;Our paper on “Independent control of copolarized amplitude and phase responses via anisotropic metasurfaces”
-[&lt;a href=&quot;#IJ139_AdOM_1902126_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ139_AdOM_1902126_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
 
@@ -910,7 +974,7 @@ has been published in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
         <item>
                 <title>Our paper on deterministically disordered metamaterials published in OpEx</title>
                 <description>&lt;p&gt;Our paper on “Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials”
-[&lt;a href=&quot;#IJ138_OpEx_28_10199_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ138_OpEx_28_10199_2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 has been published in [&lt;em&gt;Optics Express&lt;/em&gt;].&lt;/p&gt;
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ138_OpEx_28_10199_2020&quot;&gt;Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2020). Effects of deterministic disorder at deeply subwavelength scales in multilayered dielectric metamaterials. &lt;i&gt;Optics Express&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;28&lt;/i&gt;&lt;/span&gt;(7), 10199–10209.&lt;/span&gt;
@@ -1076,7 +1140,7 @@ recommendation of the referees.&lt;/p&gt;
         <item>
                 <title>Our paper on nonreciprocal metasurfaces on the cover of AdM</title>
                 <description>&lt;p&gt;Our paper on “Breaking reciprocity with space-time-coding digital metasurfaces,”
-[&lt;a href=&quot;#IJ137_AM_1904069_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ137_AM_1904069_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 made the back cover of &lt;em&gt;Advanced Materials&lt;/em&gt;.&lt;/p&gt;
 
@@ -1140,7 +1204,7 @@ made the back cover of &lt;em&gt;Advanced Materials&lt;/em&gt;.&lt;/p&gt;
         <item>
                 <title>Best Poster Award at Metamaterials 2019</title>
                 <description>&lt;p&gt;Our paper entitled &lt;em&gt;“Some ideas for non-Hermitian doping of epsilon-near-zero media”&lt;/em&gt; 
-[&lt;a href=&quot;#Coppolaro_Metamaterials2019b&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] received the &lt;em&gt;Best Poster Award&lt;/em&gt; at the &lt;em&gt;13th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2019.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
+[&lt;a class=&quot;citation&quot; href=&quot;#Coppolaro_Metamaterials2019b&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] received the &lt;em&gt;Best Poster Award&lt;/em&gt; at the &lt;em&gt;13th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2019.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
 Rome, Italy, Sep. 16-19, 2019.&lt;/p&gt;
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Coppolaro_Metamaterials2019b&quot;&gt;Coppolaro, M., Moccia, M., Castaldi, G., Engheta, N., &amp;amp; Galdi, V. (2019). Some ideas for non-Hermitian doping of epsilon-near-zero media. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. Rome, Italy, Sep. 16-19, 2019.&lt;/span&gt;
@@ -1190,7 +1254,7 @@ Rome, Italy, Sep. 16-19, 2019.&lt;/p&gt;
         <item>
                 <title>Five presentations at Metamaterials 2019</title>
                 <description>&lt;p&gt;We have presented five papers
-[&lt;a href=&quot;#Moccia_Metamaterials2019b&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Coppolaro_Metamaterials2019b&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Moccia_Metamaterials2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Zhang_Metamaterials2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Coppolaro_Metamaterials2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;], 
+[&lt;a class=&quot;citation&quot; href=&quot;#Moccia_Metamaterials2019b&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#Coppolaro_Metamaterials2019b&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#Moccia_Metamaterials2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#Zhang_Metamaterials2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#Coppolaro_Metamaterials2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;], 
 at the &lt;em&gt;13th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2019.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
 Rome, Italy, Sep. 16-19, 2019.&lt;/p&gt;
 
@@ -1389,7 +1453,7 @@ Rome, Italy, Sep. 16-19, 2019.&lt;/p&gt;
         <item>
                 <title>Talk presented at NANOP 2019</title>
                 <description>&lt;p&gt;We have presented a talk
-[&lt;a href=&quot;#DiMeo_NANOP19&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] at the &lt;em&gt;Nanophotonics and Micro/Nano Optics International Conference&lt;/em&gt; (&lt;a href=&quot;https://premc.org/conferences/nanop-nanophotonics-micro-nano-optics/&quot;&gt;NANOP&lt;/a&gt;),
+[&lt;a class=&quot;citation&quot; href=&quot;#DiMeo_NANOP19&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] at the &lt;em&gt;Nanophotonics and Micro/Nano Optics International Conference&lt;/em&gt; (&lt;a href=&quot;https://premc.org/conferences/nanop-nanophotonics-micro-nano-optics/&quot;&gt;NANOP&lt;/a&gt;),
 Munich, Germany, Sep. 4-7, 2019.&lt;/p&gt;
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;DiMeo_NANOP19&quot;&gt;Di Meo, V., Crescitelli, A., Sandomenico, A., Moccia, M., Galdi, V., Portaccio, M., … Esposito, E. (2019). Pixeled metasurface for multiwavelength  detection of vitamin D3. In &lt;i&gt;Nanophotonics and Micro/Nano Optics International Conference (NANOP)&lt;/i&gt;. Munich, Germany, Sep. 4-7, 2019.&lt;/span&gt;
@@ -1449,7 +1513,7 @@ Munich, Germany, Sep. 4-7, 2019.&lt;/p&gt;
         <item>
                 <title>Our paper on nonreciprocal space-time-coding metasurfaces published in AdM</title>
                 <description>&lt;p&gt;Our paper on “Breaking reciprocity with space-time-coding digital metasurfaces”
-[&lt;a href=&quot;#IJ137_AM_1904069_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ137_AM_1904069_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published in &lt;em&gt;Advanced Materials&lt;/em&gt;.&lt;/p&gt;
 
@@ -1525,7 +1589,7 @@ has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wile
         <item>
                 <title>Our paper on spectral singularities published in IEEE-TAP</title>
                 <description>&lt;p&gt;Our paper on “Harnessing spectral singularities in non-Hermitian cylindrical structures” 
-[&lt;a href=&quot;#IJ136_IEEE-TAP_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ136_IEEE-TAP_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 has been published in the &lt;em&gt;IEEE Transactions on Antennas and Propagation&lt;/em&gt;.&lt;/p&gt;
 
@@ -1586,7 +1650,7 @@ has been published in the &lt;em&gt;IEEE Transactions on Antennas and Propagatio
         <item>
                 <title>Two talks presented at IEEE-APS/URSI 2019</title>
                 <description>&lt;p&gt;We have presented two talks 
-[&lt;a href=&quot;#Coppolaro_URSI-USNC2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Zhang_URSI-USNC2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
+[&lt;a class=&quot;citation&quot; href=&quot;#Coppolaro_URSI-USNC2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#Zhang_URSI-USNC2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
 at the &lt;em&gt;IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting&lt;/em&gt; (&lt;a href=&quot;http://2019apsursi.org/default.asp&quot;&gt;IEEE-APS/URSI&lt;/a&gt;),
 Atlanta, GA, USA, July 7-12, 2019.&lt;/p&gt;
 
@@ -1686,7 +1750,7 @@ has been accepted for publication in the &lt;a href=&quot;https://ieeexplore.iee
         <item>
                 <title>Talk presented at EuCAP 2019</title>
                 <description>&lt;p&gt;We have presented a talk
-[&lt;a href=&quot;#Moccia_EuCAP2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] at the &lt;em&gt;13th European Conference on Antennas and Propagation&lt;/em&gt; (&lt;a href=&quot;https://www.eucap2019.org&quot;&gt;EuCAP&lt;/a&gt;),
+[&lt;a class=&quot;citation&quot; href=&quot;#Moccia_EuCAP2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] at the &lt;em&gt;13th European Conference on Antennas and Propagation&lt;/em&gt; (&lt;a href=&quot;https://www.eucap2019.org&quot;&gt;EuCAP&lt;/a&gt;),
 Krakow, Poland, Mar. 31-Apr. 5, 2019.&lt;/p&gt;
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Moccia_EuCAP2019&quot;&gt;Moccia, M., Castaldi, G., &amp;amp; Galdi, V. (2019). Nonlocal and non-Hermitian extensions of transformation optics. In &lt;i&gt;Proc. 13th European Conference on Antennas and Propagation (EuCAP)&lt;/i&gt;. Krakow, Poland, Mar. 31-Apr. 5, 2019.&lt;/span&gt;
@@ -1736,7 +1800,7 @@ Krakow, Poland, Mar. 31-Apr. 5, 2019.&lt;/p&gt;
         <item>
                 <title>Our paper on meta-tip sensors published in NMNT</title>
                 <description>&lt;p&gt;Our paper on “Evaluation of fiber-optic phase-gradient meta-tips for sensing applications”
-[&lt;a href=&quot;#IJ135_NMNT_9_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ135_NMNT_9_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group, 
 has been published in &lt;em&gt;Nanomaterials and Nanotechnology&lt;/em&gt;.&lt;/p&gt;
 
@@ -1871,7 +1935,7 @@ recommendation of the referees.&lt;/p&gt;
         <item>
                 <title>Our paper on aperiodically ordered nonlocal metamaterials published in PRB</title>
                 <description>&lt;p&gt;Our paper on “Aperiodic-order-induced enhancement of weak nonlocality in multilayered dielectric metamaterials”
-[&lt;a href=&quot;#IJ134_PRB_98_195128_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ134_PRB_98_195128_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 has been published in [&lt;em&gt;Physical Review B&lt;/em&gt;].&lt;/p&gt;
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ134_PRB_98_195128_2018&quot;&gt;Coppolaro, M., Castaldi, G., &amp;amp; Galdi, V. (2018). Aperiodic order induced enhancement of weak nonlocality in multilayered dielectric metamaterials. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;98&lt;/i&gt;&lt;/span&gt;(19), 195128.&lt;/span&gt;
@@ -1966,7 +2030,7 @@ has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/p
         <item>
                 <title>Our paper on space-time-coding digital metasurfaces published in NatComms</title>
                 <description>&lt;p&gt;Our paper on “Space-time-coding digital metasurfaces”
-[&lt;a href=&quot;#IJ133_NatComm_9_4334_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ133_NatComm_9_4334_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published in &lt;em&gt;Nature Communications&lt;/em&gt;.&lt;/p&gt;
 
@@ -2031,7 +2095,7 @@ has been published in &lt;em&gt;Nature Communications&lt;/em&gt;.&lt;/p&gt;
         <item>
                 <title>Our paper on nonlocal metamaterials published in PRAppl</title>
                 <description>&lt;p&gt;Our paper on “Boundary effects of weak nonlocality in multilayered dielectric metamaterials”
-[&lt;a href=&quot;#IJ132_PRAppl_10_034060_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ132_PRAppl_10_034060_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 has been published in &lt;em&gt;Physical Review Applied&lt;/em&gt;.&lt;/p&gt;
 
@@ -2096,7 +2160,7 @@ has been published in &lt;em&gt;Physical Review Applied&lt;/em&gt;.&lt;/p&gt;
         <item>
                 <title>Four presentations at Metamaterials 2018</title>
                 <description>&lt;p&gt;We have presented four papers
-[&lt;a href=&quot;#Scaravilli_2018-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Castaldi_2018-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Moccia_2018-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Koral_2018-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;]
+[&lt;a class=&quot;citation&quot; href=&quot;#Scaravilli_2018-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#Castaldi_2018-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#Moccia_2018-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#Koral_2018-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;]
 at the &lt;em&gt;12th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2018.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
 Espoo, Finland, Aug. 27-30, 2018.&lt;/p&gt;
 
@@ -2283,7 +2347,7 @@ has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/p
         <item>
                 <title>Our paper on THz coding metasurfaces published in SciRep</title>
                 <description>&lt;p&gt;Our paper on “Suboptimal coding metasurfaces for terahertz diffuse scattering”
-[&lt;a href=&quot;#IJ131_SREP_8_11908_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ131_SREP_8_11908_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published in &lt;em&gt;Scientific Reports&lt;/em&gt;.&lt;/p&gt;
 
@@ -2360,7 +2424,7 @@ has been accepted for publication in &lt;a href=&quot;https://www.nature.com/sre
         <item>
                 <title>Two talks presented at IEEE-APS/URSI 2018</title>
                 <description>&lt;p&gt;We have presented two talks 
-[&lt;a href=&quot;#Moccia_2018-USNC-URSI&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Castaldi_2018-USNC-URSI&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
+[&lt;a class=&quot;citation&quot; href=&quot;#Moccia_2018-USNC-URSI&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#Castaldi_2018-USNC-URSI&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
 at the &lt;em&gt;IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting&lt;/em&gt; (&lt;a href=&quot;http://2018apsursi.org/default.asp&quot;&gt;IEEE-APS/URSI&lt;/a&gt;),
 Boston, MA, USA, July 8-13, 2018.&lt;/p&gt;
 
@@ -2448,7 +2512,7 @@ Boston, MA, USA, July 8-13, 2018.&lt;/p&gt;
         <item>
                 <title>Our paper on Bloch surface waves published in AdOM</title>
                 <description>&lt;p&gt;Our paper on “Excitation of Bloch surface waves on an optical fiber tip”
-[&lt;a href=&quot;#IJ130_AdOM_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ130_AdOM_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group, 
 &lt;a href=&quot;https://www.na.imm.cnr.it&quot;&gt;CNR-IMM&lt;/a&gt; and &lt;a href=&quot;http://www.enea.it/en&quot;&gt;ENEA&lt;/a&gt; 
 has been published in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
@@ -2541,7 +2605,7 @@ has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wile
 
         <item>
                 <title>Roadmap on transformation optics published in JOPT</title>
-                <description>&lt;p&gt;The paper “Roadmap on transformation optics” [&lt;a href=&quot;#IJ129_JO_20_063001_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+                <description>&lt;p&gt;The paper “Roadmap on transformation optics” [&lt;a class=&quot;citation&quot; href=&quot;#IJ129_JO_20_063001_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 has been published in the &lt;em&gt;Journal of Optics&lt;/em&gt;. Section 3 contains a
 perspective on &lt;a href=&quot;/projects/nonlocal-effects&quot;&gt;nonlocal&lt;/a&gt; and &lt;a href=&quot;/projects/non-Hermitian-MTM&quot;&gt;non-Hermitian&lt;/a&gt; extensions authored by Prof. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt;.&lt;/p&gt;
 
@@ -2709,7 +2773,7 @@ in Rome, Italy, from December 18-22, 2017. The school will be focused on &lt;em&
         <item>
                 <title>Invited talk presented at ICEAA 2017</title>
                 <description>&lt;p&gt;We have presented an invited talk
-[&lt;a href=&quot;#Moccia_2017-ICEAA&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+[&lt;a class=&quot;citation&quot; href=&quot;#Moccia_2017-ICEAA&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 at the &lt;em&gt;19th International Conference on Electromagnetics in Advanced Applications&lt;/em&gt; (&lt;a href=&quot;http://http://www.iceaa.net/j3/&quot;&gt;ICEAA&lt;/a&gt;),
 Verona, Italy, Sep. 11-15, 2017.&lt;/p&gt;
 
@@ -2766,7 +2830,7 @@ Verona, Italy, Sep. 11-15, 2017.&lt;/p&gt;
         <item>
                 <title>Two talks presented at EOS Capri Meetings 2017</title>
                 <description>&lt;p&gt;We have presented two talks
-[&lt;a href=&quot;#Scaravilli_OMS_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Moccia_ONS_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
+[&lt;a class=&quot;citation&quot; href=&quot;#Scaravilli_OMS_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#Moccia_ONS_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
 at the &lt;em&gt;7th EOS Topical Meeting on Optical Microsystems&lt;/em&gt; (&lt;a href=&quot;http://www.myeos.org/events/capri2017%20#Ous&quot;&gt;OµS&lt;/a&gt;) and the 
 &lt;em&gt;3rd EOS Topical Meeting on Optics at the Nanoscale&lt;/em&gt; (&lt;a href=&quot;http://www.myeos.org/events/capri2017%20#ONS&quot;&gt;ONS&lt;/a&gt;),
 Capri, Italy, Sep. 10-14, 2017.&lt;/p&gt;
@@ -2855,7 +2919,7 @@ Capri, Italy, Sep. 10-14, 2017.&lt;/p&gt;
         <item>
                 <title>Invited talk presented at Metamaterials 2017</title>
                 <description>&lt;p&gt;We have presented an invited talk
-[&lt;a href=&quot;#Galdi_2017-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+[&lt;a class=&quot;citation&quot; href=&quot;#Galdi_2017-Metamaterials&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 at the &lt;em&gt;11th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2017.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
 Marseille, France, Aug. 28-31, 2017.&lt;/p&gt;
 
@@ -2910,7 +2974,7 @@ Marseille, France, Aug. 28-31, 2017.&lt;/p&gt;
         <item>
                 <title>Our paper on nonlocal metamaterials published in PRB</title>
                 <description>&lt;p&gt;Our paper on “Enhancement and interplay of first- and second-order spatial 
-dispersion in metamaterials with moderate-permittivity inclusions” [&lt;a href=&quot;#IJ128_PRB_96_081113_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+dispersion in metamaterials with moderate-permittivity inclusions” [&lt;a class=&quot;citation&quot; href=&quot;#IJ128_PRB_96_081113_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://sites.google.com/site/rizzacarlo81/&quot;&gt;Carlo Rizza&lt;/a&gt; (University of l’Aquila) and &lt;a href=&quot;http://www.ing.univaq.it/personale/scheda_personale.php?codice=511&quot;&gt;Alessandro Ciattoni&lt;/a&gt; (CNR-SPIN),
 has been published in &lt;em&gt;Physical Review B&lt;/em&gt; as a Rapid Communication.&lt;/p&gt;
 
@@ -2989,7 +3053,7 @@ has been accepted for publication as a Rapid Communication in &lt;a href=&quot;h
         <item>
                 <title>Our paper on coding metasurfaces published in AdOM</title>
                 <description>&lt;p&gt;Our paper on “Coding metasurfaces for diffuse scattering: Scaling laws, bounds, and sub-optimal design”
-[&lt;a href=&quot;#IJ127_AdOM_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ127_AdOM_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published (early view) in &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
 
@@ -3056,7 +3120,7 @@ has been published (early view) in &lt;em&gt;Advanced Optical Materials&lt;/em&g
         <item>
                 <title>Two talks presented at IEEE-APS/URSI 2017</title>
                 <description>&lt;p&gt;We have presented two talks 
-[&lt;a href=&quot;#Moccia_2017-USNC-URSI&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#Principe_2017-USNC-URSI&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
+[&lt;a class=&quot;citation&quot; href=&quot;#Moccia_2017-USNC-URSI&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#Principe_2017-USNC-URSI&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
 at the &lt;em&gt;IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting&lt;/em&gt; (&lt;a href=&quot;http://2017apsursi.org/default.asp&quot;&gt;IEEE-APS/URSI&lt;/a&gt;),
 San Diego, California, USA, July 9-14, 2017.&lt;/p&gt;
 
@@ -3156,7 +3220,7 @@ has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wile
         <item>
                 <title>Our paper on metamaterial radomes published in IEEE-JMMCT</title>
                 <description>&lt;p&gt;Our paper on “Transformation-optics-based design of a metamaterial radome for extending the scanning 
-angle of a phased array antenna” [&lt;a href=&quot;#IJ126_IEEE-JMMCT_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+angle of a phased array antenna” [&lt;a class=&quot;citation&quot; href=&quot;#IJ126_IEEE-JMMCT_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;http://www.mbda-systems.com&quot;&gt;MBDA&lt;/a&gt;,
 has been published (early view) in the &lt;em&gt;IEEE Journal of Multiscale and Multiphysics Computational Techniques&lt;/em&gt;.&lt;/p&gt;
 
@@ -3232,7 +3296,7 @@ has been accepted for publication in the &lt;a href=&quot;https://ieeexplore.iee
         <item>
                 <title>Talk presented at OFS-25</title>
                 <description>&lt;p&gt;We have presented a talk 
-[&lt;a href=&quot;#Principe_2017-OFS&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+[&lt;a class=&quot;citation&quot; href=&quot;#Principe_2017-OFS&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 at the 
 &lt;em&gt;25th Optical Fiber Sensors Conference&lt;/em&gt; (&lt;a href=&quot;http://ofs-25.org&quot;&gt;OFS&lt;/a&gt;), Jeju, Korea, Apr. 24-28, 2017.&lt;/p&gt;
 
@@ -3289,7 +3353,7 @@ at the
         <item>
                 <title>Our paper on non-Hermitian photonic chains published in PRB</title>
                 <description>&lt;p&gt;Our paper on “Exceptional points of degeneracy and PT-symmetry in photonic coupled chains of scatterers” 
-[&lt;a href=&quot;#IJ125_PRB_95_104305_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] 
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ125_PRB_95_104305_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] 
 in collaboration with &lt;a href=&quot;http://capolino.eng.uci.edu&quot;&gt;Filippo Capolino&lt;/a&gt;’s Group (University of California at Irvine),
 has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
 
@@ -3353,7 +3417,7 @@ has been accepted for publication in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;
 
         <item>
                 <title>Our paper on optical fiber meta-tips published in LSA</title>
-                <description>&lt;p&gt;Our paper on “Optical fiber meta-tips” [&lt;a href=&quot;#IJ124_LSA_6_6226a_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+                <description>&lt;p&gt;Our paper on “Optical fiber meta-tips” [&lt;a class=&quot;citation&quot; href=&quot;#IJ124_LSA_6_6226a_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
  in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group (University of Sannio),
 has been published in &lt;em&gt;Light: Science &amp;amp; Applications&lt;/em&gt;.&lt;/p&gt;
 
@@ -3417,7 +3481,7 @@ has been published in &lt;em&gt;Light: Science &amp;amp; Applications&lt;/em&gt;
         <item>
                 <title>Our paper on non-Hermitian metasurfaces published in PRB</title>
                 <description>&lt;p&gt;Our paper on “Magnified imaging based on non-Hermitian nonlocal cylindrical
- metasurfaces” [&lt;a href=&quot;#IJ123_PRB_95_115114_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+ metasurfaces” [&lt;a class=&quot;citation&quot; href=&quot;#IJ123_PRB_95_115114_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
 in collaboration with &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/&quot;&gt;Andrea Alù&lt;/a&gt;’s Group (University of Texas at Austin),
 has been published in &lt;em&gt;Physical Review B&lt;/em&gt;.&lt;/p&gt;
 
@@ -3629,7 +3693,7 @@ and explore engineering applications to &lt;strong&gt;communications and sensing
                 <description>
 &lt;p&gt;In collaboration with the Groups led by &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/)&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania) 
 and &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt; (University of Texas at Austin), we
-have put forward a general paradigm of “metamaterial analog computing” [&lt;a href=&quot;#IJ109_Science_343_160_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], 
+have put forward a general paradigm of “metamaterial analog computing” [&lt;a class=&quot;citation&quot; href=&quot;#IJ109_Science_343_160_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], 
 in which properly designed metamaterial blocks may perform ubiquitous mathematical operations, 
 such as spatial differentiation, integration or convolution, on the profile of the impinging light as 
 it propagates through them (see the conceptual schematic in the figure top panel).&lt;/p&gt;
@@ -3729,7 +3793,7 @@ most studies available in the literature deal with the design of a single functi
 
 &lt;p&gt;In collaboration with &lt;a href=&quot;http://www2.rowland.harvard.edu/people/yuki-sato&quot;&gt;Yuki Sato&lt;/a&gt;’s Group (Harvard University), 
 we have recently introduced an approach to the design of metamaterial shells 
-capable of governing different physicals phenomena in an independent fashion [&lt;a href=&quot;#IJ112_PRX_4_021025_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
+capable of governing different physicals phenomena in an independent fashion [&lt;a class=&quot;citation&quot; href=&quot;#IJ112_PRX_4_021025_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
 
 &lt;p&gt;From the mathematical viewpoint, our relies on the well-known coordinate-transformation framework. 
 Viewing the rerouting of energy flow as a distortion of space from a coordinate transformation, 
@@ -3843,7 +3907,7 @@ light, thereby substantially expanding the functionalities of conventional and s
 applications ranging from optical processing to environmental monitoring, life science, safety and security.&lt;/p&gt;
 
 &lt;p&gt;In collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group (University of Sannio),
-we presented in [&lt;a href=&quot;#IJ124_LSA_6_6226a_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] a first proof-of-principle example of a “meta-tip”, featuring 
+we presented in [&lt;a class=&quot;citation&quot; href=&quot;#IJ124_LSA_6_6226a_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] a first proof-of-principle example of a “meta-tip”, featuring 
 a plasmonic metasurface integrated on the tip of an optical fiber, as schematized in the figure top panel.
 The metasurface was designed so as to impress a linear phase (constant gradient) profile along an in-plane direction. As
 typical for metasurface implementations based on a single layer of plasmonic nanoantennas, in order to achieve a full 
@@ -3865,7 +3929,7 @@ curves) are in fairly good agreement with the experimental intensity profiles (s
 We also carried out polarization-controlled measurements, which confirmed the theoretically predicted response.&lt;/p&gt;
 
 &lt;p&gt;This proof-of-principle meta-tip demonstration paves the way to the integration of the exceptional field-manipulation
-capabilities enabled by metasurfaces within the emerging lab-on-fiber technologies. More recently [&lt;a href=&quot;#IJ135_NMNT_9_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], we have also studied the excitation
+capabilities enabled by metasurfaces within the emerging lab-on-fiber technologies. More recently [&lt;a class=&quot;citation&quot; href=&quot;#IJ135_NMNT_9_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], we have also studied the excitation
 of novel type of surface waves for label-free &lt;a href=&quot;/projects/MTM_optical-sensing&quot;&gt;sensing applications&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
@@ -3987,7 +4051,7 @@ field shaping in reverberating scenarios,
 computational imaging, and dynamic control of polarization, wavefront and scattering signature,
  as well as of information entropy.&lt;/p&gt;
 
-&lt;p&gt;In a recent study [&lt;a href=&quot;#IJ127_AdOM_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
+&lt;p&gt;In a recent study [&lt;a class=&quot;citation&quot; href=&quot;#IJ127_AdOM_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 we have addressed the design of coding metasurfaces for &lt;em&gt;diffuse scattering&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;In particular, via a theoretical study of the relevant scaling-laws, we 
@@ -4005,11 +4069,11 @@ As illustrated in the top-right panel, our numerical simulations are in good agr
 Finally, the bottom panels show the simulated (left) and measured (right) comparisons with a metallic 
 plate of same size, from which a significant reduction (&amp;gt;10 dB) of the RCS can be observed.&lt;/p&gt;
 
-&lt;p&gt;More recently, we have extended these results to the THz range [&lt;a href=&quot;#IJ131_SREP_8_11908_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]. 
+&lt;p&gt;More recently, we have extended these results to the THz range [&lt;a class=&quot;citation&quot; href=&quot;#IJ131_SREP_8_11908_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]. 
 We have also proposed &lt;em&gt;space-time modulated&lt;/em&gt; digital coding metasurfaces to obtain simultaneous manipulations of 
 electromagnetic waves in both space and frequency domains, i.e., to control the propagation direction 
-and harmonic power distribution simultaneously [&lt;a href=&quot;#IJ133_NatComm_9_4334_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], and to break Lorentz reciprocity
-[&lt;a href=&quot;#IJ137_AM_1904069_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
+and harmonic power distribution simultaneously [&lt;a class=&quot;citation&quot; href=&quot;#IJ133_NatComm_9_4334_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], and to break Lorentz reciprocity
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ137_AM_1904069_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
 
 &lt;p&gt;Our results may be of interest in a variety of application fields, such as the design of low-scattering targets 
 and illumination apertures for computational imaging, not necessarily restricted to electromagnetic scenarios.&lt;/p&gt;
@@ -4286,7 +4350,7 @@ could intuitively be expected in very complex and cluttered propagation scenario
 structures that give  rise to multiple reflections, focusing, and defocusing, such as 
 homogeneously filled “billiard-shaped” enclosures.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ30_IEEE_APMAG_47_62_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], by revisiting a body of results from quantum physics (classical vs. quantum chaos),
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#IJ30_IEEE_APMAG_47_62_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], by revisiting a body of results from quantum physics (classical vs. quantum chaos),
 we emphasized possible implications of internal ray chaos for high-frequency wave dynamics (“ray-chaotic footprints”).
 In the time-harmonic high-frequency limit, ray-chaotically-inclined systems tend to exhibit behaviors that differ fundamentally 
 from those observed in ray-regular geometries.
@@ -4298,7 +4362,7 @@ the wavefield at each point results from the superposition of plane waves (rays)
 possible directions, whereas in completely ray-chaotic billiards it is expected to be a superposition of 
 a multitude of plane waves, with fixed wavevector amplitude, and uniform direction and phase distribution.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ100_IEEE_TAP_60_3827_2012&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], we carried out a full-wave investigation of 
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#IJ100_IEEE_TAP_60_3827_2012&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], we carried out a full-wave investigation of 
 short-pulse electromagnetic wavepacket propagation in ray-chaotic enclosures, 
 via a numerical approach based on the finite difference time domain (FDTD) method.&lt;/p&gt;
 
@@ -4435,7 +4499,7 @@ as well as the synthetic emulation of multi-path wireless channels.&lt;/p&gt;
                 <description>
 &lt;p&gt;Our Group has been among the pioneers in the application of aperiodically ordered structures in electromagnetics.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ28_IEEE_TAP_53_635_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], 
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#IJ28_IEEE_TAP_53_635_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], 
 in collaboration with the late Prof. &lt;a href=&quot;https://en.wikipedia.org/wiki/Leopold_B._Felsen&quot;&gt;Leo Felsen&lt;/a&gt; (Boston University),
  we first introduced the concept of “aperiodic tiling” in the theory of antenna arrays. 
 This study clarifies some fundamental theoretical aspects related to the effects of “order” and “symmetry” 
@@ -4447,20 +4511,20 @@ corresponding radiation spectrum (bottom), from which it can be observed a 14-fo
 
 &lt;p&gt;A major complication that arises when dealing with aperiodic structures is the lack of the typical 
 analytical tools available for periodic geometries.
-In [&lt;a href=&quot;#IJ32_IEEE_TAP_53_2044_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], with specific reference to a 
+In [&lt;a class=&quot;citation&quot; href=&quot;#IJ32_IEEE_TAP_53_2044_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], with specific reference to a 
 “modified-Fibonacci” &lt;em&gt;quasi-periodic&lt;/em&gt; sequence, we showed a
 two-scale generalization of the standard Poisson summation formula for periodic arrays. 
 This allows for a “quasi-Floquet” analytic parameterization of the radiated field, 
 which provides instructive insights into some of the basic wave mechanisms associated with quasi-periodic order. 
-These results were also extended to account for the presence of a dielectric substrate [&lt;a href=&quot;#IJ42_JEWA_21_1231_2007&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
+These results were also extended to account for the presence of a dielectric substrate [&lt;a class=&quot;citation&quot; href=&quot;#IJ42_JEWA_21_1231_2007&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ33_IEEE_TAP_53_3568_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;], we explored various configurations 
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#IJ33_IEEE_TAP_53_3568_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;], we explored various configurations 
 generated by Rudin-Shapiro sequences, which constitute one of the simplest conceivable 
 examples of deterministic aperiodic geometries featuring random-like (dis)order. 
 In particular, we showed that these might find interesting applications to the synthesis of
 &lt;em&gt;omnidirectional&lt;/em&gt; and &lt;em&gt;thinned&lt;/em&gt; arrays.&lt;/p&gt;
 
-&lt;p&gt;Finally, in [&lt;a href=&quot;#IJ39_IEEE_TAP_55_1554_2007&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;], we studied 
+&lt;p&gt;Finally, in [&lt;a class=&quot;citation&quot; href=&quot;#IJ39_IEEE_TAP_55_1554_2007&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;], we studied 
 the plane-wave scattering from general one-dimensional aperiodically ordered 
 strip-array geometries based on two-symbol substitution rules. By exploiting theoretical results from solid-state physics 
 and discrete geometry, we showed that a wealth of scattering signatures, 
@@ -4739,7 +4803,7 @@ made of silica (low-index) and tantala (high-index) materials. Such design, thou
 does not minimize the thermal noise since there is a substantial difference in the mechanical loss of 
 the two material constituents.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#ISI-000241947200007&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we proposed a systematic procedure for designing minimal-noise 
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#ISI-000241947200007&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we proposed a systematic procedure for designing minimal-noise 
 coatings featuring a prescribed reflectivity. Such design is based on a periodic stack of 
 identical high/low index ‘‘doublets,’’ with total thickness of half-wavelength and optimized material fractions, 
 with the exception of the terminal (top/bottom) layers.&lt;/p&gt;
@@ -4747,13 +4811,13 @@ with the exception of the terminal (top/bottom) layers.&lt;/p&gt;
 &lt;p&gt;Mirrors based on such a design were fabricated 
 at the Laboratoire des Matériaux Avancés (Lyon, France) and experimentally characterized by measuring 
 the broadband noise floor of the Thermal Noise
-Interferometer (TNI) at the California Institute of Technology [&lt;a href=&quot;#IJ86_PRD_81_122001_2010&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
+Interferometer (TNI) at the California Institute of Technology [&lt;a class=&quot;citation&quot; href=&quot;#IJ86_PRD_81_122001_2010&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
 
 &lt;p&gt;The figure shows the optimized design (top), and the measured thermal noise (bottom) 
 compared with the standard quarter-wavelength design.
 The measurements indicated a reduction in thermal noise in line with modeling predictions.&lt;/p&gt;
 
-&lt;p&gt;Our optimized mirror coatings have been implemented in Advanced LIGO [&lt;a href=&quot;#IJ119_PRD_93_112004_2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], and have contributed 
+&lt;p&gt;Our optimized mirror coatings have been implemented in Advanced LIGO [&lt;a class=&quot;citation&quot; href=&quot;#IJ119_PRD_93_112004_2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], and have contributed 
 to attain the required strain sensitivity for the direct detection of gravitational waves.&lt;/p&gt;
 
 &lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
@@ -4970,7 +5034,7 @@ fiber-optics sensors, and nanotechnologies.&lt;/p&gt;
 &lt;p&gt;Other intriguing examples of ray chaos can be found in &lt;em&gt;open&lt;/em&gt; configurations such as (n&amp;gt;3)-disk “pinballs”, 
 or appropriately configured inhomogeneous refractive media with ray-trapping properties.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ29_IEEE_TAP_53_753_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], 
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#IJ29_IEEE_TAP_53_753_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], 
 in collaboration with the late Prof. &lt;a href=&quot;https://en.wikipedia.org/wiki/Leopold_B._Felsen&quot;&gt;Leo Felsen&lt;/a&gt; (Boston University),
 we 
 studied a two-dimensional test example of such an environment 
@@ -4982,7 +5046,7 @@ trends toward irregularity and other peculiar characteristics;
 these features can be interpreted as “ray-chaotic footprints”, and they are usually not observed 
 in geometries characterized by “regular” ray behavior.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ57_IEEE_TAP_56_2638_2008&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], we extended this study to
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#IJ57_IEEE_TAP_56_2638_2008&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], we extended this study to
 a cylindrical scatterer made of a perfectly electric-conducting azimuthally corrugated boundary 
 coated by a radially inhomogeneous (ray-trapping) dielectric layer, as shown in the figure (top panel).
 We showed that, for such configuration, ray dynamics is generally of “mixed type,” with the presence 
@@ -5129,7 +5193,7 @@ standard Gaussian beam. This has been numerically proved to yield significant re
 thermal noise and has
 led to the development of a cavity prototype with non-spherical “Mexican hat” profile mirrors.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ35_PRD_73_127101_2006&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we investigated the analytic structure of a family of &lt;em&gt;hyperboloidal&lt;/em&gt; 
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#IJ35_PRD_73_127101_2006&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we investigated the analytic structure of a family of &lt;em&gt;hyperboloidal&lt;/em&gt; 
 beams which generalizes the nearly-flat and nearly-concentric mesa beam configurations. 
 Capitalizing on certain results from the applied optics literature on flat-top beams, 
 we derived a physically-insightful and computationally-effective representation in terms of rapidly-converging 
@@ -5138,7 +5202,7 @@ We also worked out a generalization (involving fractional Fourier transform oper
 of some duality relations between the nearly-flat and nearly-concentric mesa 
 configurations.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ47_PRD_76_122003_2007&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], 
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#IJ47_PRD_76_122003_2007&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], 
 relying on some analytic approximations (valid in the infinite-test-mass limit) 
 for the Brownian and thermoelastic mirror noises in the presence of arbitrary-shaped beams, 
 we explored the optimal beam-shaping problem. 
@@ -5299,7 +5363,7 @@ and ultrafast nonlinear optical response. If, for most metamaterials, spatial di
 counterproductive for practical applications, its proper tailoring and engineering may add novel degrees of 
 freedom in the wave interaction with complex materials.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ98_PRL_108_063902_2012&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], in collaboration with 
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#IJ98_PRL_108_063902_2012&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], in collaboration with 
 &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/)&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania) 
 and &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt; (University of Texas at Austin),
 we have extended the &lt;a href=&quot;/projects/TO-MTM&quot;&gt;transformation-optics&lt;/a&gt; approach by enabling the manipulation and control of 
@@ -5308,7 +5372,7 @@ Instead of spatially-changing refractive properties, we proposed a framework of 
 that can tailor the wave interaction in the reciprocal space of spatial wave-numbers, 
 so as to produce desired nonlocal effects.&lt;/p&gt;
 
-&lt;p&gt;Subsequently, in [&lt;a href=&quot;#IJ117_Optica_3_179_2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;] and [&lt;a href=&quot;#IJ120_EPJAM_3_2_2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], we further generalized this approach 
+&lt;p&gt;Subsequently, in [&lt;a class=&quot;citation&quot; href=&quot;#IJ117_Optica_3_179_2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;] and [&lt;a class=&quot;citation&quot; href=&quot;#IJ120_EPJAM_3_2_2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], we further generalized this approach 
 in the frequency-wavenumber reciprocal phase space, so as to engineer a broad variety of nonlocal interactions 
 and spatial dispersion effects, including including “one-way” (nonreciprocal) propagation, 
 “frozen-mode” and “degenerate-band-edge” regimes, and Dirac-point conical singularities&lt;/p&gt;
@@ -5337,18 +5401,18 @@ constitutive “blueprints”.&lt;/p&gt;
 &lt;p&gt;Our approach may open up new perspectives in the systematic design of metamaterials with broad field-manipulation capabilities as well as complex spatiotemporal dispersion effects, 
 with potential applications to nonreciprocal optics, topological photonics, and “&lt;a href=&quot;/projects/computational-MTM&quot;&gt;computational metamaterials&lt;/a&gt;.”&lt;/p&gt;
 
-&lt;p&gt;More recently, in a study [&lt;a href=&quot;#IJ128_PRB_96_081113_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;] in collaboration with &lt;a href=&quot;https://sites.google.com/site/rizzacarlo81/&quot;&gt;Carlo Rizza&lt;/a&gt; (University of l’Aquila) 
+&lt;p&gt;More recently, in a study [&lt;a class=&quot;citation&quot; href=&quot;#IJ128_PRB_96_081113_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;] in collaboration with &lt;a href=&quot;https://sites.google.com/site/rizzacarlo81/&quot;&gt;Carlo Rizza&lt;/a&gt; (University of l’Aquila) 
 and &lt;a href=&quot;http://www.ing.univaq.it/personale/scheda_personale.php?codice=511&quot;&gt;Alessandro Ciattoni&lt;/a&gt; (CNR-SPIN), we have explored a novel class of structures, based &lt;em&gt;moderate-permittivity&lt;/em&gt; inclusions, for which 
 nonlocal effects are enhanced. Among other things, these results may significantly 
 boost the practical applicability of nonlocal transformation optics.&lt;/p&gt;
 
-&lt;p&gt;Moreover, in a recent study [&lt;a href=&quot;#IJ132_PRAppl_10_034060_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;] in collaboration with &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt;, we have 
+&lt;p&gt;Moreover, in a recent study [&lt;a class=&quot;citation&quot; href=&quot;#IJ132_PRAppl_10_034060_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;] in collaboration with &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt;, we have 
 explored some peculiar &lt;em&gt;boundary effects&lt;/em&gt; that can enhance the (otherwise neglibibly weak) 
 nonlocality in multilayered dielectric metamaterials wity &lt;em&gt;deeply subwavelength&lt;/em&gt; layers.&lt;/p&gt;
 
 &lt;p&gt;In different, but related, studies we have investigated the emergence of 
-&lt;em&gt;aperiodic-order-induced&lt;/em&gt; nonlocal effects in multilayered metallo-dielectric [&lt;a href=&quot;#IJ105_PRB_87_235116_2013&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;6&lt;/span&gt;&lt;/a&gt;]
-and fully dielectric [&lt;a href=&quot;#IJ134_PRB_98_195128_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;7&lt;/span&gt;&lt;/a&gt;]
+&lt;em&gt;aperiodic-order-induced&lt;/em&gt; nonlocal effects in multilayered metallo-dielectric [&lt;a class=&quot;citation&quot; href=&quot;#IJ105_PRB_87_235116_2013&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;6&lt;/span&gt;&lt;/a&gt;]
+and fully dielectric [&lt;a class=&quot;citation&quot; href=&quot;#IJ134_PRB_98_195128_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;7&lt;/span&gt;&lt;/a&gt;]
 metamaterials.&lt;/p&gt;
 
 &lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
@@ -5750,7 +5814,7 @@ has opened up intriguing perspectives toward aperiodic photonic quasicrystals.&l
 
 &lt;p&gt;In a series of studies in collaboration with &lt;a href=&quot;http://www.fresnel.fr/perso/enoch/&quot;&gt;Stefan Enoch&lt;/a&gt;, &lt;a href=&quot;http://tayeb.fr&quot;&gt;Gérard Tayeb&lt;/a&gt; (Fresnel Institute) and &lt;a href=&quot;http://capolino.eng.uci.edu&quot;&gt;Filippo Capolino&lt;/a&gt; 
 (University of California at Irvine), we have investigated several properties of the &lt;em&gt;in-plane&lt;/em&gt; response of these structures.
-More specifically, in [&lt;a href=&quot;#IJ31_PRL_94_183903_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#IJ38_IEEE_AWPL_5_331_2006&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], we studied 
+More specifically, in [&lt;a class=&quot;citation&quot; href=&quot;#IJ31_PRL_94_183903_2005&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#IJ38_IEEE_AWPL_5_331_2006&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], we studied 
 the bandgap formation in representative categories of photonic quasicrystals. 
 We showed that, among the bandgaps, some exhibit a behavior similar to that typical of (periodic) photonic crystals, 
 while others do not. The development of certain band gaps requires large-size quasicrystals. 
@@ -5758,7 +5822,7 @@ This is explained by the long-range interactions involved in their formation.
 Moreover, the frequencies where the bandgaps occur are not necessarily explained using single 
 scattering and should therefore involve multiple scattering.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ36_OpEx_14_10021_2006&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], we investigated 
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#IJ36_OpEx_14_10021_2006&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], we investigated 
 the properties of the resonant modes that occur in the transparency bands of two-dimensional 
 finite-size Penrose-type photonic quasicrystals made of dielectric cylindrical rods. 
 These modes stem from the natural local arrangements of the quasicrystal structure rather than, 
@@ -5766,7 +5830,7 @@ as originally thought, from fabrication-related imperfections.
 We showed that these modes mainly originate from the 
 interactions between a limited numbers of rods.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ64_PRB_79_075110_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;], we studied 
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#IJ64_PRB_79_075110_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;], we studied 
 the radiation from embedded sources in two-dimensional finite-size photonic-quasicrystal 
 slabs made of dielectric rods arranged according to a 12-fold symmetric aperiodic tiling. 
 Our results indicated the possibility of achieving broadside radiation at multiple frequencies, 
@@ -5774,7 +5838,7 @@ with high directivity (e.g., 15 dB) and low sidelobes (e.g., -12 dB).
 We also showed that leaky waves are supported by such slabs and that the beamwidth 
 is directly proportional to the leaky wave attenuation constant.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ59_APL_93_164102_2008&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#IJ80_NJP_11_113022_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;6&lt;/span&gt;&lt;/a&gt;], in collaboration with 
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#IJ59_APL_93_164102_2008&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#IJ80_NJP_11_113022_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;6&lt;/span&gt;&lt;/a&gt;], in collaboration with 
 &lt;a href=&quot;https://www.docenti.unina.it/andreone&quot;&gt;Antonello Andreone&lt;/a&gt;’s Group (“Federico II” University of Naples), we 
 studied the confinement properties of point-defect resonators 
 in finite-size photonic-quasiscrystal structures composed of aperiodic arrangements 
@@ -5785,7 +5849,7 @@ bandgap-based, accelerating resonators.
 Moreover, we also explored possible improvements attainable via the use of superconducting plates to 
 confine the electromagnetic field in the longitudinal direction.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ52_PNFA_6_1_2008&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;7&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#IJ54_PRB_77_193104_2008&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;8&lt;/span&gt;&lt;/a&gt;], 
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#IJ52_PNFA_6_1_2008&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;7&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#IJ54_PRB_77_193104_2008&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;8&lt;/span&gt;&lt;/a&gt;], 
 we studied the refraction and focusing properties of dodecagonal photonic quasicrystals, 
 via both full-wave numerical simulations and microwave measurements on a slab made of alumina rods 
 inserted in a parallel-plate waveguide. 
@@ -6277,7 +6341,7 @@ well beyond the mere loss-compensation effects.&lt;/p&gt;
 with the study of field-manipulation and wave-guiding properties of non-
 Hermitian metamaterials.&lt;/p&gt;
 
-&lt;p&gt;In particular, in [&lt;a href=&quot;#IJ104_PRL_110_173901_2013&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] and [&lt;a href=&quot;#IJ118_JO_18_044027_2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], 
+&lt;p&gt;In particular, in [&lt;a class=&quot;citation&quot; href=&quot;#IJ104_PRL_110_173901_2013&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] and [&lt;a class=&quot;citation&quot; href=&quot;#IJ118_JO_18_044027_2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], 
 we proposed a complex-coordinate extension of the &lt;a href=&quot;/projects/TO-MTM&quot;&gt;transformation-optics&lt;/a&gt; framework that allows to handle complex-valued constitutive parameters
 (typical of non-Hermitian metamaterials), while retaining an insightful geometrical
 interpretation in terms of the &lt;em&gt;complexification&lt;/em&gt; of geometrical objects.
@@ -6285,8 +6349,8 @@ In particular, in conjunction with the complex source-point formalism, this appr
 the manipulation of beam-like wave objects in the presence of loss and gain. Moreover,
 it can also be applied to the manipulation of leaky waves.&lt;/p&gt;
 
-&lt;p&gt;In a series of subsequent studies, we have focused on some interesting &lt;em&gt;tunneling&lt;/em&gt; [&lt;a href=&quot;#IJ111_PRB_89_085105_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;] and 
-&lt;em&gt;wave-guiding&lt;/em&gt; [&lt;a href=&quot;#IJ114_PRB_91_115114_2015&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#IJ121_PRA_94_043838_2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;] phenomena that can be 
+&lt;p&gt;In a series of subsequent studies, we have focused on some interesting &lt;em&gt;tunneling&lt;/em&gt; [&lt;a class=&quot;citation&quot; href=&quot;#IJ111_PRB_89_085105_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;] and 
+&lt;em&gt;wave-guiding&lt;/em&gt; [&lt;a class=&quot;citation&quot; href=&quot;#IJ114_PRB_91_115114_2015&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#IJ121_PRA_94_043838_2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;] phenomena that can be 
 induced in non-Hermitian bi-layer and tri-layer systems.
 More specifically, in connection with bi-layer systems (as schematized in the figure top panel), we showed that the PT-symmetry condition
 inherently yields &lt;em&gt;unattenuated propagation&lt;/em&gt; along the gain-loss interface, sustained
@@ -6301,7 +6365,7 @@ wave-guiding on demand. For instance, one could envision the deploying of gain m
 channels in a lossy background, and their selective enabling (and possibly
 reconfiguring) via optical pumping or other gain-inducing mechanisms.&lt;/p&gt;
 
-&lt;p&gt;In a related investigation [&lt;a href=&quot;#IJ113_SREP_5_8568_2015&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;6&lt;/span&gt;&lt;/a&gt;], 
+&lt;p&gt;In a related investigation [&lt;a class=&quot;citation&quot; href=&quot;#IJ113_SREP_5_8568_2015&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;6&lt;/span&gt;&lt;/a&gt;], 
 we applied the &lt;em&gt;supersymmetry&lt;/em&gt; concept to the design of non-Hermitian optical couplers with 
 higher-order mode-selection functionalities, 
 with potential applications to mode-division multiplexing in optical links.&lt;/p&gt;
@@ -6309,14 +6373,14 @@ with potential applications to mode-division multiplexing in optical links.&lt;/
 &lt;p&gt;More recently, in collaboration with &lt;a href=&quot;https://www.gc.cuny.edu/Faculty/Core-Bios/Andrea-Alu&quot;&gt;Andrea Alù&lt;/a&gt; (ASRC-CUNY),
 we have explored cylindrical lensing systems composed of pairs of metasurfaces with suitably tailored non-Hermitian
 and nonlocal properties in order to attain &lt;em&gt;magnified
-imaging&lt;/em&gt; with reduced aberrations [&lt;a href=&quot;#IJ123_PRB_95_115114_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;7&lt;/span&gt;&lt;/a&gt;]. Moreover, we have studied 
+imaging&lt;/em&gt; with reduced aberrations [&lt;a class=&quot;citation&quot; href=&quot;#IJ123_PRB_95_115114_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;7&lt;/span&gt;&lt;/a&gt;]. Moreover, we have studied 
 non-Hermitian core-shell configurations exhibiting &lt;em&gt;spectral singularities&lt;/em&gt; ﻿
 and have﻿explored possible applications to controlling and tailoring in unconventional ways the scattering 
-response of sub-wavelength and wavelength-sized objects [&lt;a href=&quot;#IJ136_IEEE-TAP_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;8&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
+response of sub-wavelength and wavelength-sized objects [&lt;a class=&quot;citation&quot; href=&quot;#IJ136_IEEE-TAP_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;8&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
 
 &lt;p&gt;In collaboration with &lt;a href=&quot;http://capolino.eng.uci.edu&quot;&gt;Filippo Capolino&lt;/a&gt;’s Group (University of California at Irvine), we have
 also explored the emergence of &lt;em&gt;exceptional points&lt;/em&gt; in non-Hermitian photonic coupled chains of scatterers 
-[&lt;a href=&quot;#IJ125_PRB_95_104305_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;9&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ125_PRB_95_104305_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;9&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
 
 &lt;p&gt;Our results may find potentially intriguing applicability to a variety of exotic
 light-matter interaction effects (e.g., unidirectional invisibility, coherent
@@ -6791,7 +6855,7 @@ optical components and devices.&lt;/p&gt;
 &lt;p&gt;In a series of studies in collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group (University of Sannio),
 we have investigated the &lt;em&gt;guided resonances&lt;/em&gt; that can be excited 
 in a dielectric photonic quasicrystal slabs. 
-More specifically, in [&lt;a href=&quot;#IJ66_OpEx_17_6335_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#IJ79_MOTL_51_2737_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], 
+More specifically, in [&lt;a class=&quot;citation&quot; href=&quot;#IJ66_OpEx_17_6335_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#IJ79_MOTL_51_2737_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], 
 via a full-wave numerical study of the transmittance response and the modal structure of a photonic quasicrystal 
 slab based on a representative aperiodic geometry (Ammann-Beenker octagonal tiling), 
 we demonstrated the possibility to excite guided-resonance modes, 
@@ -6800,7 +6864,7 @@ In particular, we showed that, as for the periodic case, guided resonances
 arise from the coupling of the incident plane-wave with degenerate modes of the photonic quasicrystal 
 slab that exhibit a matching symmetry in the spatial distribution, 
 and can still be parameterized via a Fano-like model.
-In [&lt;a href=&quot;#IJ76_OpEx_17_19586_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], with reference to the same geometry,
+In [&lt;a class=&quot;citation&quot; href=&quot;#IJ76_OpEx_17_19586_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], with reference to the same geometry,
 we studied the effects induced by the introduction of 
 symmetry-preserving and symmetry-breaking point defects. 
 Our results demonstrated that breaking the supercell mirror symmetries via the 
@@ -6808,13 +6872,13 @@ judicious introduction of point-defects enables for the excitation of otherwise 
 with control on the symmetry properties of their field distributions, 
 thereby constituting an attractive alternative to those guided-resonance-engineering approaches 
 based on the asymmetrization of the hole shape. 
-In [&lt;a href=&quot;#IJ88_OpEx_18_17280_2010&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;], we carried out a comparative study of the tuning efficiency and sensitivity 
+In [&lt;a class=&quot;citation&quot; href=&quot;#IJ88_OpEx_18_17280_2010&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;], we carried out a comparative study of the tuning efficiency and sensitivity 
 of guided resonances. These results indicated that the spatial arrangement of the 
 holes may strongly influence the tuning and sensitivity efficiency, 
 and may provide new degrees of freedom and tools for the design and optimization of 
 novel photonic devices for both sensing and telecommunication applications.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ90_OL_35_3946_2010&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#IJ95_PRB_84_085135_2011&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;6&lt;/span&gt;&lt;/a&gt;], in collaboration with &lt;a href=&quot;https://www.york.ac.uk/physics/people/krauss/&quot;&gt;Thomas Krauss&lt;/a&gt;‘Group 
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#IJ90_OL_35_3946_2010&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#IJ95_PRB_84_085135_2011&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;6&lt;/span&gt;&lt;/a&gt;], in collaboration with &lt;a href=&quot;https://www.york.ac.uk/physics/people/krauss/&quot;&gt;Thomas Krauss&lt;/a&gt;‘Group 
 (University of St. Andrews), we provided the first experimental evidence of Fano-type guided resonances 
 in aperiodically-ordered photonic quasicrystal slabs.
 The figure top panel shows a scanning-electron-microscope of 
@@ -6822,7 +6886,7 @@ the silicon-on-insulator prototype (operating at near-infrared wavelengths). The
 reflectance response, from which a Fano-type resonant lineshape is clearly visible, in good agreement with
 numerical simulations.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ102_AFM_22_4389_2012&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;7&lt;/span&gt;&lt;/a&gt;], we considered hybrid metallo-dielectric 
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#IJ102_AFM_22_4389_2012&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;7&lt;/span&gt;&lt;/a&gt;], we considered hybrid metallo-dielectric 
 quasicrystal nanostructures composed of metal-backed aperiodically patterned low-contrast dielectric layers.
 We showed that, by comparison with standard periodic structures, a 
 moderately richer spectrum of resonant modes may
@@ -7256,7 +7320,7 @@ In the latter view, an ideal scenario would be to have the system designed in su
 could be amplified and not only the local material characteristics but also the collective device property 
 can be drastically manipulated with environmental stimuli&lt;/p&gt;
 
-&lt;p&gt;In a study [&lt;a href=&quot;#IJ115_PRB_91_134105_2015&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] in collaboration with the Groups led by &lt;a href=&quot;http://www2.rowland.harvard.edu/people/yuki-sato&quot;&gt;Yuki Sato&lt;/a&gt; and 
+&lt;p&gt;In a study [&lt;a class=&quot;citation&quot; href=&quot;#IJ115_PRB_91_134105_2015&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] in collaboration with the Groups led by &lt;a href=&quot;http://www2.rowland.harvard.edu/people/yuki-sato&quot;&gt;Yuki Sato&lt;/a&gt; and 
 &lt;a href=&quot;http://shriram-ramanathan.org&quot;&gt;Shriram Ramanathan&lt;/a&gt; (Harvard University), we demonstrated 
 for the first time a metamaterial electric circuit integrated onto a silicon wafer that can dynamically 
 reconfigure the preferred conduction paths. This is enabled by introducing a correlated electron oxide thin film that undergoes a 
@@ -7360,15 +7424,15 @@ to a suitable approximation of given ideal constitutive “blueprints.”&lt;/p&
 
 &lt;p&gt;It is well known that the &lt;em&gt;inherently magnetic&lt;/em&gt; properties of typically arising transformation media 
 limit the high-frequency scaling of practical metamaterial implementations based on subwavelength inclusions 
-(e.g., split-ring resonators). In [&lt;a href=&quot;#IJ62_MOTL_50_3186_2008&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#IJ74_PRB_80_125116_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], with reference to 
+(e.g., split-ring resonators). In [&lt;a class=&quot;citation&quot; href=&quot;#IJ62_MOTL_50_3186_2008&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#IJ74_PRB_80_125116_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], with reference to 
 the “invisibility cloaking” scenario, we explored 
 alternative approaches to attain &lt;em&gt;nonmagnetic&lt;/em&gt; implementations, 
 with performance comparable to that of a nonideal  lossy, dispersive, 
 parameter truncated  implementation of standard  magnetic  cloaking.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ60_IEEE_AWPL_7_603_2008&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#IJ78_MOTL_51_2709_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;], 
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#IJ60_IEEE_AWPL_7_603_2008&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#IJ78_MOTL_51_2709_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;], 
 we applied the transformation approach to corner- and wedge-type configurations, in order to attain
-unconventional scattering signatures, whereas, in [&lt;a href=&quot;#IJ83_PRB_81_125124_2010&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;], we explored a general 
+unconventional scattering signatures, whereas, in [&lt;a class=&quot;citation&quot; href=&quot;#IJ83_PRB_81_125124_2010&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;5&lt;/span&gt;&lt;/a&gt;], we explored a general 
 class of transparent metamaterial slabs with intriguing image-displacement/formation capabilities. For instance, the figure 
 top panels illustrate the design of a coordinate transformation capable of “flattening” a corner-reflector geometry, 
 thereby yielding a thin planar metamaterial-based retroreflector.
@@ -7378,20 +7442,20 @@ The retrodirective response of the proposed reﬂector is clearly visible from t
 in complete accord with those observed in the corner-reﬂector case, and in sharp contrast with 
 those observed in the plain-metal-sheet (which instead exhibits a strong specular response).&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ65_OpEx_17_3101_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;6&lt;/span&gt;&lt;/a&gt;], we studied the interactions between an invisibility cloak
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#IJ65_OpEx_17_3101_2009&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;6&lt;/span&gt;&lt;/a&gt;], we studied the interactions between an invisibility cloak
 and an “anti-cloak” capable  of (partially or totally) “undoing” the cloaking transformation. 
-In [&lt;a href=&quot;#IJ89_JOSAB_27_2132_2010&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;7&lt;/span&gt;&lt;/a&gt;, &lt;a href=&quot;#IJ94_WM_48_455_2011&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;8&lt;/span&gt;&lt;/a&gt;], we further developed this concept, 
+In [&lt;a class=&quot;citation&quot; href=&quot;#IJ89_JOSAB_27_2132_2010&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;7&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#IJ94_WM_48_455_2011&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;8&lt;/span&gt;&lt;/a&gt;], we further developed this concept, 
 and illustrated its possible applications to the design of “invisible” sensors.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ92_JO_13_024011_2011&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;9&lt;/span&gt;&lt;/a&gt;], we extended the approach to
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#IJ92_JO_13_024011_2011&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;9&lt;/span&gt;&lt;/a&gt;], we extended the approach to
 deal with &lt;em&gt;single-negative&lt;/em&gt;  materials, and applied this concept to the design of
 tunneling effects.&lt;/p&gt;
 
 &lt;p&gt;More recently, we have applied the transformation-optics approach to the design of metamaterial radomes for extending 
-the scanning angle of a phased array [&lt;a href=&quot;#IJ126_IEEE-JMMCT_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;10&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
+the scanning angle of a phased array [&lt;a class=&quot;citation&quot; href=&quot;#IJ126_IEEE-JMMCT_2017&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;10&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
 
 &lt;p&gt;We have also proposed other extensions to deal with &lt;a href=&quot;/projects/nonlocal-effects&quot;&gt;nonlocal&lt;/a&gt;, &lt;a href=&quot;/projects/non-Hermitian-MTM&quot;&gt;non-Hermitian&lt;/a&gt;, and &lt;a href=&quot;/projects/multiphysics-MTM&quot;&gt;multiphysics&lt;/a&gt; scenarios, 
-some of which are also included in a recent “roadmap” [&lt;a href=&quot;#IJ129_JO_20_063001_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;11&lt;/span&gt;&lt;/a&gt;] .&lt;/p&gt;
+some of which are also included in a recent “roadmap” [&lt;a class=&quot;citation&quot; href=&quot;#IJ129_JO_20_063001_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;11&lt;/span&gt;&lt;/a&gt;] .&lt;/p&gt;
 
 &lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ62_MOTL_50_3186_2008&quot;&gt;Gallina, I., Castaldi, G., &amp;amp; Galdi, V. (2008). A higher-order optical transformation for nonmagnetic cloaking. &lt;i&gt;Microwave and Optical Technology Letters&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;50&lt;/i&gt;&lt;/span&gt;(12), 3186–3190.&lt;/span&gt;
@@ -7981,7 +8045,7 @@ the stacking of alternating subwavelength layers with negative and positive perm
  order of the layers and depends only on the permittivities of the two constituents and their filling fractions, 
 one would intuitively expect the positional order of the layers to sensibly affect the nonlocal response.&lt;/p&gt;
 
-&lt;p&gt;Within this framework, in [&lt;a href=&quot;#IJ105_PRB_87_235116_2013&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we studied the nonlocal response of hyperbolic metamaterials 
+&lt;p&gt;Within this framework, in [&lt;a class=&quot;citation&quot; href=&quot;#IJ105_PRB_87_235116_2013&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we studied the nonlocal response of hyperbolic metamaterials 
 constituted by multilayer superlattices based on the Thue-Morse geometry.
 The chosen geometry (schematized in the figure top panel) is particularly interesting since different iteration orders differ solely 
 in the positional order of the constituent material layers. Interestingly, we identified some configurations 
@@ -8006,7 +8070,7 @@ degree of freedom in the engineering of optical nonlocality, which may also be f
 the recently introduced framework of &lt;a href=&quot;/projects/nonlocal-effects&quot;&gt;nonlocal transformation optics&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;More recently, we have explored some peculiar &lt;em&gt;boundary effects&lt;/em&gt; that can enhance the (otherwise neglibibly weak) 
-nonlocality in aperiodically ordered multilayered dielectric metamaterials wity &lt;em&gt;deeply subwavelength&lt;/em&gt; layers [&lt;a href=&quot;#IJ134_PRB_98_195128_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
+nonlocality in aperiodically ordered multilayered dielectric metamaterials wity &lt;em&gt;deeply subwavelength&lt;/em&gt; layers [&lt;a class=&quot;citation&quot; href=&quot;#IJ134_PRB_98_195128_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;].&lt;/p&gt;
 
 &lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ105_PRB_87_235116_2013&quot;&gt;Savoia, S., Castaldi, G., &amp;amp; Galdi, V. (2013). Optical nonlocality in multilayered hyperbolic metamaterials based on Thue-Morse superlattices. &lt;i&gt;Physical Review B&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;87&lt;/i&gt;&lt;/span&gt;(23), 235116.&lt;/span&gt;
@@ -8142,7 +8206,7 @@ nonlocality in aperiodically ordered multilayered dielectric metamaterials wity 
 In collaboration with &lt;a href=&quot;http://www.optoelectronics.ing.unisannio.it/index.php?option=com_content&amp;amp;view=article&amp;amp;layout=edit&amp;amp;id=100&quot;&gt;Andrea Cusano&lt;/a&gt;’s Group (University of Sannio), we have explored 
 several nanostructured configurations for label-free biosensing.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ106_OpEx_21_23531_2013&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we studied
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#IJ106_OpEx_21_23531_2013&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we studied
 sensing schemes based on Rayleigh anomalies in 
 metal nanogratings. These structures tend to exhibit an impressive bulk refractive-index sensitivity determined 
 solely by the grating period. However, the surface sensitivity (which is a key figure of merit 
@@ -8162,7 +8226,7 @@ Bloch surface waves constitute an attractive alternative for applications to
 label-free biosensing.
 These waves are guided at the interface between a homogeneous medium and a truncated one-dimensional photonic crystal, 
 and are characterized by a dispersion curve located in the forbidden band of the photonic crystal.
-In [&lt;a href=&quot;#IJ122_OpEx_24_27771_2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], we investigated the possibility to excite 
+In [&lt;a class=&quot;citation&quot; href=&quot;#IJ122_OpEx_24_27771_2016&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], we investigated the possibility to excite 
 Bloch surface waves on the tip of single-mode optical fibers. 
 The figure top panel schematizes the proposed excitation scheme, based on a grating-coupling mechanism, 
 which enables an efficient control of the excitation angle combined with a feasible integration on the tip 
@@ -8173,9 +8237,9 @@ plasmonic bioprobes, with the key advantage of exhibiting much narrower spectral
 This prototype study paves the way for a new class of miniaturized high-performance surface-wave 
 fiber-optic devices for high-resolution label-free optical biosensing, and represents an important step 
 forward in the “lab-on-fiber” technology roadmap.
-More recently [&lt;a href=&quot;#IJ130_AdOM_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], we have experimentally validated the above results, by demonstrating for the first time the excitation of Bloch surface waves on the tip of an optical fiber.&lt;/p&gt;
+More recently [&lt;a class=&quot;citation&quot; href=&quot;#IJ130_AdOM_2018&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], we have experimentally validated the above results, by demonstrating for the first time the excitation of Bloch surface waves on the tip of an optical fiber.&lt;/p&gt;
 
-&lt;p&gt;In a separate but related project [&lt;a href=&quot;#IJ135_NMNT_9_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;], we have recently explored the sensing capabilities of optical-fiber &lt;a href=&quot;/projects/meta-tip&quot;&gt;meta-tips&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In a separate but related project [&lt;a class=&quot;citation&quot; href=&quot;#IJ135_NMNT_9_2019&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;], we have recently explored the sensing capabilities of optical-fiber &lt;a href=&quot;/projects/meta-tip&quot;&gt;meta-tips&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;relevant-papers&quot;&gt;Relevant papers&lt;/h2&gt;
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ106_OpEx_21_23531_2013&quot;&gt;Savoia, S., Ricciardi, A., Crescitelli, A., Granata, C., Esposito, E., Galdi, V., &amp;amp; Cusano, A. (2013). Surface sensitivity of Rayleigh anomalies in metallic nanogratings. &lt;i&gt;Optics Express&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;21&lt;/i&gt;&lt;/span&gt;(20), 23531–23542.&lt;/span&gt;
@@ -8392,7 +8456,7 @@ epsilon-negative and mu-negative media can give rise to resonant tunneling pheno
 (with total transmission and zero phase delay) when paired as a bilayer. 
 Starting from this basic configuration, several extensions and generalizations can be investigated.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ93_PRB_83_081105_2011&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], 
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#IJ93_PRB_83_081105_2011&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], 
 in collaboration with 
 &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/)&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania) 
 and &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt; (University of Texas at Austin), 
@@ -8403,7 +8467,7 @@ can be chosen arbitrarily (even vacuum), while the other may exhibit extreme (ei
 permittivity and permeability values. Our results on this counterintuitive tunneling phenomenon also 
 demonstrate the possibility of synthesizing double-positive slabs that effectively exhibit 
 epsilon/mu-negative-like wave-impedance properties within a moderately wide frequency range.
-In [&lt;a href=&quot;#IJ97_JOSAB_28_2632_2011&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], 
+In [&lt;a class=&quot;citation&quot; href=&quot;#IJ97_JOSAB_28_2632_2011&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;], 
 we considered a different configuration featuring a homogeneous, isotropic epsilon-negative slab 
 paired with a uniaxially anisotropic double-positive slab, under obliquely incident illumination. 
 Unlike the Fabry–Perot-type resonant phenomena observed in the previous configuration (characterized
@@ -8423,10 +8487,10 @@ fields through arrays of sub-wavelength holes or slits in metallic screens
 we demonstrated (numerically and experimentally) the possibility of achieving substantial enhancements in the 
 transmission of transverse-electric-polarized electromagnetic fields through subwavelength slits 
 in a thin metallic screen by placing single or paired metallic cut-wire arrays at a close distance from the screen.
-More specifically, in [&lt;a href=&quot;#IJ87_IEEE_AWPL_9_641_2010&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], we carried out a comprehensive numerical study,
+More specifically, in [&lt;a class=&quot;citation&quot; href=&quot;#IJ87_IEEE_AWPL_9_641_2010&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;], we carried out a comprehensive numerical study,
 which indicated that a richer phenomenology (involving both electric-and magnetic-type resonances) 
 could be attained by pairing a two cut-wire arrays at the two sides of the screen.
-Subsequently, in [&lt;a href=&quot;#IJ91_OpEx_18_26769_2010&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;], we reported on the first experimental evidence of 
+Subsequently, in [&lt;a class=&quot;citation&quot; href=&quot;#IJ91_OpEx_18_26769_2010&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;4&lt;/span&gt;&lt;/a&gt;], we reported on the first experimental evidence of 
 such extraordinary transmission phenomena, via microwave (X/Ku-band) measurements on printed-circuit-board prototypes.
 The figure top panel schematizes the geometry of interes, whereas the center panel shows the fabricated prototype. 
 The bottom panel shows instead the microwave measurements.
@@ -8671,7 +8735,7 @@ combining single-negative (i.e., with negative permittivity or permeability) and
 By inserting in these heterostructures magneto-optical materials, 
 we render the resonance conditions sensitive to the circular polarization handedness.&lt;/p&gt;
 
-&lt;p&gt;More specifically, in [&lt;a href=&quot;#IJ108_JPD_47_025002_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we studied the resonant tunnelling effects that can occur in 
+&lt;p&gt;More specifically, in [&lt;a class=&quot;citation&quot; href=&quot;#IJ108_JPD_47_025002_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we studied the resonant tunnelling effects that can occur in 
 trilayer structures featuring a 
 dielectric layer sandwiched between two magneto-optical-metal (e.g., \(Co_6Ag_{94}\)) layers. 
 We showed that the resonance splitting associated with these phenomena can be exploited to enhance 
@@ -8680,7 +8744,7 @@ a tri-layer structure of subwavelength thickness is capable of yielding sensible
 Faraday rotation with transmittance levels that are an order of magnitude larger than those 
 attainable with a standalone slab of magneto-optical-metal metal of the same thickness.&lt;/p&gt;
 
-&lt;p&gt;In [&lt;a href=&quot;#IJ110_JAP_115_043107_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;],
+&lt;p&gt;In [&lt;a class=&quot;citation&quot; href=&quot;#IJ110_JAP_115_043107_2014&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;],
 we showed that tri-layer structures combining epsilon-negative and 
 magneto-optical material layers can exhibit unidirectional resonant photon 
 tunneling phenomena that can discriminate between circularly polarized waves of 
@@ -8822,7 +8886,7 @@ of the above configurations need to be assessed numerically.&lt;/p&gt;
 
 &lt;p&gt;In a study in collaboration with &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/)&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania) and
 &lt;a href=&quot;http://users.ece.utexas.edu/~aalu/)&quot;&gt;Andrea Alù&lt;/a&gt; (University of Texas at Austin)
-[&lt;a href=&quot;#IJ101_PRB_86_115123_2012&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we studied in detail a slab of uniaxial 
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ101_PRB_86_115123_2012&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;], we studied in detail a slab of uniaxial 
 &lt;em&gt;epsilon-near-zero&lt;/em&gt; metamaterial with tilted optical axis, as schematized in the figure top panel
 (also shown are the typical elliptic and hyperbolic equifrequency contours in the global 
 and rotated spectral reference systems).&lt;/p&gt;
