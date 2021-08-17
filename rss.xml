@@ -5,16 +5,28 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2021-07-24T19:15:00+02:00</lastBuildDate>
-        <pubDate>2021-07-24T19:15:00+02:00</pubDate>
+        <lastBuildDate>2021-08-17T14:02:30+02:00</lastBuildDate>
+        <pubDate>2021-08-17T14:02:30+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on time-division-multiplexing metasurfaces accepted in AdOM</title>
+                <description>&lt;p&gt;Our paper on “Simultaneous conversion of polarization and frequency via time-division-multiplexing metasurfaces,”
+in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
+has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wiley.com/journal/21951071&quot;&gt;&lt;em&gt;Advanced Optical Materials&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/news/AdOM-TDMM-accepted</link>
+                <guid>http://fw-lab.org/news/AdOM-TDMM-accepted</guid>
+                <pubDate>2021-08-17T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Our paper on temporal metamaterials accepted in Nanophotonics</title>
                 <description>&lt;p&gt;Our paper on “Exploiting space-time duality in the synthesis of impedance transformers via temporal metamaterials,”
 in collaboration with &lt;a href=&quot;https://www.ncl.ac.uk/engineering/staff/profile/victorpacheco-pena.html&quot;&gt;Víctor Pacheco-Peña&lt;/a&gt; (Newcastle University)
-and &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/index.htm&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania)
+and &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/index.htm&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania),
 has been accepted for publication in &lt;a href=&quot;https://www.degruyter.com/view/journals/nanoph/nanoph-overview.xml&quot;&gt;&lt;em&gt;Nanophotonics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
                 <link>http://fw-lab.org/news/NANOP-TD-ML_accepted</link>
