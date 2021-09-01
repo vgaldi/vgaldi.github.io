@@ -26,6 +26,7 @@ http://fw-lab.org/assets/themes/lab/css/style.css
 http://fw-lab.org/tags
 http://fw-lab.org/feed.xml
 
+http://fw-lab.org/news/URSI-GASS-2021
 http://fw-lab.org/news/NANOP-TD-ML_published
 http://fw-lab.org/news/AdOM-TDMM-accepted
 http://fw-lab.org/news/NANOP-TD-ML_accepted
