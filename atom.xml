@@ -4,7 +4,7 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2021-09-01T11:32:21+02:00</updated>
+ <updated>2021-09-01T11:44:07+02:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
@@ -19,7 +19,7 @@
    <id>http://fw-lab.org/news/URSI-GASS-2021</id>
    <content type="html">&lt;p&gt;We have presented three invited talks
 [&lt;a class=&quot;citation&quot; href=&quot;#Zhang_URSI-GASS_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#Galdi_URSI-GASS_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#Moccia_URSI-GASS_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;]
-at the &lt;em&gt;XXXIV URSI General Assembly&lt;/em&gt; (&lt;a href=&quot;https://www.ursi2021.org&quot;&gt;URSI-GASS&lt;/a&gt;),
+at the &lt;em&gt;XXXIV URSI General Assembly&lt;/em&gt; (&lt;a href=&quot;https://www.ursi2021.org&quot;&gt;URSI-GASS 2021&lt;/a&gt;),
 Rome, Italy, Aug. 28-Sep. 4, 2021.&lt;/p&gt;
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Zhang_URSI-GASS_2021&quot;&gt;Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Moccia, M., … Cui, T. J. (2021). Some recent advances in space-time-coding metasurfaces. In &lt;i&gt;XXXIV General Assembly and Scientific Symposium (GASS) of the URSI&lt;/i&gt;. Rome, Italy, Aug. 28-Sep. 4, 2021.&lt;/span&gt;
@@ -96,7 +96,7 @@ Rome, Italy, Aug. 28-Sep. 4, 2021.&lt;/p&gt;
   
     
 &lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;Moccia_URSI-GASS_2021&quot;&gt;M. Moccia, V. G., G. Castaldi. (2021). Modeling and harnessing wave propagation in nonlocal and non-Hermitian media via extended transformation optics. In &lt;i&gt;XXXIV General Assembly and Scientific Symposium (GASS) of the URSI&lt;/i&gt;. Rome, Italy, Aug. 28-Sep. 4, 2021.&lt;/span&gt;
+&lt;li&gt;&lt;span id=&quot;Moccia_URSI-GASS_2021&quot;&gt;Moccia, M., Castaldi, G., &amp;amp; Galdi, V. (2021). Modeling and harnessing wave propagation in nonlocal and non-Hermitian media via extended transformation optics. In &lt;i&gt;XXXIV General Assembly and Scientific Symposium (GASS) of the URSI&lt;/i&gt;. Rome, Italy, Aug. 28-Sep. 4, 2021.&lt;/span&gt;
 
 
 &lt;div id=&quot;Moccia_URSI-GASS_2021-materials&quot;&gt;
@@ -121,7 +121,7 @@ Rome, Italy, Aug. 28-Sep. 4, 2021.&lt;/p&gt;
   
 
   &lt;pre id=&quot;Moccia_URSI-GASS_2021-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Moccia_URSI-GASS_2021,
-  author = {M. Moccia, G. Castaldi, V. Galdi},
+  author = {Moccia, M. and Castaldi, G. and Galdi, V.},
   title = {Modeling and harnessing wave propagation in nonlocal and non-Hermitian media via extended transformation optics},
   booktitle = {XXXIV General Assembly and Scientific Symposium (GASS) of the URSI},
   organization = {Rome, Italy, Aug. 28-Sep. 4, 2021},
