@@ -5,16 +5,230 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2021-09-01T11:44:07+02:00</lastBuildDate>
-        <pubDate>2021-09-01T11:44:07+02:00</pubDate>
+        <lastBuildDate>2021-10-23T15:48:13+02:00</lastBuildDate>
+        <pubDate>2021-10-23T15:48:13+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on quasi-bound states in the continuum accepted in APL</title>
+                <description>&lt;p&gt;Our paper on “Synthesizing quasi-bound states in the continuum in epsilon-near-zero layered materials”
+has been accepted for publication in &lt;a href=&quot;https://aip.scitation.org/journal/apl&quot;&gt;&lt;em&gt;Applied Physics Letters&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/2110.05779&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;
+</description>
+                <link>http://fw-lab.org/news/APL-BIC-EMZ_paper-accepted</link>
+                <guid>http://fw-lab.org/news/APL-BIC-EMZ_paper-accepted</guid>
+                <pubDate>2021-10-13T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>Our paper on time-division-multiplexing metasurfaces published in AdOM</title>
+                <description>&lt;p&gt;Our paper on “Simultaneous conversion of polarization and frequency via time-division-multiplexing metasurfaces” [&lt;a class=&quot;citation&quot; href=&quot;#IJ153_AdOM_2101043_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
+in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
+has been published &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ153_AdOM_2101043_2021&quot;&gt;Yang, J., Ke, J. C., Cao, W. K., Chen, M. Z., Cheng, Q., Galdi, V., &amp;amp; Cui, T. J. (2021). Simultaneous conversion of polarization and frequency via time-division-multiplexing metasurfaces. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;(early view)&lt;/i&gt;&lt;/span&gt;, 2101043.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ153_AdOM_2101043_2021-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ153_AdOM_2101043_2021-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ153_AdOM_2101043_2021-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/https://doi.org/10.1002/adom.202101043&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ153_AdOM_2101043_2021.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadom.202101043&amp;amp;file=adom202101043-sup-0001-SuppMat.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ153_AdOM_2101043_2021-abstract&quot; class=&quot;collapse&quot;&gt;Abstract Metasurfaces are artificially engineered two-dimensional materials composed of sub-wavelength meta-atoms, which have shown unprecedented capabilities in manipulating the amplitude, phase, frequency, and polarization states of electromagnetic waves. Specifically, polarization control can be attained via suitable anisotropic, linear, and time-invariant designs, while frequency conversion is realized via nonlinear or time-varying platforms. Simultaneous manipulations of polarization and frequency would be of considerable practical interest in many application scenarios, but remain unattainable with current approaches. Here, a time-division-multiplexing metasurface is proposed to realize the simultaneous conversion of polarization and frequency. The platform relies on time-modulated polarization switches and, by varying the duty cycle and time delays of the polarization channels, can arbitrarily rotate the polarization at the central frequency of operation, and synthesize various polarization states at selected harmonic frequencies. Theoretical predictions are validated via measurements on a prototype operating at microwave frequencies, providing the first experimental evidence of simultaneous polarization and frequency conversions via time-division-multiplexing metasurfaces. The outcomes open a new pathway in manipulating the electromagnetic waves via time-varying metasurfaces, and may be of interest for a broad variety of applications in scenarios ranging from polarization imaging to quantum optics.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ153_AdOM_2101043_2021-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ153_AdOM_2101043_2021,
+  author = {Yang, Jin and Ke, Jun Chen and Cao, Wen Kang and Chen, Ming Zheng and Cheng, Qiang and Galdi, Vincenzo and Cui, Tie Jun},
+  title = {Simultaneous conversion of polarization and frequency via time-division-multiplexing metasurfaces},
+  journal = {Advanced Optical Materials},
+  volume = {(early view)},
+  pages = {2101043},
+  doi = {https://doi.org/10.1002/adom.202101043},
+  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadom.202101043&amp;amp;file=adom202101043-sup-0001-SuppMat.pdf},
+  month = sep,
+  year = {2021}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://fw-lab.org/news/AdOM-TDMM_published</link>
+                <guid>http://fw-lab.org/news/AdOM-TDMM_published</guid>
+                <pubDate>2021-09-24T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>Invited and contributed talks at Metamaterials 2021</title>
+                <description>&lt;p&gt;We have presented an invited talk
+[&lt;a class=&quot;citation&quot; href=&quot;#Galdi_Metamaterials_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+and a contributed talk [&lt;a class=&quot;citation&quot; href=&quot;#Rizza_Metamaterials_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
+at the &lt;em&gt;15th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;https://congress2021.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
+New York (NY), USA, Sep. 20-25, 2021 (online).&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Galdi_Metamaterials_2021&quot;&gt;Galdi, V. (2021). Non-Hermitian line waves. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. New York, NY, USA, Sep. 20-25, 2021 (online).&lt;/span&gt;
+
+
+&lt;div id=&quot;Galdi_Metamaterials_2021-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Galdi_Metamaterials_2021-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Galdi_Metamaterials_2021-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Galdi_Metamaterials_2021,
+  author = {Galdi, V.},
+  title = {Non-{H}ermitian line waves},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {New York, NY, USA, Sep. 20-25, 2021 (online)},
+  month = sep,
+  year = {2021}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Rizza_Metamaterials_2021&quot;&gt;Rizza, C., Castaldi, G., &amp;amp; Galdi, V. (2021). Optical magnetism in temporal metamaterials. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. New York, NY, USA, Sep. 20-25, 2021 (online).&lt;/span&gt;
+
+
+&lt;div id=&quot;Rizza_Metamaterials_2021-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Rizza_Metamaterials_2021-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Rizza_Metamaterials_2021-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Rizza_Metamaterials_2021,
+  author = {Rizza, C. and Castaldi, G. and Galdi, V.},
+  title = {Optical magnetism in temporal metamaterials},
+  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
+  organization = {New York, NY, USA, Sep. 20-25, 2021 (online)},
+  month = sep,
+  year = {2021}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+</description>
+                <link>http://fw-lab.org/news/Metamaterials-2021</link>
+                <guid>http://fw-lab.org/news/Metamaterials-2021</guid>
+                <pubDate>2021-09-23T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>Keynote talk at MetaNano 2021</title>
+                <description>&lt;p&gt;We have presented a keynote talk
+[&lt;a class=&quot;citation&quot; href=&quot;#Galdi_MetaNano_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+at the &lt;em&gt;VI International Conference on Metamaterials and Nanophotonics&lt;/em&gt; (&lt;a href=&quot;https://metanano.itmo.ru&quot;&gt;MetaNano 2021&lt;/a&gt;),
+Tblisi, Georgia, Sep. 23-17, 2021 (online).&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Galdi_MetaNano_2021&quot;&gt;Galdi, V. (2021). Recent advances in space-time coding digital metasurfaces. In &lt;i&gt;VI International Conference on Metamaterials and Nanophotonics (MetaNano 2021)&lt;/i&gt;. Tblisi, Georgia, Sep. 13-17, 2021 (online).&lt;/span&gt;
+
+
+&lt;div id=&quot;Galdi_MetaNano_2021-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Galdi_MetaNano_2021-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Galdi_MetaNano_2021-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Galdi_MetaNano_2021,
+  author = {Galdi, V.},
+  title = {Recent advances in space-time coding digital metasurfaces},
+  booktitle = {VI International Conference on Metamaterials and Nanophotonics (MetaNano 2021)},
+  organization = {Tblisi, Georgia, Sep. 13-17, 2021 (online)},
+  month = sep,
+  year = {2021}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+
+</description>
+                <link>http://fw-lab.org/news/MetaNano-2021</link>
+                <guid>http://fw-lab.org/news/MetaNano-2021</guid>
+                <pubDate>2021-09-14T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Three invited talks at URSI-GASS 2021</title>
                 <description>&lt;p&gt;We have presented three invited talks
 [&lt;a class=&quot;citation&quot; href=&quot;#Zhang_URSI-GASS_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#Galdi_URSI-GASS_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#Moccia_URSI-GASS_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;3&lt;/span&gt;&lt;/a&gt;]
-at the &lt;em&gt;XXXIV URSI General Assembly&lt;/em&gt; (&lt;a href=&quot;https://www.ursi2021.org&quot;&gt;URSI-GASS 2021&lt;/a&gt;),
+at the &lt;em&gt;XXXIV URSI General Assembly&lt;/em&gt; (&lt;a href=&quot;https://www.ursi2021.org&quot;&gt;URSI-GASS&lt;/a&gt;),
 Rome, Italy, Aug. 28-Sep. 4, 2021.&lt;/p&gt;
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Zhang_URSI-GASS_2021&quot;&gt;Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Moccia, M., … Cui, T. J. (2021). Some recent advances in space-time-coding metasurfaces. In &lt;i&gt;XXXIV General Assembly and Scientific Symposium (GASS) of the URSI&lt;/i&gt;. Rome, Italy, Aug. 28-Sep. 4, 2021.&lt;/span&gt;
@@ -613,7 +827,7 @@ has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wile
         <item>
                 <title>Invited talk at Metamaterials 2020</title>
                 <description>&lt;p&gt;We have presented an invited talk
-[&lt;a class=&quot;citation&quot; href=&quot;#Zhang_Metamaterials2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] at the &lt;em&gt;14th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;http://congress2020.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
+[&lt;a class=&quot;citation&quot; href=&quot;#Zhang_Metamaterials2020&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] at the &lt;em&gt;14th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;https://congress2020.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
 New York (NY), USA, Sep. 28-Oct. 3, 2020 (online).&lt;/p&gt;
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Zhang_Metamaterials2020&quot;&gt;Zhang, L., Chen, X. Q., Shao, R. W., Dai, J. Y., Cheng, Q., Moccia, M., … Galdi, V. (2020). Recent advances in space-time-coding digital metasurfaces. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. New York (NY), USA, Sep. 28-Oct. 30, 2020 (online).&lt;/span&gt;
