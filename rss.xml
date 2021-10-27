@@ -5,10 +5,70 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2021-10-23T16:34:01+02:00</lastBuildDate>
-        <pubDate>2021-10-23T16:34:01+02:00</pubDate>
+        <lastBuildDate>2021-10-27T19:20:38+02:00</lastBuildDate>
+        <pubDate>2021-10-27T19:20:38+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Our paper on quasi-bound states in the continuum published in APL</title>
+                <description>&lt;p&gt;Our paper on “Synthesizing quasi-bound states in the continuum in epsilon-near-zero layered materials”
+[&lt;a class=&quot;citation&quot; href=&quot;#IJ154_APL_119_171110_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+has been published in &lt;em&gt;Applied Physics Letters&lt;/em&gt; as an &lt;em&gt;Editors’ Pick&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ154_APL_119_171110_2021&quot;&gt;Castaldi, G., Moccia, M., &amp;amp; Galdi, V. (2021). Synthesizing quasi-bound states in the continuum in epsilon-near-zero layered materials. &lt;i&gt;Applied Physics Letters&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;119&lt;/i&gt;&lt;/span&gt;(17), 171110.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ154_APL_119_171110_2021-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ154_APL_119_171110_2021-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ154_APL_119_171110_2021-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/https://doi.org/10.1063/5.0070248&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ154_APL_119_171110_2021.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ154_APL_119_171110_2021-abstract&quot; class=&quot;collapse&quot;&gt;Bound states in the continuum (BIC) are highly confined, nonradiative modes that can exist in open structures, despite their potential compatibility and coupling with the radiation spectrum, and may give rise to resonances with arbitrary large lifetimes. Here, we study this phenomenon in layered materials featuring epsilon-near-zero constituents. Specifically, we outline a systematic procedure to synthesize quasi-BIC resonances at a given frequency, incidence angle, and polarization and investigate the role of certain critical parameters in establishing the quality factor of the resonances. Moreover, we also provide an insightful phenomenological interpretation in terms of the recently introduced concept of &quot;photonic doping&quot; and study the effects of the unavoidable material loss and dispersion. Our results indicate the possibility of synthesizing sharp resonances, for both transversely magnetic and electric polarizations, which are of potential interest for a variety of nanophotonics scenarios, including light trapping, optical sensing, and thermal radiation.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ154_APL_119_171110_2021-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ154_APL_119_171110_2021,
+  author = {Castaldi, Giuseppe and Moccia, Massimo and Galdi, Vincenzo},
+  title = {Synthesizing quasi-bound states in the continuum in epsilon-near-zero layered materials},
+  journal = {Applied Physics Letters},
+  volume = {119},
+  number = {17},
+  pages = {171110},
+  year = {2021},
+  doi = {https://doi.org/10.1063/5.0070248},
+  month = oct
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</description>
+                <link>http://fw-lab.org/news/APL-BIC-EMZ_paper-published</link>
+                <guid>http://fw-lab.org/news/APL-BIC-EMZ_paper-published</guid>
+                <pubDate>2021-10-27T00:00:00+02:00</pubDate>
+        </item>
 
         <item>
                 <title>Our paper on quasi-bound states in the continuum accepted in APL</title>
