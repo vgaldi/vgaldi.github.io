@@ -26,6 +26,7 @@ http://fw-lab.org/assets/themes/lab/css/style.css
 http://fw-lab.org/tags
 http://fw-lab.org/feed.xml
 
+http://fw-lab.org/news/OpticaFellow
 http://fw-lab.org/news/APL-BIC-EMZ_paper-published
 http://fw-lab.org/news/APL-BIC-EMZ_paper-accepted
 http://fw-lab.org/news/AdOM-TDMM_published

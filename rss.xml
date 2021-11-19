@@ -5,10 +5,20 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2021-10-27T19:20:38+02:00</lastBuildDate>
-        <pubDate>2021-10-27T19:20:38+02:00</pubDate>
+        <lastBuildDate>2021-11-19T09:43:59+01:00</lastBuildDate>
+        <pubDate>2021-11-19T09:43:59+01:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Prof. Galdi elected Optica Fellow</title>
+                <description>&lt;p&gt;Prof. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; has been elected an &lt;a href=&quot;https://www.optica.org/en-us/about/newsroom/news_releases/2021/optica_announces_its_2022_fellows_class/&quot;&gt;&lt;em&gt;Optica Fellow&lt;/em&gt;&lt;/a&gt; for “&lt;em&gt;outstanding and sustained contributions to modeling wave interaction with artificially engineered materials, including nonlocal, non-Hermitian, multiphysics, and time-varying scenario&lt;/em&gt;”.&lt;/p&gt;
+
+</description>
+                <link>http://fw-lab.org/news/OpticaFellow</link>
+                <guid>http://fw-lab.org/news/OpticaFellow</guid>
+                <pubDate>2021-11-19T00:00:00+01:00</pubDate>
+        </item>
 
         <item>
                 <title>Our paper on quasi-bound states in the continuum published in APL</title>
@@ -416,7 +426,7 @@ in collaboration with &lt;a href=&quot;https://www.ncl.ac.uk/engineering/staff/p
 and &lt;a href=&quot;https://www.seas.upenn.edu/~engheta/index.htm&quot;&gt;Nader Engheta&lt;/a&gt; (University of Pennsylvania),
 has been published in &lt;em&gt;Nanophotonics&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ152_Nanophotonics_2021&quot;&gt;Castaldi, G., Pacheco-Peña, V., Moccia, M., Engheta, N., &amp;amp; Galdi, V. (2021). Exploiting space-time duality in the synthesis of impedance transformers via temporal metamaterials. &lt;i&gt;Nanophotonics&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;(ahead of print)&lt;/i&gt;&lt;/span&gt;.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ152_Nanophotonics_2021&quot;&gt;Castaldi, G., Pacheco-Peña, V., Moccia, M., Engheta, N., &amp;amp; Galdi, V. (2021). Exploiting space-time duality in the synthesis of impedance transformers via temporal metamaterials. &lt;i&gt;Nanophotonics&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;10&lt;/i&gt;&lt;/span&gt;(14), 3687–3699.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ152_Nanophotonics_2021-materials&quot;&gt;
@@ -452,9 +462,11 @@ has been published in &lt;em&gt;Nanophotonics&lt;/em&gt;.&lt;/p&gt;
   title = {Exploiting space-time duality in the synthesis of impedance transformers via temporal metamaterials},
   author = {Castaldi, Giuseppe and {Pacheco-Pe{\~n}a}, Victor and Moccia, Massimo and Engheta, Nader and Galdi, Vincenzo},
   year = {2021},
-  month = aug,
+  month = oct,
   journal = {Nanophotonics},
-  volume = {(ahead of print)},
+  volume = {10},
+  number = {14},
+  pages = {3687--3699},
   doi = {10.1515/nanoph-2021-0231}
 }
 &lt;/pre&gt;
@@ -7754,38 +7766,35 @@ biological sensors based on periodic nanostructures currently available on the m
 
         <item>
                 <title>Vincenzo Galdi</title>
-                <description>&lt;p&gt;&lt;strong&gt;Vincenzo Galdi&lt;/strong&gt; received the Laurea degree (&lt;em&gt;summa cum laude&lt;/em&gt;) in electrical engineering and 
-the Ph.D. degree in applied electromagnetics from the &lt;a href=&quot;http://web.unisa.it/en&quot;&gt;University of Salerno&lt;/a&gt;, 
+                <description>&lt;p&gt;&lt;strong&gt;Vincenzo Galdi&lt;/strong&gt; received the Laurea degree (&lt;em&gt;summa cum laude&lt;/em&gt;) in electrical engineering and
+the Ph.D. degree in applied electromagnetics from the &lt;a href=&quot;http://web.unisa.it/en&quot;&gt;University of Salerno&lt;/a&gt;,
 Italy, in 1995 and 1999, respectively.&lt;/p&gt;
 
-&lt;p&gt;In 2002, he was appointed Associate Professor of Electromagnetics, and joined the &lt;a href=&quot;https://www.ding.unisannio.it/en/&quot;&gt;Department of Engineering&lt;/a&gt; 
-at the &lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, where he is currently working. 
-He has served as Associate Chair for Undergraduate Studies in Telecommunication Engineering (2005-2010). 
+&lt;p&gt;In 2002, he was appointed Associate Professor of Electromagnetics, and joined the &lt;a href=&quot;https://www.ding.unisannio.it/en/&quot;&gt;Department of Engineering&lt;/a&gt;
+at the &lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, where he is currently working.
+He has served as Associate Chair for Undergraduate Studies in Telecommunication Engineering (2005-2010).
 In 2014, he received the National Scientific Qualification as a Full Professor.&lt;/p&gt;
 
-&lt;p&gt;He has held several visiting positions at abroad research institutions, 
-including the &lt;a href=&quot;http://www.esa.int/About_Us/ESTEC&quot;&gt;European Space Research and Technology Centre&lt;/a&gt; (Noordwijk, NL), 
-&lt;a href=&quot;http://www.bu.edu&quot;&gt;Boston University&lt;/a&gt;, 
+&lt;p&gt;He has held several visiting positions at abroad research institutions,
+including the &lt;a href=&quot;http://www.esa.int/About_Us/ESTEC&quot;&gt;European Space Research and Technology Centre&lt;/a&gt; (Noordwijk, NL),
+&lt;a href=&quot;http://www.bu.edu&quot;&gt;Boston University&lt;/a&gt;,
 &lt;a href=&quot;http://www.mit.edu&quot;&gt;Massachusetts Institute of Technology&lt;/a&gt;, and &lt;a href=&quot;http://www.caltech.edu&quot;&gt;California Institute of Technology&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;He has co-edited two books, and co-authored about 150 papers in peer-reviewed international journals, 7 book chapters, and 170 conference papers (50 invited).&lt;/p&gt;
 
-&lt;p&gt;He is currently serving as an Associate Editor of &lt;a href=&quot;https://www.osapublishing.org/oe/home.cfm&quot;&gt;&lt;em&gt;Optics Express&lt;/em&gt;&lt;/a&gt; and &lt;a href=&quot;http://www.heliyon.com/&quot;&gt;&lt;em&gt;Heliyon&lt;/em&gt;&lt;/a&gt;, 
-and a regular reviewer for many journals, conferences and funding agencies. He has served as 
+&lt;p&gt;He is currently serving as an Associate Editor of &lt;a href=&quot;https://www.osapublishing.org/oe/home.cfm&quot;&gt;&lt;em&gt;Optics Express&lt;/em&gt;&lt;/a&gt; and &lt;a href=&quot;http://www.heliyon.com/&quot;&gt;&lt;em&gt;Heliyon&lt;/em&gt;&lt;/a&gt;,
+and a regular reviewer for many journals, conferences and funding agencies. He has served as
 an Associate Editor (2013-2014), Senior Associate Editor (2015-2016) and Track Editor (2016-2020) of the &lt;a href=&quot;http://www.ieeeaps.org/publications/ieee-transactions-on-antennas-and-propagations/ieee-tap-home&quot;&gt;&lt;em&gt;IEEE Transactions on Antennas and Propagation&lt;/em&gt;&lt;/a&gt;,
-and as an Associate Editor of &lt;a href=&quot;http://www.mdpi.com/journal/applsci&quot;&gt;&lt;em&gt;Applied Sciences&lt;/em&gt;&lt;/a&gt; (2017-2019) 
+and as an Associate Editor of &lt;a href=&quot;http://www.mdpi.com/journal/applsci&quot;&gt;&lt;em&gt;Applied Sciences&lt;/em&gt;&lt;/a&gt; (2017-2019)
 and of the &lt;a href=&quot;http://www.hindawi.com/journals/ijap/&quot;&gt;&lt;em&gt;International Journal of Antennas and Propagation&lt;/em&gt;&lt;/a&gt; (2012-2019).&lt;/p&gt;
 
-&lt;p&gt;His research interests encompass wave interactions with complex structures and media, multiphysics metamaterials, electromagnetic chaos, 
+&lt;p&gt;His research interests encompass wave interactions with complex structures and media, multiphysics metamaterials, electromagnetic chaos,
 inverse scattering, millimeter-wave radars, and gravitational interferometry.&lt;/p&gt;
 
-&lt;p&gt;Dr. Galdi is a &lt;em&gt;Fellow&lt;/em&gt; of the &lt;a href=&quot;http://www.ieee.org&quot;&gt;IEEE&lt;/a&gt;, a member of the &lt;a href=&quot;http://www.ligo.org/&quot;&gt;LIGO Scientific Collaboration&lt;/a&gt;, 
-the &lt;a href=&quot;http://www.osa.org/en-us/home/&quot;&gt;Optical Society of America&lt;/a&gt;, the &lt;a href=&quot;https://www.aps.org/index.cfm&quot;&gt;American Physical Society&lt;/a&gt; and 
-&lt;a href=&quot;http://www.sigmaxi.org/&quot;&gt;Sigma Xi&lt;/a&gt;.
+&lt;p&gt;Dr. Galdi is a &lt;em&gt;Fellow&lt;/em&gt; of the &lt;a href=&quot;http://www.ieee.org&quot;&gt;IEEE&lt;/a&gt; and of &lt;a href=&quot;https://www.optica.org/en-us/home/&quot;&gt;Optica&lt;/a&gt;, and a member of the &lt;a href=&quot;http://www.ligo.org/&quot;&gt;LIGO Scientific Collaboration&lt;/a&gt; and the &lt;a href=&quot;https://www.aps.org/index.cfm&quot;&gt;American Physical Society&lt;/a&gt;.
 He is also the recipient of an &lt;em&gt;Outstanding Associate Editor Award&lt;/em&gt; (IEEE Transactions on Antennas and Propagation, 2014) and a &lt;a href=&quot;http://www.ursi.org&quot;&gt;URSI&lt;/a&gt; &lt;em&gt;Young Scientist Award&lt;/em&gt; (2001).&lt;/p&gt;
 
 &lt;p&gt;He is the co-founder of &lt;a href=&quot;http://www.mantid.it&quot;&gt;MANTID&lt;/a&gt; srl, a spinoff company of the University of Sannio.&lt;/p&gt;
-
 </description>
                 <link>http://fw-lab.org/team/vincenzo-galdi</link>
                 <guid>http://fw-lab.org/team/vincenzo-galdi</guid>
