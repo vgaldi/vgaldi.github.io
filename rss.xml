@@ -5,8 +5,8 @@
         <description>Fields & Waves Lab - Vincenzo Galdi</description>
         <link>http://fw-lab.org</link>
         <link>http://fw-lab.org</link>
-        <lastBuildDate>2021-11-19T09:43:59+01:00</lastBuildDate>
-        <pubDate>2021-11-19T09:43:59+01:00</pubDate>
+        <lastBuildDate>2021-12-30T08:36:49+01:00</lastBuildDate>
+        <pubDate>2021-12-30T08:36:49+01:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -98,7 +98,7 @@ has been accepted for publication in &lt;a href=&quot;https://aip.scitation.org/
 in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
 has been published &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ153_AdOM_2101043_2021&quot;&gt;Yang, J., Ke, J. C., Cao, W. K., Chen, M. Z., Cheng, Q., Galdi, V., &amp;amp; Cui, T. J. (2021). Simultaneous conversion of polarization and frequency via time-division-multiplexing metasurfaces. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;(early view)&lt;/i&gt;&lt;/span&gt;, 2101043.&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ153_AdOM_2101043_2021&quot;&gt;Yang, J., Ke, J. C., Cao, W. K., Chen, M. Z., Cheng, Q., Galdi, V., &amp;amp; Cui, T. J. (2021). Simultaneous conversion of polarization and frequency via time-division-multiplexing metasurfaces. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;9&lt;/i&gt;&lt;/span&gt;(22), 2101043.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ153_AdOM_2101043_2021-materials&quot;&gt;
@@ -129,18 +129,19 @@ has been published &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
   &lt;/ul&gt;
 
   
-  &lt;p id=&quot;IJ153_AdOM_2101043_2021-abstract&quot; class=&quot;collapse&quot;&gt;Abstract Metasurfaces are artificially engineered two-dimensional materials composed of sub-wavelength meta-atoms, which have shown unprecedented capabilities in manipulating the amplitude, phase, frequency, and polarization states of electromagnetic waves. Specifically, polarization control can be attained via suitable anisotropic, linear, and time-invariant designs, while frequency conversion is realized via nonlinear or time-varying platforms. Simultaneous manipulations of polarization and frequency would be of considerable practical interest in many application scenarios, but remain unattainable with current approaches. Here, a time-division-multiplexing metasurface is proposed to realize the simultaneous conversion of polarization and frequency. The platform relies on time-modulated polarization switches and, by varying the duty cycle and time delays of the polarization channels, can arbitrarily rotate the polarization at the central frequency of operation, and synthesize various polarization states at selected harmonic frequencies. Theoretical predictions are validated via measurements on a prototype operating at microwave frequencies, providing the first experimental evidence of simultaneous polarization and frequency conversions via time-division-multiplexing metasurfaces. The outcomes open a new pathway in manipulating the electromagnetic waves via time-varying metasurfaces, and may be of interest for a broad variety of applications in scenarios ranging from polarization imaging to quantum optics.&lt;/p&gt;
+  &lt;p id=&quot;IJ153_AdOM_2101043_2021-abstract&quot; class=&quot;collapse&quot;&gt;Metasurfaces are artificially engineered two-dimensional materials composed of sub-wavelength meta-atoms, which have shown unprecedented capabilities in manipulating the amplitude, phase, frequency, and polarization states of electromagnetic waves. Specifically, polarization control can be attained via suitable anisotropic, linear, and time-invariant designs, while frequency conversion is realized via nonlinear or time-varying platforms. Simultaneous manipulations of polarization and frequency would be of considerable practical interest in many application scenarios, but remain unattainable with current approaches. Here, a time-division-multiplexing metasurface is proposed to realize the simultaneous conversion of polarization and frequency. The platform relies on time-modulated polarization switches and, by varying the duty cycle and time delays of the polarization channels, can arbitrarily rotate the polarization at the central frequency of operation, and synthesize various polarization states at selected harmonic frequencies. Theoretical predictions are validated via measurements on a prototype operating at microwave frequencies, providing the first experimental evidence of simultaneous polarization and frequency conversions via time-division-multiplexing metasurfaces. The outcomes open a new pathway in manipulating the electromagnetic waves via time-varying metasurfaces, and may be of interest for a broad variety of applications in scenarios ranging from polarization imaging to quantum optics.&lt;/p&gt;
   
 
   &lt;pre id=&quot;IJ153_AdOM_2101043_2021-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ153_AdOM_2101043_2021,
   author = {Yang, Jin and Ke, Jun Chen and Cao, Wen Kang and Chen, Ming Zheng and Cheng, Qiang and Galdi, Vincenzo and Cui, Tie Jun},
   title = {Simultaneous conversion of polarization and frequency via time-division-multiplexing metasurfaces},
   journal = {Advanced Optical Materials},
-  volume = {(early view)},
+  volume = {9},
+  issue = {22},
   pages = {2101043},
   doi = {https://doi.org/10.1002/adom.202101043},
   note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadom.202101043&amp;amp;file=adom202101043-sup-0001-SuppMat.pdf},
-  month = sep,
+  month = nov,
   year = {2021}
 }
 &lt;/pre&gt;
@@ -7766,26 +7767,19 @@ biological sensors based on periodic nanostructures currently available on the m
 
         <item>
                 <title>Vincenzo Galdi</title>
-                <description>&lt;p&gt;&lt;strong&gt;Vincenzo Galdi&lt;/strong&gt; received the Laurea degree (&lt;em&gt;summa cum laude&lt;/em&gt;) in electrical engineering and
-the Ph.D. degree in applied electromagnetics from the &lt;a href=&quot;http://web.unisa.it/en&quot;&gt;University of Salerno&lt;/a&gt;,
-Italy, in 1995 and 1999, respectively.&lt;/p&gt;
+                <description>&lt;p&gt;&lt;strong&gt;Vincenzo Galdi&lt;/strong&gt; is a Professor of Electromagnetics in the &lt;a href=&quot;https://www.ding.unisannio.it/en/&quot;&gt;Department of Engineering&lt;/a&gt;
+at the &lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, where he leads the &lt;a href=&quot;http://fw-lab.org&quot;&gt;Fields &amp;amp; Waves Lab&lt;/a&gt;.
+He received the Laurea degree (&lt;em&gt;summa cum laude&lt;/em&gt;) in electrical engineering and the Ph.D. degree in applied electromagnetics from the &lt;a href=&quot;https://www.unisa.it&quot;&gt;University of Salerno&lt;/a&gt;, Italy, in 1995 and 1999, respectively.&lt;/p&gt;
 
-&lt;p&gt;In 2002, he was appointed Associate Professor of Electromagnetics, and joined the &lt;a href=&quot;https://www.ding.unisannio.it/en/&quot;&gt;Department of Engineering&lt;/a&gt;
-at the &lt;a href=&quot;http://www.unisannio.it/en&quot;&gt;University of Sannio&lt;/a&gt;, Benevento, Italy, where he is currently working.
-He has served as Associate Chair for Undergraduate Studies in Telecommunication Engineering (2005-2010).
-In 2014, he received the National Scientific Qualification as a Full Professor.&lt;/p&gt;
-
-&lt;p&gt;He has held several visiting positions at abroad research institutions,
-including the &lt;a href=&quot;http://www.esa.int/About_Us/ESTEC&quot;&gt;European Space Research and Technology Centre&lt;/a&gt; (Noordwijk, NL),
+&lt;p&gt;He has held several visiting positions at abroad research institutions, including the &lt;a href=&quot;http://www.esa.int/About_Us/ESTEC&quot;&gt;European Space Research and Technology Centre&lt;/a&gt; (Noordwijk, NL),
 &lt;a href=&quot;http://www.bu.edu&quot;&gt;Boston University&lt;/a&gt;,
-&lt;a href=&quot;http://www.mit.edu&quot;&gt;Massachusetts Institute of Technology&lt;/a&gt;, and &lt;a href=&quot;http://www.caltech.edu&quot;&gt;California Institute of Technology&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&quot;http://www.mit.edu&quot;&gt;Massachusetts Institute of Technology&lt;/a&gt;, and &lt;a href=&quot;http://www.caltech.edu&quot;&gt;California Institute of Technology&lt;/a&gt;.
+At the University of Sannio, he has served as Associate Chair for Undergraduate Studies in Telecommunication Engineering from 2005-2010.&lt;/p&gt;
 
 &lt;p&gt;He has co-edited two books, and co-authored about 150 papers in peer-reviewed international journals, 7 book chapters, and 170 conference papers (50 invited).&lt;/p&gt;
 
 &lt;p&gt;He is currently serving as an Associate Editor of &lt;a href=&quot;https://www.osapublishing.org/oe/home.cfm&quot;&gt;&lt;em&gt;Optics Express&lt;/em&gt;&lt;/a&gt; and &lt;a href=&quot;http://www.heliyon.com/&quot;&gt;&lt;em&gt;Heliyon&lt;/em&gt;&lt;/a&gt;,
-and a regular reviewer for many journals, conferences and funding agencies. He has served as
-an Associate Editor (2013-2014), Senior Associate Editor (2015-2016) and Track Editor (2016-2020) of the &lt;a href=&quot;http://www.ieeeaps.org/publications/ieee-transactions-on-antennas-and-propagations/ieee-tap-home&quot;&gt;&lt;em&gt;IEEE Transactions on Antennas and Propagation&lt;/em&gt;&lt;/a&gt;,
-and as an Associate Editor of &lt;a href=&quot;http://www.mdpi.com/journal/applsci&quot;&gt;&lt;em&gt;Applied Sciences&lt;/em&gt;&lt;/a&gt; (2017-2019)
+and a regular reviewer for many journals, conferences and funding agencies. He has served as an Associate Editor (2013-2014), Senior Associate Editor (2015-2016) and Track Editor (2016-2020) of the &lt;a href=&quot;http://www.ieeeaps.org/publications/ieee-transactions-on-antennas-and-propagations/ieee-tap-home&quot;&gt;&lt;em&gt;IEEE Transactions on Antennas and Propagation&lt;/em&gt;&lt;/a&gt;, and as an Associate Editor of &lt;a href=&quot;http://www.mdpi.com/journal/applsci&quot;&gt;&lt;em&gt;Applied Sciences&lt;/em&gt;&lt;/a&gt; (2017-2019)
 and of the &lt;a href=&quot;http://www.hindawi.com/journals/ijap/&quot;&gt;&lt;em&gt;International Journal of Antennas and Propagation&lt;/em&gt;&lt;/a&gt; (2012-2019).&lt;/p&gt;
 
 &lt;p&gt;His research interests encompass wave interactions with complex structures and media, multiphysics metamaterials, electromagnetic chaos,
