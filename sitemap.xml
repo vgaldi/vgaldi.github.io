@@ -3,6 +3,51 @@
   
     
     <url>
+      <loc>http://fw-lab.org/news/PRL_SPM_published</loc>
+      
+        <lastmod>2022-06-21T00:00:00+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://fw-lab.org/news/PRL_SPM_accepted</loc>
+      
+        <lastmod>2022-06-01T00:00:00+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://fw-lab.org/news/IEEE-APM_DCMTS-accepted</loc>
+      
+        <lastmod>2022-03-19T00:00:00+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://fw-lab.org/news/NANOP-NL-TDMTM_published</loc>
       
         <lastmod>2022-02-25T00:00:00+01:00</lastmod>
@@ -1941,7 +1986,7 @@
     <url>
       <loc>http://fw-lab.org/about</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1956,7 +2001,7 @@
     <url>
       <loc>http://fw-lab.org/all-posts.json</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1971,7 +2016,7 @@
     <url>
       <loc>http://fw-lab.org/archive</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -1986,7 +2031,7 @@
     <url>
       <loc>http://fw-lab.org/atom.xml</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2001,7 +2046,7 @@
     <url>
       <loc>http://fw-lab.org/categories</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2016,7 +2061,7 @@
     <url>
       <loc>http://fw-lab.org/contact</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2031,7 +2076,7 @@
     <url>
       <loc>http://fw-lab.org/team/</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2046,7 +2091,7 @@
     <url>
       <loc>http://fw-lab.org/preprints/</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2061,7 +2106,7 @@
     <url>
       <loc>http://fw-lab.org/conferences/</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2076,7 +2121,7 @@
     <url>
       <loc>http://fw-lab.org/media/</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2091,7 +2136,7 @@
     <url>
       <loc>http://fw-lab.org/</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2106,7 +2151,7 @@
     <url>
       <loc>http://fw-lab.org/misc/</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2121,7 +2166,7 @@
     <url>
       <loc>http://fw-lab.org/projects/</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2136,7 +2181,7 @@
     <url>
       <loc>http://fw-lab.org/books/</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2151,7 +2196,7 @@
     <url>
       <loc>http://fw-lab.org/journals/</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2166,7 +2211,7 @@
     <url>
       <loc>http://fw-lab.org/news/archive/</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2181,7 +2226,7 @@
     <url>
       <loc>http://fw-lab.org/news/</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2196,7 +2241,7 @@
     <url>
       <loc>http://fw-lab.org/join</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2211,7 +2256,7 @@
     <url>
       <loc>http://fw-lab.org/pages</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2226,7 +2271,7 @@
     <url>
       <loc>http://fw-lab.org/rss.xml</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2241,7 +2286,7 @@
     <url>
       <loc>http://fw-lab.org/sitemap.txt</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2258,7 +2303,7 @@
     <url>
       <loc>http://fw-lab.org/assets/themes/lab/less/style.less</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2273,7 +2318,7 @@
     <url>
       <loc>http://fw-lab.org/assets/themes/lab/css/style.css</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2288,7 +2333,7 @@
     <url>
       <loc>http://fw-lab.org/tags</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -2303,7 +2348,7 @@
     <url>
       <loc>http://fw-lab.org/feed.xml</loc>
       
-        <lastmod>2022-03-09T18:01:51+01:00</lastmod>
+        <lastmod>2022-06-23T19:39:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

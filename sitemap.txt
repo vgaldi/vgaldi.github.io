@@ -26,6 +26,9 @@ http://fw-lab.org/assets/themes/lab/css/style.css
 http://fw-lab.org/tags
 http://fw-lab.org/feed.xml
 
+http://fw-lab.org/news/PRL_SPM_published
+http://fw-lab.org/news/PRL_SPM_accepted
+http://fw-lab.org/news/IEEE-APM_DCMTS-accepted
 http://fw-lab.org/news/NANOP-NL-TDMTM_published
 http://fw-lab.org/news/NANOP-NL-TDMTM_accepted
 http://fw-lab.org/news/OpticaFellow

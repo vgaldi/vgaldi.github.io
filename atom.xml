@@ -4,13 +4,103 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2022-03-09T18:01:51+01:00</updated>
+ <updated>2022-06-23T19:39:27+02:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
    <email>vgaldi@unisannio.it</email>
  </author>
 
+ 
+ <entry>
+   <title>Our paper on short-pulsed metamaterials published in PRL</title>
+   <link href="http://fw-lab.org/news/PRL_SPM_published"/>
+   <updated>2022-06-21T00:00:00+02:00</updated>
+   <id>http://fw-lab.org/news/PRL_SPM_published</id>
+   <content type="html">&lt;p&gt;Our paper on “Short-pulsed metamaterials,”[&lt;a class=&quot;citation&quot; href=&quot;#IJ156_PRL_128_257402_2022&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+in collaboration with &lt;a href=&quot;https://dsfc.univaq.it/it/ricercatori-a-tempo-det/103-rizza-carlo.html&quot;&gt;Carlo Rizza&lt;/a&gt; (University of l’Aquila),
+has been published in &lt;em&gt;Physical Review Letters&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ156_PRL_128_257402_2022&quot;&gt;Rizza, C., Castaldi, G., &amp;amp; Galdi, V. (2022). Short-pulsed metamaterials. &lt;i&gt;Physical Review Letters&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;128&lt;/i&gt;&lt;/span&gt;(25), 257402.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ156_PRL_128_257402_2022-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ156_PRL_128_257402_2022-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ156_PRL_128_257402_2022-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevLett.128.257402&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ156_PRL_128_257402_2022.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+    &lt;li&gt;&lt;a href=&quot;https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.257402&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ156_PRL_128_257402_2022-abstract&quot; class=&quot;collapse&quot;&gt;We study a class of temporal metamaterials characterized by time-varying dielectric permittivity waveforms of duration much smaller than the characteristic wave-dynamical timescale. In the analogy between spatial and temporal metamaterials, such a short-pulsed regime can be viewed as the temporal counterpart of metasurfaces. We introduce a general and compact analytical formalism for modeling the interaction of a short-pulsed metamaterial with an electromagnetic wave packet. Specifically, we elucidate the role of local and nonlocal effects, as well as the time-reversal symmetry breaking, and we show how they can be harnessed to perform elementary analog computing, such as first and second derivatives. Our theory validated against full-wave numerical simulations suggests a novel route for manipulating electromagnetic waves without relying on long, periodic temporal modulations. Just as metasurfaces have played a pivotal role in the technological viability and practical applicability of conventional (spatial) metamaterials, short-pulsed metamaterials may catalyze the development of temporal and space-time metamaterials.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ156_PRL_128_257402_2022-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ156_PRL_128_257402_2022,
+  title = {Short-pulsed metamaterials},
+  author = {Rizza, Carlo and Castaldi, Giuseppe and Galdi, Vincenzo},
+  journal = {Physical Review Letters},
+  volume = {128},
+  issue = {25},
+  pages = {257402},
+  numpages = {6},
+  year = {2022},
+  month = jun,
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.128.257402},
+  note = {https://journals.aps.org/prl/supplemental/10.1103/PhysRevLett.128.257402}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Our paper on short-pulsed metamaterials accepted in PRL</title>
+   <link href="http://fw-lab.org/news/PRL_SPM_accepted"/>
+   <updated>2022-06-01T00:00:00+02:00</updated>
+   <id>http://fw-lab.org/news/PRL_SPM_accepted</id>
+   <content type="html">&lt;p&gt;Our paper on “Short-pulsed metamaterials,”
+in collaboration with &lt;a href=&quot;https://dsfc.univaq.it/it/ricercatori-a-tempo-det/103-rizza-carlo.html&quot;&gt;Carlo Rizza&lt;/a&gt; (University of l’Aquila),
+has been accepted for publication in &lt;a href=&quot;https://journals.aps.org/prl/&quot;&gt;&lt;em&gt;Physical Review Letters&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/2205.07084&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Our review paper on digital coding metasurfaces accepted in IEEE-APM</title>
+   <link href="http://fw-lab.org/news/IEEE-APM_DCMTS-accepted"/>
+   <updated>2022-03-19T00:00:00+01:00</updated>
+   <id>http://fw-lab.org/news/IEEE-APM_DCMTS-accepted</id>
+   <content type="html">&lt;p&gt;Our review paper on “Digital Coding Metasurfaces: From Theory to Applications,”
+in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
+has been accepted for publication in the &lt;a href=&quot;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=74&quot;&gt;&lt;em&gt;IEEE Antennas and Propagation Magazine&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Our paper on nonlocal effects in temporal metamaterials published in Nanophotonics</title>
@@ -21,7 +111,7 @@
 in collaboration with &lt;a href=&quot;https://dsfc.univaq.it/it/ricercatori-a-tempo-det/103-rizza-carlo.html&quot;&gt;Carlo Rizza&lt;/a&gt; (University of l’Aquila),
 has been published in &lt;em&gt;Nanophotonics&lt;/em&gt;.&lt;/p&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ155_Nanophotonics_2022&quot;&gt;Rizza, C., Castaldi, G., &amp;amp; Galdi, V. (2022). Nonlocal effects in temporal metamaterials. &lt;i&gt;Nanophotonics&lt;/i&gt; (ahead of print).&lt;/span&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ155_Nanophotonics_2022&quot;&gt;Rizza, C., Castaldi, G., &amp;amp; Galdi, V. (2022). Nonlocal effects in temporal metamaterials. &lt;i&gt;Nanophotonics&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;11&lt;/i&gt;&lt;/span&gt;(7), 1285–1295.&lt;/span&gt;
 
 
 &lt;div id=&quot;IJ155_Nanophotonics_2022-materials&quot;&gt;
@@ -58,9 +148,10 @@ has been published in &lt;em&gt;Nanophotonics&lt;/em&gt;.&lt;/p&gt;
   doi = {doi:10.1515/nanoph-2021-0605},
   title = {Nonlocal effects in temporal metamaterials},
   journal = {Nanophotonics},
-  number = {ahead of print},
-  volume = {},
-  manth = {Feb},
+  number = {7},
+  volume = {11},
+  pages = {1285--1295},
+  manth = {Apr},
   year = {2022}
 }
 &lt;/pre&gt;
@@ -89,7 +180,7 @@ has been accepted for publication in &lt;a href=&quot;https://www.degruyter.com/
    <link href="http://fw-lab.org/news/OpticaFellow"/>
    <updated>2021-11-19T00:00:00+01:00</updated>
    <id>http://fw-lab.org/news/OpticaFellow</id>
-   <content type="html">&lt;p&gt;Prof. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; has been elected an &lt;a href=&quot;https://www.optica.org/en-us/about/newsroom/news_releases/2021/optica_announces_its_2022_fellows_class/&quot;&gt;&lt;em&gt;Optica Fellow&lt;/em&gt;&lt;/a&gt; for “&lt;em&gt;outstanding and sustained contributions to modeling wave interaction with artificially engineered materials, including nonlocal, non-Hermitian, multiphysics, and time-varying scenario&lt;/em&gt;”.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Prof. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; has been elected an &lt;a href=&quot;https://www.optica.org/en-us/about/newsroom/news_releases/2021/optica_announces_its_2022_fellows_class/&quot;&gt;&lt;em&gt;Optica Fellow&lt;/em&gt;&lt;/a&gt; for “&lt;em&gt;outstanding and sustained contributions to modeling wave interaction with artificially engineered materials, including nonlocal, non-Hermitian, multiphysics, and time-varying scenarios&lt;/em&gt;”.&lt;/p&gt;
 
 </content>
  </entry>
