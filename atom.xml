@@ -4,7 +4,7 @@
  <title>Fields & Waves Lab</title>
  <link href="http://fw-lab.org/" rel="self"/>
  <link href="http://fw-lab.org"/>
- <updated>2022-07-28T11:27:56+02:00</updated>
+ <updated>2022-07-28T12:22:11+02:00</updated>
  <id>http://fw-lab.org</id>
  <author>
    <name>Vincenzo Galdi</name>
@@ -226,7 +226,7 @@ has been accepted for publication in &lt;a href=&quot;https://www.mdpi.com/journ
    <id>http://fw-lab.org/news/NEMO-2022</id>
    <content type="html">&lt;p&gt;We have presented an invited talk
 [&lt;a class=&quot;citation&quot; href=&quot;#Zhang_NEMO_2022&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
-at the &lt;em&gt;2022 IEEE MTT-S International Conference on Electromagnetic and Multiphysics Modeling and Optimization&lt;/em&gt; ([(NEMO2022)]),
+at the &lt;em&gt;2022 IEEE MTT-S International Conference on Electromagnetic and Multiphysics Modeling and Optimization&lt;/em&gt; (&lt;a href=&quot;https://nemo-ieee.org&quot;&gt;NEMO2022&lt;/a&gt;),
 Limoges, France, July 6-8, 2022.&lt;/p&gt;
 
 &lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Zhang_NEMO_2022&quot;&gt;Zhang, L., Galdi, V., &amp;amp; Cui, T. J. (2022). Space-time-coding digital metasurfaces and their applications. In &lt;i&gt;IEEE MTT-S International Conference on Electromagnetic and Multiphysics Modeling and Optimization (NEMO)&lt;/i&gt;. Limoges, France, July 6-8, 2022.&lt;/span&gt;
