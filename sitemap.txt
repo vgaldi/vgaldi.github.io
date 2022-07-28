@@ -26,6 +26,11 @@ http://fw-lab.org/assets/themes/lab/css/style.css
 http://fw-lab.org/tags
 http://fw-lab.org/feed.xml
 
+http://fw-lab.org/news/META-2022
+http://fw-lab.org/news/Biosensors-published
+http://fw-lab.org/news/IEEE-APS-2022
+http://fw-lab.org/news/Biosensors-accepted
+http://fw-lab.org/news/NEMO-2022
 http://fw-lab.org/news/PRL_SPM_published
 http://fw-lab.org/news/PRL_SPM_accepted
 http://fw-lab.org/news/IEEE-APM_DCMTS-accepted

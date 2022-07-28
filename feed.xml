@@ -1,4 +1,212 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-06-23T19:39:27+02:00</updated><id>/feed.xml</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Our paper on short-pulsed metamaterials published in PRL</title><link href="/news/PRL_SPM_published" rel="alternate" type="text/html" title="Our paper on short-pulsed metamaterials published in PRL" /><published>2022-06-21T00:00:00+02:00</published><updated>2022-06-21T00:00:00+02:00</updated><id>/news/PRL_SPM_published</id><content type="html" xml:base="/news/PRL_SPM_published">&lt;p&gt;Our paper on “Short-pulsed metamaterials,”[&lt;a class=&quot;citation&quot; href=&quot;#IJ156_PRL_128_257402_2022&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.3.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-07-28T11:27:56+02:00</updated><id>/feed.xml</id><title type="html">Fields &amp;amp; Waves Lab</title><author><name>Vincenzo Galdi</name><email>vgaldi@unisannio.it</email></author><entry><title type="html">Invited talk presented at META 2022</title><link href="/news/META-2022" rel="alternate" type="text/html" title="Invited talk presented at META 2022" /><published>2022-07-20T00:00:00+02:00</published><updated>2022-07-20T00:00:00+02:00</updated><id>/news/META-2022</id><content type="html" xml:base="/news/META-2022">&lt;p&gt;We have presented an invited talk
+[&lt;a class=&quot;citation&quot; href=&quot;#Rizza_META_2022&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+at the &lt;em&gt;12th International Conference on Metamaterials, Photonic Crystals and Plasmonics&lt;/em&gt; (&lt;a href=&quot;https://metaconferences.org/META/index.php/META2022/index&quot;&gt;META2022&lt;/a&gt;),
+Torremolinos, Spain, July 19-22, 2022.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Rizza_META_2022&quot;&gt;Rizza, C., Castaldi, G., &amp;amp; Galdi, V. (2022). Analog computing with short-pulsed metamaterials. In &lt;i&gt;12th International Conference on Metamaterials, Photonic Crystals and Plasmonics (META)&lt;/i&gt;. Torremolinos, Spain, July 19-22, 2022 (online).&lt;/span&gt;
+
+
+&lt;div id=&quot;Rizza_META_2022-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Rizza_META_2022-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Rizza_META_2022-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Rizza_META_2022,
+  author = {Rizza, C. and Castaldi, G. and Galdi, V.},
+  title = {Analog computing with short-pulsed metamaterials},
+  booktitle = {12th International Conference on Metamaterials, Photonic Crystals and Plasmonics (META)},
+  organization = {Torremolinos, Spain, July 19-22, 2022 (online)},
+  month = jul,
+  year = {2022}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="time varying" /><category term="nonlocal" /><category term="analog computing" /><summary type="html">We have presented an invited talk [1] at the 12th International Conference on Metamaterials, Photonic Crystals and Plasmonics (META2022), Torremolinos, Spain, July 19-22, 2022. Rizza, C., Castaldi, G., &amp;amp; Galdi, V. (2022). Analog computing with short-pulsed metamaterials. In 12th International Conference on Metamaterials, Photonic Crystals and Plasmonics (META). Torremolinos, Spain, July 19-22, 2022 (online). BibTeX @inproceedings{Rizza_META_2022, author = {Rizza, C. and Castaldi, G. and Galdi, V.}, title = {Analog computing with short-pulsed metamaterials}, booktitle = {12th International Conference on Metamaterials, Photonic Crystals and Plasmonics (META)}, organization = {Torremolinos, Spain, July 19-22, 2022 (online)}, month = jul, year = {2022} }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/META-2022.png" /></entry><entry><title type="html">Our paper on SEIRA-based monitoring of protein A denaturation published in Biosensors</title><link href="/news/Biosensors-published" rel="alternate" type="text/html" title="Our paper on SEIRA-based monitoring of protein A denaturation published in Biosensors" /><published>2022-07-15T00:00:00+02:00</published><updated>2022-07-15T00:00:00+02:00</updated><id>/news/Biosensors-published</id><content type="html" xml:base="/news/Biosensors-published">&lt;p&gt;Our paper on “Probing denaturation of protein A via surface-enhanced infrared absorption spectroscopy,” [&lt;a class=&quot;citation&quot; href=&quot;#IJ157_Biosensors_12_530_2022&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;] in collaboration with &lt;a href=&quot;https://www.na.imm.cnr.it/users/emanuelaesposito&quot;&gt;Emanuela Esposito&lt;/a&gt;’s Group (National Research Council),
+has been published in &lt;em&gt;Biosensors&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ157_Biosensors_12_530_2022&quot;&gt;Di Meo, V., Moccia, M., Sanità, G., Crescitelli, A., Lamberti, A., Galdi, V., … Esposito, E. (2022). Probing denaturation of protein A via surface-enhanced infrared absorption spectroscopy. &lt;i&gt;Biosensors&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;12&lt;/i&gt;&lt;/span&gt;(7), 530.&lt;/span&gt;
+
+
+&lt;div id=&quot;IJ157_Biosensors_12_530_2022-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ157_Biosensors_12_530_2022-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ157_Biosensors_12_530_2022-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ157_Biosensors_12_530_2022.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+  &lt;p id=&quot;IJ157_Biosensors_12_530_2022-abstract&quot; class=&quot;collapse&quot;&gt;We apply surface-enhanced infrared absorption (SEIRA) spectroscopy to monitor the denaturation process of a surface-bound protein A monolayer. Our proposed platform relies on a plasmonic metasurface comprising different spatial subregions (“pixels”) that are engineered to exhibit different resonances covering the infrared region of the electromagnetic spectrum that is matched to the vibrational modes of the Amide groups. Specifically, we are able to determine changes in the Amide I and Amide II vibration coupled modes, by comparing the SEIRA reflectance spectra pertaining to the native state and a denatured state induced by a pH variation. In particular, we observe some evident red-shifts in the principal Amide I mode and the Amide II vibration coupled modes (attributable to the breaking of hydrogen bonds), which result in insurmountable barriers for refolding. Thanks to the strong field localization, and consequent enhancement of the light-matter interactions, our proposed sensing platform can operate with extremely small amounts of an analyte, with an estimated detection limit of about 3 femtomoles of molecules.&lt;/p&gt;
+  
+
+  &lt;pre id=&quot;IJ157_Biosensors_12_530_2022-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ157_Biosensors_12_530_2022,
+  title = {Probing denaturation of protein {A} via surface-enhanced infrared absorption spectroscopy},
+  author = {Di Meo, Valentina and Moccia, Massimo and Sanit{\`a}, Gennaro and Crescitelli, Alessio and Lamberti, Annalisa and Galdi, Vincenzo and Rendina, Ivo and Esposito, Emanuela},
+  year = {2022},
+  journal = {Biosensors},
+  volume = {12},
+  number = {7},
+  pages = {530}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="plasmonics" /><category term="optical sensing" /><summary type="html">Our paper on “Probing denaturation of protein A via surface-enhanced infrared absorption spectroscopy,” [1] in collaboration with Emanuela Esposito’s Group (National Research Council), has been published in Biosensors. Di Meo, V., Moccia, M., Sanità, G., Crescitelli, A., Lamberti, A., Galdi, V., … Esposito, E. (2022). Probing denaturation of protein A via surface-enhanced infrared absorption spectroscopy. Biosensors 12(7), 530. Abstract BibTeX PDF We apply surface-enhanced infrared absorption (SEIRA) spectroscopy to monitor the denaturation process of a surface-bound protein A monolayer. Our proposed platform relies on a plasmonic metasurface comprising different spatial subregions (“pixels”) that are engineered to exhibit different resonances covering the infrared region of the electromagnetic spectrum that is matched to the vibrational modes of the Amide groups. Specifically, we are able to determine changes in the Amide I and Amide II vibration coupled modes, by comparing the SEIRA reflectance spectra pertaining to the native state and a denatured state induced by a pH variation. In particular, we observe some evident red-shifts in the principal Amide I mode and the Amide II vibration coupled modes (attributable to the breaking of hydrogen bonds), which result in insurmountable barriers for refolding. Thanks to the strong field localization, and consequent enhancement of the light-matter interactions, our proposed sensing platform can operate with extremely small amounts of an analyte, with an estimated detection limit of about 3 femtomoles of molecules. @article{IJ157_Biosensors_12_530_2022, title = {Probing denaturation of protein {A} via surface-enhanced infrared absorption spectroscopy}, author = {Di Meo, Valentina and Moccia, Massimo and Sanit{\`a}, Gennaro and Crescitelli, Alessio and Lamberti, Annalisa and Galdi, Vincenzo and Rendina, Ivo and Esposito, Emanuela}, year = {2022}, journal = {Biosensors}, volume = {12}, number = {7}, pages = {530} }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/SEIRA_PA.png" /></entry><entry><title type="html">Our paper on SEIRA-based monitoring of protein A denaturation accepted in Biosensors</title><link href="/news/Biosensors-accepted" rel="alternate" type="text/html" title="Our paper on SEIRA-based monitoring of protein A denaturation accepted in Biosensors" /><published>2022-07-14T00:00:00+02:00</published><updated>2022-07-14T00:00:00+02:00</updated><id>/news/Biosensors-accepted</id><content type="html" xml:base="/news/Biosensors-accepted">&lt;p&gt;Our paper on “Probing denaturation of protein A via surface-enhanced infrared absorption spectroscopy,”
+in collaboration with &lt;a href=&quot;https://www.na.imm.cnr.it/users/emanuelaesposito&quot;&gt;Emanuela Esposito&lt;/a&gt;’s Group (National Research Council),
+has been accepted for publication in &lt;a href=&quot;https://www.mdpi.com/journal/biosensors&quot;&gt;&lt;em&gt;Biosensors&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="plasmonics" /><category term="optical sensing" /><summary type="html">Our paper on “Probing denaturation of protein A via surface-enhanced infrared absorption spectroscopy,” in collaboration with Emanuela Esposito’s Group (National Research Council), has been accepted for publication in Biosensors.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/biosensors.png" /></entry><entry><title type="html">Two talks presented at IEEE-APS/URSI 2022</title><link href="/news/IEEE-APS-2022" rel="alternate" type="text/html" title="Two talks presented at IEEE-APS/URSI 2022" /><published>2022-07-14T00:00:00+02:00</published><updated>2022-07-14T00:00:00+02:00</updated><id>/news/IEEE-APS-2022</id><content type="html" xml:base="/news/IEEE-APS-2022">&lt;p&gt;We have presented two talks
+[&lt;a class=&quot;citation&quot; href=&quot;#Rizza_IEEE-APS_2022&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;, &lt;a class=&quot;citation&quot; href=&quot;#DiPaola_IEEE-APS_2022&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
+at the &lt;em&gt;IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting&lt;/em&gt; (&lt;a href=&quot;http://2022apsursi.org/default.asp&quot;&gt;IEEE-APS/URSI&lt;/a&gt;),
+Denver, CO, USA, July 10-15, 2022.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Rizza_IEEE-APS_2022&quot;&gt;Rizza, C., Castaldi, G., &amp;amp; Galdi, V. (2022). Nonlocal effective medium theory for time-varying metamaterials. In &lt;i&gt;IEEE Antennas and Propagation Society International Symposium (APS-URSI)&lt;/i&gt;. Denver, CO, USA, July 10-15, 2022.&lt;/span&gt;
+
+
+&lt;div id=&quot;Rizza_IEEE-APS_2022-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Rizza_IEEE-APS_2022-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Rizza_IEEE-APS_2022-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Rizza_IEEE-APS_2022,
+  author = {Rizza, C. and Castaldi, G. and Galdi, V.},
+  title = {Nonlocal effective medium theory for time-varying metamaterials},
+  booktitle = {IEEE Antennas and Propagation Society International Symposium (APS-URSI)},
+  organization = {Denver, CO, USA, July 10-15, 2022},
+  month = jul,
+  year = {2022}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;DiPaola_IEEE-APS_2022&quot;&gt;Paola, A. D., Moccia, M., Castaldi, G., &amp;amp; Galdi, V. (2022). Coupled line waves in parallel-plate waveguides formed by metasurface junctions. In &lt;i&gt;IEEE Antennas and Propagation Society International Symposium (APS-URSI)&lt;/i&gt;. Denver, CO, USA, July 10-15, 2022.&lt;/span&gt;
+
+
+&lt;div id=&quot;DiPaola_IEEE-APS_2022-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#DiPaola_IEEE-APS_2022-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;DiPaola_IEEE-APS_2022-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{DiPaola_IEEE-APS_2022,
+  author = {Paola, A. Di and Moccia, M. and Castaldi, G. and Galdi, V.},
+  title = {Coupled line waves in parallel-plate waveguides formed by metasurface junctions},
+  booktitle = {IEEE Antennas and Propagation Society International Symposium (APS-URSI)},
+  organization = {Denver, CO, USA, July 10-15, 2022},
+  month = jul,
+  year = {2022}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="homogenization" /><category term="effective medium theory" /><category term="nonlocal" /><category term="metamaterials" /><category term="time varying" /><summary type="html">We have presented two talks [1, 2] at the IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (IEEE-APS/URSI), Denver, CO, USA, July 10-15, 2022. Rizza, C., Castaldi, G., &amp;amp; Galdi, V. (2022). Nonlocal effective medium theory for time-varying metamaterials. In IEEE Antennas and Propagation Society International Symposium (APS-URSI). Denver, CO, USA, July 10-15, 2022. BibTeX @inproceedings{Rizza_IEEE-APS_2022, author = {Rizza, C. and Castaldi, G. and Galdi, V.}, title = {Nonlocal effective medium theory for time-varying metamaterials}, booktitle = {IEEE Antennas and Propagation Society International Symposium (APS-URSI)}, organization = {Denver, CO, USA, July 10-15, 2022}, month = jul, year = {2022} } Paola, A. D., Moccia, M., Castaldi, G., &amp;amp; Galdi, V. (2022). Coupled line waves in parallel-plate waveguides formed by metasurface junctions. In IEEE Antennas and Propagation Society International Symposium (APS-URSI). Denver, CO, USA, July 10-15, 2022. BibTeX @inproceedings{DiPaola_IEEE-APS_2022, author = {Paola, A. Di and Moccia, M. and Castaldi, G. and Galdi, V.}, title = {Coupled line waves in parallel-plate waveguides formed by metasurface junctions}, booktitle = {IEEE Antennas and Propagation Society International Symposium (APS-URSI)}, organization = {Denver, CO, USA, July 10-15, 2022}, month = jul, year = {2022} }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/APS-2022.png" /></entry><entry><title type="html">Invited talk presented at NEMO 2022</title><link href="/news/NEMO-2022" rel="alternate" type="text/html" title="Invited talk presented at NEMO 2022" /><published>2022-07-06T00:00:00+02:00</published><updated>2022-07-06T00:00:00+02:00</updated><id>/news/NEMO-2022</id><content type="html" xml:base="/news/NEMO-2022">&lt;p&gt;We have presented an invited talk
+[&lt;a class=&quot;citation&quot; href=&quot;#Zhang_NEMO_2022&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
+at the &lt;em&gt;2022 IEEE MTT-S International Conference on Electromagnetic and Multiphysics Modeling and Optimization&lt;/em&gt; ([(NEMO2022)]),
+Limoges, France, July 6-8, 2022.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Zhang_NEMO_2022&quot;&gt;Zhang, L., Galdi, V., &amp;amp; Cui, T. J. (2022). Space-time-coding digital metasurfaces and their applications. In &lt;i&gt;IEEE MTT-S International Conference on Electromagnetic and Multiphysics Modeling and Optimization (NEMO)&lt;/i&gt;. Limoges, France, July 6-8, 2022.&lt;/span&gt;
+
+
+&lt;div id=&quot;Zhang_NEMO_2022-materials&quot;&gt;
+  &lt;ul class=&quot;nav nav-pills&quot;&gt;
+    
+
+    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Zhang_NEMO_2022-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
+
+            
+    
+
+    
+
+    
+      
+    
+
+    
+  
+  &lt;/ul&gt;
+
+  
+
+  &lt;pre id=&quot;Zhang_NEMO_2022-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Zhang_NEMO_2022,
+  author = {Zhang, L. and Galdi, V. and Cui, T. J.},
+  title = {Space-time-coding digital metasurfaces and their applications},
+  booktitle = {IEEE MTT-S International Conference on Electromagnetic and Multiphysics Modeling and Optimization (NEMO)},
+  organization = {Limoges, France, July 6-8, 2022},
+  month = jul,
+  year = {2022}
+}
+&lt;/pre&gt;
+
+  
+    
+&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="space-time" /><category term="metasurfaces" /><summary type="html">We have presented an invited talk [1] at the 2022 IEEE MTT-S International Conference on Electromagnetic and Multiphysics Modeling and Optimization ([(NEMO2022)]), Limoges, France, July 6-8, 2022. Zhang, L., Galdi, V., &amp;amp; Cui, T. J. (2022). Space-time-coding digital metasurfaces and their applications. In IEEE MTT-S International Conference on Electromagnetic and Multiphysics Modeling and Optimization (NEMO). Limoges, France, July 6-8, 2022. BibTeX @inproceedings{Zhang_NEMO_2022, author = {Zhang, L. and Galdi, V. and Cui, T. J.}, title = {Space-time-coding digital metasurfaces and their applications}, booktitle = {IEEE MTT-S International Conference on Electromagnetic and Multiphysics Modeling and Optimization (NEMO)}, organization = {Limoges, France, July 6-8, 2022}, month = jul, year = {2022} }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/NEMO-2022.png" /></entry><entry><title type="html">Our paper on short-pulsed metamaterials published in PRL</title><link href="/news/PRL_SPM_published" rel="alternate" type="text/html" title="Our paper on short-pulsed metamaterials published in PRL" /><published>2022-06-21T00:00:00+02:00</published><updated>2022-06-21T00:00:00+02:00</updated><id>/news/PRL_SPM_published</id><content type="html" xml:base="/news/PRL_SPM_published">&lt;p&gt;Our paper on “Short-pulsed metamaterials,”[&lt;a class=&quot;citation&quot; href=&quot;#IJ156_PRL_128_257402_2022&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
 in collaboration with &lt;a href=&quot;https://dsfc.univaq.it/it/ricercatori-a-tempo-det/103-rizza-carlo.html&quot;&gt;Carlo Rizza&lt;/a&gt; (University of l’Aquila),
 has been published in &lt;em&gt;Physical Review Letters&lt;/em&gt;.&lt;/p&gt;
 
@@ -115,191 +323,4 @@ has been published in &lt;em&gt;Nanophotonics&lt;/em&gt;.&lt;/p&gt;
 in collaboration with &lt;a href=&quot;https://dsfc.univaq.it/it/ricercatori-a-tempo-det/103-rizza-carlo.html&quot;&gt;Carlo Rizza&lt;/a&gt; (University of l’Aquila),
 has been accepted for publication in &lt;a href=&quot;https://www.degruyter.com/view/journals/nanoph/nanoph-overview.xml&quot;&gt;&lt;em&gt;Nanophotonics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/2202.04959&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="time varying" /><category term="nonlocal" /><summary type="html">Our paper on “Nonlocal effects in temporal metamaterials,” in collaboration with Carlo Rizza (University of l’Aquila), has been accepted for publication in Nanophotonics. An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/nanophotonics.jpg" /></entry><entry><title type="html">Prof. Galdi elected Optica Fellow</title><link href="/news/OpticaFellow" rel="alternate" type="text/html" title="Prof. Galdi elected Optica Fellow" /><published>2021-11-19T00:00:00+01:00</published><updated>2021-11-19T00:00:00+01:00</updated><id>/news/OpticaFellow</id><content type="html" xml:base="/news/OpticaFellow">&lt;p&gt;Prof. &lt;a href=&quot;/team/vincenzo-galdi&quot;&gt;Vincenzo Galdi&lt;/a&gt; has been elected an &lt;a href=&quot;https://www.optica.org/en-us/about/newsroom/news_releases/2021/optica_announces_its_2022_fellows_class/&quot;&gt;&lt;em&gt;Optica Fellow&lt;/em&gt;&lt;/a&gt; for “&lt;em&gt;outstanding and sustained contributions to modeling wave interaction with artificially engineered materials, including nonlocal, non-Hermitian, multiphysics, and time-varying scenarios&lt;/em&gt;”.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="Vincenzo Galdi" /><summary type="html">Prof. Vincenzo Galdi has been elected an Optica Fellow for “outstanding and sustained contributions to modeling wave interaction with artificially engineered materials, including nonlocal, non-Hermitian, multiphysics, and time-varying scenarios”.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/OpticaFellow.png" /></entry><entry><title type="html">Our paper on quasi-bound states in the continuum published in APL</title><link href="/news/APL-BIC-EMZ_paper-published" rel="alternate" type="text/html" title="Our paper on quasi-bound states in the continuum published in APL" /><published>2021-10-27T00:00:00+02:00</published><updated>2021-10-27T00:00:00+02:00</updated><id>/news/APL-BIC-EMZ_paper-published</id><content type="html" xml:base="/news/APL-BIC-EMZ_paper-published">&lt;p&gt;Our paper on “Synthesizing quasi-bound states in the continuum in epsilon-near-zero layered materials”
-[&lt;a class=&quot;citation&quot; href=&quot;#IJ154_APL_119_171110_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
-has been published in &lt;em&gt;Applied Physics Letters&lt;/em&gt; as an &lt;em&gt;Editors’ Pick&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ154_APL_119_171110_2021&quot;&gt;Castaldi, G., Moccia, M., &amp;amp; Galdi, V. (2021). Synthesizing quasi-bound states in the continuum in epsilon-near-zero layered materials. &lt;i&gt;Applied Physics Letters&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;119&lt;/i&gt;&lt;/span&gt;(17), 171110.&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ154_APL_119_171110_2021-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ154_APL_119_171110_2021-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ154_APL_119_171110_2021-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/https://doi.org/10.1063/5.0070248&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ154_APL_119_171110_2021.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ154_APL_119_171110_2021-abstract&quot; class=&quot;collapse&quot;&gt;Bound states in the continuum (BIC) are highly confined, nonradiative modes that can exist in open structures, despite their potential compatibility and coupling with the radiation spectrum, and may give rise to resonances with arbitrary large lifetimes. Here, we study this phenomenon in layered materials featuring epsilon-near-zero constituents. Specifically, we outline a systematic procedure to synthesize quasi-BIC resonances at a given frequency, incidence angle, and polarization and investigate the role of certain critical parameters in establishing the quality factor of the resonances. Moreover, we also provide an insightful phenomenological interpretation in terms of the recently introduced concept of &quot;photonic doping&quot; and study the effects of the unavoidable material loss and dispersion. Our results indicate the possibility of synthesizing sharp resonances, for both transversely magnetic and electric polarizations, which are of potential interest for a variety of nanophotonics scenarios, including light trapping, optical sensing, and thermal radiation.&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ154_APL_119_171110_2021-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ154_APL_119_171110_2021,
-  author = {Castaldi, Giuseppe and Moccia, Massimo and Galdi, Vincenzo},
-  title = {Synthesizing quasi-bound states in the continuum in epsilon-near-zero layered materials},
-  journal = {Applied Physics Letters},
-  volume = {119},
-  number = {17},
-  pages = {171110},
-  year = {2021},
-  doi = {https://doi.org/10.1063/5.0070248},
-  month = oct
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="epsilon-near-zero" /><summary type="html">Our paper on “Synthesizing quasi-bound states in the continuum in epsilon-near-zero layered materials” [1] has been published in Applied Physics Letters as an Editors’ Pick. Castaldi, G., Moccia, M., &amp;amp; Galdi, V. (2021). Synthesizing quasi-bound states in the continuum in epsilon-near-zero layered materials. Applied Physics Letters 119(17), 171110. Abstract BibTeX DOI PDF Bound states in the continuum (BIC) are highly confined, nonradiative modes that can exist in open structures, despite their potential compatibility and coupling with the radiation spectrum, and may give rise to resonances with arbitrary large lifetimes. Here, we study this phenomenon in layered materials featuring epsilon-near-zero constituents. Specifically, we outline a systematic procedure to synthesize quasi-BIC resonances at a given frequency, incidence angle, and polarization and investigate the role of certain critical parameters in establishing the quality factor of the resonances. Moreover, we also provide an insightful phenomenological interpretation in terms of the recently introduced concept of &quot;photonic doping&quot; and study the effects of the unavoidable material loss and dispersion. Our results indicate the possibility of synthesizing sharp resonances, for both transversely magnetic and electric polarizations, which are of potential interest for a variety of nanophotonics scenarios, including light trapping, optical sensing, and thermal radiation. @article{IJ154_APL_119_171110_2021, author = {Castaldi, Giuseppe and Moccia, Massimo and Galdi, Vincenzo}, title = {Synthesizing quasi-bound states in the continuum in epsilon-near-zero layered materials}, journal = {Applied Physics Letters}, volume = {119}, number = {17}, pages = {171110}, year = {2021}, doi = {https://doi.org/10.1063/5.0070248}, month = oct }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/APL_qBIC-ENZ.png" /></entry><entry><title type="html">Our paper on quasi-bound states in the continuum accepted in APL</title><link href="/news/APL-BIC-EMZ_paper-accepted" rel="alternate" type="text/html" title="Our paper on quasi-bound states in the continuum accepted in APL" /><published>2021-10-13T00:00:00+02:00</published><updated>2021-10-13T00:00:00+02:00</updated><id>/news/APL-BIC-EMZ_paper-accepted</id><content type="html" xml:base="/news/APL-BIC-EMZ_paper-accepted">&lt;p&gt;Our paper on “Synthesizing quasi-bound states in the continuum in epsilon-near-zero layered materials”
-has been accepted for publication in &lt;a href=&quot;https://aip.scitation.org/journal/apl&quot;&gt;&lt;em&gt;Applied Physics Letters&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/2110.05779&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="epsilon-near-zero" /><summary type="html">Our paper on “Synthesizing quasi-bound states in the continuum in epsilon-near-zero layered materials” has been accepted for publication in Applied Physics Letters. An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/APL.png" /></entry><entry><title type="html">Our paper on time-division-multiplexing metasurfaces published in AdOM</title><link href="/news/AdOM-TDMM_published" rel="alternate" type="text/html" title="Our paper on time-division-multiplexing metasurfaces published in AdOM" /><published>2021-09-24T00:00:00+02:00</published><updated>2021-09-24T00:00:00+02:00</updated><id>/news/AdOM-TDMM_published</id><content type="html" xml:base="/news/AdOM-TDMM_published">&lt;p&gt;Our paper on “Simultaneous conversion of polarization and frequency via time-division-multiplexing metasurfaces” [&lt;a class=&quot;citation&quot; href=&quot;#IJ153_AdOM_2101043_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;],
-in collaboration with &lt;a href=&quot;https://scholar.google.com/citations?user=-h-1eJsAAAAJ&amp;amp;hl=en&quot;&gt;Tie Jun Cui&lt;/a&gt;’s Group (Southeast University),
-has been published &lt;em&gt;Advanced Optical Materials&lt;/em&gt;.&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;IJ153_AdOM_2101043_2021&quot;&gt;Yang, J., Ke, J. C., Cao, W. K., Chen, M. Z., Cheng, Q., Galdi, V., &amp;amp; Cui, T. J. (2021). Simultaneous conversion of polarization and frequency via time-division-multiplexing metasurfaces. &lt;i&gt;Advanced Optical Materials&lt;/i&gt; &lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;9&lt;/i&gt;&lt;/span&gt;(22), 2101043.&lt;/span&gt;
-
-
-&lt;div id=&quot;IJ153_AdOM_2101043_2021-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ153_AdOM_2101043_2021-abstract&quot;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#IJ153_AdOM_2101043_2021-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-    &lt;li&gt;&lt;a href=&quot;http://dx.doi.org/https://doi.org/10.1002/adom.202101043&quot;&gt;DOI&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-
-    
-      
-    
-    &lt;li&gt;&lt;a href=&quot;/assets/papers/IJ153_AdOM_2101043_2021.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-    
-
-    
-    &lt;li&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadom.202101043&amp;amp;file=adom202101043-sup-0001-SuppMat.pdf&quot;&gt;Supplements&lt;/a&gt;&lt;/li&gt;
-    
-  
-  &lt;/ul&gt;
-
-  
-  &lt;p id=&quot;IJ153_AdOM_2101043_2021-abstract&quot; class=&quot;collapse&quot;&gt;Metasurfaces are artificially engineered two-dimensional materials composed of sub-wavelength meta-atoms, which have shown unprecedented capabilities in manipulating the amplitude, phase, frequency, and polarization states of electromagnetic waves. Specifically, polarization control can be attained via suitable anisotropic, linear, and time-invariant designs, while frequency conversion is realized via nonlinear or time-varying platforms. Simultaneous manipulations of polarization and frequency would be of considerable practical interest in many application scenarios, but remain unattainable with current approaches. Here, a time-division-multiplexing metasurface is proposed to realize the simultaneous conversion of polarization and frequency. The platform relies on time-modulated polarization switches and, by varying the duty cycle and time delays of the polarization channels, can arbitrarily rotate the polarization at the central frequency of operation, and synthesize various polarization states at selected harmonic frequencies. Theoretical predictions are validated via measurements on a prototype operating at microwave frequencies, providing the first experimental evidence of simultaneous polarization and frequency conversions via time-division-multiplexing metasurfaces. The outcomes open a new pathway in manipulating the electromagnetic waves via time-varying metasurfaces, and may be of interest for a broad variety of applications in scenarios ranging from polarization imaging to quantum optics.&lt;/p&gt;
-  
-
-  &lt;pre id=&quot;IJ153_AdOM_2101043_2021-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@article{IJ153_AdOM_2101043_2021,
-  author = {Yang, Jin and Ke, Jun Chen and Cao, Wen Kang and Chen, Ming Zheng and Cheng, Qiang and Galdi, Vincenzo and Cui, Tie Jun},
-  title = {Simultaneous conversion of polarization and frequency via time-division-multiplexing metasurfaces},
-  journal = {Advanced Optical Materials},
-  volume = {9},
-  issue = {22},
-  pages = {2101043},
-  doi = {https://doi.org/10.1002/adom.202101043},
-  note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadom.202101043&amp;amp;file=adom202101043-sup-0001-SuppMat.pdf},
-  month = nov,
-  year = {2021}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="space-time" /><summary type="html">Our paper on “Simultaneous conversion of polarization and frequency via time-division-multiplexing metasurfaces” [1], in collaboration with Tie Jun Cui’s Group (Southeast University), has been published Advanced Optical Materials. Yang, J., Ke, J. C., Cao, W. K., Chen, M. Z., Cheng, Q., Galdi, V., &amp;amp; Cui, T. J. (2021). Simultaneous conversion of polarization and frequency via time-division-multiplexing metasurfaces. Advanced Optical Materials 9(22), 2101043. Abstract BibTeX DOI PDF Supplements Metasurfaces are artificially engineered two-dimensional materials composed of sub-wavelength meta-atoms, which have shown unprecedented capabilities in manipulating the amplitude, phase, frequency, and polarization states of electromagnetic waves. Specifically, polarization control can be attained via suitable anisotropic, linear, and time-invariant designs, while frequency conversion is realized via nonlinear or time-varying platforms. Simultaneous manipulations of polarization and frequency would be of considerable practical interest in many application scenarios, but remain unattainable with current approaches. Here, a time-division-multiplexing metasurface is proposed to realize the simultaneous conversion of polarization and frequency. The platform relies on time-modulated polarization switches and, by varying the duty cycle and time delays of the polarization channels, can arbitrarily rotate the polarization at the central frequency of operation, and synthesize various polarization states at selected harmonic frequencies. Theoretical predictions are validated via measurements on a prototype operating at microwave frequencies, providing the first experimental evidence of simultaneous polarization and frequency conversions via time-division-multiplexing metasurfaces. The outcomes open a new pathway in manipulating the electromagnetic waves via time-varying metasurfaces, and may be of interest for a broad variety of applications in scenarios ranging from polarization imaging to quantum optics. @article{IJ153_AdOM_2101043_2021, author = {Yang, Jin and Ke, Jun Chen and Cao, Wen Kang and Chen, Ming Zheng and Cheng, Qiang and Galdi, Vincenzo and Cui, Tie Jun}, title = {Simultaneous conversion of polarization and frequency via time-division-multiplexing metasurfaces}, journal = {Advanced Optical Materials}, volume = {9}, issue = {22}, pages = {2101043}, doi = {https://doi.org/10.1002/adom.202101043}, note = {https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fadom.202101043&amp;amp;file=adom202101043-sup-0001-SuppMat.pdf}, month = nov, year = {2021} }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/AdOM_TDMM.png" /></entry><entry><title type="html">Invited and contributed talks at Metamaterials 2021</title><link href="/news/Metamaterials-2021" rel="alternate" type="text/html" title="Invited and contributed talks at Metamaterials 2021" /><published>2021-09-23T00:00:00+02:00</published><updated>2021-09-23T00:00:00+02:00</updated><id>/news/Metamaterials-2021</id><content type="html" xml:base="/news/Metamaterials-2021">&lt;p&gt;We have presented an invited talk
-[&lt;a class=&quot;citation&quot; href=&quot;#Galdi_Metamaterials_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;1&lt;/span&gt;&lt;/a&gt;]
-and a contributed talk [&lt;a class=&quot;citation&quot; href=&quot;#Rizza_Metamaterials_2021&quot;&gt;&lt;span style=&quot;vertical-align: baseline&quot;&gt;2&lt;/span&gt;&lt;/a&gt;]
-at the &lt;em&gt;15th International Congress on Engineered Material Platforms for Novel Wave Phenomena&lt;/em&gt; (&lt;a href=&quot;https://congress2021.metamorphose-vi.org&quot;&gt;Metamaterials&lt;/a&gt;),
-New York (NY), USA, Sep. 20-25, 2021 (online).&lt;/p&gt;
-
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Galdi_Metamaterials_2021&quot;&gt;Galdi, V. (2021). Non-Hermitian line waves. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. New York, NY, USA, Sep. 20-25, 2021 (online).&lt;/span&gt;
-
-
-&lt;div id=&quot;Galdi_Metamaterials_2021-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Galdi_Metamaterials_2021-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-
-    
-
-    
-      
-    
-
-    
-  
-  &lt;/ul&gt;
-
-  
-
-  &lt;pre id=&quot;Galdi_Metamaterials_2021-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Galdi_Metamaterials_2021,
-  author = {Galdi, V.},
-  title = {Non-{H}ermitian line waves},
-  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
-  organization = {New York, NY, USA, Sep. 20-25, 2021 (online)},
-  month = sep,
-  year = {2021}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span id=&quot;Rizza_Metamaterials_2021&quot;&gt;Rizza, C., Castaldi, G., &amp;amp; Galdi, V. (2021). Optical magnetism in temporal metamaterials. In &lt;i&gt;International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)&lt;/i&gt;. New York, NY, USA, Sep. 20-25, 2021 (online).&lt;/span&gt;
-
-
-&lt;div id=&quot;Rizza_Metamaterials_2021-materials&quot;&gt;
-  &lt;ul class=&quot;nav nav-pills&quot;&gt;
-    
-
-    &lt;li&gt;&lt;a data-toggle=&quot;collapse&quot; href=&quot;#Rizza_Metamaterials_2021-bibtex&quot;&gt;BibTeX&lt;/a&gt;&lt;/li&gt;
-
-            
-    
-
-    
-
-    
-      
-    
-
-    
-  
-  &lt;/ul&gt;
-
-  
-
-  &lt;pre id=&quot;Rizza_Metamaterials_2021-bibtex&quot; class=&quot;pre pre-scrollable collapse&quot;&gt;@inproceedings{Rizza_Metamaterials_2021,
-  author = {Rizza, C. and Castaldi, G. and Galdi, V.},
-  title = {Optical magnetism in temporal metamaterials},
-  booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)},
-  organization = {New York, NY, USA, Sep. 20-25, 2021 (online)},
-  month = sep,
-  year = {2021}
-}
-&lt;/pre&gt;
-
-  
-    
-&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metasurfaces" /><category term="non-Hermitian" /><category term="line waves" /><category term="metamaterials" /><category term="time varying" /><category term="homogenization" /><summary type="html">We have presented an invited talk [1] and a contributed talk [2] at the 15th International Congress on Engineered Material Platforms for Novel Wave Phenomena (Metamaterials), New York (NY), USA, Sep. 20-25, 2021 (online). Galdi, V. (2021). Non-Hermitian line waves. In International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS). New York, NY, USA, Sep. 20-25, 2021 (online). BibTeX @inproceedings{Galdi_Metamaterials_2021, author = {Galdi, V.}, title = {Non-{H}ermitian line waves}, booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)}, organization = {New York, NY, USA, Sep. 20-25, 2021 (online)}, month = sep, year = {2021} } Rizza, C., Castaldi, G., &amp;amp; Galdi, V. (2021). Optical magnetism in temporal metamaterials. In International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS). New York, NY, USA, Sep. 20-25, 2021 (online). BibTeX @inproceedings{Rizza_Metamaterials_2021, author = {Rizza, C. and Castaldi, G. and Galdi, V.}, title = {Optical magnetism in temporal metamaterials}, booktitle = {International Congress on Engineered Material Platforms for Novel Wave Phenomena (METAMATERIALS)}, organization = {New York, NY, USA, Sep. 20-25, 2021 (online)}, month = sep, year = {2021} }</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/Metamaterials-2021.png" /></entry></feed>
+&lt;p&gt;An &lt;a href=&quot;https://arxiv.org/abs/2202.04959&quot;&gt;arXiv preprint&lt;/a&gt; is available.&lt;/p&gt;</content><author><name>Vincenzo Galdi</name></author><category term="news" /><category term="metamaterials" /><category term="time varying" /><category term="nonlocal" /><summary type="html">Our paper on “Nonlocal effects in temporal metamaterials,” in collaboration with Carlo Rizza (University of l’Aquila), has been accepted for publication in Nanophotonics. An arXiv preprint is available.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/news/nanophotonics.jpg" /></entry></feed>
